@@ -1,0 +1,415 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable Patty Murray (Murray, Patty)",
+  "filed-date": "04/25/2023",
+  "filed-time": "8:33 AM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Fidelity Investments\n\t\t\t\t\t\t\t\tBoston, MA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Vanguard Group\n\t\t\t\t\t\t\t\tMalvern, PA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "J P Morgan Chase\n\t\t\t\t\t\t\t\tNew York City, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "J P Morgan Chase\n\t\t\t\t\t\t\t\tNew York City, NY",
+          "amount-paid": "$4,940.69",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "USSFCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USSFCU(Washington, DC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USSFCU(Washington, DC)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "USSFCU(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USSFCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Whidbey Island Bank(Freeland, WA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Whidbey Island Bank(Freeland, WA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity(Seattle, WA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PQIAX - Principal Equity Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Self IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PQIAX - Principal Equity Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VPMCX - Vanguard PRIMECAP Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGENX - Vanguard Energy Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWUSX - Vanguard U.S. Growth Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Variable AnnuityProvider: Fidelity",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FAVAM",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FFTHX - Fidelity Freedom 2035",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FFXSX - Fidelity Limited Term Government",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FXAIX - Fidelity 500 Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDRXX-Fidelity Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FFFEX - Fidelity Freedom 2030",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FMAGX - Fidelity Magellan",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBALX - Fidelity Balanced",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FGRIX - Fidelity Growth & Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FFFFX - Fidelity Freedom 2040 Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Western & Southern Life Assurance Co. Individual Retirement AnnuityProvider: Western & Southern",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Washington Retirement Plan PERS1",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "PQIAX",
+          "asset-name": "Principal Fds Inc. Equity Income Fd Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PQIAX",
+          "asset-name": "Principal Fds Inc. Equity Income Fd Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PQIAX",
+          "asset-name": "Principal Fds Inc. Equity Income Fd Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PQIAX",
+          "asset-name": "Principal Fds Inc. Equity Income Fd Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FFFEX",
+          "asset-name": "Fidelity Freedom 2030 Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/02/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VPMCX",
+          "asset-name": "Vanguard Primecap Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/05/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2018",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "1",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "USSFCU\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 1989",
+          "parties-involved": "State of Washington\n\t\t\t\t\t\t\t\tOlympia, WA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "This is a pension plan administered by Washington State (PERS1) that I continue to participate in",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

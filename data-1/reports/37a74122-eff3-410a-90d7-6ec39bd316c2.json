@@ -1,0 +1,396 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2021",
+  "filer": "The Honorable Mark E Kelly (Kelly, Mark)",
+  "filed-date": "08/15/2022",
+  "filed-time": "10:56 AM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$6,934.76",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance)",
+          "who-paid": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$25,500.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Pacific Premier Bank(Irvine, CA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Nelson Family Trust - Northern Trust Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Chandler Arizona GO Ref BDS SER, 2016Rate/Coupon: 3.0%  Matures: 07/01/2025Filer comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Tempe Arizona GO BDS SER BRate/Coupon: 4.0%  Matures: 07/01/2027Filer comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Tempe Arizona UN High Sch Dist No 213 Ref Rate/Coupon: 3.0%  Matures: 07/01/2027Filer comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Maricopa County Arizona Sch Dist No 001Rate/Coupon: 3.0%  Matures: 07/01/2028Filer comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Maricopa County Arizona UNI Sch Dist No 80Rate/Coupon: 2.75%  Matures: 07/01/2028Filer comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "VWSTX - Vanguard Short-Term Tax-Exempt FundFiler comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VTI - Vanguard Total Stock Market Index Fund ETF SharesFiler comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LUBAX - Lord Abbett Ultra Short Bond Fund Class AFiler comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "MUAIX - Morgan Stanley Institutional Fund Trust Ultra-ShorFiler comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VSIGX - Vanguard Intermediate-Term Treasury Index Fund AdmFiler comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "American Express Natl BK Brokered Intl CD(Salt Lake City, UT)Type: Certificate of Deposit, Filer comment:  Fully matured - Rate: 0.95% ; Matures: 03/24/2021",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "NOAZX - Northern Funds - Arizona Tax-Exempt FundFiler comment:  Transferred to the Kelly Qualified Blind Trust in 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "USAA - Certificate of Deposit #2(San Antonio, TX)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "USAA Federal Savings Bank(San Antonio, TX)Type: Checking, Filer comment:  Inadvertently reported as USSA in prior years.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USAA Federal Savings Bank(San Antonio, TX)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Lightspeed Partners LLCCompany: Lightspeed Partners LLC (Tucson, AZ) Description: Media Production",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Retirement Annuity Provider: USAA",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Retirement Annuity 2Provider: USAA",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Flexible Retirement Annuity - Traditional IRAProvider: USAA",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Jackson National Life Insurance CompanyProvider: Jackson National Life Insurance Company Filer comment:  50% ownership",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The Kelly Qualified Blind Trust dated June 25, 2021",
+          "asset-type": "TrustBlind",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Mark Kelly Traditional Individual Retirement Account Qualified Blind Trust No. 1 dated June 25, 2021",
+          "asset-type": "TrustBlind",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mark Kelly Roth Individual Retirement Account Qualified Blind Trust No. 2 dated June 25, 2021",
+          "asset-type": "TrustBlind",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gabrielle Giffords Traditional Individual Retirement Account Qualified Blind Trust No. 1 dated June 25, 2021",
+          "asset-type": "TrustBlind",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gabrielle Giffords Roth Individual Retirement Account Qualified Blind Trust No. 2 dated June 25,2021",
+          "asset-type": "TrustBlind",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "04/13/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Boom Technology, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Boom Technology, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Aerospace Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Previously reported as Boom Aerospace. Exercised stock option."
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": [
+        {
+          "date-s": "11/13/2021\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t11/14/2021",
+          "traveler-s": "Self",
+          "travel-type": "Outside activity",
+          "itinerary": "Phoenix, AZ to Orlando, FL to Cocoa Beach, FL to Orlando, FL",
+          "reimbursed-for": "Airfare, lodging, & car service",
+          "who-paid": "U.S. Astronaut Hall of Fame, Astronaut Scholarship Fund\n\t\t\t\t\t\t\t\tOrlando, FL",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jun 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "El Campo Center LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Managing Member)",
+          "entity": "Lightspeed Partners LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "May 2011",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive royalty payments based on usual and customary terms for the publication of the book titled, \"Gabby.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2011",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on usual and customary terms for the publication of the book titled, \"Mousetronaut.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Sep 2012",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on usual and customary terms for the publication of the book titled, \"Mousetronaut Goes To Mars.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jun 2013",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and payments based on usual and customary terms for the publication of the book titled, \"Enough.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2014",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advances and royalty payments based on usual and customary terms for the publication of the books titled, \"Astrotwins Project Blastoff and Astrotwins Project Rescue.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Apr 2020",
+          "parties-involved": "Imagine Kids (Imagine Entertainment)\n\t\t\t\t\t\t\t\tBeverly Hills, CA",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Film)",
+          "status-and-terms": "Agreement to receive payment based on usual and customary terms for option to produce motion picture.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Sep 2021",
+          "parties-involved": "Simon and Schuster, Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on usual and customary terms for the publication of the book titled, \"Mousetronaut 3.\"",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

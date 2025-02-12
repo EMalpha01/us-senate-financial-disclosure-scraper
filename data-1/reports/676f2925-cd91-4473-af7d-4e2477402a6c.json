@@ -1,0 +1,327 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2021",
+  "filer": "The Honorable Roger F Wicker (Wicker, Roger)",
+  "filed-date": "05/16/2022",
+  "filed-time": "5:28 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "Public Employees Retirement System\n\t\t\t\t\t\t\t\tJackson, Mississippi",
+          "amount-paid": "$9,398.95",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Vision to Learn\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Public Employees Retirement System\n\t\t\t\t\t\t\t\tJackson, Mississippi",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Renasant Bank(Tupelo, MS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Renasant Bank(Tupelo, MS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Raymond James Bank Deposit Program(St. Petersburg, FL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rental PropertyDescription: Rental Property (Alexandria, VA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMZN-Amazon.com Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALTFX - AB Sustainable Global Thematic Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "MRK - Merck & Co., Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RNST-Renasant Corp. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WMT-Wal-Mart Stores Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MRK - Merck & Co. Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RNST - Renasant Corp. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CTECBX - CTECBXDescription: global asset management and investment advisory division of Guggenheim Partners (Chicago, IL)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Putnam Investments IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PGRWX-Putnam Fund for Growth & Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Funds IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AIVSX-American Funds Invmt Co of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Public Employee's Retirement System of Mississippi",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Public Employee's Retirement System of Mississippi",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Penny Mac\n\t\t\t\t\t\t\t\tMoorpark, CA",
+          "comments": "mortgage on rental property, Alexandria, VA."
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Caliber Home Loans\n\t\t\t\t\t\t\t\tDallas, TX",
+          "comments": "Refinance of mortgage on rental property, Alexandria, VA"
+        },
+        {
+          "incurred": "2019",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "BNA Bank\n\t\t\t\t\t\t\t\tNew Albany, MS",
+          "comments": "mortgage on personal residence, Oxford, MS"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "1",
+          "rate-term": "2.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "GMFS\n\t\t\t\t\t\t\t\tGreenwood Village, CO",
+          "comments": "Refinance on personal residence, Oxford, MS"
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Chase\n\t\t\t\t\t\t\t\tLouisville, KY",
+          "comments": "mortgage on personal residence, Tupelo, MS"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "GMFS\n\t\t\t\t\t\t\t\tGreenwood Village, CO",
+          "comments": "refinance of mortgage on personal residence, Tupelo, MS"
+        },
+        {
+          "incurred": "2007",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "2.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Renasant Bank\n\t\t\t\t\t\t\t\tTupelo, MS",
+          "comments": "home equity line of credit on personal residence, Tupelo, MS. variable rate."
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Freddie Mac\n\t\t\t\t\t\t\t\tMcLean, VA",
+          "comments": "Mortgage on personal residence/rental property, Alexandria, VA"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "May 1973",
+          "parties-involved": "Public Employee's Retirement System of Mississippi\n\t\t\t\t\t\t\t\tJackson, MS",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Pension plan provided by State of Mississippi for state employment.  Receives monthly distributions.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

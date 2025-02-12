@@ -80,9 +80,10 @@ const queue = new Queue({ concurrency: 4 })
 
 async function downloadReports() {
   const debugMode = false
-  const options = debugMode ? { devtools: true, headless: false } : {}
+  const options = debugMode ? { devtools: true, headless: false, timeout: 60000 } : { timeout: 60000 } // 60 seconds timeout
   const browser = await puppeteer.launch(options)
   const page = await browser.newPage()
+  page.setDefaultNavigationTimeout(60000) // 60 seconds timeout for page navigation
   await agreeWithStatement(page)
 
   const nextButtonSelector = `.paginate_button.next`

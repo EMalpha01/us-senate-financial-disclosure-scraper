@@ -1,0 +1,1738 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2021",
+  "filer": "The Honorable Ron L Wyden (Wyden, Ron)",
+  "filed-date": "05/16/2022",
+  "filed-time": "12:27 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Partnership Distributions",
+          "who-paid": "Bass Book Trading, Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Bass Real Estate LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Strand Book Store Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "US Senate FCU(Washington, DC)Type: Checking, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "US Savings Bond Series IDescription: US Savings Bond (Washington, DC)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Senate FCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rights to the literary works of Peter WydenDescription: Rights to the literary works of Peter Wyden",
+          "asset-type": "Intellectual PropertyCopyrights",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA/CREF(Washington, DC)Type: IRA Cash Accounts, Filer comment:  inherited IRA",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oregon College Savings Plan - William Peter WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "International Equity Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Equity Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oregon College Savings Plan - Ava Rose WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "International Equity Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Equity Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Strand Book Store Inc.  (S-Corp)Description: Book Store (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Bass Book Trading, Inc  (S-corp)Description: Book Trading (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Rent/Royalties",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Bass Real Estate LLCCompany: Bass Real Estate LLC (New York, NY) Description: Commercial Real Estate holding Filer comment:  Holdings: 826 Broadway, New York, NY 10003",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Rent/Royalties",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Leveque Parking Partners LLCCompany: Leveque Parking Partners LLC (New York, NY) Description: Commercial Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Leveque GarageDescription: Leveque Garage (Columbus, OH)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fitz Frames, Inc.Description: Custom eyeglass wear (Santa Monica, CA)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge Oakleigh LLCCompany: Coolidge Oakleigh LLC (Baton Rouge, LA) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertyDescription: Residential Property (Baton Rouge, LA) Filer comment:  Garden apartment rental",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge Evaston LLCCompany: Coolidge Evaston LLC (Chicago, IL) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Chicago, IL) Filer comment:  Investment includes multiple units in the same building",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge 5101 Sheridan LLCCompany: Coolidge 5101 Sheridan LLC (Chicago, IL) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Chicago, IL) Filer comment:  Investment includes multiple units in the same building",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge Des Plaines LLCCompany: Coolidge Des Plaines LLC (Des Plaines, IL) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Des Plaines, IL) Filer comment:  Investment includes multiple units in the same building",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Strand at Columbus Ave LLCCompany: Strand at Columbus Ave LLC (New York, NY) Description: Book Store",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Rent/Royalties, Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fidelity Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPAXX - Fidelity Hereford Street Trust - Fidelity Governme",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDIVX - Fidelity Diversified International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IJK - iShares S&P Mid-Cap 400 Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "STX - Seagate Technology plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "GOOG - Alphabet Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMZN - Amazon.com, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AMAT - Applied Materials, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "BLL - Ball Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BERY - Berry Global Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AVGO - Broadcom Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "CSCO - Cisco Systems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "STZ - Constellation Brands, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "COST - Costco Wholesale Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "COUP - Coupa Software Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DHI - D.R. Horton, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DPZ - Domino's Pizza, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FB - Facebook, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDX - FedEx Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "F - Ford Motor Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GRUB - Grubhub Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IRBT - iRobot Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KLAC - KLA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "LOW - Lowe's Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MTCH - Match Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MCD - McDonald's Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MSFT - Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "NFLX - Netflix, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA - NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "OSK - Oshkosh Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PYPL - PayPal Holdings, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QSR - Restaurant Brands International Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SQ - Square, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SBUX - Starbucks Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MMM - 3M Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UPS - United Parcel Service, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "V - Visa Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VMC - Vulcan Materials Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "WDAY - Workday, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Triborough Brdg & Tunl Auth NY RevsRate/Coupon: 5.0%  Matures: 01/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Westchester Cnty NY GO Ref BDS SerRate/Coupon: 5.0%  Matures: 01/15/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "New York NY City Transitional FinRate/Coupon: 5.0%  Matures: 02/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Nassau Cnty NY Gen Impt BDS LT Ser BRate/Coupon: 5.0%  Matures: 04/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "New York NY GO BDS Ser 2015 ARate/Coupon: 5.0%  Matures: 08/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Manhasset NY UN Free Sch Dist RefRate/Coupon: 5.0%  Matures: 09/15/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Roslyn NY UN Free Sch Dist GTD EBDRate/Coupon: 4.0%  Matures: 10/15/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Nassau Cnty NY Interim Fin Auth Ser A Rate/Coupon: 5.0%  Matures: 11/15/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "New York NY City Transitional FinRate/Coupon: 5.0%  Matures: 02/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PSA - Public Storage",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Fidelity IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MDFGX - BlackRock Capital Appreciation Fund Investor A Sha",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JEPI - JPMorgan Equity Premium Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDT - Medtronic plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COUP - Coupa Software Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA - NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFE - Pfizer Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTRS - Viatris Inc.Filer comment:  Value less than $1,000",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BUG - Global X Cybersecurity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust, Series 1",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFH - Vanguard Financials ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of the West - Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Bank of the West Advantage Account(San Francisco, CA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JMIEX - JPMorgan Emerging Markets Equity Fund Class L",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JUSRX - JPMorgan U.S. Equity Fund Class R5",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "MIEIX - MFS Institutional International Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PCBIX - Principal MidCap Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWLUX - Vanguard Long-Term Tax-Exempt Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Chemeketa CLG-ARate/Coupon: 5.25%  Matures: 6/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Oregon St For Previous Issues GO BdsRate/Coupon: 5.0%  Matures: 8/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Tri-Co Metro Transp-ARate/Coupon: 5.0%  Matures: 10/1/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PPSAX - Principal Spectrum Preferred and Capital Securitie",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SDHAX - Lord Abbett Short Duration High Yield Municipal Bo",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ICLN - iShares Global Clean Energy ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GLD - SPDR Gold Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SHRIX - Stone Ridge High Yield Reinsurance Risk Premium Fu",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "APHJX - Artisan International Small-Mid Fund Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EAPCX - Parametric Commodity Strategy Fund Investor Clas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ARBOX - Absolute Convertible Arbitrage Fund Investor Sha",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Fidelity Brokerage (UTMA) - Dependent #1",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ARKK - ARK Innovation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AIEQ - AI Powered Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FDIVX - Fidelity Diversified International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYR - iShares U.S. Real Estate ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JEPI - JPMorgan Equity Premium Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA - NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WDAY - Workday, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ONLN - ProShares Online Retail ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFH - Vanguard Financials ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KLAC - KLA Corporation  - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Fidelity Brokerage (UTMA) - Dependent #2",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ARKK - ARK Innovation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AIEQ - AI Powered Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FDIVX - Fidelity Diversified International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYR - iShares U.S. Real Estate ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JEPI - JPMorgan Equity Premium Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA - NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WDAY - Workday, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ONLN - ProShares Online Retail ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KLAC - KLA Corporation  - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "AAPL - Apple Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFH - Vanguard Financials ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Brokerage (UTMA) - Dependent #3",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ARKK - ARK Innovation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AIEQ - AI Powered Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FDIVX - Fidelity Diversified International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYR - iShares U.S. Real Estate ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JEPI - JPMorgan Equity Premium Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA - NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WDAY - Workday, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ONLN - ProShares Online Retail ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFH - Vanguard Financials ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KLAC - KLA Corporation  - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "01/20/2021",
+          "owner": "Child",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #1"
+        },
+        {
+          "transaction-date": "01/20/2021",
+          "owner": "Child",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #2"
+        },
+        {
+          "transaction-date": "01/20/2021",
+          "owner": "Child",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #3"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #1"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #1"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #1"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #2"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #2"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #2"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #3"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #3"
+        },
+        {
+          "transaction-date": "01/27/2021",
+          "owner": "Child",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #3"
+        },
+        {
+          "transaction-date": "02/26/2021",
+          "owner": "Spouse",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/26/2021",
+          "owner": "Spouse",
+          "ticker": "AMAT",
+          "asset-name": "Applied Materials, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/26/2021",
+          "owner": "Spouse",
+          "ticker": "STX",
+          "asset-name": "Seagate Technology plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/04/2021",
+          "owner": "Spouse",
+          "ticker": "STX",
+          "asset-name": "Seagate Technology plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/04/2021",
+          "owner": "Spouse",
+          "ticker": "AVGO",
+          "asset-name": "Broadcom Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/05/2021",
+          "owner": "Spouse",
+          "ticker": "STX",
+          "asset-name": "Seagate Technology plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/30/2021",
+          "owner": "Spouse",
+          "ticker": "AVGO",
+          "asset-name": "Broadcom Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/01/2021",
+          "owner": "Spouse",
+          "ticker": "MTCH",
+          "asset-name": "Match Group, Inc.",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Child",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #1"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Child",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #3"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Spouse",
+          "ticker": "AVGO",
+          "asset-name": "Broadcom Inc.",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Spouse",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Spouse",
+          "ticker": "AMAT",
+          "asset-name": "Applied Materials, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Spouse",
+          "ticker": "STZ",
+          "asset-name": "Constellation Brands, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Spouse",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Child",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Underlying asset of Fidelity Brokerage - Dependent #2"
+        },
+        {
+          "transaction-date": "04/16/2021",
+          "owner": "Spouse",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/16/2021",
+          "owner": "Spouse",
+          "ticker": "AMAT",
+          "asset-name": "Applied Materials, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/07/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "New York NY City Transitional Fin\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/01/2022",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "BUG",
+          "asset-name": "Global X Cybersecurity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/14/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage - Dependent #3"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFH",
+          "asset-name": "Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/15/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GLD",
+          "asset-name": "SPDR Gold Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/12/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BGCIX",
+          "asset-name": "Blackrock Global Long/Short Credit Fund - Instit",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EAPCX",
+          "asset-name": "Parametric Commodity Strategy Fund Investor Clas",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/14/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ARBOX",
+          "asset-name": "Absolute Convertible Arbitrage Fund Investor Sha",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/11/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JMIEX",
+          "asset-name": "Jpmorgan Emerging Markets Equity Fund Class L",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JUSRX",
+          "asset-name": "Jpmorgan U.S. Equity R5",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MIEIX",
+          "asset-name": "MFS Institutional Investors Trust - MFS Institut",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PCBIX",
+          "asset-name": "Principal Fds Inc. Midcap Fd Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage - Dependent #1"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFH",
+          "asset-name": "Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/15/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage - Dependent #1"
+        },
+        {
+          "owner": "Child",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage - Dependent #2"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFH",
+          "asset-name": "Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/15/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage - Dependent #2"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFH",
+          "asset-name": "Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/15/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage - Dependent #3"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2013",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "U.S. Bank National Association\n\t\t\t\t\t\t\t\tOwensboro, KY",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

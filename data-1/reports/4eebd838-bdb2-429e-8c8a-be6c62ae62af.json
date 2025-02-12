@@ -1,0 +1,733 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2015 (Amendment 1)",
+  "filer": "The Honorable James E Risch (Risch, James E.)",
+  "filed-date": "08/08/2017",
+  "filed-time": "10:14 AM",
+  "calendar-year": "2015",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "Public Employee Retirement System of Idaho\n\t\t\t\t\t\t\t\tBoise, ID",
+          "amount-paid": "$36,488.48",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "E Trade FinancialFiler comment:  All cash.",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Bank Account **04(Boise, ID)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Bank Account **79(Boise, ID)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Bank Account **25(Boise, ID)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Bank Account **15(Boise, ID)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Idaho Independent Bank Account **254(Boise, ID)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "40+ Acres Land, Ada County, IDDescription: Currently Operated as Farm and Ranch Land (Ada County, ID)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "40 +/- Acres Land, Canyon County, IDDescription: Currently Operated as Farm and Ranch Land (Canyon County, ID)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "24 + Acres Land, Canyon County, IDDescription: Currently Operated as Farm and Ranch Land (Canyon County, ID)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "160 +/- Acres Land, Ada County, IDDescription: Currently Operated as Farm and Ranch Land (Ada County, ID) Filer comment:  All previous rpts. mistakenly id'd this parcel as containing 180 acres.  The acreage was incorrect.  All prev. rpts. and hereby amended to 160 acres +/-.",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Investment Real Property P, Boise, ID (200 N. Pond)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "American Trailer Sales Co - Marketing Livestock Trailers (2400 S. Janeen Street, Boise, ID 83709)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Capital City Management LLC - Real Estate Holding Company (5400 South Cole Road, Boise, ID 83709)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Sage Meadow Ranch, Inc - Farm and Ranching Company (5400 South Cole Road, Boise, ID 83709)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "JR & JR Properties LLCCompany: JR & JR Properties LLC (Boise , ID) Description: Real estate holding.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Office Building Located at 407 West Jefferson StreetDescription: Office Building Located at 407 West Jefferson Street (Boise, ID)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Public Employee Retirement System of Idaho Fund",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Persi Choice Plan - Retirement Fund",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "State of Idaho Deferred Comp. Prog. Retirement Fund",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Notes owed by Risch for Lt. Gov. Committees Resulting from 2002 Primary Election Campaign, Boise, IDCompany: Risch for Lt. Gov. Committees (Boise, ID)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Notes Owed by American Trailer Sales Co.Company: American Trailer Sales Co. (Boise, ID)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Blue Chip Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Capital Appreciation Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Capital Opportunity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Dividend Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Merging Markets Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Equity Index 500 Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Extended Equity Market Index Fund (Acct **50)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Financial Services Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/International Growth and Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Media and Telecommunications Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Emerging Markets Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price Summit Cash Reserve",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Mid-Cap Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Small-Cap Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Equity Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price/Extended Equity Market Index Fund (Acct **73)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price Prime Reserve Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T. Rowe Price US Treasury Money Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco Kampen Growth and Income A Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Century Small-Cap Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Nationwide Fixed Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Funds Income Fund of America",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERSI Short Term Investment Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mellon Aggregate Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERSI Total Return Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mellon US Equity Market Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brandes Institutional International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Tanaka Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Thrift Savings Plan - G Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Asset Manager 85%",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pioneer 1031 Co.(Boise, ID)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CondominiumDescription: Condominium 1207 (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Bank Account**30(Boise, ID)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Idaho Independent Bank Account**582(Boise, ID)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Black Angus Farms LLCCompany: Black Angus Farms (Boise, Idaho) Description: Farming, ranching, property holding company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Agricultural and Commercial Real PropertyDescription: Agricultural and Commercial Real Property, Cloverdale Road (Ada County, Idaho)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Metropolitan West Total Return Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "PRRXX - T. Rowe Price Prime Reserve Fd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/02/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TSCXX",
+          "asset-name": "T. Rowe Price Summit Cash Reser",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/02/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Persi Short Term Investment Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/09/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Nationwide Fixed Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/05/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Agricultural and Commercial Real Property, Cloverdale, Ada County, Idaho",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/09/2015",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Waddell and Reed High Income Y Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/18/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Metropolitan West Total Return Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/18/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2004",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "5.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Countrywide Home Loans - Note Transferred to Bank of America\n\t\t\t\t\t\t\t\tCalabassas, CA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2008",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "M&T Bank\n\t\t\t\t\t\t\t\tBaltimore , MD",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2014",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.250%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Suntrust Mortgage\n\t\t\t\t\t\t\t\tRichmond, VA",
+          "comments": "1206"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Mar 2006 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "JR & JR Properties LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise , ID",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 1996 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "RFAM Limited Partnership\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise, ID",
+          "entity-type": "Partnership",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2006 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "The Janeen Street Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise, ID",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Apr 2005 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "The 2005 Jordan Risch Irrevocable Life Insurance Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise , ID",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "The Jordan Risch Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise , ID",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "The Sage Meadows Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise , ID",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2011 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Representative",
+          "entity": "The Estate of Helen E. Choborda\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise, ID",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Estate)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Black Angus Farms LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoise, ID",
+          "entity-type": "Corporation",
+          "comments": "Inadvertently omitted from CY2014 Report.  Please consider this note an amendment to my CY2014 Report, Part 8."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Dec 1974",
+          "parties-involved": "State of Idaho - Persi\n\t\t\t\t\t\t\t\tBoise, ID",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Active.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 1996",
+          "parties-involved": "State of Idaho - Deferred Comp. Program\n\t\t\t\t\t\t\t\tBoise, ID",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Active.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2001",
+          "parties-involved": "State of Idaho - Persi Choice Plan\n\t\t\t\t\t\t\t\tBoise, ID",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Active, defined benefits.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Dec 2008",
+          "parties-involved": "Risch Goss Insinger\n\t\t\t\t\t\t\t\tBoise , ID",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Partnership Distribution)",
+          "status-and-terms": "Active, distribution of accounts receivable contingent upon when and if collected.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

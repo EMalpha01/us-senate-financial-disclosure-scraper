@@ -1,0 +1,824 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2022 (Amendment 1)",
+  "filer": "The Honorable Timothy M Kaine (Kaine, Tim)",
+  "filed-date": "05/23/2023",
+  "filed-time": "3:35 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Teaching and Administrative)",
+          "who-paid": "George Mason University\n\t\t\t\t\t\t\t\tFairfax, VA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA Distribution)",
+          "who-paid": "Morgan Stanley\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$300,000.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "IRA Managed by Morgan Stanley",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SGENX - First Eagle Global A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Consultant Advisor Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley - MSPBNA Savings(Rochester, NY)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Wells Fargo(Richmond, VA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IRA managed by Morgan Stanley",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VWINX - Vanguard Wellesley Income Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SDY - SPDR S&P Dividend ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFBPX - PIMCO Foreign Bond (USD-Hedged) P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PONPX - PIMCO Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRHSX - T. Rowe Price Health Sciences Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PXSGX - Virtus KAR Small-Cap Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MBB - iShares MBS ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VO - Vanguard Mid-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Commonwealth of Virginia 457 Deferred Compensation Plan",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Target Date 2030 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Commonwealth of Virginia Cash Match Plan- 401(a)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Target Date 2030 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia 403(b)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FID Freedom 2025 K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA - George Mason University Deferred Compensation Plan",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "T-C Lifecycle 2020-Inst",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley, N.A.(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FVD - Value Line Dividend Index ETF FT",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust, Series 1",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VO - Vanguard Mid-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VB - Vanguard Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "HBLIX - Hartford Balanced Income Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LLDYX - Lord Abbett Inv Tr. Short Duration Income Fd Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PONPX - Pimco Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRHSX - T. Rowe Price Health Sciences Fund Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Residential PropertyDescription: Residential Real Estate (Richmond, VA) Filer comment:  Previous occupant rented back for two months in 2022; house is for personal use only",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "PXSGX",
+          "asset-name": "Virtus Kar Small-Cap Growth Fund I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWINX",
+          "asset-name": "Vanguard Wellesley Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFBPX",
+          "asset-name": "Pimco International Bond Fund [U.S. Dollar-Hedge",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRHSX",
+          "asset-name": "T. Rowe Price Health Sciences Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PXSGX",
+          "asset-name": "Virtus Kar Small-Cap Growth Fund I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "LUBYX",
+          "asset-name": "Lord Abbett Ultra Short Bond Fund - Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MBB",
+          "asset-name": "iShares MBS ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFBPX",
+          "asset-name": "Pimco International Bond Fund [U.S. Dollar-Hedge",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PONPX",
+          "asset-name": "Pimco Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/26/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFBPX",
+          "asset-name": "Pimco International Bond Fund [U.S. Dollar-Hedge",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/26/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "LUBYX",
+          "asset-name": "Lord Abbett Ultra Short Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/26/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PONPX",
+          "asset-name": "Pimco Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/26/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/18/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCPIX",
+          "asset-name": "Fidelity Advisor International Capital Appreciat",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRHSX",
+          "asset-name": "T. Rowe Price Health Sciences Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CMGIX",
+          "asset-name": "Blackrock Funds Mid-Cap Growth Equity Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFBPX",
+          "asset-name": "Pimco International Bond Fund [U.S. Dollar-Hedge",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PONPX",
+          "asset-name": "Pimco Income Fund Class I-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SDY",
+          "asset-name": "SPDR S&P Dividend ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "FVD",
+          "asset-name": "Value Line Dividend Index ETF FT",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/10/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/10/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/10/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "HBLIX",
+          "asset-name": "Hartford Balanced Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Inv Tr. Short Duration Income Fd Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/11/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PONPX",
+          "asset-name": "Pimco Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PONPX",
+          "asset-name": "Pimco Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/10/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PRHSX",
+          "asset-name": "T. Rowe Price Health Sciences Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "FVD",
+          "asset-name": "Value Line Dividend Index ETF FT",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PFBPX",
+          "asset-name": "Pimco International Bond Fund [U.S. Dollar-Hedge",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PFBPX",
+          "asset-name": "Pimco International Bond Fund [U.S. Dollar-Hedge",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/06/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Residential Property",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2022",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Truist\n\t\t\t\t\t\t\t\tRichmond, VA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.7%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Morgan Stanley\n\t\t\t\t\t\t\t\tRichmond, VA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "National Endowment for Democracy\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2010",
+          "parties-involved": "Virginia Retirement System\n\t\t\t\t\t\t\t\tRichmond, VA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Defined benefit retirement plan",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

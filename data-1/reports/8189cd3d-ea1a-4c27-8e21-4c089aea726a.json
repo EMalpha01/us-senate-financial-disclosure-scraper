@@ -1,0 +1,334 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2017",
+  "filer": "The Honorable Roger F Wicker (Wicker, Roger)",
+  "filed-date": "05/15/2018",
+  "filed-time": "3:50 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "University of Mississippi\n\t\t\t\t\t\t\t\tTupelo, Mississippi",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "Public Employees Retirement System\n\t\t\t\t\t\t\t\tJackson, Mississippi",
+          "amount-paid": "$8,351.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Vision to Learn\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Public Employees Retirement System\n\t\t\t\t\t\t\t\tJackson, Mississippi",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Torchmark Corporation NTS ISIN US891027AP93Rate/Coupon: 9.25  Matures: 06/15/2019",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "AMZN-Amazon.com Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ATECX-AllianceBern Global Thematic Gr C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JJGXX - JPMorgan U.S. Government Money",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JJGXX - JPMorgan U.S. Government Money",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WMT-Wal-Mart Stores Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MRK - Merck & Co. Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Rental PropertyDescription: Rental Property (Alexandria, VA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "RNST-Renasant Corp. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RNST - Renasant Corp. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Timber Rights from Alexander Seawright Timber Fund I, LLCDescription: Timber (Jackson, MS)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest, Other, (gross receipts)",
+          "income": "$5,001 - $15,000Other $138,858.05"
+        },
+        {
+          "asset": "Renasant Bank(Tupelo, MS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MRK - Merck & Co., Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Putnam Investments IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PGRWX-Putnam Fund for Growth & Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Funds IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AIVSX-American Funds Invmt Co of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Timber Rights from Alexander Seawright Timber Fund I, LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Timber Rights from Alexander Seawright Timber Fund I, LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Timber Rights from Alexander Seawright Timber Fund I, LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Timber Rights from Alexander Seawright Timber Fund I, LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Timber Rights from Alexander Seawright Timber Fund I, LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2006",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Capitol One\n\t\t\t\t\t\t\t\tPlano, TX",
+          "comments": "mortgage on rental property, Alexandria, VA.  variable rate."
+        },
+        {
+          "incurred": "2014",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "BNA Bank\n\t\t\t\t\t\t\t\tNew Albany, Mississippi",
+          "comments": "mortgage on personal residence, Oxford, MS"
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Chase\n\t\t\t\t\t\t\t\tLouisville, KY",
+          "comments": "mortgage on personal residence, Tupelo, MS"
+        },
+        {
+          "incurred": "2007",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "5.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Renasant Bank\n\t\t\t\t\t\t\t\tTupelo, MS",
+          "comments": "home equity line of credit on personal residence, Tupelo, MS. variable rate."
+        },
+        {
+          "incurred": "2014",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(29 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Quicken Loans\n\t\t\t\t\t\t\t\tCarol Stream, IL",
+          "comments": "mortgage on personal property/rental property, Alexandria, VA"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

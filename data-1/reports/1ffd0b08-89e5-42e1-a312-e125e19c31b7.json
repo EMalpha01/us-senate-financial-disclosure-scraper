@@ -1,0 +1,1265 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2016",
+  "filer": "The Honorable A. Mitchell McConnell Jr. (McConnell, A. Mitchell Jr.)",
+  "filed-date": "05/15/2017",
+  "filed-time": "10:51 AM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": [
+        {
+          "date": "03/09/2016",
+          "activity": "Speech",
+          "amount": "$17,500.00",
+          "who-paid": "Iranian-American Cultural Association of Missouri\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "Spouse",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Book Payment)",
+          "who-paid": "Penguin Random House LLC\n\t\t\t\t\t\t\t\tNew York, New York",
+          "amount-paid": "$100,000.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "The Heritage Foundation\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Tilson HR (Hudson Institute)\n\t\t\t\t\t\t\t\tWashington, D.C.",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Director Fees)",
+          "who-paid": "NC Transactions (News Corp.)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Deferred Fees (former board member taxable benefit))",
+          "who-paid": "Delta Airlines, Inc.\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Director Fees)",
+          "who-paid": "Wells Fargo & Company\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Director Fees (Board Compensation Including Pay-out of Deferred Compensation))",
+          "who-paid": "Ingersoll Rand\n\t\t\t\t\t\t\t\tDublin, Ireland",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Director Fees)",
+          "who-paid": "Vulcan Materials Company\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Republic Bank and Trust(Louisville, KY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MNNAX - Victory Munder Multi-Cap A",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VHCAX - Vanguard Capital Opportunity Adm (NASDAQ)",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSIAX - Vanguard Small Cap Value Index Admiral (NASDAQ)",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Admiral (NASDAQ)",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "A. Mitchell McConnell, Jr. Revocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Merrill Lynch(Louisville , KY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mitch IRA MLPA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Bank of America(Louisville, Kentucky)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SCPB - SPDR Barclays Short Term Corp Bd ETF (NYSEArca)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VCSH - Vanguard Short-Term Corporate Bond ETF (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IWM - iShares Russell 2000",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VO - Vanguard Mid-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Vanguard 529 College Savings PlanInstitution: Vanguard",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Aggressive Growth Portfolio (Age Based)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard 529 College Savings PlanInstitution: Vanguard",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Aggressive Growth Portfolio (Age Based)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VMMXX - Vanguard Money Market Reserves  (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VMSXX - Vanguard Tax-Exempt Money Marke (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Admiral (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Real Property with Carriage House RentalDescription: Real Property with Carriage House Rental (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "UBS Pension Trust (9 items)",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS (uninvested cash held by UBS)(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WGIFX - American Funds Capital World Gr&Inc F2 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SDSCX - Dreyfus/The Boston Co Sm/Md Cp Gr I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FEGIX - First Eagle Gold I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PEQPX - Principal Equity Income P (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GFFFX - American Funds Growth Fund of Amer F2 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DPFFX - Delaware Diversified Income Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TGBAX - Templeton Global Bond Adv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PGDPX - Principal Global Div Inc P (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Heritage Foundation 403(b)) SWGXX - Schwab Government Money Fund - Filer comment:  Used to be SWIXX (Schwab Retirement Advantage Money), but converted in 2016 to SWGXX.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "( Heritage Foundation 403(b)) VFIAX-Vanguard 500 Index Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) SWGXX - Schwab Government Money Fund - Filer comment:  Used to be SWIXX (Schwab Retirement Advantage Money), but converted in 2016 to SWGXX. The conversion does not trigger reporting under the transactions section.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) ARTKX-Artisan International Value Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) BARAX-Baron Asset Retail",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) FAIRX-Fairholme",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) LSBDX-Loomis Sayles Bond Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) OAKMX-Oakmark I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) RSEIX-Royce Special Equity Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) SLASX-Selected American Shares S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) PRMSX-T. Rowe Price Emerging Markets Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) VGSLX-Vanguard REIT Index Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Heritage Foundation Retirement) WIIBX-Westcore Plus Bond Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "(Retirement) Deutsch VSI Capital Growth - Mutual of America Filer comment:  Tax Deferred Annuity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SunTrust Solid Choice Banking(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SunTrust Advantage Money Market Account(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Suntrust Business Checking (Firebird International LLC)(Washington, DC)Type: Checking, Filer comment:  Firebird International LLC is a single member LLC and this entity does not have any value other than the cumulative value of its individual assets.",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Suntrust Business Money Market Performance (Firebird International LLC)(Washington, DC)Type: Money Market Account, Filer comment:  Firebird International LLC is a single member LLC and this entity does not have any value other than the cumulative value of its individual assets.",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Suntrust Personal Savings Account (Washington, DC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS IRA (7 items)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WGIFX - American Funds Capital World Gr&Inc F2 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "FEGIX - First Eagle Gold I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PEQPX - Principal Equity Income P (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "RSPYX - RS Partners Y (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GFFFX - American Funds Growth Fund of Amer F2 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "DPFFX - Delaware Diversified Income Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "TGBAX - Templeton Global Bond Adv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Scottrade(Washington, DC)Type: Brokerage Sweep Account, Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PRITX - T. Rowe Price International Stock Fd (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RPMGX - T. Rowe Price Mid-Cap Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PRSCX - T. Rowe Price Science & Tech (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "OTCFX - T. Rowe Price Small-Cap Stock (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "(Retirement) PREIX-T. Rowe Price Equity Index 500 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "(Pension Trust) VFIAX-Vanguard 500 Index Admiral (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VGIAX - Vanguard Growth & Income Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VMSXX - Vanguard Tax-Exempt Money Marke (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Admiral (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "(IRA) VFIAX-Vanguard 500 Index Admiral (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "WFC - Wells Fargo & Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "News Corp./phantom stock (Director Deferred Compensation)Company: News Corp. (New York, NY) Description: Phantom Stock (Director Deferred Compensation)",
+          "asset-type": "Deferred Compensation",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo & Company/phantom stock (Director Deferred Compensation)Company: Wells Fargo & Company (San Francisco, CA) Description: Phantom stock (Director Deferred Compensation)",
+          "asset-type": "Deferred Compensation",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vulcan Materials Deferred CompensationFiler comment:  Board Service",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vulcan Materials Deferred Stock UnitsDescription: compensation for board service (Birmingham, AL)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ingersoll-Rand Deferred CompensationFiler comment:  Board service",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Ingersoll-Rand Restricted Stock Units (2016 Issue)Description: Compensation for board service (Dublin, Ireland) Filer comment:  \"2016 Issue\" to differentiate from 2015 entry, which is now accounted for below in UBS CSSP.",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS CSSP (via Ingersoll-Rand)Filer comment:  2015 IR RSUs vested in 2016; actual shares issued for the RSUs. A portion sold and remainder put into this UBS account.",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IR - Ingersoll-Rand PlcFiler comment:  Received in 2016 upon vesting of 2015 RSUs",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MNNAX - Victory Munder Growth Opportunities A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS PSP",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS (uninvested cash held by UBS)(Washington, D.C.)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JHIGX - JHancock International Growth R2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JDVPX - JHancock Disciplined Value R2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Elaine L Chao Revocable TrustFiler comment:  Electron Global was the underlying asset. Redeemed in 2016.",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "06/09/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "IR-Ingersoll-Rand Plc",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "2015 Issued IR RSUs vested and actual shares issued; part of shares sold w/ remainder in UBS CSSP"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Electron Global Fund L.P.",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2016",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Electron Global Fund L.P. (Revocable Trust)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/31/2016",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRITX",
+          "asset-name": "T. Rowe Price International Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RPMGX",
+          "asset-name": "T. Rowe Price Mid-Cap Growth",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRSCX",
+          "asset-name": "T. Rowe Price Science & Tech",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/15/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OTCFX",
+          "asset-name": "T. Rowe Price Small-Cap Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/31/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/29/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/31/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/12/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/09/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "To Vanguard Tax-Exempt Money Market"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "From Vanguard 500 Index Adm"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGIAX",
+          "asset-name": "Vanguard Growth & Income Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/13/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGIAX",
+          "asset-name": "Vanguard Growth & Income Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/23/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Reinvestment"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Transfer to Vanguard Tax-Exempt MM"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transfer from Vanguard 500 Index"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Transfer to Vanguard Tax-Exempt MM"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transfer from Vanguard 500 Index"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/12/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Transfer to Vanguard Tax-Exempt MM"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/12/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transfer from Vanguard 500 Index"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Dividend Transfer to Vanguard Tax-Exempt MM"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transfer from Vanguard 500 Index"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/12/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "Transfer to Vanguard 500 Index"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/12/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "Transfer from Vanguard Tax Exempt MM"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMSXX",
+          "asset-name": "Vanguard Municipal Money Market",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/09/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transfer to Vanguard 500 Index"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transfer from Vanguard Tax Exempt MM"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(IRA) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(Pension Trust) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(Pension Trust) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/12/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(Pension Trust) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(Pension Trust) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/18/2016",
+          "amount": "$250,001 - $500,000",
+          "comments": "(Pension Trust)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GFFFX",
+          "asset-name": "American Funds Growth Fund of Amer F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(UBS PS) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PEQPX",
+          "asset-name": "Principal Equity Income P",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(UBS IRA) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "WGIFX - American Funds Capital World Gr&Inc F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(UBS IRA) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GFFFX",
+          "asset-name": "American Funds Growth Fund of Amer F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(UBS IRA) (Dividend Reinvestment)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RSPYX",
+          "asset-name": "Victory RS Partners Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/29/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "(UBS IRA) (Dividend Reinvestment)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jun 1994 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member, Visiting Committee (Uncompensated))",
+          "entity": "University of Kentucky College of Law\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLexington, Kentucky",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Public University/Law School)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2011 to\n\t\t\t\t\t\t\t\tJan 2017",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member, Board of Dean's Advisors (Uncompensated))",
+          "entity": "Harvard Business School\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCambridge, MA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Private University/Business School)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Oct 2015",
+          "parties-involved": "Sentinel, an imprint of Penguin Publishing Group, a division of Penguin Random House LLC (Sentinel)\n\t\t\t\t\t\t\t\tNew York, New York",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Compensation and Royalty Agreement)",
+          "status-and-terms": "A contract in which the undersigned agreed to complete a manuscript in exchange for publication and $325,000 in compensation, payable in installments, by Sentinel. The contract also provides for royalty payments in the following manner: 15% of the retail price for all hardcover editions of the book sold; 7.5% to 10% of the retail price for all trade edition and mass market paperback copies sold; and 25% of the receipts for e-book edition sales.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

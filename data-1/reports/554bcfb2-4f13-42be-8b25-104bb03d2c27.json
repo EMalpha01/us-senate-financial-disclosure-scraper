@@ -1,0 +1,201 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable Michael D Crapo (Crapo, Michael D.)",
+  "filed-date": "05/15/2023",
+  "filed-time": "1:17 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Wages",
+          "who-paid": "Crapo Victory Committee\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Checking, Savings, Filer comment:  Asset value/checking:  $58,016.38\nAsset value/savings:  $5,077.28\nTotal interest income:  $8.86",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings, Filer comment:  Asset balance/checking:  $143,899.67.\nAsset balance/savings:  $125,877.89.\nTotal interest: $137.62.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Savings, Filer comment:  Asset balance: $31,140.01",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERSI Base PlanFiler comment:  Asset value:  $44,798.01.\nTotal interest income:  $9,062.47.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "3% of mineral rights leaseDescription: Subsurface mineral rights on 640 acres (McKenzie County, ND) Filer comment:  Total royalties received: $25,302.00.",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Joint",
+          "value": "Unascertainable",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Residential homeDescription: Rowhouse (Washington, DC) Filer comment:  Total rental income: $35,280.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Parking spaceDescription: Parking space (Washington, DC) Filer comment:  Total:  $3.120.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Crapo Enterprises LLCCompany: Crapo Enterprises LLC (Bountiful, UT) Description: Business entity that holds residential property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Single family homeDescription: Single family home (Island Park, ID) Filer comment:  Ownership percentage value: $10,786.90.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Crapo Estate Holdings LLCCompany: Crapo Estate Holdings LLC (Idaho Falls, ID) Description: Business entity that holds ranchland",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Minority interest in 359-acre ranch landDescription: Garrett Ranch (Fremont County, ID) Filer comment:  Asset value: $101,416.40.\nIncome, rental: $193.86.\nIncome, interest: $0.00",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0.75",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tIdaho Falls, Idaho",
+          "comments": "Total loan amount: $219,297.74."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Nov 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Pharma Partners, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEnglewood, Colorado",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Crapo Enterprises LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBountiful, UT",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2006 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Crapo Estate Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tIdaho Falls, ID",
+          "entity-type": "Company",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

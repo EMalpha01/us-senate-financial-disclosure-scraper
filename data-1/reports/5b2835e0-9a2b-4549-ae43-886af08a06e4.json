@@ -1,0 +1,687 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report",
+  "filer": "Mrs. Katie Britt",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Alabama Power Company\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Business Council of Alabama\n\t\t\t\t\t\t\t\tMontgomery, AL",
+          "amount-paid": "$142,017.35",
+          "comments": "Filer left position in June 2021."
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Butler Snow LLP\n\t\t\t\t\t\t\t\tMontgomery, AL",
+          "amount-paid": "$214,291.15",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "CollegeCounts 529 Fund - Child 1Institution: Alabama",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ALMA - Age-Based Moderate Ages 11-12 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CollegeCounts 529 Fund - Child 2Institution: Alabama",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ALMA - Age-Based Moderate Ages 11-12 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Raymond James - Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "REMSX - Emerging Markets Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RFCTX - Strategic Bond Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RINTX - International Developed Markets Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RLESX - U.S. Small Cap Equity Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RSESX - U.S. Strategic Equity Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RMGSX - Multi-Asset Growth Strategy Fund - Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RGCSX - Opportunistic Credit Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RRESX - Global Real Estate Securities Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Raymond James Bank Deposit(Birmingham, AL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BRK.B - Berkshire Hathaway Inc. New Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SQ - Square, Inc. Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brokerage Acct #1 - Raymond James",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "T - AT&T Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AAPL - Apple Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ONEW - OneWater Marine Inc. - Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Raymond James Bank Deposit(Birmingham, AL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FNSXX - FIMM Money Market Portfolio Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Raymond James - Self IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Raymond James Bank Deposit(Birmingham, AL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BRK.B - Berkshire Hathaway Inc. New Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PPA - Invesco Aerospace & Defense ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IHI - iShares U.S. Medical Devices ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYW - iShares U.S. Technology ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brokerage Acct #2 - Edward Jones",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Edward Jones Bank Deposit(Maryland Heights, MO)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brokerage Acct #3 - Robinhood",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BA - Boeing Company (The) Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DAL - Delta Air Lines, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robinhood Brokerage Cash(Menlo Park, CA)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SO 401(k)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SO - Southern Company (The) Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackRock EAFE Equity Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackRock Russell 2000 Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard Institutional 500 Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NT Collective Aggregate Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFL Player Second Career Savings Plan 401(k)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SSCQX - State Street Target Retirement 2040 Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Large Company Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia529 College Savings Plan - Child 2Institution: Virginia",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CFAEX - The Bond Fund of America Class 529-E Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CICEX - The Investment Company of America Class 529-E S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNPEX - New Perspective Fund Class 529-E Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Advisor 529 Plan - Child 1Institution: New Hampshire",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FPIAX - Fa 529 Port 2022-Cl A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SO - Southern Company (The) Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FLO - Flowers Foods, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bert Bell/Pete Rozelle NFL Player Retirement Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Southern Company Pension Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFL Player Annuity Program",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "NFL Player Annuity Program - PSMDescription: Financial & Investment Program (Harrisburg, PA)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Regions Bank(Birmingham, AL)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "APCO Empl Credit Union(Birmingham, AL)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Personal Loan to IndividualDebtor: Nathan Cox",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Gene Upshaw NFL Player Health Reimbursement Account Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Britt4Properties LLCCompany: Britt4Properties LLC (Enterprise, AL) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "2f4b LLCCompany: 2f4b LLC (Enterprise, AL) Description: Commercial Real Estate Development",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real EstateDescription: Land in Development (Enterprise, AL)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "2f4b INV LLCCompany: 2f4b INV LLC (Enterprise, AL) Description: Commercial Real Estate Development",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real EstateDescription: Land in Development (Enterprise, AL)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Spouse",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(3 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Max Credit Union\n\t\t\t\t\t\t\t\tMontgomery, AL",
+          "comments": "This is a fixed rate draw down line of credit for 2F4B, LLC."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Aug 2019 to\n\t\t\t\t\t\t\t\tJun 2021",
+          "position-held": "Employee",
+          "entity": "Business Council of Alabama\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMontgomery, AL",
+          "entity-type": "Nonprofit Organization",
+          "comments": "Trade Association"
+        },
+        {
+          "position-dates": "Jun 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Employee",
+          "entity": "Butler Snow LLP\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMontgomery, AL",
+          "entity-type": "Partnership",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Apr 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Alabama Wildlife Federation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMillbrook, AL",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Stillman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTuscaloosa, AL",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "UA Community Affairs Board of Advisors\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTuscaloosa, AL",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Blackburn Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTuscaloosa, AL",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "Business Council of Alabama\n\t\t\t\t\t\t\t\tMontgomery, AL",
+          "duties": "President and CEO",
+          "comments": "n/a"
+        },
+        {
+          "source": "Butler Snow LLP\n\t\t\t\t\t\t\t\tMontgomery, AL",
+          "duties": "Attorney",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

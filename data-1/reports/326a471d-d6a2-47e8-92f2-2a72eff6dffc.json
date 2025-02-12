@@ -1,0 +1,3547 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
+  "filed-date": "08/10/2021",
+  "filed-time": "12:27 PM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Ocean Conservancy\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Atlantic Council\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Morgan Stanley SEP IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FCNTX - Fidelity Contrafund (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FINFX - American Funds Fundamental Invs F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JCAPX - Janus Forty I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JBALX - Janus Balanced I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLF - Financial Select Sector SPDR ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T-AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOOGL - Alphabet Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TJX - The TJX Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLV - Health Care Select Sector SPDR ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SAPYX - ClearBridge Appreciation I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMGN - Amgen Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFLX - Netflix, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MORGAN STANLEY(NEWPORT, RI)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMZN-Amazon.com, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GS-The Goldman Sachs Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPM-JPMorgan Chase & Co.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "J P MORGAN CHASE & CORate/Coupon: 6.12%  Matures: 02/12/2056Filer comment:  Call date is 4/30/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VETAX-Victory Sycamore Established Value A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BTO-John Hancock Financial Opportunities Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA-NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMBFX-American Funds American Balanced F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BABA - Alibaba Group Holding Limited",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WMT - Walmart Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "C - Citigroup Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DAL - Delta Air Lines, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LRCX - Lam Research Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PYPL - PayPal Holdings, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IAU - iShares Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IHI - iShares U.S. Medical Devices ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VCSH - Vanguard Short-Term Corporate Bond Index Fund ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMEFX - American Funds The Income Fund of America Class F-",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFFFX - American Funds New World Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LMGNX - ClearBridge International Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSDIX - Cohen & Steers Real Estate Securities Fund, Inc. C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JMGRX - Janus Henderson Enterprise Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NWKDX - Nationwide Geneva Small Cap Growth Fund Institutio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFTPX - PIMCO Low Duration Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PXSGX - Virtus KAR Small-Cap Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PGR - The Progressive Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARKW - Ark Next Generation Internet ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XBI - SPDR Series Trust  SPDR S&P Biotech ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ULST - SPDR SSgA Ultra Short Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VEU - Vanguard All-World ex-US Shares Index ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BND - Vanguard Total Bond Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMRFX - American Mutual Fund Class F-2 Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IUGXX - Invesco Premier US Government Money Portfolio IN",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGT - Vanguard Information Tech ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley- IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "T Rowe Price New Asia Fund (PRASX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XBI - SPDR S&P Biotech ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BRK-B - Berkshire Hathaway Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VDC - Vanguard Consumer Staples ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGT - Vanguard Information Technology ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSLA - Tesla, Inc.Filer comment:  On 8/31/20 there was a stock split.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLI - Industrial Select Sector SPDR ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GEMIX - Goldman Sachs Emerging Markets Eq Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FINFX - American Funds Fundamental Invs F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COSZX - Columbia Overseas Value Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GJRTX - Goldman Sachs Absolute Return Tracker Fund Institu",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Private Bank(Newport, RI)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MINT - PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NOBL - ProShares S&P 500 Dividend Aristocrats ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VOX - Vanguard Communication Services Index Fund ETF Sha",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CEYIX - Calvert Equity Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LMGNX - ClearBridge International Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARKK - Ark Innovation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth Fund Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley-IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Goldman Sachs Abslt Ret Trck I (GJRTX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JP Morgan Dynamic Small Cap Gr Sel (JDSCX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MWTIX - Metropolitan West Total Return Bond I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLK - Technology Select Sector SPDR ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VDC-Vanguard Consumer Staples ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BRK-B - Berkshire Hathaway Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLF - Financial Select Sector SPDR® ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VEA - Vanguard FTSE Developed Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WMFFX-American Funds Washington Mutual F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SBLYX - ClearBridge Large Cap Growth I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JMGRX - Janus Henderson Enterprise I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LDLFX-Lord Abbett Short Duration Income F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFFFX - American Funds New World F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VEVIX - Victory Sycamore Established Value I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMEFX - American Funds The Income Fund of America Class F-",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLC - Communication Services Select Sector SPDR Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CGW - Invesco S&P Global Water Index ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley(Newport, RI)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IAU - iShares Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MINT - PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NOBL - ProShares S&P 500 Dividend Aristocrats ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LMGNX - ClearBridge International Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRBLX - Parnassus Core Equity Fund - Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARKK - Ark Innovation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CLOU - Global X Cloud Computing ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BDJ - Blackrock Enhanced Equity Dividend Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PXQSX - Virtus Kar Small-Cap Value Fund I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley- Sheldon Whitehouse Family Trust",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MMM-3M Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "AMZN-Amazon.com Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AXP-American Express Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CVS - CVS Caremark Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DHR - Danaher Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GOOGL - Alphabet Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HON - Honeywell International Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "IWO - iShares Russell 2000 Growth",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "KMB - Kimberly-Clark Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MCHP - Microchip Technology Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MSFT-Microsoft Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "NKE-Nike, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ORCL-Oracle Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PEP - Pepsico, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PG - The Procter & Gamble Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UNP-Union Pacific Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RTX - Raytheon Technologies Corporation Common StockFiler comment:  Received shares of Raytheon Technologies Corporation (RTX) in exchange for United Technologies (UTX) as a result of merger.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UNH-UnitedHealth Group Incorporated (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "V-Visa Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JPM - JPMorgan Chase & Co.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LOW - Lowe's Companies Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TMO-Thermo Fisher Scientific, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANTM - Anthem, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLV - Health Care Select Sector SPDR® ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AMGN-Amgen Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "T - AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "EL - The Estée Lauder Companies Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PANW-Palo Alto Networks, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VZ - Verizon Communications Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FB - Facebook, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LRCX-Lam Research Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NFLX-Netflix, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WMT-Wal-Mart Stores Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ANWFX-American Funds New Perspective F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley(Newport, RI)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL-Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "BAC-Bank of America Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GS-The Goldman Sachs Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "HD-The Home Depot, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "CSCO - Cisco Systems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DEO - Diageo plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CMCSA-Comcast Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FTV-Fortive Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA-NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SBUX-Starbucks Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ADI - Analog Devices, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BRK-B - Berkshire Hathaway Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IR - Ingersoll-Rand Plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFE - Pfizer Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SYK-Stryker Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IHI - iShares US Medical Devices ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SQ - Square, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLC - Communication Services Select Sector SPDR Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NEFFX - American Funds The New Economy Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GJRTX - Goldman Sachs Absolute Return Tracker Fund Institu",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JDSCX - JPMorgan Small Cap Blend Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KO - The Coca-Cola Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IDV - iShares International Select Dividend ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TIP - iShares TIPS Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Stanley(Newport, RI)Type: Money Market Account, Filer comment:  Open End Non Sweep Money Market Funds",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFTPX - PIMCO Low Duration Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DLR - Digital Realty Trust, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ARKK - Ark Innovation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CIBR - First Trust NASDAQ Cybersecurity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLI - SPDR Select Sector Fund - Industrial",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VFH - Vanguard Financials ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VEA - Vanguard FTSE Developed Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VYM - Vanguard High Dividend Yield ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VEU - Vanguard All-World ex-US Shares Index ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CAIFX - Capital Income Builder Cl F-2 Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PONPX - Pimco Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BSFIX - Baron Small Cap Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VNT - Vontier Corporation Common StockFiler comment:  Fortive Corp exchanged for Vontier Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TT - Trane Technologies plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "WM - Waste Management, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CARR - Carrier Global Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EFA - iShares MSCI EAFE ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "OTIS - Otis Worldwide Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Morgan Stanley [1]",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Newport, RI)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley [3]",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AAPL-Apple Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "T - AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "KO - The Coca-Cola Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CAG-ConAgra Foods, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HON - Honeywell International Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JPM-JPMorgan Chase & Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MCHP-Microchip Technology Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VZ - Verizon Communications Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ESS - Essex Property Trust Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PG - The Procter & Gamble Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SBUX - Starbucks Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UL - Unilever plc (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTX - Raytheon Technologies Corporation Common StockFiler comment:  Received shares of Raytheon Technologies Corporation (RTX) in exchange for United Technologies (UTX) as a result of merger.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UNH-UnitedHealth Group Incorporated (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PEP - Pepsico, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RTN - Raytheon Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "V - Visa Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JPMORGAN CHASE & CO 6.75% FXD to 2/01/24Rate/Coupon: 6.75  Matures: 02/01/24",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Morgan Stanley(Newport, RI)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNJ - Johnson & Johnson",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LRCX-Lam Research Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MSFT-Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GOOGL-Alphabet Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMGN - Amgen Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BAC-Bank of America Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DHR-Danaher Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HD - The Home Depot, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LMT - Lockheed Martin Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MA-Mastercard Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MET - MetLife, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DIS-The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XBI - SPDR® S&P Biotech ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIG-Vanguard Dividend Appreciation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MACYS RETAIL HLDGS INCRate/Coupon: 3.875%  Matures: 01/15/2022",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AMCFX - American Funds AMCAP F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSTIX - Goldman Sachs Strategic Growth Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ADI-Analog Devices, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "C - Citigroup Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IR - Ingersoll-Rand Plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Genl Motors Financial Co IncRate/Coupon: 3.2%  Matures: 07/06/2021",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HLMIX-Harding Loevner International Eq Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RI INFRASTRUCTURE BK SAFE DRINKINRate/Coupon: 3%  Matures: 10/01/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AMZN - Amazon.com, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MCD - McDonald's Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NVDA - NVIDIA Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WMT - Walmart Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLC - Communication Services Select Sector SPDR Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLV - Health Care Select Sector SPDR Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VDC - Vanguard Consumer Staples Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RI Health & Ed Bldg CorpRate/Coupon: 4.00%  Matures: 09/15/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "General Electric Co Fxd to 012021Rate/Coupon: 5.0%  Matures: 01/21/21",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CAIFX - American Funds Capital Income Builder Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BINIX - Baron International Growth Fund Institutional Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COSZX - Columbia Overseas Value Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JDSCX - JPMorgan Small Cap Blend Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IAU - iShares Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSVIX - Calvert Small-Cap Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PFTPX - PIMCO Low Duration Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLI - SPDR Select Sector Fund - Industrial",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VFH - Vanguard Financials ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VYM - Vanguard High Dividend Yield ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CEYIX - Calvert Equity Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TT - Trane Technologies plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MS TP Ltd PartnershipCompany: Tab Products (Mayville, WI) Description: Sale of Office Supplies Filer comment:  Value is between $0 and $15,000. Ordinary loss for 2020 was $22,990.",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "T Acquisition Ltd Part(sole inv of MS TP Ltd PartCompany: T Acquisition Partnership (Mayville, WI) Description: Sale of office supplies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TAB Prod Co LLC (a holding of T Acq Ltd)Company: TAB Prod Co LLC (Mayville, WI) Description: Sale of office supplies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TAB Prod Canada( a holding of T Acq Ltd)Company: TAB Prod Canada (Ontario, Canada) Description: Sale of office supplies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TAB Prod Europa (a holding of T Acq Ltd)Company: TAB Prod Europa (Amsterdam, Netherlands) Description: Sale of office supplies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TAB Prod PTY Ltd ( a holding of T Acq Ltd)Company: TAB Prod PTY Ltd (Stillwater, Australia) Description: Sale of Office Supplies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Seaview Mezzanine LPCompany: Seaview Mezzanine LP (New York, NY) Description: solution provider for print production, etc",
+          "asset-type": "Business EntityLimited Liability Limited Partnership (LLLP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Symco Group Inc (inv of Seaview Mezzanine, LPCompany: Symco Group Inc (Buford, GA) Description: solution provider to print production, etc",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Helen Chase Rand Residual Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "APHMX - Artisan Mid Cap Institutional (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FLMVX - JPMorgan Mid Cap Value Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MWTSX - Metropolitan West Total Return Bond Fund Plan Clas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ANONX - American Century Small Cap Growth Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "White Ranch Minerals, Ltd.Description: Energy (Minneapolis, Minnesota)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TROIX - T. Rowe Price Overseas Stock I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EGRIX - Eaton Vance Glbl Macro Abs Ret Advtg I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Wells Fargo Market Deposit AC(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TGEIX - TCW Emerging Markets Income Fund Class Institution",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PHIYX - PIMCO High Yield Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PTTRX - PIMCO Total Return Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FGBMX - Fidelity Advisor New Markets Income Fund Class Z",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSLC - Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ITOT - iShares Core S&P Total U.S. Stock Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JENIX - Jensen Quality Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PHYQX - PGIM High Yield Fund Class R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "QUAL - iShares MSCI USA Quality Factor ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IWM - iShares Russell 2000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TMPIX - Touchstone Mid Cap Fd Inst Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VO - Vanguard Mid-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ODVIX - Invesco Oppenheimer Developing Markets Fund Clas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TSEGX - Touchstone Sands Capital Emerging Markets Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PDBC - Invesco Optimum Yield Diversified Commodity Strate",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rita D Sellar GST Exempt Trust",
+          "asset-type": "TrustExcepted",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "H Yale TW Dolan Trust",
+          "asset-type": "TrustExcepted",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Sarah B TD Dolan Trust",
+          "asset-type": "TrustExcepted",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "Dividends, Interest, Other, (Portfolio income)",
+          "income": "$1,001 - $2,500Other $372.00"
+        },
+        {
+          "asset": "Thomas Dolan Trust",
+          "asset-type": "TrustExcepted",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "Dividends, Interest, Capital Gains, Other, (Portfolio)",
+          "income": "$100,001 - $1,000,000Other $1,399.00"
+        },
+        {
+          "asset": "Personal residenceDescription: Separate rental apt in personal residence (Newport, RI)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Bank of America(Newport, RI)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "02/13/2020",
+          "owner": "Self",
+          "ticker": "WM",
+          "asset-name": "Waste Management, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/13/2020",
+          "owner": "Self",
+          "ticker": "DLR",
+          "asset-name": "Digital Realty Trust, Inc.",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/04/2020",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "INGERSOLL RAND PLC SHARES (Exchanged)\n                                    \n                                    TRANE TECHNOLOGIES PLC  Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/04/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "INGERSOLL RAND PLC SHS (Exchanged)\n                                    \n                                    TRANE TECHNOLOGIES PLC Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/11/2020",
+          "owner": "Self",
+          "ticker": "SIEGY",
+          "asset-name": "Siemens Aktiengesellschaft",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/11/2020",
+          "owner": "Self",
+          "ticker": "ILMN",
+          "asset-name": "Illumina, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/11/2020",
+          "owner": "Self",
+          "ticker": "CGNX",
+          "asset-name": "Cognex Corporation",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/03/2020",
+          "owner": "Joint",
+          "ticker": "RTN\n                                \n                                \n                                    \n                                    UTX",
+          "asset-name": "Raytheon Company (Exchanged)\n                                    \n                                    Raytheon Technologies Corporation Received",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "Post merger UTX changed it's name from United Technologies Corporation to Raytheon Technologies Corporation // Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/03/2020",
+          "owner": "Self",
+          "ticker": "--\n                                \n                                \n                                    \n                                    RTX",
+          "asset-name": "UTX - United Technologies Corporation (Exchanged)\n                                    \n                                    Raytheon Technologies Corporation Received",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Self",
+          "ticker": "UTX\n                                \n                                \n                                    \n                                    OTIS",
+          "asset-name": "Raytheon Technologies Corporation (Exchanged)\n                                    \n                                    Otis Worldwide Corporation Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Joint",
+          "ticker": "UTX\n                                \n                                \n                                    \n                                    CARR",
+          "asset-name": "Raytheon Technologies Corporation (Exchanged)\n                                    \n                                    Carrier Global Corporation Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Joint",
+          "ticker": "UTX\n                                \n                                \n                                    \n                                    OTIS",
+          "asset-name": "Raytheon Technologies Corporation (Exchanged)\n                                    \n                                    Otis Worldwide Corporation Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Self",
+          "ticker": "UTX\n                                \n                                \n                                    \n                                    CARR",
+          "asset-name": "Raytheon Technologies Corporation (Exchanged)\n                                    \n                                    Carrier Global Corporation Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Joint",
+          "ticker": "CARR",
+          "asset-name": "Carrier Global Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Rec'd in spinoff from United Technologies & Raytheon Technologies merger// Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Joint",
+          "ticker": "OTIS",
+          "asset-name": "Otis Worldwide Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Rec'd in spinoff from United Technologies & Raytheon Technologies merger // Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Self",
+          "ticker": "CARR",
+          "asset-name": "Carrier Global Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Rec'd in spinoff from United Technologies & Raytheon Technologies merger //Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "04/07/2020",
+          "owner": "Self",
+          "ticker": "OTIS",
+          "asset-name": "Otis Worldwide Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Rec'd in spinoff from United Technologies & Raytheon Technologies merger //Due to standing separation agreement with financial advisor, Senator first notified of activity 5/26/20 in compliance with Senate disclosure process."
+        },
+        {
+          "transaction-date": "09/09/2020",
+          "owner": "Joint",
+          "ticker": "CB",
+          "asset-name": "Chubb Limited",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/30/2020",
+          "owner": "Self",
+          "ticker": "TT",
+          "asset-name": "Trane Technologies plc",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/30/2020",
+          "owner": "Joint",
+          "ticker": "TT",
+          "asset-name": "Trane Technologies plc",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/09/2020",
+          "owner": "Self",
+          "ticker": "FTV\n                                \n                                \n                                    \n                                    VNT",
+          "asset-name": "Fortive Corporation (Exchanged)\n                                    \n                                    Vontier Corporation Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/13/2020",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "XEROX CORP\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.5%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/21",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Called bond"
+        },
+        {
+          "transaction-date": "12/30/2020",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "XEROX CORP\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.5%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/2021",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Redemption of Called Bond"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "PXSGX",
+          "asset-name": "Virtus Kar Small-Cap Growth Fund I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NFFFX",
+          "asset-name": "New World Fund Inc. Class F-2 Shs",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IJS",
+          "asset-name": "iShares S&P SmallCap 600 Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/13/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AEPFX",
+          "asset-name": "Europacific Growth Fund Class F-2 Shs",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FINFX",
+          "asset-name": "Fundamental Investors Class F-2 Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JMGRX",
+          "asset-name": "Janus Henderson Enterprise Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AMBFX",
+          "asset-name": "American Balanced Fund Class F-2 Shs",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGT",
+          "asset-name": "Vanguard Information Tech ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/13/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IAU",
+          "asset-name": "iShares Gold Trust Shares of the iShares Gold Trus",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "XLF",
+          "asset-name": "S&P 500 Financials Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ULST",
+          "asset-name": "SSGA Ultra Short Term Bond SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IUGXX",
+          "asset-name": "Invesco Premier US Government Money Portfolio IN",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ARKW",
+          "asset-name": "Ark Next Generation Internet ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "XBI",
+          "asset-name": "S&P Biotech SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BND",
+          "asset-name": "Vanguard Total Bond Market ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VNQ",
+          "asset-name": "Real Estate Vanguard ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LCEYX",
+          "asset-name": "Invesco Diversified Dividend Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AMRFX",
+          "asset-name": "American Mutual Fund Class F-2 Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EFAV",
+          "asset-name": "iShares MSCI EAFE Min Vol Factor ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VEU",
+          "asset-name": "FTSE All-World Ex-US ETF Vanguard",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOBL",
+          "asset-name": "ProShares S&P 500 Dividend Aristocrats ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGT",
+          "asset-name": "Vanguard Information Tech ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GJRTX",
+          "asset-name": "Goldman Sachs Absolute Return Tracker Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MADVX",
+          "asset-name": "Blackrock Eq Dividend I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FINFX",
+          "asset-name": "Fundamental Investors Class F-2 Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MADVX",
+          "asset-name": "Blackrock Eq Dividend I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ARKK",
+          "asset-name": "Ark Innovation ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MADVX",
+          "asset-name": "Blackrock Eq Dividend I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/26/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/26/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JDSCX",
+          "asset-name": "Jpmorgan Small Cap Blend Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRBLX",
+          "asset-name": "Parnassus Core Equity Fund-Investor Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "WMFFX",
+          "asset-name": "Washington Mutual Investors Fund Cl F-2 Shs",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BDJ",
+          "asset-name": "Blackrock Enhanced Equity Dividend Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ARKK",
+          "asset-name": "Ark Innovation ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CLOU",
+          "asset-name": "Global X Cloud Computing ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GJRTX",
+          "asset-name": "Goldman Sachs Absolute Return Tracker Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NOBL",
+          "asset-name": "ProShares S&P 500 Dividend Aristocrats ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "FTSE Developed Markets Vanguard",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "COSZX",
+          "asset-name": "Columbia Overseas Value Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DEVIX",
+          "asset-name": "Delaware Small Cap Value Fund Institutional Clas",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PXQSX",
+          "asset-name": "Virtus Kar Small-Cap Value Fund I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ARKK",
+          "asset-name": "Ark Innovation ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/04/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "XLC",
+          "asset-name": "The Communication Services Select Sector SPDR Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CIBR",
+          "asset-name": "First Trust NASDAQ Cybersecurity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CIBR",
+          "asset-name": "First Trust Nasdaq Cybersecurity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CIBR",
+          "asset-name": "First Trust Nasdaq Cybersecurity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "XLI",
+          "asset-name": "SPDR Select Sector Fund - Industrial",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "XLI",
+          "asset-name": "SPDR Select Sector Fund - Industrial",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFH",
+          "asset-name": "Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VYM",
+          "asset-name": "Vanguard High Dividend Yield ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEU",
+          "asset-name": "Vanguard All-World ex-US Shares Index ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/29/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CAIFX",
+          "asset-name": "Capital Income Builder Cl F-2 Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWFX",
+          "asset-name": "New Perspective Fund Class F-2 Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSFIX",
+          "asset-name": "Baron Small Cap Fund Inst Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSFIX",
+          "asset-name": "Baron Small Cap Fund Inst Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PONPX",
+          "asset-name": "Pimco Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/14/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFTPX",
+          "asset-name": "Pimco Low Duration Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "XLI",
+          "asset-name": "SPDR Select Sector Fund - Industrial",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VFH",
+          "asset-name": "Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VFH",
+          "asset-name": "Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VYM",
+          "asset-name": "Vanguard High Dividend Yield ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "CEYIX",
+          "asset-name": "Calvert Equity Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "CSDIX",
+          "asset-name": "Cohen & Steers Real Estate Securities Fund Inc.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IDV",
+          "asset-name": "iShares International Select Dividend ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/11/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "OAKMX",
+          "asset-name": "Oakmark Fund Investor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VNQ",
+          "asset-name": "Vanguard Real Estate ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BTO",
+          "asset-name": "John Hancock Financial Opportunities Fund Common S",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVIX",
+          "asset-name": "Invesco Oppenheimer Developing Markets Fund Clas",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/15/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVIX",
+          "asset-name": "Invesco Oppenheimer Developing Markets Fund Clas",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANONX",
+          "asset-name": "American Century Small Cap Growth Fund - I Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "STSCX",
+          "asset-name": "Sterling Capital Stratton Small Cap Value Fund I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TIRRX",
+          "asset-name": "T. Rowe Price Real Estate Fund - I Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RWX",
+          "asset-name": "SPDR DJ Wilshire Intl Real Estate",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHYQX",
+          "asset-name": "PGIM High Yield Fund Class R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/26/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QUAL",
+          "asset-name": "iShares MSCI USA Quality Factor ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IWM",
+          "asset-name": "iShares Russell 2000 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TMPIX",
+          "asset-name": "Touchstone Mid Cap Fd Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TSEGX",
+          "asset-name": "Touchstone Sands Capital Emerging Markets Growth",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PDBC",
+          "asset-name": "Invesco Optimum Yield Diversified Commodity Strate",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/26/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/11/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FLMVX",
+          "asset-name": "Jpmorgan Mid Cap Value Fund Class L",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EFA",
+          "asset-name": "iShares MSCI EAFE ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/29/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DHLSX",
+          "asset-name": "Diamond Hill  Long-Short Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/14/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.35%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Morgan Stanley Private Bank\n\t\t\t\t\t\t\t\tEwing, NJ",
+          "comments": "Home Mortgage; Formerly reported as PHH Mortgage Services. Mortgage sold by creditor in 2020."
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.53%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "New Residential Mortgage (Division of PHH Mortgage)\n\t\t\t\t\t\t\t\tMt Laurel, NJ",
+          "comments": "Washington, DC Condo"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Nov 2012",
+          "parties-involved": "Adams Media\n\t\t\t\t\t\t\t\tAvon, MA",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Adams Media published a book written by Sen Whitehouse titled \"On Virtues\" and royalties to be paid on book. No royalties were received in 2020.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jun 2015",
+          "parties-involved": "The New Press\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties based on customary and usual terms for a nonfiction\nbook titled \"Captured: The Corporate Infiltration of American Democracy.\" No royalties received in 2020; all royalties are donated to charity.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

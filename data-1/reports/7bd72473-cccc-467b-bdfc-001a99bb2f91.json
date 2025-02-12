@@ -1,0 +1,589 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2021",
+  "filer": "The Honorable Amy J Klobuchar (Klobuchar, Amy)",
+  "filed-date": "05/16/2022",
+  "filed-time": "8:16 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "State of Maryland (University of Baltimore)\n\t\t\t\t\t\t\t\tAnnapolis, MD",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Georgetown University\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Penguin Random House, LLC (c/o Bertelsmann Accounting Services)\n\t\t\t\t\t\t\t\tWestminster, MD",
+          "amount-paid": "$13,478.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Distribution - Annuity Death Proceeds from James J. Klobuchar - Thrivent Financial for Lutherans)",
+          "who-paid": "Thrivent Financial for Lutherans\n\t\t\t\t\t\t\t\tAppleton, WI",
+          "amount-paid": "$8,273.13",
+          "comments": "Distribution - Annuity Death Proceeds from James J. Klobuchar - Thrivent Financial for Lutherans"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Distribution - Annuity Death Proceeds from James J. Klobuchar - Thrivent Financial for Lutherans)",
+          "who-paid": "Thrivent Financial for Lutherans\n\t\t\t\t\t\t\t\tAppleton, WI",
+          "amount-paid": "> $1,000",
+          "comments": "Distribution - Annuity Death Proceeds from James J. Klobuchar - Thrivent Financial for Lutherans"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA of Rose Klobuchar - Sale of Delaware Ivy Wilshire Global Allocation A (IWGAX) Fund)",
+          "who-paid": "Ivy Investments - Fiduciary Trust Co. NH\n\t\t\t\t\t\t\t\tKansas City, MO",
+          "amount-paid": "$13,346.46",
+          "comments": "Distribution of assets as a result of sale of previously inherited IRA of Rose Klobuchar."
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "QCBMIX - CREF Bond Market Account - R3",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TCLFX - TIAA-CREF Lifecycle 2025 Retirement",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Certificate of Deposit, Checking, IRA Cash Accounts, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Wells Fargo(Minneapolis, MN)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TruStone Financial(Minneapolis, MN)Type: Certificate of Deposit, Checking, IRA Cash Accounts, Money Market Account, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Fidelity Investments IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FAIGX - Fidelity Advisor Balanced Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAGOX - Fidelity Advisor Growth Opportunities Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAERX - Fidelity Advisor Overseas Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FEIRX - Fidelity Advisor Equity Income Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAEGX - Fidelity Advisor Equity Growth Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTBRX - Fidelity Advisor Limited Term Bond Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street Russell Small Cap Index Non-Lending Series Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street Russell Small Cap Index Non-Lending Series Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SIUSX - Guggenheim Investment Grade Bond Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northwestern Mutual Life Ins. - Variable Ins. Policies",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Select Bond (MSA/Allspring Global Investments)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "International Equity (MSA/Dodge and Cox)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Index 500 Stock (MSA/Blackrock Advisors LLC)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mid Cap Growth Stock (MSA/Wellington Management)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "High Yield Bond (MSA/Federated Invest. Mgmt. Co.)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Small Cap Growth Stock (MSA/Wellington Management)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Strategic Equity (Russell Invsts)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "International Developed Markets (Russell Invsts)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Small Cap Value (MSA/T Rowe Price)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mid Cap Value (MSA/American Century)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Delaware Ivy Wilshire Global Allocation A (IWGAX)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/12/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale of Previously Inherited IRA of Rose Klobuchar"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Thrivent Fund - Fixed Account",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Annuity of James J. Klobuchar - Thrivent Financial for Lutherans. Inherited CY 2021."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Thrivent Fund - Fixed Account",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Annuity of James J. Klobuchar - Thrivent Financial for Lutherans. Inherited CY 2021."
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Thrivent Diversified Income Plus Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/01/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Redemption of Shares (Thrivent Funds, Kansas City, MO). Shares inherited in CY 2021."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Vanguard(R) Small-Cap Index Fund - Institutional Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/17/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Sale - (S) 457 Plan"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Vanguard(R) Small-Cap Index Fund - Institutional Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/17/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Sale - (S) 401(k) Plan"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Thrivent Fund - Large Cap Growth",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Annuity of James J. Klobuchar - Thrivent Financial for Lutherans. Inherited CY 2021."
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Thrivent Fund - Income",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Annuity of James J. Klobuchar - Thrivent Financial for Lutherans. Inherited CY 2021."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Thrivent Fund - Large Cap Growth",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Annuity of James J. Klobuchar - Thrivent Financial for Lutherans. Inherited CY 2021."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Thrivent Fund - Income",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Annuity of James J. Klobuchar - Thrivent Financial for Lutherans. Inherited CY 2021."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "State Street Russell Small Cap Index Non-Lending Series Fund Class K",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/17/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Purchase - (S) 457 Plan"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "State Street Russell Small Cap Index Non-Lending Series Fund Class K",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/17/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Purchase - (S) 401(k) Plan"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Select Bond (MSA/Allspring Global Inv)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "International Equity (MSA/Dodge Cox)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Index 500 Stock (MSA/BlackRock)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Mid Cap Growth Stock (MSA/Wellington)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "High Yield Bond (MSA/Federated Inv.)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Small Cap Growth Stock (MSA/Wellington)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "US Strategic Equity (RIF)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "International Developed Markets (RIF)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Small Cap Value (MSA/T Rowe Price)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Mid Cap Value (MSA/Amer Century)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Partial sale for purposes of loan from Northwestern Mutual life insurance policy."
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Spouse",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "TruStone Financial Credit Union\n\t\t\t\t\t\t\t\tMinneapolis, MN",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Policy Loan)",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Northwestern Mutual\n\t\t\t\t\t\t\t\tMilwaukee, WI",
+          "comments": "Loan from variable life insurance policy"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Apr 1986",
+          "parties-involved": "Waveland Press, Inc.\n\t\t\t\t\t\t\t\tLong Grove, IL",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with Waveland Press, Inc. to receive book royalties consistent with usual and customary publishing terms.  Waveland Press, Inc. periodically distributes royalties for the book \"Uncovering the Dome,\" written by Amy Klobuchar.  The royalty rate is 15% per copy for college and Amazon sales.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2015",
+          "parties-involved": "Henry Holt and Company, LLC (Publisher) and N. S. Bienstock, Inc. (Author's Agent)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with Henry Holt and Company, LLC (Henry Holt) to receive book royalties consistent with usual and customary publishing terms. In August 2015 Henry Holt published “The Senator Next Door: A Memoir from the Heartland” by Amy Klobuchar. The payment/book royalties were reported in the 2015 annual report.  The University of Minnesota Press has acquired certain paperback rights to this book.  The University of Minnesota Press issued a new edition of \"The Senator Next Door\" in 2019.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2018",
+          "parties-involved": "The Knopf Doubleday Publishing Group (Publisher) (Author's Agent: United Talent Agency LLC/Paul Fedorko)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with The Knopf Doubleday Publishing Group (Publisher), a division of Penguin Random House, LLC, to receive book royalties consistent with usual and customary publishing terms.  Author's agent: United Talent Agency LLC, 888 Seventh Avenue, 7th Floor, New York, NY 10106/Paul Fedorko (The Paul Fedorko Agency, 85 East End Avenue, New York, NY 10028). The contract pertains to \"Antitrust: Taking on Monopoly Power from the Gilded Age to the Digital Age.\"",
+          "comments": "A paperback of the \"Antitrust\" was published in 2022 by Vintage Books, an imprint of The Knopf Doubleday Publishing Group."
+        },
+        {
+          "date": "Feb 2022",
+          "parties-involved": "St. Martin's Publishing Group\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with St. Martin's Publishing Group to receive book royalties consistent with usual and customary publishing terms. Author's agent: Robert Barnett, Williams & Connolly LLP, 725 12th Street NW, Washington, DC 20005.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": [
+        {
+          "document-title": "2021 Report_Amy Klobuchar Supplement to Report (Spouse 457 UB Plan Contributions).pdf",
+          "date-time-added": "04/15/2022 @ 4:23 PM"
+        },
+        {
+          "document-title": "2021 Report_Amy Klobuchar Supplement to Report (MD Optional Retirement Plan Contributions).pdf",
+          "date-time-added": "04/15/2022 @ 4:21 PM"
+        },
+        {
+          "document-title": "2021 Report_Amy Klobuchar Supplement to Report (Northwestern Mutual Variable Life Insurance Contributions).pdf",
+          "date-time-added": "04/15/2022 @ 4:20 PM"
+        },
+        {
+          "document-title": "2021 Report_Amy Klobuchar Supplement to Report (Spouse 401(K) UB Plan Contributions).pdf",
+          "date-time-added": "04/15/2022 @ 4:20 PM"
+        }
+      ]
+    }
+  ]
+}

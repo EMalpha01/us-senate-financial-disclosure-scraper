@@ -1,0 +1,515 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report (Amendment 1)",
+  "filer": "Mr. Thomas J Ossoff",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Emory Healthcare\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "BRK-B - Berkshire Hathaway Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CAT - Caterpillar Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BA - The Boeing Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "CNBKA - Century Bancorp, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CWGL - Crimson Wine Group, Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KHC - The Kraft Heinz Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDLZ - Mondelez International, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FIW - First Trust Water ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDGRX - Fidelity Growth Company",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FXAIX - Fidelity 500 Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Fidelity IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity Government Cash Reserves",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "State of Israel Bonds",
+          "asset-type": "Foreign BondsForeign Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Insight TWICompany: Insight TWI (London, UK) Description: Media production; Television & Film; Investigative Journalism",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NWC Investment Partnership V LP - Posigen, Inc.Company: NWC Investment Partnership V LP - Posigen, Inc. (New Orleans, LA) Description: Solar installation",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Government Money Market",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CSCO - Cisco Systems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "KO - The Coca-Cola Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "HD - The Home Depot, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "JNJ - Johnson & Johnson",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "UPS - United Parcel Service, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Edward Jones Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "The American Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Wells Fargo(Atlanta, GA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Savings BondsRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSIS Retirement Plan",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "7.8%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(n/a)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Fidelity Investments\n\t\t\t\t\t\t\t\tBoston, MA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "The World Investigates Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAtlanta, GA",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Tailwind Media, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAtlanta, GA",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "TWI Digital, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAtlanta, GA",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Apr 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board member)",
+          "entity": "Georgia Conservation Voters\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAtlanta, GA",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Insight TWI,  Ltd.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLondon, UK",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "AMC Networks Digital Group\n\t\t\t\t\t\t\t\tNew York, NY",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "British Broadcasting Corporation\n\t\t\t\t\t\t\t\tLondon, UK",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "NGC Network International, LLC\n\t\t\t\t\t\t\t\tWashington, DC",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "RTL\n\t\t\t\t\t\t\t\tHilversum, Netherlands",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "SKY Vision\n\t\t\t\t\t\t\t\tLondon, UK",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Nippon Television Network\n\t\t\t\t\t\t\t\tTokyo, Japan",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Canal+ International\n\t\t\t\t\t\t\t\tParis, France",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "ABC2\n\t\t\t\t\t\t\t\tSydney, Australia",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "NRK - Norwegian Broadcasting Corporation\n\t\t\t\t\t\t\t\tOslo, Norway",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "CLT-UFA S.A.\n\t\t\t\t\t\t\t\tHilversum, Netherlands",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Cirkus Limited\n\t\t\t\t\t\t\t\tLondon, UK",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "IWONDER PTE, Ltd.\n\t\t\t\t\t\t\t\tSingapore, Singapore",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "DR - Danish Broadcasting Corporation\n\t\t\t\t\t\t\t\tCopenhagen, Denmark",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "SBS Corporation\n\t\t\t\t\t\t\t\tArtarmon, New South Wales",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "PCCW Media Limited\n\t\t\t\t\t\t\t\tHong Kong, China",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Sveriges  Television Ab\n\t\t\t\t\t\t\t\tStockholm, Sweden",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Ringler Axel Polska\n\t\t\t\t\t\t\t\tWarsaw, Poland",
+          "duties": "Insight TWI - CEO - broadcast and media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "RUV - Icelandic National Broadcasting\n\t\t\t\t\t\t\t\tReykjavik, Iceland",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Independent Television News Ltd\n\t\t\t\t\t\t\t\tLondon, UK",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Tvn S.A.\n\t\t\t\t\t\t\t\tWarsaw, Poland",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "RTI Televisive Italiane SpA\n\t\t\t\t\t\t\t\tMilan, Italy",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "BBC World Service\n\t\t\t\t\t\t\t\tLondon, UK",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Al Jazeera Media Network\n\t\t\t\t\t\t\t\tDoha, Qatar",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Nippon Television Network Europe B.V.\n\t\t\t\t\t\t\t\tAmsterdam, Netherlands",
+          "duties": "Insight TWI - CEO - brodcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Yleisradio Oy Finnish Broadcasting Company\n\t\t\t\t\t\t\t\tHelsinki, Finland",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "CLT-UFA SA (Luxembourg)\n\t\t\t\t\t\t\t\tHilversum, Netherlands",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Vlaamse Radio-Televisiemroeporgani\n\t\t\t\t\t\t\t\tBrussels, Belgium",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Stripe Payments VHX\n\t\t\t\t\t\t\t\tLondon, UK",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "AMC Networks Central Europe Kft\n\t\t\t\t\t\t\t\tBudapest, Hungary",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Screenrights\n\t\t\t\t\t\t\t\tChippendale, Australia",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Planete Cable\n\t\t\t\t\t\t\t\tParis, France",
+          "duties": "Insight TWI - CEO - broadcast media production",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

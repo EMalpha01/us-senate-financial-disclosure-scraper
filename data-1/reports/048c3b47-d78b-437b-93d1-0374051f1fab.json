@@ -1,0 +1,338 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2016",
+  "filer": "The Honorable Christopher Murphy (Murphy, Chris)",
+  "filed-date": "06/29/2017",
+  "filed-time": "3:49 PM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Education Counsel\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "USAA(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USAA(Washington, DC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VTHRX - Vanguard Target Retirement 2030 Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHET 529 PlanInstitution: CHET",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Social Choice Option",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Moderate Managed Allocation Ages 8-11",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Aggressive Managed Allocation Age 8-11",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHET 529 PlanInstitution: CHET",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aggressive Managed Allocation Age 4-7",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Principal Plus Interest Option",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Retirement Plan IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SWSXX - Schwab Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity 401(K)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VMFXX - Vanguard Money Market Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FKTHX - Fidelity Freedom K 2035",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Connecticut Legal Services, Inc.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Moderate Managed Allocation Ages 8-11",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Moderate Managed Allocation Ages 4-7",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Aggressive Managed Allocation Age 4-7",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Aggressive Managed Allocation Age 8-11",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTHRX",
+          "asset-name": "Vanguard Target Retirement 2030 Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTHRX",
+          "asset-name": "Vanguard Target Retirement 2030 Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/04/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMRXX",
+          "asset-name": "Vanguard Prime Money Market Fun",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/27/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMFXX",
+          "asset-name": "Vanguard Money Market Reserves",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/27/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "5.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "PHH\n\t\t\t\t\t\t\t\tMt Laurel, NJ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "1998",
+          "debtor": "Self",
+          "type": "Educational Loan",
+          "points": "-",
+          "rate-term": "5.12%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Sallie Mae\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "1997",
+          "debtor": "Spouse",
+          "type": "Educational Loan",
+          "points": "-",
+          "rate-term": "5.38%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Sallie Mae\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Chase Home Lending\n\t\t\t\t\t\t\t\tColumbus, OH",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Feb 2007 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(advisory board member)",
+          "entity": "Susan B Anthony Project\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTorrington, CT",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

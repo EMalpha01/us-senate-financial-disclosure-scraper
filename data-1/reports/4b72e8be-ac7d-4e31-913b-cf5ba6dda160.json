@@ -1,0 +1,554 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2016 (Amendment 1)",
+  "filer": "The Honorable James P Lankford (Lankford, James)",
+  "filed-date": "10/26/2017",
+  "filed-time": "11:45 AM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Speech Language Pathology Services\n\t\t\t\t\t\t\t\tEdmond, OK",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Religious Service)",
+          "who-paid": "Arrow Heights Baptist Church\n\t\t\t\t\t\t\t\tBroken Arrow, OK",
+          "amount-paid": "$300.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Religious Service)",
+          "who-paid": "Woodcrest Chapel Church\n\t\t\t\t\t\t\t\tColumbia, MO",
+          "amount-paid": "$500.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Religious Service)",
+          "who-paid": "Grace Community Church\n\t\t\t\t\t\t\t\tOklahoma City, OK",
+          "amount-paid": "$1,000.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Religious Service)",
+          "who-paid": "Putnam City Baptist Church\n\t\t\t\t\t\t\t\tOklahoma City, OK",
+          "amount-paid": "$500.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Religious Service)",
+          "who-paid": "Eagle Heights Baptist Church\n\t\t\t\t\t\t\t\tOklahoma City, OK",
+          "amount-paid": "$300.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "MidFirst Bank(Oklahoma City, OK)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Daugher 529 AccountInstitution: TIAA CREF",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Conservative Managed Allocation Age 14-17",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Daughter 2 529 AccountInstitution: TIAA CREF",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Conservative Managed Allocation Age 18+",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Personal IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Acadian Emerging Markets Port Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Beacon Stephens Small Cap Growth Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Deutsche Global High Income FD S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Deutsche Ultra Short Duration FD S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Deutsche Unconstrained Income Fund S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Advisor New Insights CL I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Capital Apprecitation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity High Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Low Priced Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSRRX - Fidelity Strategic Real Return (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco Comstock Fund CL A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OOSAX - Oppenheimer Senior Floating Rate A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "James and Cindy Mutual FundDescription: Investments (Oklahoma City, OK)",
+          "asset-type": "Investment FundInvestment Club",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPWCX - American Beacon Stephens Sm Cp Gr C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Deutsche Global High Income FD S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FEMKX - Fidelity Emerging Markets (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSRRX - Fidelity Strategic Real Return (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDCAX - Fidelity Capital Appreciation (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FINSX - Fidelity Advisor New Insights I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SPHIX - Fidelity High Income (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FLPSX - Fidelity Low-Priced Stock (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ACSTX - Invesco Comstock A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Oppenheimer Senior Floating Rate CL A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cindy IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FSRRX - Fidelity Strategic Real Return (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDCAX - Fidelity Capital Appreciation (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FINSX - Fidelity Advisor New Insights I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPHIX - Fidelity High Income (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FLPSX - Fidelity Low-Priced Stock (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ACSTX - Invesco Comstock A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AEMGX - Acadian Emerging Markets Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "STSGX - American Beacon Stephens Sm Cp Gr Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KSTSX - Deutsche Unconstrained Income S (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SDUSX - Deutsche Ultra-Short Duration S (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGHSX - Deutsche Global High Income S (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OOSAX - Oppenheimer Senior Floating Rate A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "INVESCO GLOBAL MARKT NEUTRAL A",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "INVESCO ALL CAP MRKT NEUTRAL A",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "DEUTSCHE UNCONSTRAINED INCOME FUND S",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "DEUTSCHE UNTRA SHORT DURATION FD S",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/20/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "INVESCO COMSTOCK FUND CL A",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/21/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "INVESCO GLOBAL MARKT NEUTRAL A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "INVESCO ALL CAP MRKT NEUTRAL A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Year)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "US Bank\n\t\t\t\t\t\t\t\tMinneapolis, MN",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Car Loan)",
+          "points": "-",
+          "rate-term": "2.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 Years)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Bank of the West\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Car Loan)",
+          "points": "-",
+          "rate-term": "2.9%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(60 Month)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "MidFirst Bank \n\t\t\t\t\t\t\t\tOklahoma City, OK",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Jasmine Moran Children's Museum\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSeminole, OK",
+          "entity-type": "Nonprofit Organization",
+          "comments": "Uncompensated Position"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

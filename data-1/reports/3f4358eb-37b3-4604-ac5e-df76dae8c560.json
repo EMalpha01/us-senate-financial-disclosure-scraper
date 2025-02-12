@@ -1,0 +1,226 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2014 (Amendment 1)",
+  "filer": "The Honorable Deb S Fischer (Fischer, Deb)",
+  "filed-date": "07/07/2015",
+  "filed-time": "9:45 AM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Sunny Slope Ranch, Inc\n\t\t\t\t\t\t\t\tValentine, NE",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo(Valentine, NE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "513.35 Shares Stock of Sunny Slope Ranch, Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "513.35 Shares stock Sunny Slope Ranch, Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rocky Ford Land Description: Rocky Ford Land (Valentine, NE)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Sunny Slope Ranch, Inc Promissory NoteCompany: Sunny Slope Ranch, INc. (Valentine, NE)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Jackson Life Flexible Premium Deferred Annuity - IRAProvider: Jackson LIfe",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Jackson Life Flexible Premium Deferred annuity - IRAProvider: Jackson Life",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Lincoln Liberty Split Dollar Life Insurance (became Jackson National Life)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2014",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ohio Life Split Dollar Life Insurance",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2014",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2005",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Cedar Rapids State Bank\n\t\t\t\t\t\t\t\tCedar Rapids, NE",
+          "comments": "Owned by Sunny Slope Ranch  - Personally guaranteed variable rate loan modified 2014"
+        },
+        {
+          "incurred": "2003",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.59%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 Years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Farm Credit Services\n\t\t\t\t\t\t\t\tValentine, NE",
+          "comments": "Owed by Sunny Slope Ranch to FCS - personally guaranteed"
+        },
+        {
+          "incurred": "2014",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.7%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "TD Bank\n\t\t\t\t\t\t\t\tMount Laurel, NJ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "1991",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Split Dollar Life insurance premiums paid by Corporation)",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Pay on death of insured)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Sunny Slope Ranch Inc\n\t\t\t\t\t\t\t\tValentine, NE",
+          "comments": "This loan was paid off in September 2014 with split dollar life insurance proceeds."
+        },
+        {
+          "incurred": "1987",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Split Dollar life insurance premiums paid by the Corporation)",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Pay on death of insured)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Sunny Slope Ranch, INc\n\t\t\t\t\t\t\t\tValentine, NE",
+          "comments": "This loan was paid off in September 2014 with split dollar life insurance proceeds."
+        },
+        {
+          "incurred": "2006",
+          "debtor": "Joint",
+          "type": "Promissory Note",
+          "points": "-",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Sunny Slope Ranch, Inc\n\t\t\t\t\t\t\t\tValentine, NE",
+          "comments": "This loan was paid off in 2014."
+        },
+        {
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 Years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "comments": "This loan was paid off during 2014 with the proceeds of the sale of personal residence."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

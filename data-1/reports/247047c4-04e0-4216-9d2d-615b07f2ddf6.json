@@ -1,0 +1,1465 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2015 (Amendment 1)",
+  "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
+  "filed-date": "05/15/2017",
+  "filed-time": "4:59 PM",
+  "calendar-year": "2015",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Jefferson Consulting Group\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "IRA Distribution from Account Held by R.M. Davis\n\t\t\t\t\t\t\t\tPortland, ME",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "TDBank(Bangor, ME)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TDBank(Bangor, ME)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "St. Petersburg, Florida, Condo, Rental Real EstateDescription: Condominium (St. Petersburg, FL) Filer comment:  Sold 6/29/2015 as reflected in Section 4b.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Bangor Savings Bank(Bangor, ME)Type: NOW Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Senate Federal CU(Alexandria, VA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FASMX - Fidelity Asset Manager Filer comment:  IRA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FEQTX - Fidelity Equity Dividend IncomeFiler comment:  IRA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TOLLX - Deutsche Global Infrastructure A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HFEAX - Henderson European Focus A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DVFAX - Cohen & Steers Dividend Value A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TEGTX - Templeton Growth C",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "BMGAX - BlackRock Mid-Cap Growth Equity Inv A",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "WASCX - Ivy Asset Strategy C",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ST of WA GO SR E 93974CFX3Rate/Coupon: 5.0%  Matures: 02/01/2015Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Bulloch Cnty GA SCH 120343CW6Rate/Coupon: 5.0%  Matures: 05/01/2015",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Maryland St Dept Trans Rev B/E 574204QY2Rate/Coupon: 5.0%  Matures: 06/01/2015Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "New York NY FISCAL SR C 64966HPK0Rate/Coupon: 5.0%  Matures: 08/01/2015",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "State of CA VAR GEN OBLI BN 13063BRP9Rate/Coupon: 4.0%  Matures: 02/01/2016Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SOUTH OGDEN UT 2%16 CUSIP 83907RAA8Rate/Coupon: 2.0%  Matures: 02/01/2016",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CHARLES CNTY MD ESCROW TO MAT 1598077K6Rate/Coupon: 5.0%  Matures: 03/01/2016",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CHARLES CNTY MD BE/R 1598077P5Rate/Coupon: 5.0%  Matures: 03/01/2016",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NEW YORK MUN WTR FIN AU SR EE 64972FZE9Rate/Coupon: 5.0%  Matures: 06/15/2016",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MARYLAND ST TRANS AUTH SR 1 574300JT7Rate/Coupon: 4.0%  Matures: 07/01/2017Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SOUDERTON PA AREA SCH BE/R 8363030MP8Rate/Coupon: 4.0%  Matures: 11/01/2016",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SAN ANTONIO TX EL GAS SR A 796253Q54Rate/Coupon: 4.0%  Matures: 02/01/2017",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "OHIO ST WTR DEV AUTH WTR SR A 6766WRY0Rate/Coupon: 5.0%  Matures: 12/01/2017Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Charleston Cnty SC SCH 160075WY9Rate/Coupon: 4.0%  Matures: 02/01/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ENERGY NORTHWEST WA EL SR A 29270CMG7Rate/Coupon: 5.0%  Matures: 07/01/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WASHINGTON CNTY MD WTR & BE/R 937751U52Rate/Coupon: 5.0%  Matures: 07/01/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MINNESOTA ST 5%18 CUSIP 6041296Y7Rate/Coupon: 5.0%  Matures: 08/01/2018Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MINNESOTA ST SR A 604129K47Rate/Coupon: 5.0%  Matures: 08/01/2018Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "METROPOLITAN TRANS AUTH SR 7 59259YTP4Rate/Coupon: 5.0%  Matures: 11/15/2019",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "New Hampshire MUND BD BK 64465PPP7Rate/Coupon: 3.0%  Matures: 08/15/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Winslow ME 975434FU0Rate/Coupon: 3.0%  Matures: 10/01/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NYC NY TRANSITION SR E 64971QCT8Rate/Coupon: 5.0%  Matures: 11/01/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Portland ME WTR DIST REV 736606BR4Rate/Coupon: 3.0%  Matures: 11/01/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Rochester NH 771639TK7Rate/Coupon: 3.0%  Matures: 03/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Billings MT 0900957K0Rate/Coupon: 3.0%  Matures: 07/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UNIV ILL SR A 914353ZB6Rate/Coupon: 5.0%  Matures: 04/01/2022Filer comment:  State security.",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Fed Farm Credit BK 3133EFAS6Rate/Coupon:   Matures: Filer comment:  Rate/Coupon: 2.0%\nMatures: 08/26/2019",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Fed Farm Credit BK 3133EFHP5Rate/Coupon:   Matures: Filer comment:  Rate/Coupon: 1.7%\nMatures: 07/08/2020",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CVS - CVS Health Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MTD - Mettler-Toledo International Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WCN - Waste Connections Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UL - Unilever PLC",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ADP - Automatic Data Processing, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MMM - 3M Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AYI - Acuity Brands, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HSY - The Hershey Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "KMB - Kimberly-Clark Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GOOGL - Alphabet Inc. (A)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOOG - Alphabet Inc. (C)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DNKN - Dunkin' Brands Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "V - Visa Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WFC - Wells Fargo & Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HD - The Home Depot, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ACN - Accenture plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AON - Aon plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DHR - Danaher Corp.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NSRGY - Nestlé S.A.Filer comment:  (Trust)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NSRGY - Nestlé S.A.Filer comment:  (IRA)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PSX - Phillips 66Filer comment:  (Trust)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PSX - Phillips 66Filer comment:  (IRA)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TJX - The TJX Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USB - U.S. Bancorp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AXP - American Express Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HAL - Halliburton Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CMCSA - Comcast Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SNA - Snap-on Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SBUX - Starbucks Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VFC - V.F. Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PEP - Pepsico, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ESRX - Express Scripts Holding Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GILD - Gilead Sciences Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JNJ - Johnson & Johnson",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MRK - Merck & Co. Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFE - Pfizer Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RHHBY - Roche Holding AG (OTC Markets)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UNH - UnitedHealth Group Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMT - American Tower Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SCHW - The Charles Schwab Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CME - CME Group Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JPM - JPMorgan Chase & Co.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XOM - Exxon Mobil Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SLB - Schlumberger Limited",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SE - Spectra Energy Corp.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BA - The Boeing Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DD - E. I. du Pont de Nemours and Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ECL - Ecolab Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HON - Honeywell International Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PX - Praxair Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PCP - Precision Castparts Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UNP - Union Pacific Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UTX - United Technologies Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EMC - EMC Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MSFT - Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VZ - Verizon Communications Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "APH - Amphenol Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HSIC - Henry Schein, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MA - MasterCard Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MCHP - Microchip Technology Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PRGO - Perrigo Company plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ROP - Roper Technologies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SRCL - Stericycle, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TFX - Teleflex Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SWGXX - Schwab Gov Securities FdFiler comment:  Trust",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SWGXX - Schwab Gov Securities FdFiler comment:  IRA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VOYA - Voya Financial, Inc.",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "INGIX - Voya US Stock Index Port I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "01/13/2015",
+          "owner": "Spouse",
+          "ticker": "UL",
+          "asset-name": "Unilever plc (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/13/2015",
+          "owner": "Spouse",
+          "ticker": "WCN",
+          "asset-name": "Waste Connections Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/13/2015",
+          "owner": "Spouse",
+          "ticker": "AXP",
+          "asset-name": "American Express Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/13/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/13/2015",
+          "owner": "Spouse",
+          "ticker": "ADP",
+          "asset-name": "Automatic Data Processing, Inc. (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/13/2015",
+          "owner": "Spouse",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/13/2015",
+          "owner": "Spouse",
+          "ticker": "MTD",
+          "asset-name": "Mettler-Toledo International Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/12/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Billings MT \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.000\n\t\t\t\t\t\t\t\t\t\tMatures: 07/01/2021",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "AXP",
+          "asset-name": "American Express Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "AXP",
+          "asset-name": "American Express Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "AXP",
+          "asset-name": "American Express Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "KMB",
+          "asset-name": "Kimberly-Clark Corporation (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "AYI",
+          "asset-name": "Acuity Brands, Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "MMM",
+          "asset-name": "3M Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "AXP",
+          "asset-name": "American Express Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "AXP",
+          "asset-name": "American Express Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "KMB",
+          "asset-name": "Kimberly-Clark Corporation (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "HAL",
+          "asset-name": "Halliburton Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "HAL",
+          "asset-name": "Halliburton Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "HAL",
+          "asset-name": "Halliburton Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/20/2015",
+          "owner": "Spouse",
+          "ticker": "HAL",
+          "asset-name": "Halliburton Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/26/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Rochester NH\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.000\n\t\t\t\t\t\t\t\t\t\tMatures: 03/01/2021",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/20/2015",
+          "owner": "Spouse",
+          "ticker": "HSY",
+          "asset-name": "The Hershey Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/21/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "New Hampshire MUND BD Bk\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.000\n\t\t\t\t\t\t\t\t\t\tMatures: 08/15/2020",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/09/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Portland ME WTR DIST REV\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2020",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/20/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Winslow Maine \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2020",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/26/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Federal Farm Credit Bank\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 2.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/26/2019",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/11/2015",
+          "owner": "Spouse",
+          "ticker": "DVFAX",
+          "asset-name": "Cohen & Steers Dividend Value A (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/15/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fed Farm Credit Bank \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 1.7%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/08/2020",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VISA INC - A",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Hershey Co",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Dunkin Brands Group Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Home Depot Inc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Qualcomm Inc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Accenture PLC",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "AON PLC",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "DANAHER Corp",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Nestle SA",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Phillips 66",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TJX Cos Inc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "ConocoPhillips",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "US Bancorp",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Canadian Pacific Railway LTD",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Borgwarner Inc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Wells Fargo CO",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "St. Petersburg, Florida, Condo, Rental Real Estate",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/29/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TEGTX - Templeton Growth C",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/13/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "DVFAX - Cohen & Steers Dividend Value A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/20/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SDUCX - Deutsche Utra-Short Duration C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/20/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BMGAX",
+          "asset-name": "BlackRock Mid-Cap Growth Equity Inv A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2015",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HFEAX",
+          "asset-name": "Henderson European Focus A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TEGTX",
+          "asset-name": "Templeton Growth C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WASCX",
+          "asset-name": "Ivy Asset Strategy C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2012",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(7/1 ARM)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

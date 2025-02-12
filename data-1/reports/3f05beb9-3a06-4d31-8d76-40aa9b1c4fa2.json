@@ -1,0 +1,2311 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2016",
+  "filer": "The Honorable Gary C Peters (Peters, Gary)",
+  "filed-date": "05/15/2017",
+  "filed-time": "6:15 PM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Forgotten Harvest\n\t\t\t\t\t\t\t\tOak Park, MI",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "Michigan Legislative Retirement System\n\t\t\t\t\t\t\t\tLansing, MI",
+          "amount-paid": "$46,419.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Member Draw",
+          "who-paid": "Meaningful Impact Consulting LLC\n\t\t\t\t\t\t\t\tBloomfield Twp, MI",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Northwestern Mutual Life InsuranceProvider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Transamerica Advisors Life InsuranceProvider: Transamerica Capital",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Congressional Federal(Washington, DC)Type: Certificate of Deposit, Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Mutual of America",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Mutual of America Interest Accumulation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard VIF International Portfolio Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Vanguard VIF Diversified Value Port Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Metlife Provider: MetLife Filer comment:  Single Premium Fixed Annuity",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Central Michigan University 403 (b) Optional Retirement Plan",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FFFEX - Fidelity Freedom 2030 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Michigan Education Savings Program/ MAPInstitution: TIAA-CREF",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Principal Plus Interest Option",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Michigan Education Savings Program/ AGPInstitution: TIAA-CREF",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Global Equity Index Option",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Principal Plus Interest Option",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Community Foundation for SE Michigan MPP",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Goldman Sachs Fs Government Fst",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T Rowe Price Retirement 2030 AdvFiler comment:  Exchanged from Fidelity Advisor 2030 (FTFEX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Community Foundation for SE MI 403(B) PlanCompany: Wells Fargo (New York, NY) Description: Community Foundation for SE Michigan",
+          "asset-type": "Deferred Compensation",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RERCX - American Funds Europacific Growth R3 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PESPX - Dreyfus MidCap Index (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "T Rowe Price Retirement 2020 AdvFiler comment:  Exchanged from Fidelity Advisor Freedom 2020 (FDTFX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "T Rowe Price Retirement 2030 AdvFiler comment:  Exchanged from Fidelity Advisor Freedom 2030 (FTFEX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Goldman Sachs Fs Government Fst",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard S&P 500 Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "State of Michigan 401(k) PlanCompany: Voya (New York, NY) Description: State of Michigan",
+          "asset-type": "Deferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SSgA Target Retirement 2025",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Stable Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Dodge & Cox Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "T Rowe Price Mid Cap Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "American Fund Europacific Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "State of Michigan 457 PlanCompany: Voya (New York, NY) Description: State of Michigan",
+          "asset-type": "Deferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stable Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SSgA S&P 500 Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Jennison Large Cap Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SSgA S&P MidCap Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "RidgeWorth Funds",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "American Fund Europacific Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UBS Resource Management Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS - UBS Group AG (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UBS Bank USA(New York, NY)Type: Brokerage Sweep Account, Filer comment:  UBS Bank USA Dep Acct",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Retirement Account- Colleen's IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "F - Ford Motor Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "INTC - Intel Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JNJ - Johnson & Johnson (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JWN - Nordstrom Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UPS - United Parcel Service, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AIVSX - American Funds Invmt Co of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VAFAX - Invesco American Franchise A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Bank USA(New York, NY)Type: Brokerage Sweep Account, Filer comment:  UBS Bank USA Dep Acct",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Retirement Accounts- Gary's Simplified Employee Pension Plan",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BXMT - Blackstone Mortgage Trust, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CSCO - Cisco Systems, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CIT - CIT Group Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CLX - The Clorox Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EDR - EdR (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EMR - Emerson Electric Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FSFR - Fifth Street Senior Floating Ra (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GM - General Motors Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MPW - Medical Properties Trust Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NEE - NextEra Energy, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NUE - Nucor Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SLB - Schlumberger Limited (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SWK - Stanley Black & Decker, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UNP - Union Pacific Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WPC - W. P. Carey Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "IGR - CBRE Clarion Global Real Estate (NYSE)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SDY - SPDR S&P Dividend ETF (NYSEArca)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MDY - SPDR S&P MidCap 400 ETF (NYSEArca)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF (NYSEArca)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "QCOM - QUALCOMM Incorporated (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JPMorgan Chase & Co NTS B/ERate/Coupon: 2.600%  Matures: 01/15/2016Filer comment:  Bond called, however income received",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Home Depot Inc NTS B/ERate/Coupon: 5.400%  Matures: 03/01/2016Filer comment:  Bond called, however income received",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "The Royal Bank of ScotlandRate/Coupon: 3.750%  Matures: 11/15/2017",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Amer Intl Group Med Term, NTSRate/Coupon: 5.850%  Matures: 01/16/2018",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Morgan Stanley NTS B/E Rate/Coupon: 3.100%  Matures: 11/09/2018",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "John Hancock Signature Notes CallableRate/Coupon: 5.750%  Matures: 11/15/2018",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Alabama Power Co MW +20BPRate/Coupon: 5.125%  Matures: 02/15/2019",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Anheuser Busch Cos NTS Call MW + 25BPRate/Coupon: 5.000%  Matures: 03/01/2019",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BB&T Corp Rate/Coupon: 5.250%  Matures: 11/01/2019",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Bank of Amer Internotes NTS B/ERate/Coupon: 4.300%  Matures: 11/15/2019",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Stanley Dean Adj RateRate/Coupon: 3.53%  Matures: 12/15/2019",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Teva Pharma Fin IV LLC B/ERate/Coupon: 2.250%  Matures: 03/18/2020",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ford Motor Credit Co LLC Med Term NTSRate/Coupon: 3.450%  Matures: 08/20/2020Filer comment:  Bond called, however income received",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Cliffs Nat Resources Inc +25BP NTS B/ERate/Coupon: 4.875%  Matures: 04/01/2021",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Prospect CPTL Corp Med Term NTSRate/Coupon: 5.250%  Matures: 04/15/2021",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Ford Motor Crdt Co LLC NTS B/ERate/Coupon: 3.050%  Matures: 07/20/2021",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Newmont Mining Corp B /ERate/Coupon: 3.500%  Matures: 03/15/2022",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "US Bancorp Med Term NTS B/ERate/Coupon: 2.950%  Matures: 07/15/2022",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Transocean Inc B/E Call @ MW + 35 BPRate/Coupon: 3.800%  Matures: 10/15/2022",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Aetna Inc NTS B/ERate/Coupon: 2.750%  Matures: 11/15/2022",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AT&T Inc B/E Call @ MW + 15 BPRate/Coupon: 2.625%  Matures: 12/01/2022",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PPR - Voya Prime Rate Trust Shares of (NYSE)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CSQ - Calamos Strategic Total Return  (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GE Capital(New York, NY)Type: Certificate of Deposit, Filer comment:  GE Capital Retail UT US\nRate:  1.9000%\nMatures:  12/31/2018",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GE Capital(New York, NY)Type: Certificate of Deposit, Filer comment:  Rate:  1.6000%\nMatures:  12/23/2019",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UBS Bank USA(New York, NY)Type: Brokerage Sweep Account, Filer comment:  UBS Bank USA Dep Acct",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "STAG - STAG Industrial, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UNP - Union Pacific Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UTX - United Technologies Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SLY - SPDR S&P 600 Small Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Texas Instruments Inc   1.75%   050120Rate/Coupon: 1.75%  Matures: 05/01/2020",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Boeing Co B/E   1.65%   103020Rate/Coupon: 1.65%  Matures: 10/30/2020",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "E I Du Pont de Nemours   2.80%   021523Rate/Coupon: 2.8%  Matures: 02/15/2023",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CVS - CVS Health Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Abbvie Inc NTS B/E 2.90% 11/06/22Rate/Coupon: 2.90%  Matures: 11/06/2022",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Sunoco Logistics NTS B/E 3.45% 01/15/23Rate/Coupon: 3.45%  Matures: 01/15/23",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Monsanto CO B/E 3.375% 07/15/2024Rate/Coupon: 3.375%  Matures: 07/15/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Lloyds TSB BK PLC 2.80% 11/29/24Rate/Coupon: 2.80%  Matures: 11/29/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Lincoln Natl Corp B/E 3.35% 03/09/25Rate/Coupon: 3.35%  Matures: 03/09/25",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Cigna Corp B/E 3.25% 04/15/25Rate/Coupon: 3.25%  Matures: 04/15/2025",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Verizon Communications 2.625% 08/15/26Rate/Coupon: 2.625%  Matures: 08/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ford Motor Credit Co LLC 3.30% 09/20/26Rate/Coupon: 3.30%  Matures: 09/20/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SPG - Simon Property Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Resource Management AccountFiler comment:  Gary's Trust Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ABT - Abbott Laboratories (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ABBV - AbbVie Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "APD - Air Products & Chemicals Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ALL - The Allstate Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T - AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BK - The Bank of New York Mellon Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BAC - Bank of America Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BBT - BB&T Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BMY - Bristol-Myers Squibb Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CCL - Carnival Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CMS - CMS Energy Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "KO - The Coca-Cola Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CL - Colgate-Palmolive Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CAG - ConAgra Foods, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DOW - The Dow Chemical Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DD - E. I. du Pont de Nemours and Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EGP - EastGroup Properties Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ECL - Ecolab Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GE - General Electric Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GIS - General Mills, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HR - Healthcare Realty Trust Incorporated (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JPM - JPMorgan Chase & Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "KMB - Kimberly-Clark Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LEG - Leggett & Platt, Incorporated (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LOW - Lowe's Companies Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MAT - Mattel, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MCD - McDonald's Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MCC - Medley Capital Corporation Comm (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Rent/Royalties",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MDT - Medtronic plc (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MRK - Merck & Co. Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MET - MetLife, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MSFT - Microsoft Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MDLZ - Mondelez International, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NI - NiSource Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "POM - Pepco Holdings, Inc. (NYSE)Filer comment:  Merged 3/28/2016 with Exelon Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PEP - Pepsico, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PFE - Pfizer Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PPG - PPG Industries Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PG - The Procter & Gamble Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SHW - The Sherwin-Williams Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SJM - The J. M. Smucker Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TOT - TOTAL S.A. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VZ - Verizon Communications Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WMT - Wal-Mart Stores Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MMM - 3M Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EFA - iShares MSCI EAFE (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Monroe Cnty Mich BldgRate/Coupon: 4.250%  Matures: 04/01/2024Filer comment:  Called 4/1/16",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Detroit MI Dwntn Dev Rev NPFG B/ERate/Coupon: 4.750%  Matures: 07/01/2018Filer comment:  Called 7/1/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Chippewa Valley MI Sblf Go FSA UtRate/Coupon: 4.000%  Matures: 05/01/2019Filer comment:  Called 11/1/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Rochester Mich Cmnty Sch NPFG B/ERate/Coupon: 5.000%  Matures: 05/01/2019",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Warren Woods MI PS Go Ut FSA SbqlRate/Coupon: 4.500%  Matures: 05/01/2022Filer comment:  Called 5/1/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Grand Traverse Co Mich Bq Ambac Rate/Coupon: 4.250%  Matures: 05/01/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Chippewa Valley Mi Sch Go UT Ref FSA Sblf Rate/Coupon: 4.500%  Matures: 05/01/2024Filer comment:  Called 11/1/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "North Gratiot Interceptr Drain Rate/Coupon: 4.125%  Matures: 05/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Brandon Mi Sch Dist Ult FSARate/Coupon: 4.250%  Matures: 05/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Jackson Mich Cmnty College CIFGRate/Coupon: 4.500%  Matures: 05/01/2025Filer comment:  Called 5/1/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Lowell Mich Area Schs FSA OIDRate/Coupon: 4.500%  Matures: 05/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Parchment Mi Sch Dist 07Rate/Coupon: 4.375%  Matures: 05/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Michigan St Hosp Fin AutRate/Coupon: 5.000%  Matures: 11/15/2025Filer comment:  Called 11/15/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Michigan Fin Auth SR A RVRate/Coupon: 4.000%  Matures: 12/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Kalamazoo Mi Pub SchsRate/Coupon: 4.625%  Matures: 05/01/2026Filer comment:  Called 5/1/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Genesee Cnty Mi Swg SysRate/Coupon: 4.500%  Matures: 05/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Michigan St Univ SR C RVRate/Coupon: 4.000%  Matures: 08/15/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Detroit Mich Wtr Supply Rate/Coupon: 4.500%  Matures: 07/01/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Byron Cntr Mi Pub Schs AssurRate/Coupon: 4.000%  Matures: 05/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Kalamazoo Mi Pub SchsRate/Coupon: 3.125%  Matures: 05/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Oakland Cnty Mi Rate/Coupon: 3.000%  Matures: 10/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Michigan Mun Bd Auth Rev Rev B/ERate/Coupon: 5.000%  Matures: 11/01/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Michigan St Hosp Fin Auth H Rev Rate/Coupon: 5.250%  Matures: 11/15/2032Filer comment:  Called 11/15/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Chippewa Mic Vly Sch CoRate/Coupon: 3.500%  Matures: 05/01/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Birmingham MI Pub Schs Rate/Coupon: 3.000%  Matures: 05/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Columbia Mi SchRate/Coupon: 4.125%  Matures: 05/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Holland Mi Elec SR A RvRate/Coupon: 4.000%  Matures: 07/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Detroit Mi Sew Displ Ser A Rev NPFG B/ERate/Coupon: 5.000%  Matures: 07/01/2035Filer comment:  Called 1/14/16, however income received",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HTD - John Hancock Tax Advantaged Div (NYSE)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UBS Bank USA(New York, NY)Type: Brokerage Sweep Account, Filer comment:  UBS Bank USA Dep Acct",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CPGX - Columbia Pipeline Group, Inc.Filer comment:  Spin Off from NiSource Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DTE - DTE Energy Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IVZ - Invesco Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MMC - Marsh & McLennan Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Berkeley Cnty SC SD SR A RV 3.00%   120128Rate/Coupon: 3.00%  Matures: 12/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Plymouth Canton MI CSD Assur   3.25%   050130Rate/Coupon: 3.25%  Matures: 05/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Sault Ste Marie MI Build   3.00%   040131Rate/Coupon: 3.00%  Matures: 04/01/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Sonoma Valley Ca Uni 2015   3.125%   080133Rate/Coupon: 3.125%  Matures: 08/01/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "St Charles MI Cmnty Sch Assur   3.75%   050135Rate/Coupon: 3.75%  Matures: 05/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Carman-Ainsworth Cmnty OID 3.00% 05/01/27Rate/Coupon: 3.00%  Matures: 05/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Grand Valley Mi St Univ 3.00% 12/01/31Rate/Coupon: 3.00%  Matures: 12/01/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Oakland Mi Schls Inter SC 3.125% 05/01/34Rate/Coupon: 3.125%  Matures: 05/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Parchment Mi Sch SR A 3.25% 05/01/34Rate/Coupon: 3.25%  Matures: 05/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "West Mifflin PA Build OID 98.18 Be/R 2.875% 10/01/35Rate/Coupon: 2.875%  Matures: 10/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Philadelphia PA Stewtr RV OID 3.125% 10/01/35Rate/Coupon: 3.125%  Matures: 10/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Washoe Cnty Nev Sch Dst  3.125% 06/01/36Rate/Coupon: 3.125%  Matures: 06/01/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Connecticut St for Issue SR E 3.375% 10/15/36Rate/Coupon: 3.375%R  Matures: 10/15/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Maricopa Cnty AZ Indl SR A RV 3.25% 01/01/37Rate/Coupon: 3.25%  Matures: 01/01/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Celina Tx Indpt Sch Perma OID   3.00% 08/15/37Rate/Coupon: 3.00%  Matures: 08/15/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Victoria TX ISD 2016 Perma OID 3.125% 02/15/38Rate/Coupon: 3.125%  Matures: 02/15/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Chippewa Ohio Loc Sch Ohio SR1 3.00% 11/01/42Rate/Coupon: 3.00%  Matures: 11/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LW - Lamb Weston Holdings, Inc.Filer comment:  Spin off from Conagra (CAG)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Resource Management Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS Bank USA(New York, NY)Type: Brokerage Sweep Account, Filer comment:  UBS Bank USA Dep Acct",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AIVSX - American Funds Invmt Co of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VAFAX - Invesco American Franchise A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pace Large Co Growth Equity Investments",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Resource Management AccountFiler comment:  Switched from UGMA to Joint in 2015",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AIVSX - American Funds Invmt Co of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VAFAX - Invesco American Franchise A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PCLCX - PACE Large Co Growth Equity P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS(New York, NY)Type: Brokerage Sweep Account, Filer comment:  UBS Bank USA Dep Acct",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard Individual 401(K)",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Wellington Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Meaningful Impact Consulting LLCCompany: Meaningful Impact Consulting LLC (Bloomfield Twp, MI) Description: Consulting",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Other, (Gross Reciepts)",
+          "income": "$50,001 - $100,000Other $62,000.00"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "01/25/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "WASHOE CNTY NEV SCH DIST RFDG-SCH IMPT-SER A\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.125%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/01/2036",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/25/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABBVIE INC NTS B/E\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 2.900%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/06/2022",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/25/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CELINA TEX INDPT SCH DIST RFDG-SCH BLDG PERMANENT SCHOOL FUND GUARANTY\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/15/2037",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/26/2016",
+          "owner": "Self",
+          "ticker": "NUE",
+          "asset-name": "Nucor Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/26/2016",
+          "owner": "Self",
+          "ticker": "WPC",
+          "asset-name": "W. P. Carey Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/26/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MONSANTO CO B/E\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.375%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2024",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/02/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CARMAN-AINSWORTH CMNTY SCH DIST MICH RFDG\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/01/2027",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/02/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CIGNA CORP B/E\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.250%\n\t\t\t\t\t\t\t\t\t\tMatures: 04/15/2025",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/02/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "LINCOLN NATL CORP B/E\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.350%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/09/2025",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/22/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OAKLAND MICH SCHS INTER SCH DIST\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.125%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/01/2034",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/22/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PARCHMENT MICH SCH DIST RFDG-SER A MICHIGAN SCHOOL BOND LOAN FUND (Q-SBLF)\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.25%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/01/2034",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GRAND VALLEY MICH ST UNIV REV RFDG-SER A \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 12/01/2031",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/03/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CHIPPEWA OHIO LOC SCH DIST CLASSROOM FACS & SCH IMPT-SER 1 OHIO ST AID INTERCEPT PROG\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2042",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/24/2016",
+          "owner": "Self",
+          "ticker": "IVZ",
+          "asset-name": "Invesco Ltd.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/24/2016",
+          "owner": "Self",
+          "ticker": "CPGX",
+          "asset-name": "Columbia Pipeline Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "07/05/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "WEST MIFFLIN PA RFDG\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 2.875%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2035",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/01/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sunoco Logistics NTS B/E\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.450%\n\t\t\t\t\t\t\t\t\t\tMatures: 01/15/2023",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/24/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Lloyds TSB BK PLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 2.80%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/29/2024",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/29/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Ford Motor Credit Co. LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.30%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/20/26",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/30/2016",
+          "owner": "Self",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 2.625%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/15/26",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/17/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VICTORIA TX ISD 2016 PERMA OID97.488 BE/R/ \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.125\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/2038",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/17/2016",
+          "owner": "Self",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/20/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Connecticut St For Issues\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.375\n\t\t\t\t\t\t\t\t\t\tMatures: 10/15/2036",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/25/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Maricopa County Ariz INDL DEV\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.25\n\t\t\t\t\t\t\t\t\t\tMatures: 01/01/2037",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/25/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Philadelphia PA WTR & WASTEWTR\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 3.125\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2035",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/30/2016",
+          "owner": "Self",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/30/2016",
+          "owner": "Self",
+          "ticker": "SPG",
+          "asset-name": "Simon Property Group, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "VWELX",
+          "asset-name": "Vanguard Wellington Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/25/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWELX",
+          "asset-name": "Vanguard Wellington Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWELX",
+          "asset-name": "Vanguard Wellington Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/28/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWELX",
+          "asset-name": "Vanguard Wellington Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/15/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWELX",
+          "asset-name": "Vanguard Wellington Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/27/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Principal Plus Interest Option",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/29/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Principal Plus Interest Option",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/28/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fidelity Advisor Freedom 2020 T",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/30/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "T. Rowe Price Retirement 2020 Adv",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fidelity Advisor Freedom 2030 T",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/30/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "T. Rowe Price Retirement 2030 Adv",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fidelity Advisor Freedom 2030 T",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/30/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "T. Rowe Price Retirement 2030 Adv",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2016",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "1",
+          "rate-term": "3.7%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "BB&T \n\t\t\t\t\t\t\t\tCharlotte, NC",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2003",
+          "parties-involved": "Myself and the Michigan Legislative Retirement System\n\t\t\t\t\t\t\t\tLansing, MI",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Participation in the Michigan Legislative Retirement Health Program",
+          "comments": "n/a"
+        },
+        {
+          "date": "Dec 2013",
+          "parties-involved": "Myself and the Michigan Legislative Retirement System\n\t\t\t\t\t\t\t\tLansing, MI",
+          "type": "Continuation of payments by former employer",
+          "status-and-terms": "Currently Receiving Benefits- See Income in Part 2",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2007",
+          "parties-involved": "Central Michigan University\n\t\t\t\t\t\t\t\tMt Pleasant, MI",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "CMU 403(B) Optional Retirement Plan/ \nAccount Balance Remaining at Former Employer Plan/\nFormer Employer Not Making Any Additional Contributions",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2000",
+          "parties-involved": "State of Michigan\n\t\t\t\t\t\t\t\tLansing, MI",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "State of Michigan 401(k) Plan/\nAccount Balance Remaining at Former Employer Plan/\nFormer Employer Not Making Any Additional Contributions",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2000",
+          "parties-involved": "State of Michigan\n\t\t\t\t\t\t\t\tLansing, MI",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "State of Michigan 457 Plan/\nAccount Balance Remaining at Former Employer Plan/\nFormer Employer Not Making Any Additional Contributions",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

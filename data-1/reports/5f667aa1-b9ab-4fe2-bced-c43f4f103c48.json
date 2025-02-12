@@ -1,0 +1,1488 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable John W Hickenlooper (Hickenlooper, John)",
+  "filed-date": "05/15/2024",
+  "filed-time": "2:56 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Liberty Media Corporation\n\t\t\t\t\t\t\t\tEnglewood, CO",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Deferred Compensation)",
+          "who-paid": "Liberty Media Corporation\n\t\t\t\t\t\t\t\tEnglewood, CO",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Board Compensation",
+          "who-paid": "Chipotle Mexican Grill, Inc.\n\t\t\t\t\t\t\t\tNewport Beach, CA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "Denver Employees Retirement Plan\n\t\t\t\t\t\t\t\tDenver, CO",
+          "amount-paid": "$17,433.12",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Board Compensation",
+          "who-paid": "Sirius XM Radio Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA Distribution)",
+          "who-paid": "National Financial Services\n\t\t\t\t\t\t\t\tAlbuquerque, NM",
+          "amount-paid": "$100,000.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "John W Hickenlooper Irrevocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UMB Bank, n.a.(Kansas City, MO)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VDIGX - Vanguard Dividend Growth Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Charles Schwab - Bartlett Wealth Management",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PG - The Procter & Gamble Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "USB - U.S. Bancorp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ITW - Illinois Tool Works Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "WM - Waste Management, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "LOW - Lowe's Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TJX - The TJX Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "KO - The Coca-Cola Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PEP - PepsiCo, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ABT - Abbott Laboratories",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ABBV - AbbVie Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMGN - Amgen Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MRK - Merck & Co., Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NVS - Novartis AG",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CB - Chubb Limited",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "JPM - JPMorgan Chase & Co.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ADP - Automatic Data Processing, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VZ - Verizon Communications Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "DUK - Duke Energy Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MCD - McDonald's Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MSFT - Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "RTX - Raytheon Technologies Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AMT - American Tower Corporation (REIT)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLE - SPDR Select Sector Fund - Energy Select Sector",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SDZNY - Sandoz Group AG",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CoopersmithCompany: Coopersmith (Fort Collins, CO) Description: Brew Pub Filer comment:  Transferred interest in 2023",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Skylark Lounge Holdings LLCDescription: Neighborhood bar and music lounge (Denver, Colorado)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Promissory noteDebtor: Williams",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Fidelity Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "QQQM - Invesco NASDAQ 100 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AAPL - Apple Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SBUX - Starbucks Corporation - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First Bank of Denver(Denver, CO)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Colorado 529 PlanInstitution: CollegeInvest",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stable Value Fund",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Colorado PERA DC Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PERAdvantage Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERAdvantage US Large Cap Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERAdvantage International Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERAdvantage US Small & Mid Cap",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Denver Employees Retirement Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(San Francisco, California)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(San Francisco, California)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(San Francisco, California)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(San Francisco, California)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Liberty Media Corporation 2006 Deferred Compensation PlanCompany: Matrix Trust Company (New York, NY) Description: Cash",
+          "asset-type": "Deferred CompensationDeferred Compensation - Cash",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Liberty Media 401(K)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "DODGX - Dodge & Cox Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MWTSX - Metropolitan West Total Return Bond Fund Plan Clas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PHIYX - PIMCO High Yield Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VAIPX - Vanguard Inflation-Protected Securities Fund Admir",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIAM Blend TD 2045 Q",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity SEP IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPAXX - Fidelity Government Money Market(Albuquerque, NM)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMZN - Amazon.com, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BABA - Alibaba Group Holding Limited",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CMCSA - Comcast Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TTD - The Trade Desk, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CCCS - CCC Intelligent Solutions Holdings Inc. Common Sto",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIEUX - Fidelity Europe Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PTON - Peloton Interactive, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Fd Admiral Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust, Series 1",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JEPI - JPMorgan Equity Premium Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VYM - Vanguard High Dividend Yield ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BMW BK North America(Salt Lake City, UT)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CMG - Chipotle Mexican Grill, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QRTEA - Qurate Retail, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EXPE - Expedia Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FZROX - Fidelity ZERO Total Market Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SNAP - Snap Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BBY - Best Buy Co., Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SPAXX - Fidelity Government Money Market(Boston, MA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "CARG - CarGurus, Inc. - Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NOK - Nokia Corporation Sponsored American Depositary Sh",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PINS - Pinterest, Inc. Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity - Restricted Stock Awards",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SIRI - Sirius XM Holdings Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SIRI - Sirius XM Holdings Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FBND - Fidelity Total Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BATRK - The Liberty Braves Group",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LSXMA - The Liberty SiriusXM Group",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LBRDA - Liberty Broadband Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LBRDK - Liberty Broadband Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LTRPA - Liberty TripAdvisor Holdings, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FWONA - Formula One Group",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FWONK - Formula One Group",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "BATRA - The Liberty Braves Group",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LSXMK - The Liberty SiriusXM GroupStrike price: $30.51 | NeitherExpires: 05/12/2023",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Qurate Retail Inc.Rate/Coupon: 8.0%  Matures: 03/15/2031Filer comment:  Preferred security",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UBS Insured Sweep Program(New York, NY)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LGF-B - Lions Gate Entertainment Corp.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LSXMK - Liberty Media Corporation - Series C Liberty Siriu",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FWONK - Liberty Media Corporation - Series C Liberty FormuStrike price: $43.01 | NeitherExpires: 03/15/2027 Filer comment:  Exercised stock option on 3/8/23",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CollegeInvest 529Institution: CollegeInvest 529",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aggressive Age−Based Option: 12.5% Stock/87.5% Bond Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LLYVK - Liberty Media Corp Series C",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FWONK - Liberty Media Formula One Sr CStrike price: $42.10 | NeitherExpires: 12/10/2027",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LLYVK - Liberty Media Corp Series CStrike price: $33.97 | NeitherExpires: 12/11/2030",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BATRK - Liberty Media Corporation - Series C Liberty BraveStrike price: $26.36 | NeitherExpires: 12/10/2027",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BATRK - Liberty Media Corporation - Series C Liberty BraveStrike price: $37.45 | NeitherExpires: 12/11/2030",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "03/08/2023",
+          "owner": "Spouse",
+          "ticker": "FWONK",
+          "asset-name": "Liberty Media Corporation - Series C Liberty Formu",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "Exercised stock option"
+        },
+        {
+          "transaction-date": "03/08/2023",
+          "owner": "Spouse",
+          "ticker": "FWONK",
+          "asset-name": "Liberty Media Corporation - Series C Liberty Formu",
+          "type": "Sale (Partial)",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/15/2023",
+          "owner": "Spouse",
+          "ticker": "NOK",
+          "asset-name": "Nokia Corporation Sponsored American Depositary Sh",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/20/2023",
+          "owner": "Spouse",
+          "ticker": "BATRK",
+          "asset-name": "Liberty Media Corporation - Series C Liberty Brave",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/20/2023",
+          "owner": "Spouse",
+          "ticker": "LTRPA",
+          "asset-name": "Liberty TripAdvisor Holdings, Inc. - Series A Comm",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/20/2023",
+          "owner": "Spouse",
+          "ticker": "FWONK",
+          "asset-name": "Liberty Media Corporation - Series C Liberty Formu",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/20/2023",
+          "owner": "Spouse",
+          "ticker": "LBRDK",
+          "asset-name": "Liberty Broadband Corporation - Class C Common Sto",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/20/2023",
+          "owner": "Spouse",
+          "ticker": "LSXMK",
+          "asset-name": "Liberty Media Corporation - Series C Liberty Siriu",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/12/2023",
+          "owner": "Spouse",
+          "ticker": "BBY",
+          "asset-name": "Best Buy Co., Inc. Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/12/2023",
+          "owner": "Spouse",
+          "ticker": "CARG",
+          "asset-name": "CarGurus, Inc. - Class A Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com, Inc. - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "TTD",
+          "asset-name": "The Trade Desk, Inc. - Class A Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "PTON",
+          "asset-name": "Peloton Interactive, Inc. - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "DIS",
+          "asset-name": "Walt Disney Company (The) Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation - Class A Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "CCCS",
+          "asset-name": "CCC Intelligent Solutions Holdings Inc. Common Sto",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "BABA",
+          "asset-name": "Alibaba Group Holding Limited American Depositary",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "SNAP",
+          "asset-name": "Snap Inc. Class A Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/28/2023",
+          "owner": "Spouse",
+          "ticker": "PINS",
+          "asset-name": "Pinterest, Inc. Class A Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/01/2023",
+          "owner": "Spouse",
+          "ticker": "CMG",
+          "asset-name": "Chipotle Mexican Grill, Inc. Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/10/2023",
+          "owner": "Self",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc. Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/10/2023",
+          "owner": "Self",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/10/2023",
+          "owner": "Self",
+          "ticker": "AMT",
+          "asset-name": "American Tower Corporation (REIT) Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/26/2023",
+          "owner": "Spouse",
+          "ticker": "CMG",
+          "asset-name": "Chipotle Mexican Grill, Inc. Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/09/2023",
+          "owner": "Spouse",
+          "ticker": "SIRI",
+          "asset-name": "Sirius XM Holdings Inc. - Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2023",
+          "owner": "Spouse",
+          "ticker": "CMG",
+          "asset-name": "Chipotle Mexican Grill",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "QQQM",
+          "asset-name": "Invesco NASDAQ 100 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/22/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JEPI",
+          "asset-name": "JPMorgan Equity Premium Income ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/04/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VYM",
+          "asset-name": "Vanguard High Dividend Yield ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/02/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FBND",
+          "asset-name": "Fidelity Total Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/02/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Stable Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/08/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Stable Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Stable Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/14/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Stable Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/29/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Stable Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Stable Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Stable Value Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age−Based Option: 12.5%Stock/87.5% Bond Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/02/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/14/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/20/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Aggressive Age-Based Option: Aggressive Growth Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/03/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 year)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "UMB Bank N.A.\n\t\t\t\t\t\t\t\tKansas City, MO",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Margin Loan)",
+          "points": "-",
+          "rate-term": "5.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Charles Schwab\n\t\t\t\t\t\t\t\tWestlake, TX",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Dec 2015",
+          "parties-involved": "Penguin Press (an imprint of Penguin Publishing Group, a division of Penguin Random House LLC)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalty for book, \"The Opposite of Woe\" (no royalties received in 2023).",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2011",
+          "parties-involved": "Denver Employees Retirement Pension Plan\n\t\t\t\t\t\t\t\tDenver, CO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Defined benefit plan that provides service retirement benefits.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Apr 2011",
+          "parties-involved": "Colorado PERA DC Plan\n\t\t\t\t\t\t\t\tDenver, CO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Defined contribution pension plan.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2014 (Amendment 1)",
+  "filer": "Mrs. Joni K Ernst (Ernst, Joni)",
+  "filed-date": "07/22/2016",
+  "filed-time": "10:54 AM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "City of Red Oak\n\t\t\t\t\t\t\t\tRed Oak, IA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Iowa Army National Guard\n\t\t\t\t\t\t\t\tJohnston, IA",
+          "amount-paid": "$18,849.94",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "State of Iowa\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "amount-paid": "$24,603.33",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "U.S. Military\n\t\t\t\t\t\t\t\tLondon, KY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "TransAmerica InvestmentsFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IMOLX - Transamerica Asset Allc Moderate C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica BlackRock Tactical Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica PIMCO Total Return",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica BlackRock Global Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ReliaStar Life Ins. Co.Filer comment:  457 Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VY T. Rowe Price Capital Appreciation Pt. Srv.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya Growth and Income Port I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Contrafund Port (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VY Invesco Comstock Port I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VY Invesco Grw & Inc. Port. Srv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya Large Cap Value Port Inst.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya Global Resources Portfolio Srv.",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya GoldenSelect ESIIFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Voya Retirement Growth Portfolio (A)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya Clarion Real Estate Portfolio (S)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IIIAX - Voya International Index Port A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American FundsFiler comment:  Education IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ANWPX - American Funds New Perspective A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US Bank(Red Oak, IA)Type: Checking, Money Market Account, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Franklin Templeton InvestmentsFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FRDPX - Franklin Rising Dividends A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FREEX - Franklin Real Estate Securities A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Franklin Utilities Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FKINX - Franklin Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Invesco AIMFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VAFAX - Invesco American Franchise A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Invesco AIM",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains, Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "VAFAX - Invesco American Franchise A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains, Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ACGIX - Invesco Growth and Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PrudentialFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AST T.Rowe Price Asset Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AST FI Pyramis Quantitative Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AST RCM World Trends",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AST Advanced Strategies Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya GoldenSelect ESIIFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IIIAX - Voya International Index Port A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya Retirement Growth Portfolio (A)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VY Clarion Real Estate Portfolio S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Iowa Retirement",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Unoccupied property with garageDescription: 111 W Grimes St (Red Oak, Iowa) Filer comment:  Rental of parking space in garage",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$1,001 - $2,500"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "VAFAX",
+          "asset-name": "Invesco American Franchise A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/12/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ANWPX",
+          "asset-name": "American Funds New Perspective A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/26/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VAFAX",
+          "asset-name": "Invesco American Franchise A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/12/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ACGIX",
+          "asset-name": "Invesco Growth and Income A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/12/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "ING American Funds International Portfolio",
+          "transaction-type": "Exchange",
+          "transaction-date": "03/14/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "Reallocation"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "ING International Index Portfolio Class ADV",
+          "transaction-type": "Exchange",
+          "transaction-date": "03/14/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "Reallocation"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2012",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Loan)",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "US Bank\n\t\t\t\t\t\t\t\tRed Oak, IA",
+          "comments": "Loan for a camper"
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "US Bank Home Mortgage\n\t\t\t\t\t\t\t\tOwensboro, KY",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jul 2001 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Iowa Army National Guard\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJohnston, IA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(National Guard)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2011 to\n\t\t\t\t\t\t\t\tNov 2014",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Senator)",
+          "entity": "Iowa State Senate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDes Moines, IA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(State Government)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "Iowa Army National Guard\n\t\t\t\t\t\t\t\tJohnston, IA",
+          "duties": "Iowa Army National Guard Officer",
+          "comments": "n/a"
+        },
+        {
+          "source": "State of Iowa\n\t\t\t\t\t\t\t\tDes Moines, Iowa",
+          "duties": "Iowa State Senator",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

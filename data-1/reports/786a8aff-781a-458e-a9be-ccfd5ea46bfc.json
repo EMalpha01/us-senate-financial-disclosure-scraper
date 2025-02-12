@@ -1,0 +1,752 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Michael F Bennet (Bennet, Michael)",
+  "filed-date": "07/15/2024",
+  "filed-time": "1:28 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "University of Denver Law School\n\t\t\t\t\t\t\t\tDenver, CO",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "PERA - Public Employees' Retirement Association of Colorado",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Truist - f/k/a Suntrust(Richmond, VA)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CollegeInvest FundInstitution: CollegeInvest",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Moderate Age-Based Option: Income Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Conservative Age-Based Option: Interest Accumulation Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CollegeInvest FundInstitution: CollegeInvest",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Moderate Age-Based option: Income Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Conservative Age-Based option: Interest Accumulation Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Daggett Farms Limited PartnershipDescription: 1500 acre family farm (Marianna, AR) Filer comment:  9.42% limited partnership",
+          "asset-type": "Farm",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "LMD Farms Limited PartnershipDescription: 1500 acre family farm (Marianna, AR) Filer comment:  8.97% limited partnership",
+          "asset-type": "Farm",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "The Michael F. Bennet Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Charles Schwab Bank(Denver, CO)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "EAERX - Eaton Vance Stock A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Canyon Balanced Fund LPDescription: Hedge fund (Los Angeles, CA)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Belmar HH Owner LLCDescription: Hotel (Lakewood, CO)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Ordinary Business Income)",
+          "income": "Other $29,231.00"
+        },
+        {
+          "asset": "CP Block A Member, LLCDescription: Mixed use development (Denver, CO)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Harbor Spring Capital Partners, LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "LUMN - Lumen Technologies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Continuum Real Estate Investors 2016, LLCCompany: Continuum Real Estate Investors 2016, LLC (Denver, CO) Description: Commercial Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Continuum Market Station, LLCDescription: Continuum Market Station, LLC (Denver, CO)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Continuum 640 Santa Fe, LLCDescription: Continuum 640 Santa Fe, LLC (Los Angeles, CA)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CP 90Co Member, LLCDescription: CP 90Co Member, LLC (Denver, CO)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Madeira Capital Investments LimitedCompany: Madeira Capital Investments Limited (Ebene, Muritius (India)) Description: Private Equity - Retail",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MoreDescription: Grocery Chain (Ebene, Muritius (India))",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CP Kent Place Member, LLCDescription: CP Kent Place Member, LLC (Denver, CO)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Oakcliff Capital Partners, LPDescription: Hedge Fund (New York, NY) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not ascertainable; & the filer has no authority to direct the investments.",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "SNAXX - Schwab Value Advantage Money Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CollegeInvest FundInstitution: CollegeInvest",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Moderate Age-Based option: Income portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Conservative Age-Based option: Interest Accumulation Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Retirement Portfolio",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WilmerHale Retirement Account",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Blackrock Equity Index Non-Lendable Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTMSX - Vanguard Tax-Managed Small Cap Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKIX - Oakmark International Fund Investor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTRIX - Vanguard International Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab - Rollover IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MDLOX - BlackRock Global Allocation Inv A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Empower Retirement: Anschutz Employees' Thrift Savings Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RPTIX - T. Rowe Price Mid-Cap Growth Fund I Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BTMKX - iShares MSCI EAFE International Index Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Newport Group Retirement Annuity Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VTHRX - Vanguard Target Retirement 2030 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "04/26/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "More\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: More\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Grocery Chain",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VTRIX - Vanguard International Value Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OAKIX - Oakmark International Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/31/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Conservative Age-Based Option: 25%Bond/75% Colorado Short-Term Reserves Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Moderate Age-Based Option: Income Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Conservative Age-Based Option: 25%Bond/75% Colorado Short-Term Reserves Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/07/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Conservative Age-Based Option: Interest Accumulation Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/07/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Conservative Age-Based Option: Interest Accumulation Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/10/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Moderate Age-Based Option: Income Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/10/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Conservative Age-Based Option: Interest Accumulation Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Moderate Age-Based Option: Income Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/04/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/02/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VTTWX - Vanguard Instl Trgt Retire 2030 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "EAERX - Eaton Vance Stock A",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CP Block A Member, LLC",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/15/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CP Block A Member, LLC",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/29/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CP Block A Member, LLC",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/17/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CP Block A Member, LLC",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/11/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Harbor Spring Capital Partners, LP",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/24/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Harbor Spring Capital Partners, LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/15/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "Mortgage on personal residence"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Sep 1995",
+          "parties-involved": "Wilmer Cutler Pickering Hale and Dorr LLP\n\t\t\t\t\t\t\t\tDenver, CO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Defined contribution plan",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jul 2005",
+          "parties-involved": "Colorado Public Employees' Retirement Association\n\t\t\t\t\t\t\t\tDenver, CO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Defined benefit retirement plan",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2018",
+          "parties-involved": "Grove/Atlantic, Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance and royalties based on customary and usual terms for book, \"The Land of Flickering Lights.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jul 2003",
+          "parties-involved": "The Anschutz Corporation\n\t\t\t\t\t\t\t\tDenver, CO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continued participation in defined contribution plan managed by Empower Retirement. Former employer no longer contributes to the plan.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Maria Cantwell (Cantwell, Maria)",
+  "filed-date": "05/15/2024",
+  "filed-time": "11:38 AM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "US Bank(St Paul, MN)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cantwell 2000 Campaign LoanCompany: Cantwell 2000 Campaign (Seattle, WA) Filer comment:  Loan to Senate Campaign",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RealNetworks - 401(k) Retirement",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Retirement Savings TrustFiler comment:  RealNetworks 401(k) Retirement",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWNFX-Vanguard Windsor II Inv (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "AVPAX - American Beacon Small Cp Val Inv (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VBMFX - Vanguard Total Bond Market Index Inv (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HACAX-Harbor Capital Appreciation Instl (NASDAQ)Filer comment:  RealNetworks 401(k) Retirement",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CCASX-Conestoga Small Cap InvestorsFiler comment:  RealNetworks 401(k) Retirement",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDITX - MFS International Diversification Fund Class R4Filer comment:  RealNetworks 401(k) Retirement",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "US Bancorp Investments(St Paul, MN)Type: Money Market Account, Filer comment:  Money Market Fund.",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": [
+        {
+          "date-s": "08/03/2023\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t08/07/2023",
+          "traveler-s": "Self",
+          "travel-type": "Privately-Sponsored",
+          "itinerary": "Seattle, WA to Juneau, AK to Tongass National Forest and return to Juneau, AK, 8/3 to 8/7/23. Return to Seattle not paid by private sponsor.",
+          "reimbursed-for": "Airfare from Seattle, WA to Juneau, AK, water taxi, four nights lodging and meals.",
+          "who-paid": "American Lands Project\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2006",
+          "debtor": "Self",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "Prime+0.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(25)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "US Bank\n\t\t\t\t\t\t\t\tSt Paul, MN",
+          "comments": "WA personal residence  (Rate is Prime+0.75%)"
+        },
+        {
+          "incurred": "2010",
+          "debtor": "Self",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "15.24%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "US Bank\n\t\t\t\t\t\t\t\tSt Paul, MN",
+          "comments": "Credit Card"
+        },
+        {
+          "incurred": "2018",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0.25",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "US Bank\n\t\t\t\t\t\t\t\tSt. Paul, MN",
+          "comments": "DC Condo Mortgage"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 1997",
+          "parties-involved": "RealNetworks, Inc.\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "401(k) assets are in an account maintained by a former employer (Real Networks, Inc.).  All assets are 100% vested.  No contributions may be made by the former employer.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

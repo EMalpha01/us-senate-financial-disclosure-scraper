@@ -1,0 +1,912 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Mazie K Hirono (Hirono, Mazie Keiko)",
+  "filed-date": "08/13/2024",
+  "filed-time": "3:28 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Law Office of Leighton K Oshima ALC\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "Employees' Retirement System of the State of Hawaii\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
+          "amount-paid": "$56,901.96",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA required minimum distribution)",
+          "who-paid": "Capital Bank & Trust\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "$1,893.39",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA required minimum distribution)",
+          "who-paid": "Wells Fargo Clearing Services\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Pension",
+          "who-paid": "DST-AMS Agt for Retirement Solution\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Hawaii State FCU(HONOLULU, HAWAII)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Territorial Savings(HONOLULU, HAWAII)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Royal Business Bank(HONOLULU, HAWAII)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo Liquid Asset Fund(HONOLULU, HAWAII)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Congressional FCU(Washington, DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Senate FCU(Washington, DC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MFC-Manulife Financial Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SLF-Sun Life Financial Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AMCPX-American Funds AMCAP A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ABNDX-American Funds Bond Fund of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CAIBX-American Funds Capital Inc Bldr A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CWGIX-American Funds Capital World G/I A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMECX-American Funds Inc Fund of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AIVSX-American Funds Invmt Co of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "NEWFX-American Funds New World A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PGGAX-Principal Large Cap Growth I A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSIEX - Calvert Equity Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "CSXRX - Calvert U.S. Large Cap Core Responsible Index Fu",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CTCAX - Columbia Global Technology Growth Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SLMCX - Columbia Seligman Technology & Information Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EMPLOYEES' RETIREMENT SYSTEM OF THE STATE OF HAWAII",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RESIDENTIAL RENTALDescription: RESIDENTIAL RENTAL (HONOLULU, HAWAII)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FTIXX - Goldman Sachs Trust - Goldman Sachs Financial Squa",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BAGIX - Baird Aggregate Bond Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EIBIX - Eaton Vance Income Fd of Boston Insti Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WMFFX - Washington Mutual Investors Fund Cl F-2 Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "MEDIX - MFS Emerging Markets Debt Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PTTRX - Pimco Funds Total Return Fund Institutional Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth Fund Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TMCPX - Touchstone Midcap Fund Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BUBIX - Baird Ultra Short Bond Fund Inst Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PGOVX - Pimco Funds Long-Term US Government Fund Institu",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JMUEX - Jpmorgan  U.S. Equity Fund Class L",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WOBDX - Jpmorgan Core Bond Fund I Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "APDKX - Artisan International Value Fund Advisor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JCRIX - Alps/Corecommodity Management Completed Commodit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TROSX - T. Rowe Price Overseas Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IRA PLAN",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AMBFX - American Balanced Fund Class F-2 Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Law Office of Leighton K Oshima, ALCDescription: Law Firm (Honolulu, HI)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "First Hawaiian Bank(HONOLULU, HAWAII)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MFC - Manulife Fin",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "American Savings Bank(Honolulu, HI)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Funds IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AFAXX - AF U.S. Government Money Market-A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMCFX - Amcap Fund Class F-2 Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ABNFX - The Bond Fd of America Class F-2 Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CAIFX - Capital Income Builder Cl F-2 Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "WGIFX - Capital World Growth and Income Fund Class F-2 S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMEFX - The Income Fund of America Class F-2 Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ICAFX - The Investment Company of America Class F-2 Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFFFX - New World Fund Inc. Class F-2 Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PGWFX - American Funds Global Growth Portfolio Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/09/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/09/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/10/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/08/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/09/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/10/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/20/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RTRPX",
+          "asset-name": "American Funds Retirement Income Portfolio - Con",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/01/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DGEIX",
+          "asset-name": "Dimensional Investment Grp Global Eq Portf Cl I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/01/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HNACX",
+          "asset-name": "Harbor Capital Appreciation Fund - Retirement Cl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/01/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JCBUX",
+          "asset-name": "Jpmorgan Core Bond Fund R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JCBUX",
+          "asset-name": "Jpmorgan Core Bond Fund R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JCBUX",
+          "asset-name": "Jpmorgan Core Bond Fund R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/20/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JCBUX",
+          "asset-name": "Jpmorgan Core Bond Fund R6",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/01/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JCRIX",
+          "asset-name": "Alps/Corecommodity Management Completed Commodit",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JMUEX",
+          "asset-name": "Jpmorgan  U.S. Equity Fund Class L",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BUBIX",
+          "asset-name": "Baird Ultra Short Bond Fund Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JMUEX",
+          "asset-name": "Jpmorgan  U.S. Equity Fund Class L",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PGOVX",
+          "asset-name": "Pimco Funds Long-Term US Government Fund Institu",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TROSX",
+          "asset-name": "T. Rowe Price Overseas Stock Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "APDKX",
+          "asset-name": "Artisan International Value Fund Advisor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WOBDX",
+          "asset-name": "Jpmorgan Core Bond Fund I Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/17/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BAGIX",
+          "asset-name": "Baird Aggregate Bond Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CRSOX",
+          "asset-name": "Credit Suisse Commodity Return Strategy Fund Com",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/23/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LEVIX",
+          "asset-name": "Lazard US Equity Concentrated Portfolio Institut",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/23/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BAGIX",
+          "asset-name": "Baird Aggregate Bond Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LEVIX",
+          "asset-name": "Lazard US Equity Concentrated Portfolio Institut",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSEIX",
+          "asset-name": "Jpmorgan Small Cap Equity Fund I Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TMCPX",
+          "asset-name": "Touchstone Midcap Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MWTIX",
+          "asset-name": "Metropolitan West Total Return Bond Fd Cl I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/17/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WMFFX",
+          "asset-name": "Washington Mutual Investors Fund Cl F-2 Shs",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.50%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 YEARS)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "CALIBER HOME LOANS\n\t\t\t\t\t\t\t\tEWING, NJ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "1.5",
+          "rate-term": "2.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "TERRITORIAL SAVINGS BANK\n\t\t\t\t\t\t\t\tHONOLULU, HI",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2003",
+          "parties-involved": "Hawaii Employees Retirement System\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "type": "Continuation of payments by former employer",
+          "status-and-terms": "Retirement health benefits and pension for former employment with the Hawaii State Government.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,741 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Rand Paul (Paul, Rand)",
+  "filed-date": "08/13/2024",
+  "filed-time": "4:09 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Regnery Publishing\n\t\t\t\t\t\t\t\tWASHINGTON, DC",
+          "amount-paid": "$185,000.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "German American Bank(Jasper, IN)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JNMXX - Janus Money Market Fund D Share (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JNMXX - Janus Money Market Fund D Share (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JGVXX - Janus Government Money Market F (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CPFXX - American Century Capital Preser (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BGEIX - American Century Global Gold Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VBIAX - Vanguard Balanced Index Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VAIPX - Vanguard Inflation-Protected Secs Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFITX - Vanguard Interm-Term Treasury Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VMRXX Vanuuard Cash Res Fed MM Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGELX - Vanguard Energy Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VMFXX - Vanguard Money Market Reserves  (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTHRX - Vanguard Target Retirement 2030 Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Admiral (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USAGX - USAA Precious Metals and Minerals (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RRPIX - ProFunds Rising Rates Opp Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RYJUX - Rydex Inverse Gov Long Bond Strategy Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Alchemy, LLCCompany: Alchemy, LLC (Bowling Green, KY) Description: real estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Rental PropertyDescription: Rental Property (Destin, FL)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Carona LimitedCompany: Carona Limited (Lake Jackson, TX) Description: Rental property.",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Rental Property 1Description: Rental Property (Lake Jackson, TX)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rental Property 2Description: Rental Property (Lake Jackson, TX)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rental Property 3Description: Rental Property (Lake Jackson, TX)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rental Property 4Description: Rental Property (Lake Jackson, TX)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rental Property 5Description: Farm Land (Lake Jackson, TX)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rental Property 6Description: Rental Property (Lake Jackson, TX)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CashDescription: Cash",
+          "asset-type": "Personal PropertyOther",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JACNX - Janus Contrarian D (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VBIAX - Vanguard Balanced Index Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "VMRXX Vanuuard Cash Res Fed MM Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NuView IRA Inc",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CHANDLER REAL ESTATE PARTNERS XV LPCompany: CHANDLER REAL ESTATE PARTNERS XV LP (Newport News, VA) Description: Investment in rental real estate",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Chandler Real Estate Partners XIV LPCompany: Chandler Real Estate Partners XIV LP (Newport News, VA) Description: Investment in rental real estate",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Chandler Real Estate Partners XIII LPCompany: Chandler Real Estate Partners XIII LP (Newport News, VA) Description: Investment in rental real estate",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NuView IRA Inc(Longwood, FL)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Chandler Real Estate Partners XIX LPCompany: Chandler Real Estate Partners XIX LP (Newport News, VA) Description: Investment in rental real estate",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Chandler Real Estate Partners XVI LPCompany: Chandler Real Estate Partners XVI LP (Newport News, VA) Description: Investment in rental real estate Filer comment:  Partnership name changed in 2021 from Chase Heritage Partners LP to name listed above",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VIPSX - Vanguard Inflation-Protected Securities Fund Inves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JANBX - Janus Henderson Balanced Fund Class D",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNMCX - Janus Henderson Mid Cap Value Fund Class D",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNRFX - Janus Henderson Research Fund Class D",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AOMIX - American Century Investments One Choice Portfolio:",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VBTLX - Vanguard Total Bond Market Index Fund Admiral Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GILD - Gilead Sciences, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JNGSX - Janus Henderson Global Real Estate Fund - D Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Chandler Real Estate Partners XIII LPCompany: Chandler Real Estate Partners XIII LP (Newport News, Virginia) Description: Investment in rental real estate",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "LUV - SOUTHWEST AIRLINES",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNGTX - Janus Henderson Global Technology Fund - D Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPAXXX - FIDELITY GOVERMENT MONET MARKET",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SPAXXX - FIDELITY GOVERMENT MONET MARKET",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "VIPSX",
+          "asset-name": "Vanguard Inflation Protected Securities Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/29/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VIPSX",
+          "asset-name": "Vanguard Inflation Protected Securities Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "VBIAX",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/29/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JGVXX",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNGTX",
+          "asset-name": "Janus Henderson Global Technology Fund - D Share",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JNGSX",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNGTX",
+          "asset-name": "Janus Henderson Global Technology Fund - D Share",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JACNX",
+          "asset-name": "Janus Henderson Contrarian Fund - D Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNMCX",
+          "asset-name": "Janus Henderson Mid Cap Value Fund - D Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AOMIX",
+          "asset-name": "American Century One Choice Portfolio Moderate",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/04/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CPFXX",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/04/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VMFXX",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/15/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VAIPX",
+          "asset-name": "Vanguard Inflation Protected Securities Fund Adm",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/15/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VAIPX",
+          "asset-name": "Vanguard Inflation Protected Securities Fund Adm",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Fd Admiral Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "SPAXX",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "SPAXX",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/21/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "SPAXX",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/29/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNMCX",
+          "asset-name": "Janus Henderson Mid Cap Value Fund - D Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/11/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNRFX",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGELX",
+          "asset-name": "Vanguard Energy Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VAIPX",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "PNC Bank\n\t\t\t\t\t\t\t\tDayton, OH",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Mar 2005 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Alchemy, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBowling Green, KY",
+          "entity-type": "Company",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Nov 2010",
+          "parties-involved": "Center Street (Hachette Book Group)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with Center Street (Hachette Book Group) for book The Tea Party Goes to Washington; advance paid in 2010 and 2011, royalties based on usual and customary terms.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2012",
+          "parties-involved": "Center Street (Hachette Book Group)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with Center Street (Hachette Book Group) for book Government Bullies; advance paid in 2012, royalties based on usual and customary terms.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Mar 2013",
+          "parties-involved": "Center Street (Hachette Book Group)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with Center Street (Hachette Book Group) for book Taking a Stand; advance paid in 2013 and future years, royalties based on usual and customary terms.",
+          "comments": "n/a"
+        },
+        {
+          "date": "May 2015",
+          "parties-involved": "Center Street (Hachette Book Group)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with Center Street (Hachette Book Group) for book Our Presidents & Their Prayers; advance and royalties based on usual and customary terms.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Mar 2019",
+          "parties-involved": "HarperCollins Publishers LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with HarperCollins Publishers LLC for book The Case Against Socialism; advance and royalties based on usual and customary terms.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2023",
+          "parties-involved": "Regnery Publishing\n\t\t\t\t\t\t\t\tWashington, DC",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with Regnery Publishing for book Deception: The Great Covid Cover-Up; advance and royalties based on usual and customary terms.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

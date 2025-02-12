@@ -1,0 +1,1611 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable Daniel S Sullivan (Sullivan, Dan)",
+  "filed-date": "08/16/2021",
+  "filed-time": "2:21 AM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "MALOX - BlackRock Global Allocation Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NARAX - Virtus Multi-Sector S/T Bd A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "RPM - RPM International Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "MANLX - BlackRock National Municipal Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "AFTFX - American Funds TaxExempt Bond F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WCMIX - WCM Focused International Growth Fund Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "POLIX - Polen Growth Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TSCIX - AMG TimesSquare Small Cap Growth Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Alaska Permanent FundDescription: State Fund Managed by Alaska Permanent Fund Corp. (Juneau, AK)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "State of Alaska Permanent FundDescription: State Fund Managed by Alaska Permanent Fund Corp. (Juneau, AK)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "State of Alaska Permanent FundDescription: State Fund Managed by Alaska Permanent Fund Corp. (Juneau, AK)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "State of Alaska Permanent FundDescription: State Fund Managed by Alaska Permanent Fund Corp. (Juneau, AK)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "State of Alaska Permanent FundDescription: State Fund Managed by Alaska Permanent Fund Corp. (Juneau, AK)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Rental PropertyDescription: 301 Crystal Mtn. Rd (Girdwood, AK)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Uniform Transfer to Minors Act College Fund",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "HNACX - Harbor Capital Appreciation Fund Retirement Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HNVRX - Harbor Small Cap Value Fund Retirement Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPMAX - Vanguard PRIMECAP Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WCMIX - WCM Focused International Growth Fund Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTXXX - Investor Tax-Exempt Money Market",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TGVIX - Thornburg International Equity Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MIPTX - Matthews Pacific Tiger Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSEGX - Touchstone Sands Capital Emerging Markets Growth F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SIDRX - Hartford Schroders International Multi-Cap Value F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GTLOX - Glenmede Quantitative U.S. Large Cap Core Equity P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DODGX - Dodge & Cox Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PBSIX - Polen U.S. Small Company Growth Fund Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Uniform Transfer to Minors Act College Fund",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "HNACX - Harbor Capital Appreciation Fund Retirement Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HNVRX - Harbor Small Cap Value Fund Retirement Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPMAX - Vanguard PRIMECAP Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WCMIX - WCM Focused International Growth Fund Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTXXX - Investor Tax-Exempt Money Market",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TGVIX - Thornburg International Equity Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MIPTX - Matthews Pacific Tiger Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSEGX - Touchstone Sands Capital Emerging Markets Growth F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SIDRX - Hartford Schroders International Multi-Cap Value F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GTLOX - Glenmede Quantitative U.S. Large Cap Core Equity P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DODGX - Dodge & Cox Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PBSIX - Polen U.S. Small Company Growth Fund Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Uniform Transfer to Minors Act College Fund",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "HNACX - Harbor Capital Appreciation Fund Retirement Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HNVRX - Harbor Small Cap Value Fund Retirement Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPMAX - Vanguard PRIMECAP Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WCMIX - WCM Focused International Growth Fund Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTXXX - Investor Tax-Exempt Money Market",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TGVIX - Thornburg International Equity Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MIPTX - Matthews Pacific Tiger Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSEGX - Touchstone Sands Capital Emerging Markets Growth F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SIDRX - Hartford Schroders International Multi-Cap Value F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GTLOX - Glenmede Quantitative U.S. Large Cap Core Equity P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DODGX - Dodge & Cox Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PBSIX - Polen U.S. Small Company Growth Fund Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IWF - iShares Russell 1000 Growth (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "IWD - iShares Russell 1000 Value (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EFA - iShares MSCI EAFE (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PWC - Invesco Dynamic Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GFAFX - American Funds Growth Fund of Amer F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Birch Lake TownsiteDescription: Block 1, Lot 14 Birch Lake Townsite (Birch Lake, Alaska)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Birch Lake TownsiteDescription: Block 1, Lot 13 Birch lake Townsite (Birch Lake, Alaska)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Birch Lake TownsiteDescription: Block 1, Lot 12 Birch Lake Townsite (Birch Lake, Alaska)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTXXX - Investor Tax-Exempt Money Market",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Anchorage, AK)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Baan O Yeel KonDescription: Alaska Native Claims Settlement Act village corporation (Rampart, AK)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Doyon LimitedDescription: Alaska Native Claims Settlement Act regional corporation (Fairbanks, AK)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Wells Fargo(Anchorage, AK)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "529 Education Plan - Child 1Institution: BlackRock 529 College Advantage",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BlackRock Moderate Portfolio Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackRock Growth Portfolio Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackRock College Enrollment Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "529 Education Plan - Child 2Institution: BlackRock 529 College Advantage",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BlackRock Moderate Portfolio Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackRock Growth Portfolio Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BR College Enrollment Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "529 Education Plan - Child 3Institution: BlackRock 529 College Advantage",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BlackRock Moderate Portfolio Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackRock Growth Portfolio Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackRock College 2020 Option - A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WCMIX - WCM Focused International Growth Fund Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Anchorage, AK)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "02/27/2020",
+          "owner": "Joint",
+          "ticker": "WCMIX",
+          "asset-name": "WCM Focused International Growth Fund Institutiona",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "The filer's portfolio is managed by a third party investment professional. The filer was advised of these transactions on April 7, 2020. This activity is part of an ongoing long-term portfolio diversification strategy that regularly includes similar transactions."
+        },
+        {
+          "transaction-date": "02/27/2020",
+          "owner": "Joint",
+          "ticker": "RPM",
+          "asset-name": "RPM International Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "The filer's portfolio is managed by a third party investment professional. The filer was advised of these transactions on April 7, 2020. This activity is part of an ongoing long-term portfolio diversification strategy that regularly includes similar transactions."
+        },
+        {
+          "transaction-date": "05/18/2020",
+          "owner": "Joint",
+          "ticker": "RPM",
+          "asset-name": "RPM International Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "The filer's portfolio is managed by a third party investment professional. The filer was advised of these transactions on June 2, 2020. This activity is part of an ongoing long-term portfolio diversification strategy that regularly includes similar transactions."
+        },
+        {
+          "transaction-date": "06/16/2020",
+          "owner": "Joint",
+          "ticker": "RPM",
+          "asset-name": "RPM International Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "The filer's portfolio is managed by a third party investment professional. The filer was advised of these transactions on July 7, 2020. This activity is part of an ongoing long term portfolio diversification strategy that regularly includes similar transactions."
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "POLIX",
+          "asset-name": "Polen Growth Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "WCMIX",
+          "asset-name": "WCM Focused International Growth Fund Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GTCSX",
+          "asset-name": "Glenmede Small Cap Equity Portfolio Class Advisor",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HNACX",
+          "asset-name": "Harbor Capital Appreciation Fund Retirement Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ABCIX",
+          "asset-name": "American Beacon The London Company Income Equity F",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DFTWX",
+          "asset-name": "DFA T.A. World ex U.S. Core Equity Portfolio Insti",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DODGX",
+          "asset-name": "Dodge & Cox Stock Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EFAV",
+          "asset-name": "iShares MSCI EAFE Min Vol Factor ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GTLOX",
+          "asset-name": "Glenmede Quantitative U.S. Large Cap Core Equity P",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNVRX",
+          "asset-name": "Harbor Small Cap Value Fund Retirement Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IJT",
+          "asset-name": "iShares S&P Small-Cap 600 Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MIPTX",
+          "asset-name": "Matthews Pacific Tiger Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "OANIX",
+          "asset-name": "Oakmark International Fund Class Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "PBSIX",
+          "asset-name": "Polen U.S. Small Company Growth Fund Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "SIDRX",
+          "asset-name": "Hartford Schroders International Multi-Cap Value F",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TGVIX",
+          "asset-name": "Thornburg International Equity Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSEGX",
+          "asset-name": "Touchstone Sands Capital Emerging Markets Growth F",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "WCMIX",
+          "asset-name": "WCM Focused International Growth Fund Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VPMAX",
+          "asset-name": "Vanguard PRIMECAP Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EFV",
+          "asset-name": "iShares MSCI EAFE Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNVRX",
+          "asset-name": "Harbor Small Cap Value Fund Retirement Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNACX",
+          "asset-name": "Harbor Capital Appreciation Fund Retirement Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VPMAX",
+          "asset-name": "Vanguard PRIMECAP Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DODFX",
+          "asset-name": "Dodge & Cox International Stock Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ABCIX",
+          "asset-name": "American Beacon The London Company Income Equity F",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "OANIX",
+          "asset-name": "Oakmark International Fund Class Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IJT",
+          "asset-name": "iShares S&P Small-Cap 600 Growth ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EFAV",
+          "asset-name": "iShares MSCI EAFE Min Vol Factor ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DFTWX",
+          "asset-name": "DFA T.A. World ex U.S. Core Equity Portfolio Insti",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CCALX",
+          "asset-name": "Conestoga Small Cap Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WCMIX",
+          "asset-name": "WCM Focused International Growth Fund Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/27/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "Duplicate transaction (previously submitted on PTR)."
+        },
+        {
+          "owner": "Joint",
+          "ticker": "RPM",
+          "asset-name": "RPM International Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/16/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "Duplicate transaction (previously submitted on PTR)."
+        },
+        {
+          "owner": "Joint",
+          "ticker": "RPM",
+          "asset-name": "RPM International Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/18/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "Duplicate transaction (previously submitted on PTR)."
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IWD",
+          "asset-name": "iShares Russell 1000 Value ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/18/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "RPM",
+          "asset-name": "RPM International Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/27/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "Duplicate transaction (previously submitted on PTR)."
+        },
+        {
+          "owner": "Child",
+          "ticker": "ABCIX",
+          "asset-name": "American Beacon The London Company Income Equity F",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CCALX",
+          "asset-name": "Conestoga Small Cap Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DFTWX",
+          "asset-name": "DFA T.A. World ex U.S. Core Equity Portfolio Insti",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DODGX",
+          "asset-name": "Dodge & Cox Stock Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GTLOX",
+          "asset-name": "Glenmede Quantitative U.S. Large Cap Core Equity P",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNVRX",
+          "asset-name": "Harbor Small Cap Value Fund Retirement Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IJT",
+          "asset-name": "iShares S&P Small-Cap 600 Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "OANIX",
+          "asset-name": "Oakmark International Fund Class Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "PBSIX",
+          "asset-name": "Polen U.S. Small Company Growth Fund Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "SIDRX",
+          "asset-name": "Hartford Schroders International Multi-Cap Value F",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TGVIX",
+          "asset-name": "Thornburg International Equity Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSEGX",
+          "asset-name": "Touchstone Sands Capital Emerging Markets Growth F",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "WCMIX",
+          "asset-name": "WCM Focused International Growth Fund Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DODFX",
+          "asset-name": "Dodge & Cox International Stock Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSCIX",
+          "asset-name": "AMG TimesSquare Small Cap Growth Fund Class Z",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EFV",
+          "asset-name": "iShares MSCI EAFE Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNVRX",
+          "asset-name": "Harbor Small Cap Value Fund Retirement Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VPMAX",
+          "asset-name": "Vanguard PRIMECAP Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VPMAX",
+          "asset-name": "Vanguard PRIMECAP Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IJT",
+          "asset-name": "iShares S&P Small-Cap 600 Growth ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "OANIX",
+          "asset-name": "Oakmark International Fund Class Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CCALX",
+          "asset-name": "Conestoga Small Cap Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DFTWX",
+          "asset-name": "DFA T.A. World ex U.S. Core Equity Portfolio Insti",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNACX",
+          "asset-name": "Harbor Capital Appreciation Fund Retirement Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ABCIX",
+          "asset-name": "American Beacon The London Company Income Equity F",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DFTWX",
+          "asset-name": "DFA T.A. World ex U.S. Core Equity Portfolio Insti",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DODGX",
+          "asset-name": "Dodge & Cox Stock Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EFAV",
+          "asset-name": "iShares MSCI EAFE Min Vol Factor ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GTLOX",
+          "asset-name": "Glenmede Quantitative U.S. Large Cap Core Equity P",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNVRX",
+          "asset-name": "Harbor Small Cap Value Fund Retirement Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IJT",
+          "asset-name": "iShares S&P Small-Cap 600 Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MIPTX",
+          "asset-name": "Matthews Pacific Tiger Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "OANIX",
+          "asset-name": "Oakmark International Fund Class Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "PBSIX",
+          "asset-name": "Polen U.S. Small Company Growth Fund Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "SIDRX",
+          "asset-name": "Hartford Schroders International Multi-Cap Value F",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TGVIX",
+          "asset-name": "Thornburg International Equity Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSEGX",
+          "asset-name": "Touchstone Sands Capital Emerging Markets Growth F",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "WCMIX",
+          "asset-name": "WCM Focused International Growth Fund Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VPMAX",
+          "asset-name": "Vanguard PRIMECAP Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EFV",
+          "asset-name": "iShares MSCI EAFE Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNVRX",
+          "asset-name": "Harbor Small Cap Value Fund Retirement Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HNACX",
+          "asset-name": "Harbor Capital Appreciation Fund Retirement Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VPMAX",
+          "asset-name": "Vanguard PRIMECAP Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DODFX",
+          "asset-name": "Dodge & Cox International Stock Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ABCIX",
+          "asset-name": "American Beacon The London Company Income Equity F",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IJT",
+          "asset-name": "iShares S&P Small-Cap 600 Growth ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EFAV",
+          "asset-name": "iShares MSCI EAFE Min Vol Factor ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DFTWX",
+          "asset-name": "DFA T.A. World ex U.S. Core Equity Portfolio Insti",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CCALX",
+          "asset-name": "Conestoga Small Cap Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "OANIX",
+          "asset-name": "Oakmark International Fund Class Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Wells Fargo Bank\n\t\t\t\t\t\t\t\tAnchorage, AK",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tAnchorage, Alaska",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Self",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "14.74%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(NA)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Bank of America\n\t\t\t\t\t\t\t\tDallas, TX",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2019",
+          "debtor": "Self",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "8.4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(NA)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "USAA\n\t\t\t\t\t\t\t\tSan Antonio, TX",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2004 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Advisory Member)",
+          "entity": "Thomas C. and Sandra S. Sullivan Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, OH",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Staff Officer)",
+          "entity": "MARSOC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCamp Legeune, NC",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(United States Marine Corps Reserves)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Chairman)",
+          "entity": "International Republican Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2017",
+  "filer": "The Honorable Tim Scott (Scott, Tim)",
+  "filed-date": "05/15/2018",
+  "filed-time": "11:35 AM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Clemson University\n\t\t\t\t\t\t\t\tClemson, SC",
+          "amount-paid": "$2,500.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Tyndale  House Publishers\n\t\t\t\t\t\t\t\tCarol Stream, IL",
+          "amount-paid": "$35,500.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "ALL - The Allstate Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OPPAX - Oppenheimer Global A (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RIVERTOWN INVESTMENTS, LLC (50% INTEREST)Company: RIVERTOWN INVESTMENTS, LLC (CHARLESTON, SC) Description: RESIDENTIAL REAL ESTATE",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SUMMERVILLE, SC Description: RESIDENTIAL RENTAL (SUMMERVILLE, SC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CONGRESSIONAL FEDERAL CREDIT UNION(WASHINGTON, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALLSTATE INSURANCE COMPANYProvider: ALLSTATE INSURANCE COMPANY",
+          "asset-type": "Life InsuranceUniversal",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALLSTATE INSURANCE COMPANYProvider: ALLSTATE INSURANCE COMPANY",
+          "asset-type": "Life InsuranceUniversal",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LINCOLN BENEFIT/ALLSTATE INSURANCE COMPANY",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FGIKX - Fidelity Growth & Income K (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FASIX - Fidelity Asset Manager 20% (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RESIDENTIAL RENTALDescription: RESIDENTIAL RENTAL (SUMMERVILLE, SC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2013",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 YEARS)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "SOUTH STATE BANK\n\t\t\t\t\t\t\t\tCHARLESTON, SC",
+          "comments": "PROPERTY SECURED- 118 TWO HITCH ROAD (THROUGH RIVERTOWN INVESTMENTS, LLC)"
+        },
+        {
+          "incurred": "2012",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(12 YEARS)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "SOUTH STATE BANK\n\t\t\t\t\t\t\t\tCHARLESTON, SC",
+          "comments": "MORTGAGE ON 1403-09 ASHLEY RIVER RD, CHARLESTON, SC (GIDEON PROPERTIES, LLC)  (PERSONAL GUARANTEE)"
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 YEARS)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "WELLS FARGO BANK, NA\n\t\t\t\t\t\t\t\tMINNEAPOLIS, MN",
+          "comments": "MORTGAGE ON PRIMARY RESIDENCE; THIS HOME WAS SOLD IN 2017 AND MORTGAGE PAID OFF AT TIME OF SALE."
+        },
+        {
+          "incurred": "2017",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Nationstar Mortgage (sold to Wells Fargo in late 2017)\n\t\t\t\t\t\t\t\tDallas, Texas",
+          "comments": "MORTGAGE ON PRIMARY RESIDENCE.  MORTGAGE SOLD TO WELLS FARGO IN DECEMBER 2017"
+        },
+        {
+          "incurred": "2017",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Equity Prime Mortgage\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "comments": "MORTGAGE ON PRIMARY RESIDENCE"
+        },
+        {
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "BB&T\n\t\t\t\t\t\t\t\tWhiteville, NC",
+          "comments": "MORTGAGE ON SECOND RESIDENCE"
+        },
+        {
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Corporate Mortgage\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "MORTGGAE ON SECOND RESIDENCE"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2005 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "RIVERTOWN INVESTMENTS, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCHARLESTON, SC",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(LIMITED LIABILITY COMPANY)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2008",
+          "parties-involved": "SC RETIREMENT SYSTEM\n\t\t\t\t\t\t\t\tCOLUMBIA, SC",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(FUTURE RETIREMENT BENEFITS)",
+          "status-and-terms": "AS A RESULT OF FORMER POSITION IN STATE HOUSE AS LEGISLATOR, CAN RECEIVE RETIREMENT BENEFITS UPON REACHING AGE OF 60.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2017",
+  "filer": "The Honorable Steve Daines (Daines, Steve)",
+  "filed-date": "06/19/2018",
+  "filed-time": "6:21 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "U.S. Senate\n\t\t\t\t\t\t\t\tWashington , DC",
+          "amount-paid": "$174,600.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Commercial PropertyDescription: Commercial Property (West Union, IA)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Bridger Technologies Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Bank(Bozeman, MT)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "GenesisCompany: Genesis Business Park (Bozeman, MT) Description: Commercial real estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Gen 1Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Gen 2Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Gen 3Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Gen 4Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Gen 5Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "QuantumDescription: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Lot 3Description: Lot 3 (Bozeman, MT) Filer comment:  Empty parcel of land in Genesis Business park",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Lot 20Description: Lot 20 (Bozeman, MT) Filer comment:  Empty parcel of land in Genesis Business park",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gen 6Description: Office Building (Bozeman, Montana)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Sewage SystemDescription: Sewage System (Bozeman, Montana)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gen 7Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Vanguard IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VBIAX-Vanguard Balanced Index Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VDADX-Vanguard Dividend Appreciation Index Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGHAX-Vanguard Health Care Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGPMX - Vanguard Precious Metals and Mining Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTHRX-Vanguard Target Retirement 2030 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "APDQX-Artisan Mid Cap Value Advisor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HFOIX-Janus Henderson International Opps I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MISGX-Meridian Small Cap Growth Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NWHYX-Nationwide Geneva Mid Cap Gr Instl Svc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ESPIX-Wells Fargo Special Small Cap Value Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLE-Energy Select Sector SPDR ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VTTVX-Vanguard Target Retirement 2025 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "06/02/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Bridger Technologies, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "GVTFX",
+          "asset-name": "American Funds US Government Sec F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GVTFX",
+          "asset-name": "American Funds US Government Sec F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HABDX",
+          "asset-name": "Harbor Bond Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MISGX",
+          "asset-name": "Meridian Small Cap Growth Investor",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Oppenheimer Developing Markets Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AMCFX",
+          "asset-name": "American Funds AMCAP F2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AAIEX",
+          "asset-name": "American Beacon International Eq Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AHIFX",
+          "asset-name": "American Funds American High-Inc F2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "APDQX",
+          "asset-name": "Artisan Mid Cap Value Advisor",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SMGIX",
+          "asset-name": "Columbia Contrarian Core Inst",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds Europacific Growth F2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFOIX",
+          "asset-name": "Janus Henderson International Opps I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ORIYX",
+          "asset-name": "Oak Ridge Small Cap Growth I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/18/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AMCFX",
+          "asset-name": "American Funds AMCAP F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AAIEX",
+          "asset-name": "American Beacon International Eq Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "APDQX",
+          "asset-name": "Artisan Mid Cap Value Advisor",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SMGIX",
+          "asset-name": "Columbia Contrarian Core Inst",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds Europacific Growth F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFOIX",
+          "asset-name": "Janus Henderson International Opps I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MISGX",
+          "asset-name": "Meridian Small Cap Growth Investor",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NWHYX",
+          "asset-name": "Nationwide Geneva Mid Cap Gr Instl Svc",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "WMFFX",
+          "asset-name": "American Funds Washington Mutual F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESPIX",
+          "asset-name": "Wells Fargo Special Small Cap Value Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/29/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GVTFX",
+          "asset-name": "American Funds US Government Sec F2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HABDX",
+          "asset-name": "Harbor Bond Institutional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/28/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Oppenheimer Developing Markets Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/29/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "WMFFX",
+          "asset-name": "American Funds Washington Mutual F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/19/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HABDX",
+          "asset-name": "Harbor Bond Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AMCFX",
+          "asset-name": "American Funds AMCAP F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AAIEX",
+          "asset-name": "American Beacon International Eq Instl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GVTFX",
+          "asset-name": "American Funds US Government Sec F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AHIFX",
+          "asset-name": "American Funds American High-Inc F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "APDQX",
+          "asset-name": "Artisan Mid Cap Value Advisor",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SMGIX",
+          "asset-name": "Columbia Contrarian Core Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds Europacific Growth F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HABDX",
+          "asset-name": "Harbor Bond Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFOIX",
+          "asset-name": "Janus Henderson International Opps I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MISGX",
+          "asset-name": "Meridian Small Cap Growth Investor",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NWHYX",
+          "asset-name": "Nationwide Geneva Mid Cap Gr Instl Svc",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Oppenheimer Developing Markets Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "WMFFX",
+          "asset-name": "American Funds Washington Mutual F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESPIX",
+          "asset-name": "Wells Fargo Special Small Cap Value Adm",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BALCX",
+          "asset-name": "American Funds American Balanced C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/17/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "XLE",
+          "asset-name": "Energy Select Sector SPDR ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "THICX",
+          "asset-name": "Thornburg Limited Term Income C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/17/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTHRX",
+          "asset-name": "Vanguard Target Retirement 2030 Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/28/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NWHYX",
+          "asset-name": "Nationwide Geneva Mid Cap Gr Instl Svc",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGHAX",
+          "asset-name": "Vanguard Health Care Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "APDQX",
+          "asset-name": "Artisan Mid Cap Value Advisor",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/24/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDADX",
+          "asset-name": "Vanguard Dividend Appreciation Index Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGPMX",
+          "asset-name": "Vanguard Precious Metals and Mining Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/18/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AAIEX",
+          "asset-name": "American Beacon International Eq Instl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds Europacific Growth F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AHIFX",
+          "asset-name": "American Funds American High-Inc F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AMCFX",
+          "asset-name": "American Funds AMCAP F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BALCX",
+          "asset-name": "American Funds American Balanced C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HABDX",
+          "asset-name": "Harbor Bond Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Oppenheimer Developing Markets Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SMGIX",
+          "asset-name": "Columbia Contrarian Core Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "THICX",
+          "asset-name": "Thornburg Limited Term Income C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "WMFFX",
+          "asset-name": "American Funds Washington Mutual F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/06/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VBIAX",
+          "asset-name": "Vanguard Balanced Index Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/25/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGHAX",
+          "asset-name": "Vanguard Health Care Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/25/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GVTFX",
+          "asset-name": "American Funds US Government Sec F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/24/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGHAX",
+          "asset-name": "Vanguard Health Care Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/24/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BALCX",
+          "asset-name": "American Funds American Balanced C",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/17/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "THICX",
+          "asset-name": "Thornburg Limited Term Income C",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/17/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "XLE",
+          "asset-name": "Energy Select Sector SPDR ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AAIEX",
+          "asset-name": "American Beacon International Eq Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds Europacific Growth F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AHIFX",
+          "asset-name": "American Funds American High-Inc F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AMCFX",
+          "asset-name": "American Funds AMCAP F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "APDQX",
+          "asset-name": "Artisan Mid Cap Value Advisor",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESPIX",
+          "asset-name": "Wells Fargo Special Small Cap Value Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GVTFX",
+          "asset-name": "American Funds US Government Sec F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HABDX",
+          "asset-name": "Harbor Bond Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFOIX",
+          "asset-name": "Janus Henderson International Opps I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MISGX",
+          "asset-name": "Meridian Small Cap Growth Investor",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NWHYX",
+          "asset-name": "Nationwide Geneva Mid Cap Gr Instl Svc",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Oppenheimer Developing Markets Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SMGIX",
+          "asset-name": "Columbia Contrarian Core Inst",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "WMFFX",
+          "asset-name": "American Funds Washington Mutual F2",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VTTVX",
+          "asset-name": "Vanguard Target Retirement 2025 Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/14/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Commercial Lot (Belgrade, MT)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/29/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": [
+        {
+          "date-s": "08/24/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t08/24/2017",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Bozeman to Missoula and return",
+          "reimbursed-for": "Private airfare to Lolo Peak Fires\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $262.50",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comments": "More advantageous to Senate; less expensive than POV mileage or commercial airfare."
+        },
+        {
+          "date-s": "09/14/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t09/14/2017",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Leesburg, VA to Bozeman, MT",
+          "reimbursed-for": "Private airfare from Virginia to Montana\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $1,575.00",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comments": "Expected cost of officially purchased flight (saved funds): $473.80"
+        },
+        {
+          "date-s": "09/28/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t09/28/2017",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Leesburg, VA to Bozeman, MT",
+          "reimbursed-for": "Private airfare Virginia to Montana\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $1,575.00",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comments": "Expected cost of officially purchased flight (saved funds): $473.80"
+        },
+        {
+          "date-s": "11/13/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t11/13/2017",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Bozeman, MT to Billings, MT to Leesburg, VA",
+          "reimbursed-for": "Private airfare to attend meetings in Bozeman and Billings for Veteran's Day weekend events, and to Leesburg, VA to return to Washington, DC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $2,216.67",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comments": "Expected cost of officially purchased flight and mileage (saved funds): $623.79"
+        },
+        {
+          "date-s": "12/18/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t12/18/2017",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Bozeman, MT to Leesburg, VA",
+          "reimbursed-for": "Private airfare from Montana to Leesburg\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $2,041.67",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comments": "Expected cost of officially purchased flight (saved funds): $473.80"
+        },
+        {
+          "date-s": "12/21/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t12/21/2017",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Leesburg, VA to Bozeman, MT",
+          "reimbursed-for": "Private airfare Virginia to Montana\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $1,785.00",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, Montana",
+          "comments": "Expected cost of officially purchased flight (saved funds): $473.80"
+        }
+      ]
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "1",
+          "rate-term": "4%%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Yellowstone Bank\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comments": "Paid off October 17, 2017"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "May 1998 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Genesis Partners\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT-Montana",
+          "entity-type": "Company",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

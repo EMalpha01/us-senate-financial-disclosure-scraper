@@ -1,0 +1,476 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable John Cornyn (Cornyn, John)",
+  "filed-date": "05/12/2023",
+  "filed-time": "2:50 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Retirement Plans Defined Benefit Pension Plan)",
+          "who-paid": "Employees Retirement System of Texas\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "amount-paid": "$11,347.44",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Retirement Plans Defined Benefit Pension Plan)",
+          "who-paid": "TX County and District Retirement System\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "amount-paid": "$8,764.44",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Retirement Plans Defined Benefit Pension Plan)",
+          "who-paid": "Employees Retirement System of Texas\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Retirement Plans Defined Benefit Pension Plan)",
+          "who-paid": "Judicial Retirement System of Texas (Formerly Employees Retirement System of Texas)\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "amount-paid": "$60,009.60",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Annuity-Fixed)",
+          "who-paid": "Talcott Resolution Life & Annuities (Inherited Annuity)\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "amount-paid": "$1,356.96",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Annuity-Fixed)",
+          "who-paid": "Talcott Resolution Life & Annuities (Inherited Annuity)\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "amount-paid": "$2,308.92",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA Distribution)",
+          "who-paid": "UBS Inherited IRA\n\t\t\t\t\t\t\t\tWeehawken, NEW JERSEY",
+          "amount-paid": "$21,752.31",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA Distribution)",
+          "who-paid": "UBS SEP-IRA\n\t\t\t\t\t\t\t\tWeehawken, NEW JERSEY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Bank of America checking account(Austin, Texas)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America savings account(Austin, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS Bank USA Deposit account(San Antonio, Texas)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AGTHX - The Growth Fund of America Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANEFX - American Funds New Economy Fund A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS IRA (Spouse)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS Bank USA Deposit account(San Antonio, Texas)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SMCWX - American Funds Smallcap World A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AGTHX - The Growth Fund of America Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANWPX - New Perspective Fund Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Inherited IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS Bank USA Deposit account (Inherited IRA)(San Antonio, Texas)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SMCWX - American Funds Smallcap World A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AGTHX - The Growth Fund of America Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANWPX - New Perspective Fund Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Employees Retirement System of Texas",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TX County and District Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Employees Retirement System of Texas",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Judicial Retirement System of Texas",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Talcott Resolution Life & Annuities (Inherited Annuity)Provider: Talcott Resolution Life & Annuities",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Talcott Resolution Life & Annuities (Inherited Annuity)Provider: Talcott Resolution Life & Annuities",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS (Spouse Separate Property)",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS Bank USA Deposit Account(San Antonio, TX)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMRMX - American Mutual Fund Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ANCFX - Fundamental Investors Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AIVSX - American Funds Investment CO of America A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CAIBX - Capital Income Builder Cl A Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SMCWX - American Funds Smallcap World A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "ANEFX",
+          "asset-name": "American Funds New Economy Fund A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds Smallcap World A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANEFX",
+          "asset-name": "American Funds New Economy Fund A",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds Smallcap World A",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Self",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "20.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(NA)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Citibank\n\t\t\t\t\t\t\t\tLouisville, KY",
+          "comments": "The balance was paid down in 2023 and is no longer at this reported level."
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Self",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "22.74%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(NA)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Citibank\n\t\t\t\t\t\t\t\tLouisville, KY",
+          "comments": "The balance was paid down in 2023 and is no longer at this reported level."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Clements Center Statecraft Board\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAustin, Texas",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Bicentennial Commission - Honorary Member)",
+          "entity": "University of Virginia\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCharlottesville, VA",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 1999",
+          "parties-involved": "Employees Retirement System of Texas\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continuing participation in employee benefit plans with the state of Texas",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 1985",
+          "parties-involved": "TX County and District Retirement System\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continuing participation in employee benefit plans with the state of Texas",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 1991",
+          "parties-involved": "Employees Retirement System of Texas (Formerly Judicial Retirement System of Texas)\n\t\t\t\t\t\t\t\tAustin, TEXAS (TX)",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continuing participation in employee benefit plans with the state of Texas",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

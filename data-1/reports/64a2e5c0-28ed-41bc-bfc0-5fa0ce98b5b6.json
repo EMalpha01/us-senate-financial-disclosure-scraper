@@ -1,0 +1,220 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report (Amendment 1)",
+  "filer": "The Honorable John Fetterman",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": [
+        {
+          "date": "06/17/2021",
+          "activity": "Speech",
+          "amount": "$1,500.00",
+          "who-paid": "University of Pittsburgh\n\t\t\t\t\t\t\t\tPittsburgh, PA",
+          "who-received-payment": "Spouse",
+          "comments": "n/a"
+        },
+        {
+          "date": "05/07/2021",
+          "activity": "Speech",
+          "amount": "$300.00",
+          "who-paid": "The Frick Art and Historical Center\n\t\t\t\t\t\t\t\tPittsburgh, PA",
+          "who-received-payment": "Spouse",
+          "comments": "n/a"
+        },
+        {
+          "date": "05/10/2021",
+          "activity": "Appearance",
+          "amount": "$500.00",
+          "who-paid": "Brother\n\t\t\t\t\t\t\t\tPortland, OR",
+          "who-received-payment": "Spouse",
+          "comments": "For appearance on a TV show (Where We Call Home)"
+        },
+        {
+          "date": "03/24/2022",
+          "activity": "Speech",
+          "amount": "$1,500.00",
+          "who-paid": "Teachers of English to Speakers of Other Languages (TESOL)\n\t\t\t\t\t\t\t\tAlexandria, Virginia",
+          "who-received-payment": "Spouse",
+          "comments": "n/a"
+        },
+        {
+          "date": "01/18/2022",
+          "activity": "Speech",
+          "amount": "$250.00",
+          "who-paid": "Pennsylvania Council for International Education (PACIE)\n\t\t\t\t\t\t\t\tHarrisburg, Pennsylvania",
+          "who-received-payment": "Spouse",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "The Commonwealth of Pennsylvania\n\t\t\t\t\t\t\t\tHarrisburg, PA",
+          "amount-paid": "$255,184.45",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Wages",
+          "who-paid": "Sessions Payroll Management\n\t\t\t\t\t\t\t\tBurbank, CA",
+          "amount-paid": "$347.40",
+          "comments": "Payment for film appearance"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "University of PIttsburgh\n\t\t\t\t\t\t\t\tPittsburgh, Pennsylvania",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Teachers of English to Speakers of Other Languages (TESOL)\n\t\t\t\t\t\t\t\tAlexandria, Virginia",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "PNC Bank(Pittsburgh, PA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PNC Bank(Pittsburgh, PA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PNC Bank(Pittsburgh, PA)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fulton Bank(Lancaster, PA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TD Ameritrade - Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TD Ameritrade(Omaha, NE)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VZ - Verizon Communications Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PNC Bank(Pittsburgh, PA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Lieutenant Governor)",
+          "entity": "The Commonwealth of Pennsylvania\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHarrisburg, PA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(State Government)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "The Commonwealth of Pennsylvania\n\t\t\t\t\t\t\t\tHarrisburg, PA",
+          "duties": "Lieutenant Governor of the Commonwealth of Pennsylvania",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,4473 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2021",
+  "filer": "The Honorable Rick Scott (Scott, Rick)",
+  "filed-date": "08/15/2022",
+  "filed-time": "6:13 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Personal Residence - NaplesDescription: Florida Parcel: 09380240002 (Naples, FL) Filer comment:  Included for purposes of completeness.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Boat & Boathouse - NaplesDescription: Florida Parcel: 13420001922 (Naples, FL) Filer comment:  Included for purposes of completeness.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Refundable Club Deposit 1Company: Royal Poinciana (Naples, FL) Filer comment:  Included for purposes of completeness.",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Refundable Club Deposit 2Company: Red Sky (Wolcott, CO) Filer comment:  Included for purposes of completeness.",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Richard L. Scott Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Los Angeles, CA)Type: Brokerage Sweep Account, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Massaschusetts Water Res Auth Revenue BondRate/Coupon: 5.0%  Matures: 08/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Canadian River Texas Muni Water Auth Revenue BondRate/Coupon: 5.0%  Matures: 02/15/2025Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Massachusetts State Dev Fin Agency Revenue BondRate/Coupon: 5.0%  Matures: 07/01/2026Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Las Vegas Valley Nevada Water District BondRate/Coupon: 5.0%  Matures: 06/01/2027Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Lower Alabama Gas Project Revenue BondRate/Coupon: 5.0%  Matures: 09/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Salt River Proj Agric Power District Ariz Elec System Revenue BondRate/Coupon: 5.0%  Matures: 12/01/2029Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Connecticut State Spec Tax Revenue BondRate/Coupon: 5.0%  Matures: 09/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Chicago Illinois Met Water Reclamation District BondRate/Coupon: 5.0%  Matures: 12/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "WTT - Wireless Telecom Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AG Energy Partners II, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AG SF (L) L.P.Description: Private Investment Partnership (New York, NY) Filer comment:  f/k/a AG Super Fund, L.P.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CAI Partners and Company IV L.P.Description: Private Investment Partnership (New York, NY) Filer comment:  No longer held",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Canyon Laurel Fund L.P.Description: Private Investment Partnership (Los Angeles, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Secured Lending Fund I (A) LPDescription: Private Investment Partnership (New York, NY) Filer comment:  No longer held",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "OVO Fund II, LLCDescription: Private Investment Partnership (Los Altos, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vestar Executive V, LP / Vestar Executives IV, LP / Vestar - AIV Holdings B, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Briarwood Capital Partners LPDescription: Private Investment Vehicle (New York, NY) Filer comment:  No longer held",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Canyon Balanced Fund, L.P.Description: Private Investment Partnership (Los Angeles, CA)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Elliott Associates, L.P.Description: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Engine Capital, LPDescription: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Nokomis Capital Partners, L.P.Description: Private Investment Vehicle (Dallas, TX)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Pershing Advisor Solutions - BNY Mellon(New York, NY)Type: Brokerage Sweep Account, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Promissory NoteCompany: Pharmaca Investments, LLC (Rowayton, CT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "G. Scott Capital PartnersDescription: Private Investment Vehicle (Rowayton, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Valterra Products Holdings, LLCCompany: Valterra Products Holdings, LLC (Mission Hills, CA) Description: Manufacturing and products supplier",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "Over $5,000,000"
+        },
+        {
+          "asset": "VCA TCG Holdings, LLCCompany: VCA TCG Holdings, LLC (Wilmington, DE) Description: Professional engineering and consulting services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Account receivable from Mosquito Control Services, LLCCompany: Mosquito Control Services, LLC (Metairie, LA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pershing Advisor Solutions(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS Structured Capital III, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fulton Chain Acquisition LLCCompany: Fulton Chain Acquisition LLC (Rowayton, CT) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pershing Advisor Solutions(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Tax creditsDescription: Operating entity (Rowayton, CT) Filer comment:  Sale of tax credits of former operating company",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AJ I Gainline LLCCompany: AJ I Gainline LLC (New York, NY) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Gainline Equity Fund LPDescription: Private Investment Partnership (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Pharmaca Investments, LLCCompany: Pharmaca Investments, LLC (Rowayton, CT) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pharmaca Integrative Pharmacy, Inc.Company: Pharmaca Integrative Pharmacy, Inc. (Boulder, CO) Description: Retail and pharmacy",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Columbia Collier Management, LLCCompany: Columbia Collier Management, LLC (Naples, FL) Description: Company set up for purpose of ownership of airplane Filer comment:  Ownership interest of company holding one airplane",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AirplaneDescription: Airplane",
+          "asset-type": "Personal PropertyOther",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "King County Washington Sch Dist G.O. BondRate/Coupon: 4.0%  Matures: 12/01/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "City of Atlanta Georgia Airport General Obligation BondRate/Coupon: 4.0%  Matures: 07/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Franklin County Ohio Revenue BondRate/Coupon: 4.0%  Matures: 12/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "GLDM - SPDR Gold MiniShares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GDX - VanEck Vectors Gold Miners ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Port Authority of NY & NJ Bonds 218 SeriesRate/Coupon: 5.0%  Matures: 11/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AG Energy Credit Opportunities Fund IV, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Casdin Partners, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stonepine Capital, L.P.Description: Private Investment Partnership (Bend, Oregon)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Third Prime Alpha Fund II, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Account Receivable from Legion Partners Special Opportunities, L.P. XIICompany: Legion Partners Special Opportunities, L.P. XII (Los Angeles, California) Filer comment:  Income includes payments of principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Account Receivable from Moab Partners, L.P.Company: Moab Partners, L.P. (New York, NY) Filer comment:  Income includes payments of principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Account Receivable from Nokomis Capital Partners, L.P.Company: Nokomis Capital Partners, L.P. (Dallas, TX) Filer comment:  Income includes payments of principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Account Receivable from Rimrock High Income Plus (QP) Fund, L.P.Company: Rimrock High Income Plus (QP) Fund, L.P. (Irvine, California) Filer comment:  Income includes payments of principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "New York State Dorm Auth Personal Income Tax Revenue BondRate/Coupon: 5.0%  Matures: 03/15/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "New York State Urban Development Corp Revenue BondRate/Coupon: 5.0%  Matures: 03/15/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "New York City Municipal Water Fin Auth Revenue BondRate/Coupon: 5.0%  Matures: 06/15/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "New York City Transitional Finance Auth Revenue BondRate/Coupon: 5.0%  Matures: 02/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "King County Washington Sewer Revenue BondRate/Coupon: 0.875%  Matures: 01/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Fir Tree Special Opportunities Fund XII (SPAC) LP Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Credit Opportunities Fund V Expansion (A) LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "ITE Rail Fund, LP c/o ITE Rail GP LLCDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ancora Catalyst SPV I LP Series JDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New Jersey State Turnpike Auth Turnpike Revenue BondRate/Coupon: 5.0%  Matures: 01/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Maryland State General Obligation BondRate/Coupon: 5.0%  Matures: 08/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ohio State General Obligation BondRate/Coupon: 5.0%  Matures: 08/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Broward County Florida Airport System Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Massachusetts Dev Fin Agy Revenue BondRate/Coupon: 5.0%  Matures: 07/15/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/24/2022Rate/Coupon: None  Matures: NoneFiler comment:  Zero coupon, 2/24/22",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GMO Equity Dislocation Fund LPDescription: Private Equity Fund (Boston, MA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Ancora Catalyst  SPV I LP - Series NDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Account Receivable from Anthony FranklinDebtor: Anthony Franklin",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Florida Cub, LLCCompany: Florida Cub, LLC (Naples, FL) Description: Ownership of small airplane",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Light-sport airplaneDescription: Light-sport airplane",
+          "asset-type": "Personal PropertyOther",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "F. Annette Scott 2015 GRAT Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Los Angeles, CA)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WTT - Wireless Telecom Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pershing Advisor Solutions - BNY Mellon(New York, NY)Type: Brokerage Sweep Account, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AG Energy Partners II, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AG SF (L) L.P.Description: Private Investment Partnership (New York, NY) Filer comment:  f/k/a AG Super Fund, L.P.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Canyon Laurel Fund L.P.Description: Private Investment Partnership (Los Angeles, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Secured Lending Fund I (A) LPDescription: Private Investment Partnership (New York, NY) Filer comment:  No longer held",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "OVO Fund II, LLCDescription: Private Investment Partnership (Los Altos, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS Structured Capital III, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Briarwood Capital Partners LPDescription: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Canyon Balanced Fund, L.P.Description: Private Investment Vehicle (Los Angeles, CA)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Engine Capital, LPDescription: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Nokomis Capital Partners, L.P.Description: Private Investment Vehicle (Dallas, TX)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "GQETX - GMO Quality Fund Class III",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "AJ I Gainline LLCCompany: AJ I Gainline LLC (New York, NY) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Gainline Equity Fund LPDescription: Private Investment Partnership (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.125%, 1/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.25%, 3/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 4/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.25%, 4/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 5/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.0%, 5/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 6/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.625%, 6/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.75%, 7/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.125%, 8/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.5%, 8/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.75%, 9/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.125%, 9/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.3%, 10/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 11/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.875%, 11/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 11/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.75%, 11/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 12/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.625%, 12/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2024Rate/Coupon: None  Matures: NoneFiler comment:  Zero Coupon, 7/31/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Elliott Associates, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "AG Energy Credit Opportunities Fund IV, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Casdin Partners, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stonepine Capital, L.P.Description: Private Investment Partnership (Bend, Oregon)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Third Prime Alpha Fund II, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dallas Fort Worth Texas Intl Airport Revenue BondRate/Coupon: 5.0%  Matures: 11/01/2037Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Massachusetts State General Obligation BondRate/Coupon: 4.5%  Matures: 08/01/2043Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York City Mun Water Finance Authority Water & Sewer Revenue BondRate/Coupon: 5.0%  Matures: 06/15/2033Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "University of Michigan Revenue BondRate/Coupon: 1.7% - Floating  Matures: 04/01/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "University of North Carolina Chapel Hill General Revenue BondRate/Coupon: 2.017% - Floating  Matures: 12/01/2034Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Port Portland Oregon Airport Revenue BondRate/Coupon: 5.0%  Matures: 07/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Port Authority of NY & NJ Bonds 218 SeriesRate/Coupon: 5.0%  Matures: 11/01/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "San Antonio Texas Electric & Gas Revenue BondRate/Coupon: 5.0%  Matures: 02/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "King County Washington Sch Dist G.O. BondRate/Coupon: 4.0%  Matures: 12/01/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "City of Atlanta Georgia Airport General Obligation BondRate/Coupon: 4.0%  Matures: 07/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "South Carolina ST Ports Authority Revenue BondRate/Coupon: 5.0%  Matures: 07/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Franklin County Ohio Revenue BondRate/Coupon: 4.0%  Matures: 12/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "GLDM - SPDR Gold MiniShares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GDX - VanEck Vectors Gold Miners ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "AJ 3 LLCCompany: AJ 3 LLC (New York, NY) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Elliott Associates, L.P.Description: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Account Receivable from Legion Partners Special Opportunities, L.P. XIICompany: Legion Partners Special Opportunities, L.P. XII (Los Angeles, California) Filer comment:  Income includes payments on principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Account Receivable from Moab Partners, L.P.Company: Moab Partners, L.P. (New York, NY) Filer comment:  Income includes payments on principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Account Receivable from Nokomis Capital Partners, L.P.Company: Nokomis Capital Partners, L.P. (Dallas, TX)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Account Receivable from Rimrock High Income Plus (QP) Fund, L.P.Company: Rimrock High Income Plus (QP) Fund, L.P. (Irvine, California)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 12/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.5%, 12/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/15/2022Rate/Coupon: None  Matures: NoneFiler comment:  2.375%, 1/15/2022, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.875%, 1/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.375%, 1/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/15/2022Rate/Coupon: None  Matures: NoneFiler comment:  2.5%, 2/15/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/28/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.375%, 2/28/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.375%, 3/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 4/30/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.875%, 4/30/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 5/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.75%, 5/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 6/30/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 6/30/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 8/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/30/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 9/30/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 10/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 12/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 12/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Tampa Florida Solid Waste System Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2021Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Broward County Florida Airport Sys Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Ysleta Texas Independent School District Ref BondRate/Coupon: 4.0%  Matures: 08/15/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York State Dorm Auth State Personal Income Tax Revenue BondRate/Coupon: 5.0%  Matures: 12/15/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "California State Var Purp General Obligation BondRate/Coupon: 5.0%  Matures: 03/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York State Urban Development Corp Revenue BondRate/Coupon: 5.0%  Matures: 03/15/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York City Transitional Finance Auth Revenue BondRate/Coupon: 5.0%  Matures: 02/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "King County Washington Sewer Revenue BondRate/Coupon: 0.875%  Matures: 01/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/25/2021Rate/Coupon: None  Matures: NoneFiler comment:  Zero coupon, 3/25/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Fir Tree Special Opportunities Fund XII (SPAC) LP Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Credit Opportunities Fund V Expansion (A) LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Gainline Galaxy Holdings LLC Description: Brand management and wholesaler (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ITE Rail Fund, LP c/o ITE Rail GP LLCDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prime Movers Lab Fund II LPDescription: Private Investment Partnership (Jackson Hole, WY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gainline Equity Fund LPDescription: Private Investment Partnership (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Ancora Catalyst SPV I LP Series JDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "GMO Equity Dislocation Fund LPDescription: Private Equity Fund (Boston, MA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/17/2022Rate/Coupon: None  Matures: NoneFiler comment:  Income at maturity, 3/17/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 7/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  1.5%, 1/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 1/31/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/28/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 2/28/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/31/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 3/31/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 8/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/31/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 8/31/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 9/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 10/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 4/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.375%, 4/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 5/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.25%, 5/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.25%, 7/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.375%, 8/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Federal Farm Credit Banks BondRate/Coupon: 0.25%  Matures: 9/21/2023Filer comment:  0.25%, 9/21/2023",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Maryland State General Obligation BondRate/Coupon: 5.0%  Matures: 08/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia College Bldg Auth VA Educational Facs Revenue BondRate/Coupon: 5.0%  Matures: 09/01/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Dallas Fort Worth Texas Intl Airport Revenue BondRate/Coupon: 5.0%  Matures: 11/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Massachusetts Dev Fin Agy Revenue BondRate/Coupon: 5.0%  Matures: 07/15/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Memphis Tenn Storm Water Sys Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/24/2022Rate/Coupon: None  Matures: NoneFiler comment:  Zero coupon, 2/24/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/31/2025Rate/Coupon: None  Matures: NoneFiler comment:  3.0%, 10/31/2025",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ancora Catalyst  SPV I LP - Series NDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Caligan Partners CV V LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gainline Equity Fund II LPDescription: Private Equity Fund (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prime Movers Growth Fund I LPDescription: Private Equity Fund (Teton Village, WY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Third Prime Alpha Fund III, LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS Structured Capital IV, LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WIJG1 LLCCompany: WIJG1 LLC (Fort Collins, CO) Description: Bicycle business",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Richard L. Scott GRAT Continuing Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Pershing Advisor Solutions - BNY Mellon(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BNY Mellon(New York, NY)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AG Energy Partners II, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AG SF (L) L.P.Description: Private Investment Partnership (New York, NY) Filer comment:  f/k/a AG Super Fund, L.P.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Canyon Laurel Fund L.P.Description: Private Investment Partnership (Los Angeles, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Secured Lending Fund I (A) LPDescription: Private Investment Partnership (New York, NY) Filer comment:  No longer held",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "OVO Fund II, LLCDescription: Private Investment Partnership (Los Altos, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS Structured Capital III, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Briarwood Capital Partners LPDescription: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Canyon Balanced Fund, L.P.Description: Private Investment Vehicle (Los Angeles, CA)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Engine Capital, LPDescription: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Nokomis Capital Partners, L.P.Description: Private Investment Vehicle (Dallas, TX)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Richard L. and F. Annette Scott Family PartnershipDescription: Private Investment Partnership (Naples, FL) Filer comment:  Assets disclosed elsewhere in this report",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Capital Gains",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "AJ I Gainline LLCCompany: AJ I Gainline LLC (New York, NY) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Gainline Equity Fund LPDescription: Private Investment Partnership (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.125%, 1/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.25%, 3/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 4/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.25%, 4/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 5/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.0%, 5/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 6/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.625%, 6/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.75%, 7/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.125%, 8/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.5%, 8/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.75%, 9/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.125%, 9/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.3%, 10/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 11/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.875%, 11/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 11/30/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.25%, 11/30/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 12/15/2021Rate/Coupon: None  Matures: NoneFiler comment:  2.625%, 12/15/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Massachusetts State General Obligation BondRate/Coupon: 4.5%  Matures: 08/01/2043Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York City Mun Water Finance Authority Water & Sewer Revenue BondRate/Coupon: 5.0%  Matures: 06/15/2033Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "University of Michigan Revenue BondRate/Coupon: 1.7% - Floating  Matures: 04/01/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "University of North Carolina Chapel Hill General Revenue BondRate/Coupon: 2.017% - Floating  Matures: 12/01/2034Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Port Portland Oregon Airport Revenue BondRate/Coupon: 5.0%  Matures: 07/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Port Authority of NY & NJ Bonds 218 SeriesRate/Coupon: 5.0%  Matures: 11/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "San Antonio Texas Electric & Gas Revenue BondRate/Coupon: 5.0%  Matures: 02/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "King County Washington Sch Dist G.O. BondRate/Coupon: 4.0%  Matures: 12/01/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "City of Atlanta Georgia Airport General Obligation BondRate/Coupon: 4.0%  Matures: 07/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "South Carolina ST Ports Authority Revenue BondRate/Coupon: 5.0%  Matures: 07/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Franklin County Ohio Revenue BondRate/Coupon: 4.0%  Matures: 12/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Texas Water Dev Brd Revenue BondRate/Coupon: 5.0%  Matures: 10/15/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "GLDM - SPDR Gold MiniShares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GDX - VanEck Vectors Gold Miners ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "AG Energy Credit Opportunities Fund IV, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Casdin Partners, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stonepine Capital, L.P.Description: Private Investment Partnership (Bend, Oregon)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Third Prime Alpha Fund II, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AJ 3 LLCCompany: AJ 3 LLC (New York, NY) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Elliott Associates, L.P.Description: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Account Receivable from Legion Partners Special Opportunities, L.P. XIICompany: Legion Partners Special Opportunities, L.P. XII (Los Angeles, California) Filer comment:  Income includes payments to principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Account Receivable from Moab Partners, L.P.Company: Moab Partners, L.P. (New York, NY) Filer comment:  Income includes payments to principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Account Receivable from Nokomis Capital Partners, L.P.Company: Nokomis Capital Partners, L.P. (Dallas, TX) Filer comment:  Income includes payments to principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Account Receivable from Rimrock High Income Plus (QP) Fund, L.P.Company: Rimrock High Income Plus (QP) Fund, L.P. (Irvine, California) Filer comment:  Income includes payments to principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fir Tree Special Opportunities Fund XII (SPAC) LP Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Credit Opportunities Fund V Expansion (A) LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "ITE Rail Fund, LP c/o ITE Rail GP LLCDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prime Movers Lab Fund II LPDescription: Private Investment Partnership (Jackson Hole, WY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 12/31/2021Rate/Coupon: None  Matures: NoneFiler comment:  1.5%, 12/31/2021, no longer held",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/15/2022Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.875%, 1/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.375%, 1/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/15/2022Rate/Coupon: None  Matures: NoneFiler comment:  2.5%, 2/15/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/28/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.375%, 2/28/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.375%, 3/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 4/30/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.875%, 4/30/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 5/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  1.75%, 5/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 6/30/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 6/30/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 8/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/30/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 9/30/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 10/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 12/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 12/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Tampa Florida Solid Waste System Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2021Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Wisconsin State General Obligation BondRate/Coupon: 5.0%  Matures: 05/01/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Ysleta Texas Independent School District Ref BondRate/Coupon: 4.0%  Matures: 08/15/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Martin County Florida Health Facilities Auth Revenue BondRate/Coupon: 5.0%  Matures: 11/15/2045",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "New York St Dorm Auth Sales Tax Revenue BondRate/Coupon: 5.0%  Matures: 03/15/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York State Urban Development Corp Revenue BondRate/Coupon: 5.0%  Matures: 03/15/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Tampa Bay Water Florida Regional Water Supply Auth Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York City Transitional Finance Auth Revenue BondRate/Coupon: 5.0%  Matures: 02/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Ancora Catalyst SPV I LP Series JDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2022Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 7/31/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  1.5%, 1/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 1/31/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 1/31/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/28/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 2/28/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 3/31/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 3/31/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 7/31/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 8/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/31/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 8/31/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 9/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 9/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 4/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.375%, 4/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 5/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.25%, 5/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "U.S. Treasury Note 6/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.25%, 6/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.25%, 7/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 8/15/2024Rate/Coupon: None  Matures: NoneFiler comment:  0.375%, 8/15/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Federal Farm Credit Banks BondRate/Coupon: 0.25%  Matures: 9/21/2023",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Maryland State General Obligation BondRate/Coupon: 5.0%  Matures: 8/1/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dallas Fort Worth Texas Intl Airport Revenue BondRate/Coupon: 5.0%  Matures: 11/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Massachusetts Dev Fin Agy Revenue BondRate/Coupon: 5.0%  Matures: 07/15/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/24/2022Rate/Coupon: None  Matures: NoneFiler comment:  Zero coupon, 2/24/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2024Rate/Coupon: None  Matures: NoneFiler comment:  2.125%, 7/31/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/31/2025Rate/Coupon: None  Matures: NoneFiler comment:  3.0%, 10/31/2025",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ancora Catalyst SPV I LP - Series NDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/15/2023Rate/Coupon: None  Matures: NoneFiler comment:  0.125%, 10/15/2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Caligan Partners CV V LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gainline Equity Fund II LPDescription: Private Equity Fund (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prime Movers Growth Fund I LPDescription: Private Equity Fund (Teton Village, WY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Third Prime Alpha Fund III, LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS Structured Capital IV, LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WIJG1 LLCCompany: WIJG1 LLC (Fort Collins, CO) Description: Bicycle business",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "GMO Equity Dislocation Fund LPDescription: Private Equity Fund (Boston, MA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "F. Annette Scott Revocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Los Angeles, CA)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Government National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Federal National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Government National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Government National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Government National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Government National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Government National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Canadian River Texas Municipal Water Auth Contract Revenue BondRate/Coupon: 5.0%  Matures: 02/15/2025Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Texas A&M University Fd BondRate/Coupon: 5.0%  Matures: 07/01/2025Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Black Belt Energy Gas Dist Algas Revenue BondRate/Coupon: 4.0%  Matures: 08/01/2047",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Massachusetts Water Res Auth General Revenue BondRate/Coupon: 5.0%  Matures: 08/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Seattle Washington Solid Waste Revenue BondRate/Coupon: 4.0%  Matures: 06/01/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Hudson Yds Infrastructure Corp NY Revenue BondRate/Coupon: 5.0%  Matures: 02/15/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "California State Public Works Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Pershing Advisor Solutions - BNY Mellon(New York, NY)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Pershing Advisors - F. Annette Scott IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pershing Money Market Account(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GQLIX - GMO Quality Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CIT Bank(Naples, FL)Type: Checking, Filer comment:  f/k/a Mutual of Omaha Bank",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Loan to Cathy GellatlyDebtor: Cathy Gellatly",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Account Receivable from Pharmaca Investments, LLCCompany: Pharmaca Investments, LLC (Rowayton, CT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AG Energy Partners II, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AG SF (L) L.P.Description: Private Investment Partnership (New York, NY) Filer comment:  f/k/a AG Super Fund, L.P.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CAI Partners and Company IV L.P.Description: Private Investment Partnership (New York, NY) Filer comment:  No longer held",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Canyon Laurel Fund L.P.Description: Private Investment Partnership (Los Angeles, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "OVO Fund II, LLCDescription: Private Investment Partnership (Los Altos, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS Structured Capital III, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Briarwood Capital Partners LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Canyon Balanced Fund, L.P.Description: Private Investment Partnership (Los Angeles, CA)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Elliott Associates, L.P.Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Engine Capital, LPDescription: Private Investment Vehicle (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Nokomis Capital Partners, L.P.Description: Private Investment Partnership (Dallas, TX)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Secured Lending Fund I (A) LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "G. Scott Capital PartnersDescription: Private Investment Vehicle (Rowayton, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Valterra Products Holdings, LLCCompany: Valterra Products Holdings, LLC (Mission Hills, CA) Description: Manufacturing and products supplier",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Capital Gains",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "VCA TCG Holdings, LLCCompany: VCA TCG Holdings, LLC (Wilmington, DE) Description: Professional engineering and consulting services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Account receivable from Mosquito Control Services, LLCCompany: Mosquito Control Services, LLC (Metairie, LA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pershing Advisor Solutions(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Richard L. and F. Annette Scott Family PartnershipDescription: Private Investment Partnership (Naples, FL) Filer comment:  Underlying assets disclosed elsewhere in this report",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "DC Westlight LLCCompany: DC Westlight LLC (Washington, DC) Description: LLC to hold residential real property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential PropertyDescription: Residential Property for Personal Use (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AJ I Gainline LLCCompany: AJ I Gainline LLC (New York, NY) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Gainline Equity Fund LPDescription: Private Investment Partnership (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Pharmaca Investments, LLCCompany: Pharmaca Investments, LLC (Rowayton, CT) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pharmaca Integrative Pharmacy, Inc.Company: Pharmaca Integrative Pharmacy, Inc. (Boulder, CO) Description: Retail and pharmacy",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "California General Obligation BondRate/Coupon: 5.0%  Matures: 04/01/2049",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Dallas Fort Worth Texas Intl Airport Revenue BondRate/Coupon: 5.0%  Matures: 11/01/2037Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York City Mun Water Finance Authority Water & Sewer Revenue BondRate/Coupon: 5.0%  Matures: 06/15/2033Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Port Portland Oregon Airport Revenue BondRate/Coupon: 5.0%  Matures: 07/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Port Authority of NY & NJ Bonds 218 SeriesRate/Coupon: 5.0%  Matures: 11/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "San Antonio Texas Electric & Gas Revenue BondRate/Coupon: 5.0%  Matures: 02/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "King County Washington Sch Dist G.O. BondRate/Coupon: 4.0%  Matures: 12/01/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "U.S. Treasury Note 7/31/2024Rate/Coupon: None  Matures: NoneFiler comment:  2.125%, 7/31/2024",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AG Energy Credit Opportunities Fund IV, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Casdin Partners, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stonepine Capital, L.P.Description: Private Investment Partnership (Bend, Oregon)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Rimrock High Income Plus (QP) Fund, L.P.Description: Private Investment Partnership (Irvine, California)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Third Prime Alpha Fund II, LPDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GDX - VanEck Vectors Gold Miners ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "GLDM - SPDR Gold MiniShares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Account Receivable from RLSI-EMIDA Capital Partners, LLCCompany: RLSI-EMIDA Capital Partners, LLC (Rowayton, CT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Account Receivable from Legion Partners Special Opportunities, L.P. XIICompany: Legion Partners Special Opportunities, L.P. XII (Los Angeles, California) Filer comment:  Income includes payments to principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Account Receivable from Moab Partners, L.P.Company: Moab Partners, L.P. (New York, NY) Filer comment:  Income includes payments to principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Account Receivable from Nokomis Capital Partners, L.P.Company: Nokomis Capital Partners, L.P. (Dallas, TX) Filer comment:  Income includes payments to principal",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fir Tree Special Opportunities Fund XII (SPAC) LP Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fortress Credit Opportunities Fund V Expansion (A) LP Description: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "ITE Rail Fund, LP c/o ITE Rail GP LLCDescription: Private Investment Partnership (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prime Movers Lab Fund II LPDescription: Private Investment Partnership (Jackson Hole, WY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Tampa Florida Solid Waste System Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2021Filer comment:  No longer held (redeemed)",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Broward County Florida Airport Sys Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "New York State Urban Development Corp Revenue BondRate/Coupon: 5.0%  Matures: 03/15/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "New York City Municipal Water Fin Auth Revenue BondRate/Coupon: 5.0%  Matures: 06/15/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "New York City Transitional Finance Auth Revenue BondRate/Coupon: 5.0%  Matures: 02/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Ancora Catalyst SPV I LP Series JDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Account Receivable from AJ 2 Elliott LLCCompany: AJ 2 Elliott LLC (New York, NY)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Maryland State General Obligation BondRate/Coupon: 5.0%  Matures: 08/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dallas Fort Worth Texas Intl Airport Revenue BondRate/Coupon: 5.0%  Matures: 11/01/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Massachusetts Dev Fin Agy Revenue BondRate/Coupon: 5.0%  Matures: 07/15/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Memphis Tenn Storm Water Sys Revenue BondRate/Coupon: 5.0%  Matures: 10/01/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 2/24/2022Rate/Coupon: None  Matures: NoneFiler comment:  Zero coupon, 2/24/2022",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Treasury Note 10/31/2025Rate/Coupon: None  Matures: NoneFiler comment:  Zero coupon, 10/31/2025",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ancora Catalyst SPV I LP - Series NDescription: Private Investment Partnership (Cleveland, OH)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Gainline Equity Fund II LPDescription: Private Equity Fund (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prime Movers Growth Fund I LPDescription: Private Equity Fund (Teton Village, WY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Third Prime Alpha Fund III, LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS Structured Capital IV, LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WIJG1 LLCCompany: WIJG1 LLC (Fort Collins, CO) Description: Bicycle business",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Account Receivable from Rimrock High Income Plus (QP) Fund, L.P.Company: Rimrock High Income Plus (QP) Fund, L.P. (Irvine, CA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Caligan Partners CV V LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GMO Equity Dislocation Fund LPDescription: Private Equity Fund (Boston, MA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fulton Chain Acquisition LLCCompany: Fulton Chain Acquisition LLC (Rowayton, CT) Description: Investment Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pershing Advisor Solutions(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Tax creditsDescription: Operating entity (Rowayton, CT)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Richard L. And F. Annette Scott Family Partnership, Ltd.Company: Richard L. And F. Annette Scott Family Partnership, Ltd. (Naples, FL) Description: Investment Limited Partnership",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Government National Mortgage Assn PoolRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Pershing Advisor Solutions - BNY Mellon(New York, NY)Type: Brokerage Sweep Account, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WTT - Wireless Telecom Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "G. Scott Capital PartnersDescription: Private Investment Vehicle (Rowayton, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Valterra Products Holdings, LLCCompany: Valterra Products Holdings, LLC (Mission Hills, CA) Description: Manufacturing and products supplier",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "VCA TCG Holdings, LLCCompany: VCA TCG Holdings, LLC (Wilmington, DE) Description: Professional engineering and consulting services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Account receivable from Mosquito Control Services, LLCCompany: Mosquito Control Services, LLC (Metairie, LA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pershing Advisor Solutions(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pharmaca Investments, LLCCompany: Pharmaca Investments, LLC (Rowayton, CT) Description: Investment holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pharmaca Integrative Pharmacy, Inc.Company: Pharmaca Integrative Pharmacy, Inc. (Boulder, CO) Description: Retail and pharmacy",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo Bank, N.A.(Tallahassee, FL)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pershing Advisor Solutions LLC IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pershing Advisor Solutions - BNY Mellon(New York, NY)Type: Brokerage Sweep Account, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GQLIX - GMO Quality Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DC Westlight LLCCompany: DC Westlight LLC (Washington, DC) Description: LLC to hold residential real property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential PropertyDescription: Residential Property for Personal Use (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "218 Maryland LLCCompany: 218 Maryland LLC (Washington, DC) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Washington TownhouseDescription: Washington Townhouse (Washington, DC)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "03/26/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "New Jersey State Turnpike Auth Turnpike Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 01/01/2022",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/06/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Virginia College Bldg Auth VA Educational Facs Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/2023",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/25/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Valterra Products Holdings, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Valterra Products Holdings, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Manufacturing and products supplier",
+          "type": "Sale (Full)",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "Held through an investment fund"
+        },
+        {
+          "transaction-date": "05/25/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Valterra Products Holdings, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Valterra Products Holdings, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Manufacturing and products supplier",
+          "type": "Sale (Full)",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "Held through an investment fund"
+        },
+        {
+          "transaction-date": "05/25/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Valterra Products Holdings, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Valterra Products Holdings, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Manufacturing and products supplier",
+          "type": "Sale (Full)",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "Held through an investment fund"
+        },
+        {
+          "transaction-date": "06/02/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Broward County Florida Airport System Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2026",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/22/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Federal Farm Credit Banks Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 0.25%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/21/2023",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/22/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Federal Farm Credit Banks Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 0.25%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/21/2023",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/21/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Memphis Tenn Storm Water Sys Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2039",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/21/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Memphis Tenn Storm Water Sys Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2039",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/21/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Memphis Tenn Storm Water Sys Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2039",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/25/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Dallas Fort Worth Texas Intl Airport Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2022",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/25/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Dallas Fort Worth Texas Intl Airport Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2022",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/25/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Dallas Fort Worth Texas Intl Airport Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2022",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/09/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Massachusetts Dev Fin Agy Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2033",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/09/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Massachusetts Dev Fin Agy Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2033",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/09/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Massachusetts Dev Fin Agy Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2033",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/09/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Massachusetts Dev Fin Agy Revenue Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2033",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/15/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Ohio State General Obligation Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2022",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/15/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Maryland State General Obligation Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2022",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/15/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maryland State General Obligation Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2022",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/15/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maryland State General Obligation Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2022",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/15/2021",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maryland State General Obligation Bond\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2022",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/24/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GQLIX",
+          "asset-name": "GMO Quality Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/15/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GQLIX",
+          "asset-name": "GMO Quality Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/08/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GMO Quality Series Fund Class PS (GQPSX)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/25/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GQLIX",
+          "asset-name": "GMO Quality Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/25/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VXX",
+          "asset-name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/16/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CAI Partners and Company IV L.P.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/29/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GMO Equity Dislocation Fund LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GMO Equity Dislocation Fund LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GMO Equity Dislocation Fund LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GMO Equity Dislocation Fund LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GQETX - GMO Quality Fund Class III",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/07/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GQETX - GMO Quality Fund Class III",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VXX",
+          "asset-name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/24/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/12/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst SPV I LP - Series M",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst SPV I LP - Series M",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst  SPV I LP - Series M (Exchanged)\n                                    \n                                    Ancora Catalyst  SPV I LP - Series N (Received)",
+          "transaction-type": "Exchange",
+          "transaction-date": "09/01/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst  SPV I LP - Series M (Exchanged)\n                                    \n                                    Ancora Catalyst  SPV I LP - Series N (Received)",
+          "transaction-type": "Exchange",
+          "transaction-date": "09/01/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VXX",
+          "asset-name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/24/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst SPV I LP - Series M",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst SPV I LP - Series M (Exchanged)\n                                    \n                                    Ancora Catalyst SPV I LP - Series N (Received)",
+          "transaction-type": "Exchange",
+          "transaction-date": "09/01/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VXX",
+          "asset-name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/24/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/12/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GQLIX",
+          "asset-name": "GMO Quality Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/21/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VXX",
+          "asset-name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/24/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst SPV I LP - Series M",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ancora Catalyst SPV I LP - Series M (Exchanged)\n                                    \n                                    Ancora Catalyst SPV I LP - Series N (Received)",
+          "transaction-type": "Exchange",
+          "transaction-date": "09/01/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OEF",
+          "asset-name": "iShares S&P 100 ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/18/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/12/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GLDM",
+          "asset-name": "SPDR Gold Minishares Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fortress Secured Lending Fund I (A) LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/23/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fortress Secured Lending Fund I (A) LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/23/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fortress Secured Lending Fund I (A) LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/23/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fortress Secured Lending Fund I (A) LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/23/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Caligan Partners CV V LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Caligan Partners CV V LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Gainline Equity Fund II LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Gainline Equity Fund II LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Gainline Equity Fund II LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Prime Movers Growth Fund I LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Prime Movers Growth Fund I LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Prime Movers Growth Fund I LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Third Prime Alpha Fund III, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/09/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Third Prime Alpha Fund III, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/09/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Third Prime Alpha Fund III, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/09/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VSS Structured Capital IV, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VSS Structured Capital IV, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VSS Structured Capital IV, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CAI Partners and Company IV L.P.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/29/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Rimrock High Income Plus (QP) Fund, L.P.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/16/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Caligan Partners CV V LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Emida Corporation",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Emida Corporation",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Emida Corporation",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": [
+        {
+          "document-title": "Scott PFD Attachment 2021.pdf",
+          "date-time-added": "08/15/2022 @ 8:33 AM"
+        }
+      ]
+    }
+  ]
+}

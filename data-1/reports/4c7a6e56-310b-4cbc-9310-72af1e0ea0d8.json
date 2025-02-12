@@ -1,0 +1,2560 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable Mark R Warner (Warner, Mark)",
+  "filed-date": "08/13/2021",
+  "filed-time": "10:51 AM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wells Fargo(Washington, DC)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The MRW Blind Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "COHOX - Coho Relative Value Equity Advisor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "JPMorgan Chase(New York, NY)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AKRIX - Akre Focus Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "SCGVX - Sands Capital Global Growth Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Wells Fargo - Cash Reserve Prime Series Money Market Fund(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Murray Bonitt ReceivableDebtor: Murray Bonitt",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Capital Cellular CorporationDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MSA Investments, LPDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Topeka KS, LPDescription: Private Equity (Topeka, KS)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Minority Interest in Topeka, KS RSA Cellular LicenseDescription: Cellular License (Topeka, KS)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Petersburg Cellular PartnershipDescription: Private Equity (Tulsa, OK)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Minority Interest in FCC 601 Petersburg-Colonial Heights-Hopewell VA MSADescription: Cellular License (Petersburg, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Columbia Capital III, LLCDescription: Private Equity (Alexandria, VA) Filer comment:  No underlying holdings",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Columbia Capital Investors III, LLCDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Columbia Capital Equity Partners IV, L.P.Description: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Novus Special Situations LLCDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Norweigan Crystal ASDescription: Manufacturing of solar panels (Oslo, Norway)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Updata Partners III L.P.Description: Private Equity (Reston, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Alexandria NBIS Investors, LLCCompany: Alexandria NBIS Investors, LLC (Alexandria, VA) Description: Investment Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SunTX NBIS Holdings, L.P.Description: Private Equity (Dallas, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "NationsBuilders Insurance Services, Inc.Description: Insurance Company (Atlanta, GA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MRW Biotech Investors, LLCCompany: MRW Biotech Investors, LLC (Alexandria, VA) Description: Investment Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AQB - AquaBounty Technologies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PGEN - Precigen, Inc.Filer comment:  Stock was distributed from New River VI, LP",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Brokerage Sweep Account, Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MidOcean III Private Investors LLCDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AP Europe VII, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "TZG-Sachs Empire LLCCompany: TZG-Sachs Empire LLC (Rockville, MD) Description: Investment Fund",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "EMSG LLCCompany: EMSG LLC (Rockville, MD) Description: Secured Debt",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "WDE Partners, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "West Deptford Energy Holdings, LLCCompany: West Deptford Energy Holdings, LLC (New York, NY) Description: Energy Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JBG/Fund VI Qualified Investors, LLCDescription: Real Estate Fund (Chevy Chase, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "JBG/Fund VIII Qualified Investors, LLCDescription: Real Estate Fund (Chevy Chase, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Echo Bridge Realty Fund I, L.P.Description: Private Equity (Wellesley Hills, MA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wilton GSE LLCCompany: Wilton GSE LLC (Wilton, CT) Description: Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MSR-EB Waterfront Venture LLC (The Pointe at Stono Shores)Company: MSR-EB Waterfront Venture LLC (Charleston, SC) Description: Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EB 480 Sprague, LLCCompany: EB 480 Sprague, LLC (Dedham, MA) Description: Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Edge Principal Investments II, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Edge Principal Investments III, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Riverstone Global Energy and Power Private Investors V, LLCDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Lascaux Resource Capital Fund I, L.P.Description: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "New Amsterdam BC Investors, LLCDescription: Private Equity (Telluride, CO)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BetterCloudDescription: Cloud Storage Company (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Sachs Capital - Empire B, LLCDescription: Private Equity (Potomac, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Empire Petroleum Partners LLCCompany: Empire Petroleum Partners LLC (Gaithersburg, MD) Description: Energy Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Other, (Ordinary Income)",
+          "income": "Other $98,119.00"
+        },
+        {
+          "asset": "Apollo Total Return Fund (Onshore) LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Harvest Intrexon Enterprise Fund I, L.P.Description: Hedge Fund (San Francisco, CA) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not known or ascertainable; and the filer has no authority to direct the investments.",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Sachs Capital Fund II, LLCDescription: Hedge Fund (Potomac, MD)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Apollo VII Private Investors LLCDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Apollo EPF Private Investors, LLCDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Legacy Airwest IX, LLCDescription: Investment Company (Arlington, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Airwest IX WarehouseDescription: Real Estate (Plainfield, IN)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Waypoint North Penn Investors, LPDescription: Investment Company (Stamford, CT)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residence at North PennDescription: Real Estate (Stamford, CT)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Elysium Health, Inc.Company: Elysium Health, Inc. (Delray Beach, FL) Description: Health Industry",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Snap+Style, Inc. (RemoteRetail)Company: Snap+Style, Inc. (Washington, DC) Description: Online Fashion Advisory & Shopping Website",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GWMIX - AMG GW&K Municipal Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "PRVAX - T. Rowe Price Virginia Tax Free Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DBLSX - DoubleLine Low Duration Bond I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VOE - Vanguard Mid-Cap Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "MACSX - Matthews Asian Growth & Inc Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "TGEIX - TCW Emerging Markets Income I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FPIVX - FPA International Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "VWO - Vanguard FTSE Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "VEPF VI FAF, L.P.Description: Private Equity (Oakland, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "JBG Smith Properties Class A UnitsDescription: Private Equity (Chevy Chase, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Fidelity Brokerage Services LLC(Albuquerque, NM)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DBLTX - DoubleLine Total Return Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "HPRE Fund I US FI LPDescription: Real Estate (London, England)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Acumen Pharmaceuticals, Inc.Company: Acumen Pharmaceuticals, Inc. (South San Francisco, CA) Description: Drug Discovery",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "euNetworks Group Limited Description: euNetworks Group Limited (London, England)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Health Velocity Capital I, LPDescription: Private Equity (San Mateo, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Columbia Capital Equity Partners VII, LLCDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSIIX - BlackRock Strategic Income Opportunities Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VB - Vanguard Small-Cap Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "JPM - United States Treasury NotesRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "VEA - Vanguard FTSE Developed Markets Index Fund ETF Sha",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Edge Principal Investments IV, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Vista Equity Partners Fund VII, LPDescription: Hedge Fund (Oakland, CA)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Riverside Acceleration Capital Fund II LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SunTx Fulcrum Fund, L.P.Description: Private Equity (Dallas, TX) Filer comment:  Transferred from Golden Mean Investment Fund, LP",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Park Group, Inc.Description: Insurance Company (Dallas, TX)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Innovation Tech Investors, Inc.Description: Security Systems Company (Earth City, MO) Filer comment:  Formerly known as Interface Security Holdings, Inc.",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Construction Partners, Inc. (dba SunTx CPI Growth Company, Inc.)Description: Construction Company (Dothan, AL)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SunTx Interface, LPDescription: Private Equity (Dallas, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Interface Security Holdings, Inc.Description: Security Systems Company (Earth City, MO) Filer comment:  Transferred to SunTx Fulcrum Fund, L.P.",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SunTx NBIS Holdings, LPDescription: Private Equity (Dallas, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "NationsBuilders Insurance Services, Inc.Description: Insurance Company (Atlanta, GA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SunTx Fulcrum Fund II-SBIC, L.P.Description: Private Equity (Dallas, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Base4 Group, Inc.Description: Wholesale Company (Dallas, TX)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interface Security Holdings, Inc.Description: Security Systems Company (Earth City, MO) Filer comment:  Transferred to SunTx Fulcrum Fund, LP",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JC Flowers II, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HYG - iShares iBoxx $ High Yield Corporate Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PFF - iShares Preferred and Income Securities ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "RSP - Invesco S&P 500 Equal Weight ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AGG - iShares Core U.S. Aggregate Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MINT - PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PPIVX - Phaeacian Accent International Value Fund Institut",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MADCX - BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MAMTX - Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ESML - iShares ESG Aware MSCI USA Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PHIYX - PIMCO High Yield Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BGRIX - Baron Growth Fund Institutional Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Fidelity - United States Treasury NotesRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Trilogy Multifamily Fund IV, L.P.Description: Private Equity (Chicago, IL) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not known or ascertainable; and the filer has no authority to direct the investments.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Revival LOC, LLCDescription: Line of Credit - Manufacturer (Springfield, NJ)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "BSCP SBIC I, LPDescription: Private Credit (Alexandria, VA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Vista Credit Partners Fund III, LPDescription: Private Credit (Oakland, CA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Apollo Credit Fund, LPDescription: Private Credit (Purchase, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo - United States Treasury NotesRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wells Fargo(Washington, DC)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The LDC Blind Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wells Fargo - Inv Cash Trust Treasury Instl(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AKRIX - Akre Focus Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "911 King Street Associates LLCCompany: 911 King Street Associates LLC (Alexandria, VA) Description: Management Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "MRW Home, LLCCompany: MRW Home, LLC (Alexandria, VA) Description: Disregarded Entity",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MRW Office, LLCCompany: MRW Office, LLC (Alexandria, VA) Description: Disregarded Entity",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "01/16/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Revival LOC, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Revival LOC, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Line of Credit - Manufacturer",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/05/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Revival LOC, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Revival LOC, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Line of Credit - Manufacturer",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Revival LOC, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Revival LOC, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Line of Credit - Manufacturer",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/25/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Trilliant Networks, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Trilliant Networks, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Intelligent Network Solutions Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "04/22/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Revival LOC, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Revival LOC, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Line of Credit - Manufacturer",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "05/04/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BetterCloud\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: BetterCloud\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Cloud Storage",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "Underlying asset of New Amsterdam BC Investors, LLC"
+        },
+        {
+          "transaction-date": "10/27/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "EMSG LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: EMSG LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Secured Debt",
+          "type": "Sale (Full)",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "Underlying asset of TZG-Sachs Empire LLC"
+        },
+        {
+          "transaction-date": "11/16/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "EB 480 Sprague, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: EB 480 Sprague, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Real Estate",
+          "type": "Sale (Full)",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "Underlying asset of Echo Bridge Realty Fund, I L.P."
+        },
+        {
+          "transaction-date": "11/20/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Acumen Pharmaceuticals, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Acumen Pharmaceuticals, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Drug Discovery",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/07/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Trilogy Multifamily Fund IV, L.P.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Trilogy Multifamily Fund IV, L.P.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Private Equity",
+          "type": "Purchase",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLTX",
+          "asset-name": "DoubleLine Total Return Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCGVX",
+          "asset-name": "Sands Capital Global Growth Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRVAX",
+          "asset-name": "T. Rowe Price Virginia Tax-Free Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BXMT",
+          "asset-name": "Blackstone Mortgage Trust, Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESML",
+          "asset-name": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRVAX",
+          "asset-name": "T. Rowe Price Virginia Tax-Free Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESML",
+          "asset-name": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JOEMX",
+          "asset-name": "JOHCM Emerging Markets Opportunities Fund Institut",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MACSX",
+          "asset-name": "Matthews Asian Growth and Income Fund Investor Cla",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets Index Fund ETF Sha",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOE",
+          "asset-name": "Vanguard Mid-Cap Value Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BXMT",
+          "asset-name": "Blackstone Mortgage Trust, Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLTX",
+          "asset-name": "DoubleLine Total Return Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/29/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLTX",
+          "asset-name": "DoubleLine Total Return Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BGRIX",
+          "asset-name": "Baron Growth Fund Institutional Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESML",
+          "asset-name": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHIYX",
+          "asset-name": "PIMCO High Yield Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRVAX",
+          "asset-name": "T. Rowe Price Virginia Tax-Free Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MINT",
+          "asset-name": "PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHIYX",
+          "asset-name": "PIMCO High Yield Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MINT",
+          "asset-name": "PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHIYX",
+          "asset-name": "PIMCO High Yield Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRVAX",
+          "asset-name": "T. Rowe Price Virginia Tax-Free Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESML",
+          "asset-name": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MINT",
+          "asset-name": "PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHIYX",
+          "asset-name": "PIMCO High Yield Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOE",
+          "asset-name": "Vanguard Mid-Cap Value Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PPIVX",
+          "asset-name": "Phaeacian Accent International Value Fund Institut",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHIYX",
+          "asset-name": "PIMCO High Yield Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BSCP SBIC I LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BGRIX",
+          "asset-name": "Baron Growth Fund Institutional Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opp Fd Of Blackrock",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "COHOX",
+          "asset-name": "Coho Relative Value Equity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MINT",
+          "asset-name": "PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHIYX",
+          "asset-name": "PIMCO High Yield Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRVAX",
+          "asset-name": "T. Rowe Price Virginia Tax-Free Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Vista Credit Partners Fund III, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BGRIX",
+          "asset-name": "Baron Growth Fund Institutional Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "COHOX",
+          "asset-name": "Coho Relative Value Equity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ESML",
+          "asset-name": "iShares ESG Aware MSCI USA Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MACSX",
+          "asset-name": "Matthews Asian Growth and Income Fund Investor Cla",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MINT",
+          "asset-name": "PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHIYX",
+          "asset-name": "PIMCO High Yield Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCGVX",
+          "asset-name": "Sands Capital Global Growth Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets Index Fund ETF Sha",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOE",
+          "asset-name": "Vanguard Mid-Cap Value Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLTX",
+          "asset-name": "DoubleLine Total Return Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/28/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLTX",
+          "asset-name": "DoubleLine Total Return Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/31/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRVAX",
+          "asset-name": "T. Rowe Price Virginia Tax-Free Bond Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/31/2020",
+          "amount": "$5,000,001 - $25,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BXMT",
+          "asset-name": "Blackstone Mortgage Trust, Inc.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/29/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JOEMX",
+          "asset-name": "JOHCM Emerging Markets Opportunities Fund Institut",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/29/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "COHOX",
+          "asset-name": "Coho Relative Value Equity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLTX",
+          "asset-name": "DoubleLine Total Return Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "FPIVX - FPA International Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MACSX",
+          "asset-name": "Matthews Asian Growth and Income Fund Investor Cla",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income Fund Class Institution",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets Index Fund ETF Sha",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOE",
+          "asset-name": "Vanguard Mid-Cap Value Index Fund ETF Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2020",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/30/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "FPIVX - FPA International Value Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MINT",
+          "asset-name": "PIMCO Enhanced Short Maturity Active Exchange-Trad",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/30/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/30/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/31/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "AMG GW&K Municipal Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/18/2020",
+          "amount": "$5,000,001 - $25,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/14/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Apollo Credit Fund LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GCM Equity Partners LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/06/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TT Emerging Markets Opportunities Fund Limited",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/31/2020",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Glenview Capital Opportunity Fund, LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/30/2020",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 1997 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Collis Warner Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAlexandria, VA",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "The Kennedy Center\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

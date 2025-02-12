@@ -1,0 +1,806 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable Joshua D Hawley (Hawley, Josh)",
+  "filed-date": "05/17/2021",
+  "filed-time": "12:21 PM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": [
+        {
+          "date": "10/30/2020",
+          "activity": "Speech",
+          "amount": "$250.00",
+          "who-paid": "Central Christian College of the Bible\n\t\t\t\t\t\t\t\tMoberly, Missouri",
+          "who-received-payment": "Spouse",
+          "comments": "n/a"
+        },
+        {
+          "date": "01/01/2020",
+          "activity": "Speech",
+          "amount": "$2,000.00",
+          "who-paid": "Federalist Society for Law and Public Policy Studies\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "Spouse",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Consulting fees)",
+          "who-paid": "Independent Women's Forum\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Kirkland & Ellis\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Consulting fees)",
+          "who-paid": "Curators of the University of Missouri\n\t\t\t\t\t\t\t\tColumbia, MO",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Consulting fees)",
+          "who-paid": "Guidepoint Global\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Bank of America(Columbia, MO)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Missouri 529 AccountInstitution: State of Missouri",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Aggressive Growth Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T Rowe Price",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PRWCX - T. Rowe Price Capital Appreciation Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPMCX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPMGX - T. Rowe Price Mid-Cap Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Bank of America IRA(Columbia, MO)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Missouri Deferred Compensation",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Missouri Target Date 2045 Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MOSERS Pension",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "University of Missouri Retirement Plan",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FCNTX - Fidelity Contrafund Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSNZX - Fidelity Freedom 2045 Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "University of Missouri Retirement Plan",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FCNKX - Fidelity Contrafund Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSNZX - Fidelity Freedom 2045 Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "University of Missouri Retirement, Disability, and Death Benefit Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cowboy Rose Cattle Company LLCCompany: Cowboy Rose Cattle Company LLC (Folsom, NM) Description: Ranch-agriculture and livestock Filer comment:  Spouse holds one-third interest.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Winecup RanchDescription: Ranch-agriculture and livestock (Folsom, NM) Filer comment:  Spouse holds 1/3 interest in this asset.  Asset value is spouse's proportionate share.",
+          "asset-type": "Farm",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Columbia, MO)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ISTB - iShares Core 1-5 Year USD Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IEFA - iShares Core MSCI EAFE ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NWJVX - Nationwide Loomis Short Term Bond Fund Institution",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IAU - iShares Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKIX - Oakmark International Fund Investor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VUG - Vanguard Growth Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DBLTX - DoubleLine Total Return Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTV - Vanguard Value Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JP Morgan(New York, NY)Type: Brokerage Sweep Account, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Filer IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IAU - iShares Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAX - Aberdeen Asia-Pacific Income Fund, Inc.",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DODGX - Dodge & Cox Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IEFA - iShares Core MSCI EAFE ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Lake Forest Bank and Trust(Lake Forest, Illinois)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JP Morgan(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKIX - Oakmark International Fund Investor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VUG - Vanguard Growth Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NWJVX - Nationwide Loomis Short Term Bond Fund Institution",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "EEM",
+          "asset-name": "iShares MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/22/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EEM",
+          "asset-name": "iShares MSCI Emerging Markets ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ISTB",
+          "asset-name": "iShares Core 1-5 Year USD Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NWJVX",
+          "asset-name": "Nationwide Loomis Short Term Bond Fund Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NWJVX",
+          "asset-name": "Nationwide Loomis Short Term Bond Fund Institution",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OAKIX",
+          "asset-name": "Oakmark International Fund Investor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DBLTX",
+          "asset-name": "DoubleLine Total Return Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IAU",
+          "asset-name": "iShares Gold Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2019",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.65%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Bank of America\n\t\t\t\t\t\t\t\tTampa, FL",
+          "comments": "Refinancing"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.0%%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Bank of America\n\t\t\t\t\t\t\t\tCharlotte, NC",
+          "comments": "Refinancing"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jul 2011",
+          "parties-involved": "University of Missouri\n\t\t\t\t\t\t\t\tColumbia, MO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "University of Missouri Retirement Plan.  Vested. Plan invested in two mutual funds reported in Part 3.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2017",
+          "parties-involved": "Missouri State Employees Retirement System (MOSERS)\n\t\t\t\t\t\t\t\tJefferson City, MO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Filer paid 1% of his salary into MOSERS.   Because he left state employment before vesting at 5 years, he is eligible to receive that 1 % as a lump sum payment.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2017",
+          "parties-involved": "State of Missouri\n\t\t\t\t\t\t\t\tColumbia, MO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Missouri State Deferred Compensation account called Missouri Target Date 2045 Fund.  Filer is no longer contributing to this fund.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2021",
+          "parties-involved": "Regnery Publishing\n\t\t\t\t\t\t\t\tWashington, DC",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalty agreement for advance and royalties, for book to be published, pursuant to customary and usual terms. No reportable payments during the filing period.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

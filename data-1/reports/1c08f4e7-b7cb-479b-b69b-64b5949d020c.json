@@ -1,0 +1,2757 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report",
+  "filer": "Mr. David H McCormick",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Goldman Sachs Group Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "Over $1,000"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Commissions",
+          "who-paid": "CAA\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "amount-paid": "$106,250.00",
+          "comments": "Book proceeds"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "BDT & MSD PARTNERS\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Commissions",
+          "who-paid": "CAA\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Board Compensation",
+          "who-paid": "Exxon Mobil Corporation\n\t\t\t\t\t\t\t\tHouston, Texas",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "David H. McCormick Fidelity Traditional IRA Account",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity Investments (FDRXX)(Boston, MA)Type: Money Market Account, Filer comment:  No longer held",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Nasdaq QQQ Invesco ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIG - Dividend Appreciation ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VUG - Growth ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QIWSQ - Fidelity(Boston, MA)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "David McCormick Charitable Gift Fund",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity Investments (FDRXX)(Boston, MA)Type: Money Market Account, Filer comment:  No longer held",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DNL - Wisdomtree Global Ex-US Quality Div Growth FundFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBT - First Trust NYSE Arca Biotechnology ETFFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FNX - First Trust Mid Cap Core AlphaDEX FundFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ITB - iShares U.S. Home Construction ETFFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JHSC - JH Multifactor Small Cap ETFFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SKYY - First Trust Cloud Computing ETFFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLP - S&P 500 Cons Staples Sector SPDRFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIG - Dividend Appreciation ETF VanguardFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XSOE - Wisdomtree Emerging Markets Ex-State Owned FundFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLC - The Communication Services Select Sector SPDR FundFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGT - Information Technology ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VUG - Growth ETF VanguardFiler comment:  No longer held",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCASH - Fidelity(Boston, MA)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "David H McCormick 2020 Dynasty Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity David H McCormick 2020 Dynasty Trust Investment Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity Investments (FDRXX)(Boston, MA)Type: Money Market Account, Filer comment:  No longer held",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Nasdaq QQQ Invesco ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIG - Dividend Appreciation ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VUG - Growth ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCASH- Fidelity(Boston, MA)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dina Powell Investments",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GSLC - GS Activebeta US Largecap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BSPGX - Ishares S&P 500 Index Fund - Class G",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "BTMKX - Ishares MSCI EAFE International Index Fund - Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SSHQX - State Street Hedged International Developed Equi",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "DBEF - Xtrackers MSCI EAFE Hedged Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Goldman Sachs(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "GTFPX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "GSKPX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GS Restricted Stock Units",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALLEGHENY CNTY PA ARPT AUTH REV JJ ARPT REV BDS 2023B INS BEORate/Coupon: 5%  Matures: 01/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "BUCKS CNTY PA GO JD GO BDS 2017 UT BEORate/Coupon: 5%  Matures: 06/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "COMMONWEALTH FING AUTH PA REV REV JD REV B-1 INS BEO SR LIEN Rate/Coupon: 5%  Matures: 06/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "COMMONWEALTH FING AUTH PA TOB REV JD MASTER SETTLEMENT PMT REV BDSRate/Coupon: 5%  Matures: 06/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SOUTHEASTERN PA TRANSN AUTH REV JD REVRate/Coupon: 5%  Matures: 06/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "UNIONVILLE-CHADDS FORD PA SCH GO JD DIST Rate/Coupon: 5%  Matures: 06/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LOWER MAKEFIELD TWP PA GO JD GO BDS 2018 Rate/Coupon: 5%  Matures: 06/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MIFFLINBURG AREA SCH DIST PA GO JD GO BDS 2020Rate/Coupon: 4%  Matures: 06/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO JD GO BDS FIRST SER UT 3BEO SR LIENRate/Coupon: 5%  Matures: 6/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST HIGHER EDL REV JD FACS AUTH REV REF BDSRate/Coupon: 5%  Matures: 06/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO JJ GO BDS FIRST REF SER UT BEO SR LIENRate/Coupon: 5%  Matures: 07/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHESTER CNTY PA GO JJ GO BDS 2014 UT BEORate/Coupon: 5%  Matures: 07/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHESTER CNTY PA GO JJ GO BDS 2018 UT BEORate/Coupon: 5%  Matures: 07/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO JJ GO FIRST REF BDS 2019 UTRate/Coupon: 5%  Matures: 07/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PITTSTON PA AREA SCH DIST GO JJ GO BDS 2018 Rate/Coupon: 4%  Matures: 07/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BLUE MOUNTAIN PA SCH DIST GO FA GO BDS SCHUYLKILL CNTY 2019 Rate/Coupon: 4%  Matures: 08/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PHILADELPHIA PA GO FA GO REF BDS 2015A UT BEO SR LIENRate/Coupon: 5%  Matures: 08/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PHILADELPHIA PA GO FA GO REF BDS 2019 A UT BEORate/Coupon: 5%  Matures: 08/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "DANIEL BOONE PA AREA SCH DIST GO FA GO BDS 2017 A LTRate/Coupon: 4%  Matures: 08/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO FA GO BDS 2015 UT BEO SR LIENRate/Coupon: 5%  Matures: 08/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST HIGHER EDL REV FA FACS AUTH REV AUTHORITYRate/Coupon: 5%  Matures: 08/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CARLISLE PA AREA SCH DIST GO MS GO LTD TAX BDS 2017 LTRate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ERIE CNTY PA GO MS GO REF BDS 2017 UT BEORate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST UNIV REV MS RFDG-SER BRate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PITTSBURGH PA GO MS GO BDS 2019 UT BEORate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PITTSBURGH PA SCH DIST GO MS GO BDS 2019 ARate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "POCONO MTN PA SCH DIST GO MS GO BDS 2015 LT INSRate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SOUTHERN YORK CNTY PA SCH DIST GO MS GO BDS 2023Rate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO MS GO BDS 2016 UT BEO SR LIEN Rate/Coupon: 5%  Matures: 09/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ABINGTON PA SCH DIST GO AO GO BDS 2017 LTRate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DELAWARE CNTY PA AUTH COLLEGE REV AO REV HAVERFORD COLLEGE-SER ARate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DOYLESTOWN TWP PA GO AO GO BDS 2022 UT  BNK QUALRate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NORTHAMPTON CNTY PA GO AO GO BDS 2019 A UTRate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PHILADELPHIA PA WTR & WASTEWTR REV AO REV REV REF BDS 2016Rate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BOYERTOWN PA AREA SCH DIST GO MN GO BDS 2018Rate/Coupon: 4%  Matures: 11/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "LOWER MORELAND TWP PA SCH DIST GO MN GO BDSRate/Coupon: 5%  Matures: 11/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO JD GO BDS FIRST SER PRERE Rate/Coupon: 5%  Matures: 05/15/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PHILADELPHIA PA WTR & WASTEWTR REV JJ REV REV REF BDS 2014A PRERE 07/01/24Rate/Coupon: 5%  Matures: 07/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO JD GO BDS FIRST SER PRERE Rate/Coupon: 5%  Matures: 06/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PITTSBURGH PA GO MS GO BDS 2014 PRERE UT BEO SR LIEN S&PRate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PHILADELPHIA PA WTR & WASTEWTR REV BDS 2015A PRERE SR LIEN Rate/Coupon: 5%  Matures: 07/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SOUTHCENTRAL PA GEN AUTH REV REV CA JD WELLSPAN HEALTH OBLIG GROUP SER A BEORate/Coupon: 5%  Matures: 06/01/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PHILADELPHIA PA WTR & WASTEWTR REV JJ REV BDS 2015A PRERE Rate/Coupon: 5%  Matures: 07/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Stonebridge 2021 Access Fund LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Stonebridge 2022 Access FundDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "PPS Investors Employee LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "West Street Senior Credit Partners III Employee FundDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "ALLEGHENY CNTY PA SAN AUTH SWR REVRate/Coupon: 5%  Matures: 12/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CARLISLE BORO PA GO JJ GO BDS Rate/Coupon: 5%  Matures: 07/15/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SPRING TWP PA GO BDSRate/Coupon: 5%  Matures: 11/15/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSBURY PA SCH DIST GO FA GO BDS 2022 LTRate/Coupon: 4%  Matures: 08/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PITTSBURGH PA GO MS GO BDS 2022 UT BEORate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ALLEGHENY CNTY PA PORT AUTH REVRate/Coupon: 5%  Matures: 03/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO  FA RFDG-FIRST SERRate/Coupon: 5%  Matures: 08/15/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EAST STROUDSBURG PA AREA  MS SCHRate/Coupon: 5%  Matures: 09/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NESHAMINY PA SCH DIST GO  MN GO BDS 2023BRate/Coupon: 5%  Matures: 11/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ALLEGHENY CNTY PA SAN AUTH SWR REV JD REV BDS 2020Rate/Coupon: 5%  Matures: 06/01/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO CA FA GO BDS 2015Rate/Coupon: 3.25%  Matures: 08/15/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PITTSBURGH PA SCH DIST GO MS GO BDS 2019Rate/Coupon: 5%  Matures: 09/01/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DAUPHIN CNTY PA GO MN GO BDS 2020 A UTRate/Coupon: 5%  Matures: 11/15/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LOWER MERION PA SCH DIST GO  MN GO BDSRate/Coupon: 5%  Matures: 11/15/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO MN GO BDS First SerRate/Coupon: 5%  Matures: 05/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SOUTHEASTERN PA TRANSN AUTH JD REV BDS 2022Rate/Coupon: 5%  Matures: 06/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PHILADELPHIA PA WTR & WASTEWTR REV MS REV SER BRate/Coupon: 5%  Matures: 09/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SWARTHMORE BORO AUTH PA REV MS COLLEGERate/Coupon: 5%  Matures: 09/15/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LOWER MERION PA SCH DIST GO MN GO BDS 2021Rate/Coupon: 5%  Matures: 11/15/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA INFRASTRUCTURE REV JJ INVESTMENT AUTHORITYRate/Coupon: 5%  Matures: 01/15/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DELAWARE RIV JT TOLL BRDG REV JJ COMMNRate/Coupon: 5%  Matures: 07/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DELAWARE VALLEY PA REGL FIN REV FARate/Coupon: 5.5%  Matures: 08/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO AO GO BDS FIRST 2022Rate/Coupon: 5%  Matures: 10/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ARMSTRONG SCH DIST PA GO MS GO REF BDS 2019 ARate/Coupon: 5%  Matures: 03/15/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO MN GO BDS FIRST SER 2020 UT Rate/Coupon: 5%  Matures: 05/01/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MONTGOMERY CNTY PA GO JJ GO BDS 2019 ARate/Coupon: 5%  Matures: 07/01/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST HIGHER EDL REV FA FACS AUTH Rate/Coupon: 5%  Matures: 08/15/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PINE-RICHLAND SCH DIST PA GO MS GO UNLTDRate/Coupon: 5%  Matures: 09/01/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Dina Powell Fixed Income No Longer Held",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BLIND BROOK-RYE N Y UN FREE GO MS SCH DIST BDS 2022 UT BNK QUAL BEORate/Coupon: 5%  Matures: 03/01/2027Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "DORM AUTHORITY OF NY ST REV CA FA PERSONAL INCOME TAX REV BONDS GENRate/Coupon: 5%  Matures: 02/15/2027Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "MET TRANSN AUTH N Y REV CA MN TRANSN-SER A-1 BEORate/Coupon: 5.25%  Matures: 11/15/2034Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MONROE CNTY N Y IDA SCH FAC REV CA MN REV BDS ROCHESTER SCHS MODERNIZATION 2017 BEORate/Coupon: 5%  Matures: 05/01/2028Filer comment:  No Longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "N Y N Y CITY MUN WTR FIN AUTH REV CA JD SECOND GEN RESOLUTION BDS FISCAL 2020 DD-2 BEO SUB LIENRate/Coupon: 5%  Matures: 06/15/2027Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NEW YORK ST URBAN DEV CORP REV REV MS PERS INCOME TAX GEN PURP BDS 2022A BEORate/Coupon: 5%  Matures: 09/15/2028Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NEW YORK STATE THRUWAY AUTH REV CA JJ GENERAL REVENUE REFUNDING BNDS SERIES K BEORate/Coupon: 5%  Matures: 01/01/2027Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "NY ST DORM AUTH ST PERS INC TX REV CA FA SER A GROUP B BEORate/Coupon: 5%  Matures: 02/15/2027Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NY TRANS FIN AUTH 11/14/2013 REV MN FUTURE TAX SECD-SUB-FISCAL 2015-SER C BEO SUB LIENRate/Coupon: 5%  Matures: 11/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "THE CITY OF NEW YORK GO CA FA GEN OBL BONDS FISCAL 2015 SERIES A AND B BEORate/Coupon: 5%  Matures: 08/01/2026Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "TRIBOROUGH BRDG & TUNL AUTH REV MN (MTA BRIDGES AND TUNNELS) GEN REV BOND SERIES 2016A BEORate/Coupon: 5%  Matures: 11/15/2025Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO JJ GO REF BDS 2017 LTRate/Coupon: 5%  Matures: 01/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MONTGOMERY CNTY PA GO MS GO BDS C UTRate/Coupon: 5%  Matures: 03/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PENN MANOR SCH DIST PA GO MS GO BDS 2017Rate/Coupon: 5%  Matures: 03/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO MS GO BDS 2018 LTRate/Coupon: 5%  Matures: 03/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "WEST ALLEGHENY PA SCH DIST GO MS GO LTDRate/Coupon: 5%  Matures: 03/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BETHLEHEM PA GO AO GO BDS 2020 UTRate/Coupon: 5%  Matures: 04/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NORWIN PA SCH DIST GO AO GO BDS 2021 A LTRate/Coupon: 5%  Matures: 04/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DALLASTOWN PA AREA SCH DIST GO AO GORate/Coupon: 5%  Matures: 04/15/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BUCKS CNTY PA GO MN GO BDS 2016 UT BEO SR LIENRate/Coupon: 5%  Matures: 05/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "STATE COLLEGE PA AREA SCH DIST GO MN GO 5B UT BEO SR LIENRate/Coupon: 5%  Matures: 05/15/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "UNION CITY PA AREA SCH DIST GO MN GO BDSRate/Coupon: 5%  Matures: 05/15/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "DELAWARE RIV PORT AUTH PA & NJ REV JJ REV REV BDS 2013 PRERERate/Coupon: 5%  Matures: 01/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "BOYERTOWN PA AREA SCH DIST GO AO GO BDS 2015 PRERERate/Coupon: 5%  Matures: 04/01/2024Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST TPK COMMN TPK REV JD REV BDS 2013 C PRERE BEORate/Coupon: 5%  Matures: 12/01/2023Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "BETHEL PARK PA SCH DIST GO FA BEORate/Coupon: 5%  Matures: 08/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST UNIV REV MS REV BDS A BEORate/Coupon: 5%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "POCONO MTN PA SCH DIST GO MS GO BDS 2016Rate/Coupon: 4%  Matures: 09/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CRANBERRY TWP PA DB AO GO BDS 2015 UTRate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PENNSYLVANIA HSG FIN AGY REV CA AO SINGLERate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO AO GO BDS FIRST 2022 Rate/Coupon: 5%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UPPER ST CLAIR TWP PA SCH DIST GO AORate/Coupon: 4%  Matures: 10/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NORTH SCHUYLKILL SCH DIST PA GORate/Coupon: 4%  Matures: 11/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "ALLEGHENY CNTY PA SAN AUTH SWR REV JD Rate/Coupon: 5%  Matures: 12/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST TPK COMMN TPK REV JD REVRate/Coupon: 5%  Matures: 12/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DELAWARE RIV PORT AUTH PA & NJ REV REF REV BDS 2018 B BEORate/Coupon: 5%  Matures: 01/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GOJJ REF BDS 2017 LTRate/Coupon: 5%  Matures: 01/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WEST ALLEGHENY PA SCH DIST GO MS LTDRate/Coupon: 5%  Matures: 03/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENN-TRAFFORD PA SCH DIST GO MN LTD TAXRate/Coupon: 4%  Matures: 05/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WHITEHALL-COPLAY PA SCH DIST GO MN GORate/Coupon: 5%  Matures: 05/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO JD GO BDS FIRST SER  PRERERate/Coupon: 5%  Matures: 06/15/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PENNSYLVANIA ST TPK COMMN TPK REV JD REV PRERE 12/1/2024Rate/Coupon: 5%  Matures: 12/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DANIEL BOONE PA AREA SCH DIST AO GO PRERE 04/01/2025Rate/Coupon: 5%  Matures: 04/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WEST VIEW PA MUN AUTH WTR REV REV PRERE 11/15/2024Rate/Coupon: 5%  Matures: 11/15/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WEST VIEW PA MUN AUTH WTR REV REV MN  2014 PRERE Rate/Coupon: 5%  Matures: 11/15/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AU*TH HEALTH SYS REV CA JJ RFDG- Rate/Coupon: 5.25%  Matures: 01/15/2045",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dina Powell 401k No Longer Held",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Treasury Money Market - Vanguard",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "International Equity Index (US-Dollar Hedged) - SSgA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US High Yield Bond - Vanguard",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "S&P 500 Index - SSgA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Intl Equity Index - BlackRock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mid Cap Eq Index - SSgA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Small Cap Eq Index - SSgA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cash Res Money Mark-Vanguard",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US High Yield Bond - Capital Group",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dina Powell IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GGNPX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GADPX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dina Powell & David McCormick Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Goldman Sachs(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "West Street Capital Partners VIII Employee Fund LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Stonebridge 2021 Access Fund LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "West Street Strategic Solutions Employee Fund I, LPDescription: Private Equity Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Bridgewater Associates Holdings Inc.Filer comment:  Bridgewater Exit Agreement",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Bridgewater Equity InstrumentFiler comment:  Proceeds from an exit agreement",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "Dividends",
+          "income": "Over $5,000,000"
+        },
+        {
+          "asset": "David McCormick 401k",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MPPP Special Situations Enhanced-Liquidity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MPPP Passive US Bonds",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWENX - Vanguard Wellington Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MPPP Target Retirement 2030",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "David H. McCormick Revocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity David H. McCormick Revocable Trust Fixed Income Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aercap Ireland Capital Limited Note Rate/Coupon: 3.65%  Matures: 07/21/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "HOWMET AEROSPACE INC NOTE Rate/Coupon: 5.9%  Matures: 02/01/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "ATI NoteRate/Coupon: 5.875%  Matures: 12/1/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "ARCELORMITTAL SA LUXEMBOURG NOTERate/Coupon: 4.55%  Matures: 03/11/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BK OF AMERICA CORP BOND PERPETUAL (Floating Rate)Rate/Coupon: 6.5% (Floating Rate)  Matures: 12/31/2049",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BK OF AMERICA CORP MTNRate/Coupon: 4.2%  Matures: 08/26/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BEAZER HOMES USA INC SER B NOTE Rate/Coupon: 5.875%  Matures: 10/15/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BRIGHTSPHERE INVT GROUP INC SER B NOTERate/Coupon: 4.8%  Matures: 07/27/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PARAMOUNT GLOBAL NOTE Rate/Coupon: 4%  Matures: 01/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CONSTELLATION BRANDS INC NOTERate/Coupon: 4.75%  Matures: 11/15/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "DELTA AIR LINES INC NOTERate/Coupon: 4.375%  Matures: 04/19/2028",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "DELTA AIR LINES INC NOTERate/Coupon: 7.375%  Matures: 01/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FS KKR CAP CORP NOTE Rate/Coupon: 4.625%  Matures: 07/15/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FIFTH THIRD BANCORP BOND PERPETUAL (Floating Rate)Rate/Coupon: 5.10% (Floating Rate)  Matures: 12/31/2049",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FLEX LTD BONDRate/Coupon: 4.875%  Matures: 06/15/2029",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FLEXTRONICS INTL LTD NOTERate/Coupon: 4.875%  Matures: 05/12/2030",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FLY LEASING LTD NOTERate/Coupon: 5.25%  Matures: 10/15/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FORD MOTOR CREDIT COMPANY NOTERate/Coupon: 4.125%  Matures: 08/17/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "FREEPORT MCMORAN INC NOTE Rate/Coupon: 5%  Matures: 09/1/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "GENERAL MTRS FINL CO INC BOND PERPETUAL (Floating Rate) Rate/Coupon: 6.50% (Floating Rate)  Matures: 12/31/2049",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "HP INC NOTE Rate/Coupon: 3%  Matures: 06/17/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "HANOVER INS GROUP INC NOTE Rate/Coupon: 4.5%  Matures: 04/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "HILTON WORLDWIDE FINANCE LLC SER B Rate/Coupon: 4.875%  Matures: 04/01/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "SERVICE PPTYS TR NOTERate/Coupon: 4.5%  Matures: 03/15/2025",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "JEFFERIES GROUP INC BONDRate/Coupon: 6.45%  Matures: 06/08/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "JPMORGAN CHASE & CO BOND PERPETUAL (Floating Rate)Rate/Coupon: 6.10% (Floating Rate)  Matures: 12/31/2049",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "KB HOME NOTERate/Coupon: 4.8%  Matures: 11/15/2029",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BATH & BODY WORKS INC NOTERate/Coupon: 7.5%  Matures: 06/15/2029",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "LEGG MASON INC NOTE Rate/Coupon: 4.75%  Matures: 03/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "MARVELL TECHNOLOGY GROUP LTD NOTERate/Coupon: 4.875%  Matures: 06/22/2028",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "ORACLE CORP NOTE Rate/Coupon: 1.65%  Matures: 03/25/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "SCOTTS MIRACLE-GRO CO SER B NOTERate/Coupon: 4.5  Matures: 10/15/2029",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TRI POINTE HOMES INC NOTERate/Coupon: 5.25%  Matures: 06/01/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "TRINITY INDS INC NOTERate/Coupon: 4.55%  Matures: 10/01/2024",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "UNITED PARCEL SVCS INC NOTE Rate/Coupon: 3.05%  Matures: 11/15/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "UNITED RENTALS NORTH AMER INC NOTE Rate/Coupon: 5.25%  Matures: 1/15/2030",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "WELLS FARGO & CO BOND PERPETUAL (Floating Rate)Rate/Coupon: 5.9% (Floating Rate)  Matures: 12/31/2049",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PUBLIC PWR GENERATION AGY NEBRASKA REV REV REF BDS WHELAN ENERGY CTR UNIT 2 SER.2016 ARate/Coupon: 5%  Matures: 01/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PUBLIC FIN AUTH WISCONSIN LEASE DEV REV REV BDS KU CAMPUS DEVELOPMENT CORPORATION CENTRALRate/Coupon: 5%  Matures: 03/01/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PUBLIC FIN AUTH WISCONSIN LEASE DEV REV REV BDS KU CAMPUS DEVELOPMENT CORPORATION CENTRALRate/Coupon: 5%  Matures: 03/01/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ST JOSEPH CNTY INDIANA HOSP AUTH HOSP REV HOSP REV BDS BEACON HEALTH SYSTEM SER.2013CRate/Coupon: 5%  Matures: 08/15/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "WARRIOR RIVER ALABAMA WTR AUTH WTR REV BDS SER. 2019Rate/Coupon: 4%  Matures: 08/01/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SOUTHCENTRAL PA GEN AUTH REV BDS WELLSPAN HEALTH OBLIGATED GROUP SER.2014ARate/Coupon: 5%  Matures: 06/01/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "NORTHAMPTON CNTY PA GEN PURP AUTH HOSP REV BDS ST LUKES UNIVERSITY HEALTH NETWORK ST LUKESRate/Coupon: 5%  Matures: 8/15/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CUMBERLAND CNTY PA MUN AUTH REV REV BDS DIAKON LUTHERAN SOCIAL MINISTRIES SER. 2015Rate/Coupon: 5%  Matures: 1/1/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "US Treasury BondsRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "RUM - Rumble Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Embree Net Lease Fund II LPDescription: Private Real Estate (Austin, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Embree Net Lease Fund III LPDescription: Private Real Estate (Austin, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Embree Net Lease Fund IV LPDescription: Private Real Estate (Austin, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "EAST LYME CONN GO BDS SER. B 2021 Rate/Coupon: 5%  Matures: 08/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "OXFORD CONN GO BDS SER. 2021Rate/Coupon: 5%  Matures: 08/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "UNIVERSITY CONN GO BDS SER.2015A Rate/Coupon: 5%  Matures: 02/15/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CONNECTICUT ST HEALTH &EDL FA CSRate/Coupon: 5%  Matures: 07/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "DARIEN CONN GO BDS SER. 2020Rate/Coupon: 5%  Matures: 08/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NEW CANAAN CONN GO BDS SER. B 2021 Rate/Coupon: 4%  Matures: 12/15/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MICHIGAN FIN AUTH REV LOCAL GOVT LNRate/Coupon: 5%  Matures: 07/01/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ESSEX CONN GO BDS SER. 2017Rate/Coupon: 3%  Matures: 09/15/2029",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CONNECTICUT ST GO BDS SER. FRate/Coupon: 4%  Matures: 11/15/2030",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MILFORD CONN GO REF BDS SER. 2021Rate/Coupon: 5%  Matures: 11/01/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "UNIVERSITY CONN GO BDS SER. 2022 ARate/Coupon: 5%  Matures: 05/01/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CONNECTICUT ST HEALTH &EDL FA CSRate/Coupon: 4%  Matures: 07/01/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NEW YORK ST DORM AUTH ST PERS INCOMERate/Coupon: 5%  Matures: 03/15/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NAUGATUCK CONN CTFS PARTN COPS NAUGATUCKRate/Coupon: 4%  Matures: 08/15/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VERMONT EDL & HEALTH BLDGS FING AGY REVRate/Coupon: 5%  Matures: 11/01/2049",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "F&G ANNUITIES &LIFE INC SER B NOTE Rate/Coupon: 7%  Matures: 01/13/2028",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RADIAN GROUP INC NOTE CALL MAKE WHOLE Rate/Coupon: 6%  Matures: 05/15/2029",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FORD MOTOR CO NOTE Rate/Coupon: 7.45%  Matures: 07/16/2031",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALLY FINL INC NOTERate/Coupon: 8%  Matures: 11/01/2031",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "BROWN &BROWN INC NOTE CALL MAKE WHOLERate/Coupon: 4.2%  Matures: 03/17/2032",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DISCOVER FINL SVCS NOTERate/Coupon: 7.964%  Matures: 11/02/2034",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST GO BDS SER.2016Rate/Coupon: 5%  Matures: 09/15/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PENNSYLVANIA ST TPK COMMN OIL FRANCHISE TAX REV REV REF BDS SER. ARate/Coupon: 5%  Matures: 12/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST TPK COMMN TPK REV SUB BDS SER. 2017 ARate/Coupon: 5%  Matures: 12/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST HIGHER EDL FACS AUTH REV UNIVERSITY OF PENNSYLVANIA HLTH SYS SER. 2019Rate/Coupon: 5%  Matures: 08/15/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MONTGOMERY CNTY PA HIGHER ED & HEALTH AUTH REV THOMAS JEFFERSON UNIV SER. 2019Rate/Coupon: 5%  Matures: 09/01/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PENNSYLVANIA ST TPK COMMN TPK REV BDS SER. 2018 A-2Rate/Coupon: 5%  Matures: 12/01/2043",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BITB - Bitwise Bitcoin ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fixed Income No Longer Held",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CITIGROUP INC BOND PERPETUAL (Floating Rate)Rate/Coupon: Floating Rate  Matures: 12/31/2049Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "GENERAL ELECTRIC CO BOND PERPETUAL (Floating Rate)Rate/Coupon: Floating Rate  Matures: 12/31/2049Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "INGERSOLL-RAND GBL HLDG CO LTD NOTERate/Coupon: 4.25  Matures: 06/15/2023Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "ONEMAIN FINANCIAL CORPORATION NOTERate/Coupon: 5.625  Matures: 03/15/2023Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TRANSDIGM UK HOLDINGS PLC SER B NOTERate/Coupon: 6.875  Matures: 05/15/2026Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "WELLS FARGO & CO MTNRate/Coupon: 4.125  Matures: 8/15/2023Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "DELTONA FLORIDA UTIL SYS REV REF REV BDS SER.2013 (Pre-Refunded Bond)Rate/Coupon: 5.25  Matures: 10/1/2023Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "B & G FOODS INC NOTERate/Coupon: 5%  Matures: 04/01/2025Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "NEW YORK ST URBAN DEV CORP REV INCOMERate/Coupon: 5%  Matures: 03/15/2030Filer comment:  No Longer Held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CONNECTICUT ST HEALTH & EDL FACS Rate/Coupon: 5%  Matures: 07/01/2029Filer comment:  No longer held",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "GRIFFON CORP SER B NOTERate/Coupon: 5.75%  Matures: 03/01/2028Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "TREEHOUSE FOODS INC NOTERate/Coupon: 4%  Matures: 09/01/2028Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "SYNCHRONY FINANCIAL NOTERate/Coupon: 4.375%  Matures: 03/19/2024Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "WELLTOWER INC NOTERate/Coupon: 4.5%  Matures: 01/15/2024Filer comment:  No longer held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "TRAVEL PLUS LEISURE CO NOTERate/Coupon: 5.65%  Matures: 04/01/2024Filer comment:  No Longer Held",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Breckenridge Municipal Bond SMA Rate/Coupon: 5%  Matures: 01/01/23-06/01/2037Filer comment:  Municipal bond strategy managed by Breckenridge Capital Advisors",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fidelity Money Market(Boston, MA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Citi Private Bank Account(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Direct Investments",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Moonshots CapitalDescription: Private Equity (Austin, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ASW FundDescription: Mortgage Lending (Yarmouth, ME)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "TeleSoft-3 LPCompany: TeleSoft-3 LP (Aspen, CO) Description: Venture Fund",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TeleSoft-3 LPDescription: Venture Fund (Aspen, CO)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Deep North Description: Analytics Company (Foster City, CA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bitwise Asset ManagementCompany: Bitwise Asset Management (San Francisco, CA) Description: Asset Manager",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Elemental CognitionDescription: Research and Technology (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bedrock Learning/WOTR Inc.Description: Learning Software (Washington, DC)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Big Buck LLC Company: Big Buck LLC (Danville, PA) Description: Tree Harvesting",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CD-EmersonDescription: Commercial (Englewood, CO) Filer comment:  Multi-Family Development in Englewood Colorado",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "SmithEllis Inc.Company: SmithEllisItems, Inc. (Delaware, DE) Description: Private Company Filer comment:  Publishing Firm",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Performance SystemsDescription: Staffing Firm (Fredericksburg, VA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IllumioDescription: Data Company (Sunnyvale, CA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rise of the Rest Seed Fund IIDescription: Private Equity (Reston, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Confluence Investment Real EstateDescription: Confluence Development (Englewood, CO) Filer comment:  Multi-Family Development in Englewood Colorado",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Merrill Private Wealth Management Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BLACKSTONE REAL ESTATE INCOME TRUST INCDescription: REIT (San Francisco, CA)",
+          "asset-type": "Real EstateREIT",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "MACKAY MUNICIPAL OPPORTUNITIES ALLOCATION FUND BDescription: Municipal Bond Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Merrill Lynch(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ALL AMERICAN PA LLC Company: ALL AMERICAN PA LLC (Pittsburgh, PA) Description: Principal Residence",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Principal ResidenceDescription: Principal Residence (Pittsburgh, PA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Frosty Valley LLC Company: Frosty Valley LLC (New York, NY) Description: New York Rental & Investment Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "New York Rental & Investment PropertyDescription: New York Rental & Investment Property (New York, NY) Filer comment:  Sold February 2023",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "DDM Rental Property II LLCCompany: DDM Rental Property II LLC (Wilmington, DE) Description: Rental & Investment Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Rental & Investment PropertyDescription: Rental & Investment Property",
+          "asset-type": "Personal PropertyOther",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Frosty Valley 3 LLC Company: Frosty Valley 3 LLC (Dallas, TX) Description: Dallas Rental & Investment Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Dallas Rental & Investment PropertyDescription: Dallas Rental & Investment Property (Dallas, TX)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "DMDM, LLCCompany: DMDM, LLC (CO, CO) Description: Ranch Investment Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Colorado Ranch Investment PropertyDescription: Colorado Ranch Investment Property (Colorado, CO)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$25,000,001 - $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Frosty Valley Farms LLCCompany: Frosty Valley Farms LLC (PA, PA) Description: Working Farm/Residence/Rental",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CCFN Muncy Columbia Financial CorpFiler comment:  Bloomsburg, PA",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Working Farm/Residence/RentalDescription: Working Farm/Residence/Rental (Danville, PA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2019",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "2.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$5,000,001 - $25,000,000",
+          "creditor": "Cenlar\n\t\t\t\t\t\t\t\tEwing Township, NJ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2019",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Rise of the Rest Seed Fund II\n\t\t\t\t\t\t\t\tReston, VA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "Over $1,000,000 (asset held independently by spouse or dependent child)",
+          "creditor": "Goldman Sachs Private Investments\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Goldman Sachs Private Investments\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Cenlar\n\t\t\t\t\t\t\t\tFlorence, SC",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Moonshots Capital\n\t\t\t\t\t\t\t\tAustin, TX",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Aug 2009 to\n\t\t\t\t\t\t\t\tJan 2022",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-CEO)",
+          "entity": "Bridgewater Associates LP\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestport, CT",
+          "entity-type": "Firm",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "David H. McCormick Revocable Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Feb 2022",
+          "parties-involved": "Bridgewater\n\t\t\t\t\t\t\t\tWestport, CT",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Family health benefit plan through Bridgewater, paid by David McCormick",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2023",
+          "parties-involved": "CAA, James Cunningham, and Center Street\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement to receive royalty payments/commissions consistent with usual and customary publishing terms. The book is entitled, \"Superpower in Peril: A Battle Plan to Renew America.\"",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "Bridgewater Associates LP\n\t\t\t\t\t\t\t\tWestport, CT",
+          "duties": "Co-CEO",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

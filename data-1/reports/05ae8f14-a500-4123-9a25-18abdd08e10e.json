@@ -1,0 +1,834 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2019",
+  "filer": "The Honorable Ron L Wyden (Wyden, Ron)",
+  "filed-date": "08/13/2020",
+  "filed-time": "9:30 PM",
+  "calendar-year": "2019",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Partnership Distributions",
+          "who-paid": "Bass Book Trading, Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Bass Real Estate LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Strand Book Store Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Inherited IRA distribution)",
+          "who-paid": "TIAA/CREF\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "$12,692.55",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Susan Schulman Literary Agency LLC (Rights to the literary works of Peter Wyden)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$5,339.50",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Sterling Lord Literistic, Inc. (Rights to the literary works of Peter Wyden)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$1,088.09",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "US Senate FCU(Washington, DC)Type: Checking, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US Savings Bond Series IDescription: US Savings Bond (Washington, DC)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Senate FCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rights to the literary works of Peter WydenDescription: Rights to the literary works of Peter Wyden",
+          "asset-type": "Intellectual PropertyCopyrights",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA/CREF(Washington, DC)Type: IRA Cash Accounts, Filer comment:  inherited IRA",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Edith Wyden Trust FBO Ronald L. Wyden TrustFiler comment:  inherited trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GICIX-Goldman Sachs Intl Sm Cp Insghts Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JP Morgan Emerging Markets Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JUSRX - JPMorgan US Equity R5",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MIEIX-MFS Instl International Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PCBIX-Principal MidCap Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VWLUX-Vanguard Long-Term Tax-Exempt Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Chemeketa CLG-ARate/Coupon: 5.25  Matures: 6/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Oregon St For Previous Issues GO BdsRate/Coupon: 5  Matures: 8/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Tri-Co Metro Transp-ARate/Coupon: 5  Matures: 10/1/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Bank of the West Advantage Account(San Francisco, California)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NVHIX-Nuveen Short Duration Hi Yld Muni Bd I",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FM - iShares MSCI Frontier 100 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PPSAX - Principal Preferred Securities A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Transamerica Enhanced Municipal Fund CL I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SHRIX - Stone Ridge High Yield Reinsura",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VEIPX - Vanguard Equity-Income Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BGCIX - BlackRock Global Long/Short Credit Fund Institutio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PXF - Invesco FTSE RAFI Developed Markets ex-U.S. ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EFA - iShares MSCI EAFE ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oregon College Savings Plan - William Peter WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Oregon College Savings Plan - College Enrollment Year 2026 PortfolioInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oregon College Savings Plan - Ava Rose WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Oregon College Savings Plan - College Enrollment Year 2026 PortfolioInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Strand Book Store Inc.  (S-Corp)Description: Book Store (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
+        },
+        {
+          "asset": "Bass Book Trading, Inc  (S-corp)Description: Book Trading (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Bass Real Estate LLCCompany: Bass Real Estate LLC (New York, NY) Description: Commercial Real Estate holding Filer comment:  Holdings: 826 Broadway, New York, NY 10003",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Leveque Parking Partners LLCCompany: Leveque Parking Partners LLC (New York, NY) Description: Commercial Real Estate Filer comment:  Formerly reported as Ranger Asset Management LLC",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Leveque GarageDescription: Leveque Garage (Columbus, OH)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Other, (Ordinary business income)",
+          "income": "Other $10,125.00"
+        },
+        {
+          "asset": "Fitz Frames, Inc.Description: Custom eyeglass wear (Santa Monica, CA)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Merrill Lynch - CMA Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Bank of America, N.A.(Garden City, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "U.S. Treasury BillRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Suffolk Cnty NY Rev Antic Nts 2019Rate/Coupon: 2.0%  Matures: 03/20/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Metropolitan Transn Auth NY Rev Bd Antic Nts Rate/Coupon: 5.0%  Matures: 05/15/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Metropolitan Transn Auth NY Rev Transn Rev Ser CRate/Coupon: 5.0%  Matures: 05/15/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Metropolitan Transn Auth NY Rev Transn BDS C-1Rate/Coupon: 5.0%  Matures: 09/01/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Metropolitan Transn Auth NY Rev Bds Ser CRate/Coupon: 5.0%  Matures: 11/15/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Metropolitan Transn Auth NY Rev Bds Ser CRate/Coupon: 5.0%  Matures: 11/15/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Merrill Lynch - IRA Account",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Bank of America(Garden City, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "C - Citigroup Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XOM - Exxon Mobil Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GE - General Electric Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JCI - Johnson Controls International plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDT - Medtronic plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFE - Pfizer Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TEL - TE Connectivity Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRV - The Travelers Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDFGX - BlackRock Capital Appreciation Fund Investor A Sha",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge Oakleigh LLCCompany: Coolidge Oakleigh LLC (Baton Rouge, LA) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertyDescription: Residential Property (Baton Rouge, LA) Filer comment:  Garden apartment rental",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge Evaston LLCCompany: Coolidge Evaston LLC (Chicago, IL) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Chicago, IL) Filer comment:  Investment includes multiple units in the same building",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge 5101 Sheridan LLCCompany: Coolidge 5101 Sheridan LLC (Chicago, IL) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Chicago, IL) Filer comment:  Investment includes multiple units in the same building",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coolidge Des Plaines LLCCompany: Coolidge Des Plaines LLC (Des Plaines, IL) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Des Plaines, IL) Filer comment:  Investment includes multiple units in the same building",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "12/11/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Metropolitan Transn Auth NY Rev Bds Ser C \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/15/2020",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/11/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Metropolitan Transn Auth NY Rev Bd Antic Nts B\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/2020",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Metropolitan Transn Auth NY Rev Bds Ser C\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/15/2020",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Suffolk Cnty NY Rev Antic Nts 2019\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 2.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/20/2020",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/18/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Metropolitan Transn Auth NY Rev Transn BDS C-1\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/2020",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/24/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Metropolitan Transn Auth NY Rev Transn Rev Ser C\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/2020",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JUSRX",
+          "asset-name": "JPMorgan U.S. Equity Fund Class R5",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/09/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GICIX",
+          "asset-name": "Goldman Sachs International Small Cap Insights Fun",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MIEIX",
+          "asset-name": "MFS Institutional International Equity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/28/2019",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PXF",
+          "asset-name": "Invesco FTSE RAFI Developed Markets ex-U.S. ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/23/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FM",
+          "asset-name": "iShares MSCI Frontier 100 ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/23/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EFA",
+          "asset-name": "iShares MSCI EAFE ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/23/2019",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/23/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Transamerica Enhanced Municipal Fund CL I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/24/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEIPX",
+          "asset-name": "Vanguard Equity-Income Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/24/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Investment in Residential Properties",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/22/2019",
+          "amount": "$250,001 - $500,000",
+          "comments": "Underlying asset of Coolidge 5101 Sheridan LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Investment in Residential Properties",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/22/2019",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "Underlying asset Coolidge Des Plaines LLC"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2011",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,1716 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2018",
+  "filer": "The Honorable Angus S King Jr. (King, Angus)",
+  "filed-date": "05/15/2019",
+  "filed-time": "10:36 AM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "MAINE PUBLIC EMPLOYEES RETIREMENT SYSTEM\n\t\t\t\t\t\t\t\tAUGUSTA, ME",
+          "amount-paid": "$31,916.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Commissions",
+          "who-paid": "TRUST U/W/O ROGER C KLINE FBO DARTMOUTH COLLEGE\n\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "amount-paid": "$16,725.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Commissions",
+          "who-paid": "TRUST U/W/O ROGER C KLINE FBO MATTHEW KLINE\n\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "amount-paid": "$10,817.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Commissions",
+          "who-paid": "TRUST U/W/O ROGER C KLINE GENERATION SKIPPING TRUST\n\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "amount-paid": "$508.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "CHAS SCHWAB & CO IRA ROLLOVER #1\n\t\t\t\t\t\t\t\tSAN FRANCISCO, CA",
+          "amount-paid": "$12,700.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "CHAS SCHWAB & CO IRA ROLLOVER #2\n\t\t\t\t\t\t\t\tSAN FRANCISCO, CA",
+          "amount-paid": "$11,940.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "CHAS SCHAB & CO IRA ROLLOVER\n\t\t\t\t\t\t\t\tSAN FRANCISCO, CA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "POTTER ST BRUNSWICKDescription: RESIDENCE AND 2 RENTAL UNITS (BRUNSWICK, ME)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TD BANK NA AGGREGATE ACCOUNTS(BRUNSWICK, ME)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRU - Prudential Financial, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRUDENTIAL INSURANCE CO WHOLE LIFE POLICYProvider: PRUDENTIAL INSURANCE CO",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PRUDENTIAL INSURANCE APPRECIABLE LIFE POLICY",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PSF GOV'T MONEY MARKETRate/Coupon: None  Matures: NoneFiler comment:  UNDERLYING INVESTMENT OF LIFE INSURANCE POLICY",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MAR-Marriott International, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HST - Host Hotels & Resorts, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VAC - Marriott Vacations Worldwide Corp.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SCHWAB ONE ACCOUNT",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "HLEMX-Harding Loevner Emerging Markets Advisor (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SDVSX-Sit Dividend Growth S (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "TBGVX-Tweedy, Browne Global Value (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PRSNX - T. Rowe Price Strategic Income (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CHARLES SCHWAB(PORTLAND, ME)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JKE - iShares Morningstar Large-Cap Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SNSXX - The Charles Schwab Family of Funds - Schwab U.S. T",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TRUST REVOCABLE TRUST",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BANK OF AMERICA, NA(PORTLAND, ME)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MAINE TAX EXEMPT CTF",
+          "asset-type": "Common Trust Fund of a Bank",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "SCHWAB REVOCABLE TRUST",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VWIUX - Vanguard Interm-Term Tx-Ex Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "GATEX - Gateway A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SWXXX-Schwab Tax-Exempt Money Fund Sw (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Admiral (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "SCHWAB IRA ROLLOVER #1",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FFRIX - Fidelity Advisor Floating Rate Hi Inc I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IGSB - iShares Short-Term Corporate Bond ETFFiler comment:  NAME CHANGE FROM CSJ iSHARES 1-3 YEAR CREDIT BOND",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IWO - iShares Russell 2000 Growth",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IWN - iShares Russell 2000 Value",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IVE - iShares S&P 500 Value (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IVW-iShares S&P 500 Growth (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJJ - iShares S&P Mid-Cap 400 Value (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJK - iShares S&P Mid-Cap 400 Growth (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IGIFX - American Funds Intl Gr and Inc F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JAMCX - JPMorgan Mid Cap Value A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKEX - Oakmark International Small Cap I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKIX - Oakmark International I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JP MORGAN CHASE & CO CORP BONDRate/Coupon: 4.40%  Matures: 07/22/2020",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BERKSHIRE HATHAWAY INC CORP BONDRate/Coupon: 3.75%  Matures: 08/15/2021",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WBFFX - American Funds Capital World Bond F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TPINX - Templeton Global Bond A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JSOAX - JPMorgan Strategic Income Opps A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PTTAX - PIMCO Total Return A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGENX - First Eagle Global A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSTAX - Fidelity Advisor Strategic Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNSAX - Invesco Convertible Securities A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DODFX - Dodge & Cox International Stock (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EAAFX - Wells Fargo Advantage Asset Alloc A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TREASURY NOTE 1.875% MATURES 8/31/2022Rate/Coupon:   Matures:",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TREASURY NOTE 1.75% MATURES 1/31/2023Rate/Coupon:   Matures:",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHARLES SCHWAB(PORTLAND, ME)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SCHWAB IRA ROLLOVER #2",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "HLEMX - Harding Loevner Emerging Markets Advisor (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TBGVX - Tweedy, Browne Global Value (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WPSGX - AB Concentrated Growth Advisor (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHARLES SCHWAB(PORTLAND, ME)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JENIX-Jensen Quality Growth I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JKE - iShares Morningstar Large-Cap Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SNSXX - The Charles Schwab Family of Funds - Schwab U.S. T",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SCHWAB ONE ACCT - MJH",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ECL-Ecolab Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DIS-The Walt Disney Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NKE - Nike, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "TJX-The TJX Companies, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KMB - Kimberly-Clark Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MKC - McCormick & Company, Incorporated (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PEP - Pepsico, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XOM-Exxon Mobil Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SLB - Schlumberger Limited (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AXP - American Express Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CB - Chubb Limited",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CME-CME Group Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IYF - iShares US Financials",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "USB - U.S. Bancorp (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GILD-Gilead Sciences Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "JNJ - Johnson & Johnson (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WAT-Waters Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MMM - 3M Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NSC - Norfolk Southern Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UPS - United Parcel Service, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UTX - United Technologies Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AAPL-Apple Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSCO-Cisco Systems, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ORCL-Oracle Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WTR - Aqua America Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NEE - NextEra Energy, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VIMSX - Vanguard Mid Cap Index Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EFA-iShares MSCI EAFE",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MGIAX - MFS International Value A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EEM-iShares MSCI Emerging Markets",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EAAIX - Wells Fargo Advantage Asset Alloc Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GTEYX - Gateway Y (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "STATE OF MAINE STREET BONDRate/Coupon: 3.00%  Matures: 06/01/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE MUNI BOND BANKRate/Coupon: 4.00%  Matures: 11/01/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE MUNI BOND BANKRate/Coupon: 3.00%  Matures: 11/01/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MUNI BOND YORK MERate/Coupon: 2.75%  Matures: 03/01/2019",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MUNI BOND KENNEBUNK MERate/Coupon: 3.00%  Matures: 10/01/2020",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE ST TURNPIKE AUTH BONDRate/Coupon: 3.00%  Matures: 07/01/2021",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE HEALTH & HIGH BONDRate/Coupon: 3.00%  Matures: 07/01/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE MUNI BOND BANKRate/Coupon: 2.00%  Matures: 11/01/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE MUNI BOND BANKRate/Coupon: 3.00%  Matures: 11/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE ST HSG AUTH BONDRate/Coupon: 4.00%  Matures: 11/15/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE MUNI BOND BANKRate/Coupon: 3.00%  Matures: 09/01/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE ST TPK AUTH SP BONDRate/Coupon: 3.00%  Matures: 07/01/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MUNI BOND ORONO MERate/Coupon: 3.00%  Matures: 11/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "UNH - UnitedHealth Group Incorporated (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MUNI BOND ELLSWORTH ME GORate/Coupon: 2.25%  Matures: 12/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE STATE HSG AUTH REVRate/Coupon: 2.60%  Matures: 11/15/2022",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE HEALTH & HIGHER ED REV BOND FINL AUTHRate/Coupon: 3.25%  Matures: 07/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE HEALTH & HIGHER ED REV BOND PRIV EDRate/Coupon: 3.25%  Matures: 07/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "REGIONAL SCHOOL UNIT NO 5 MERate/Coupon: 2.50%  Matures: 11/01/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE STATE HSG AUTH REVRate/Coupon: 1.95  Matures: 11/15/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE STATE HSG AUTHRate/Coupon: 2.25%  Matures: 11/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE STATE HSG AUTHRate/Coupon: 2.45%  Matures: 11/15/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MUNI BOND AUGUSTA ME GORate/Coupon: 2.25%  Matures: 10/01/2026",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MUNI BOND BIDDEFORD MERate/Coupon: 3.00%  Matures: 10/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MAINE SCHOOL ADMIN GO BONDRate/Coupon: 3.00%  Matures: 11/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "COP - ConocoPhillips",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JSOSX - JPMorgan Strategic Income Opports",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GATEX - Gateway A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHARLES SCHWAB(PORTLAND, ME)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SCHWAB IRA ROLLOVER - MJH",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "OAKIX - Oakmark International I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GVI - iShares Intm Government/Credit Bond",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IGSB - iShares Short-Term Corporate Bond ETFFiler comment:  NAME CHANGE FROM CSJ iSHARES 1-3 YEAR CREDIT BOND",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TPINX - Templeton Global Bond A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ODVYX - Oppenheimer Developing Markets Y (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AGG - iShares Core US Aggregate Bond",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SCHM - Schwab US Mid-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GATEX - Gateway A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EAAFX - Wells Fargo Asset Allocation A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHARLES SCHWAB(PORTLAND, ME)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SCHP - Schwab U.S. TIPS ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "A WOMAN, A PART LLCCompany: A WOMAN, A PART LLC (ULSTER PARK, NY) Description: FILM PRODUCTION COMPANY Filer comment:  .20 NON-VOTING CLASS B MEMBERSHIP SHARE",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "03/12/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MAINE ST HSG AUTH BOND\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/15/2028",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "REDEMPTION \"CALLED\""
+        },
+        {
+          "transaction-date": "04/23/2018",
+          "owner": "Spouse",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/28/2018",
+          "owner": "Spouse",
+          "ticker": "NKE",
+          "asset-name": "NIKE, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/28/2018",
+          "owner": "Spouse",
+          "ticker": "CB",
+          "asset-name": "Chubb Limited",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/17/2018",
+          "owner": "Spouse",
+          "ticker": "SLB",
+          "asset-name": "Schlumberger Limited",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/09/2018",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JKE",
+          "asset-name": "iShares Morningstar Large-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/16/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRSNX",
+          "asset-name": "T. Rowe Price Global Multi-Sector Bond Fund Invest",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RPIFX",
+          "asset-name": "T. Rowe Price Institutional Floating Rate Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GLD",
+          "asset-name": "SPDR Gold Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/16/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FSRRX",
+          "asset-name": "Fidelity Strategic Real Return Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/16/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRSNX",
+          "asset-name": "T. Rowe Price Global Multi-Sector Bond Fund Invest",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RPIFX",
+          "asset-name": "T. Rowe Price Institutional Floating Rate Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JKE",
+          "asset-name": "iShares Morningstar Large-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SCHP",
+          "asset-name": "Schwab U.S. TIPS ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/30/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/30/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "FSICX - FIDELITY STRATEGIC INCOME FUND",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/04/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fund Investo",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/04/2018",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/02/2018",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GLD",
+          "asset-name": "SPDR Gold Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/05/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FSRRX",
+          "asset-name": "Fidelity Strategic Real Return Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/05/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/05/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MAINE TAX EXEMPT CTF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/17/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/07/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JKE",
+          "asset-name": "iShares Morningstar Large-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/07/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SDVSX",
+          "asset-name": "Sit Dividend Growth Fund Class S",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2018",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SNSXX",
+          "asset-name": "The Charles Schwab Family of Funds - Schwab U.S. T",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/24/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SNSXX",
+          "asset-name": "The Charles Schwab Family of Funds - Schwab U.S. T",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/24/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2018",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HLEMX",
+          "asset-name": "Harding Loevner Emerging Markets Portfolio Advisor",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TBGVX",
+          "asset-name": "Tweedy, Browne Global Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JKE",
+          "asset-name": "iShares Morningstar Large-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/11/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/11/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OAKIX",
+          "asset-name": "Oakmark International Fund Investor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/30/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TBGVX",
+          "asset-name": "Tweedy, Browne Global Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/05/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODVYX",
+          "asset-name": "Oppenheimer Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/11/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TPINX",
+          "asset-name": "Templeton Global Bond Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/11/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets Index Fund ETF Sha",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/26/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "SWZXX - SCHWAB ADVISOR CASH RESERVES",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/11/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SWZXX - SCHWAB ADVISOR CASH RESERVE",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/09/2018",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SWZXX - SCHWAB ADVISOR CASH RESERVES",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/23/2018",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.50%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 YRS)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "TD BANK, NA\n\t\t\t\t\t\t\t\tLEWISTON, ME",
+          "comments": "COMBINED MORTGAGE ON RENTAL & PERSONAL RESIDENCE"
+        },
+        {
+          "incurred": "1995",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.75-4.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 YRS)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "JP MORGAN CHASE BANK, NA\n\t\t\t\t\t\t\t\tCOLUMBUS, OH",
+          "comments": "ADJUSTABLE RATE MORTGAGE ON SEASONAL RESIDENCE"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Mar 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "TRUST U/W/O ROGER KLINE FBO MATTHEW KLINE\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(TESTAMENTARY TRUST)",
+          "comments": "APPOINTMENT AS TRUSTEE UNDER THE LAST WILL & TESTAMENT OF ROGER C KLINE FOR THE BENEFIT OF MATTHEW KLINE IN SURROGATE'S COURT, NEW YORK COUNTY."
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "TRUST UNDER CLAUSE SEVENTH OF WILL OF ROGER C KLINE FOR DARTMOUTH COLLEGE\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(TESTAMENTARY TRUST)",
+          "comments": "APPOINTMENT AS TRUSTEE UNDER THE LAST WILL AND TESTAMENT OF ROGER C KLINE FOR THE BENEFIT OF DARTMOUTH COLLEGE IN SURROGATE'S COURT, NEW YORK COUNTY"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "TRUST UNDER CLAUSE NINTH OF WILL OF ROGER C KLINE - GENERATION SKIPPING TRUST\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(TESTAMENTARY TRUST)",
+          "comments": "APPOINTMENT AS TRUSTEE UNDER THE LAST WILL AND TESTAMENT OF ROGER C KLINE - GENERATION SKIPPING TRUST IN SURROGATE'S COURT, NEW YORK COUNTY."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Mar 2009",
+          "parties-involved": "TRUST UNDER THE WILL OF ROGER C KLINE FOR BENEFIT OF MATTHEW KLINE\n\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "type": "Compensation Agreement",
+          "status-and-terms": "APPOINTMENT AS TRUSTEE U/W/O ROGER C KLINE FBO MATTHEW KLINE IN SURROGATE'S COURT, NEW YORK COUNTY. ENTITLED TO TRUSTEE COMMISSIONS FOR SERVICES RENDERED DURING 2018 PURSUANT TO NEW YORK STATUTE. AMOUNT OF $11,204 REMAINS UNPAID AS OF DECEMBER 31, 2018.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2012",
+          "parties-involved": "TRUST UNDER CLAUSE NINTH OF WILL OF ROGER C KLINE-GENERATION SKIPPING TRUST\n\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "type": "Compensation Agreement",
+          "status-and-terms": "APPOINTMENT AS TRUSTEE U/W/O ROGER C KLINE - GENERATION SKIPPING TRUST IN SURROGATE'S COURT, NEW YORK COUNTY. ENTITLED TO TRUSTEE COMMISSIONS FOR SERVICES RENDERED DURING 2018 PURSUANT TO NEW YORK STATUTE.  AMOUNT OF $313 REMAINS UNPAID AS OF DECEMBER 31, 2018. BALANCE OF COMMISSIONS WAIVED IN AMOUNT OF $17,267.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2012",
+          "parties-involved": "TRUST UNDER CLAUSE SEVENTH OF WILL OF ROGER C KLINE FOR DARTMOUTH COLLEGE\n\t\t\t\t\t\t\t\tNEW YORK, NY",
+          "type": "Compensation Agreement",
+          "status-and-terms": "APPOINTMENT AS TRUSTEE U/W/O ROGER C KLINE FBO DARTMOUTH COLLEGE IN SURROGATE'S COURT, NEW YORK COUNTY. ENTITLED TO TRUSTEE COMMISSIONS FOR SERVICES RENDERED DURING 2018 PURSUANT TO NEW YORK STATUTE. AMOUNT OF $16,924 REMAINS UNPAID AS OF DECEMBER 31, 2018.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 1995",
+          "parties-involved": "MAINE STATE RETIREMENT SYSTEM\n\t\t\t\t\t\t\t\tAUGUSTA, ME",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "CONTINUING MONTHLY PENSION BENEFITS AS A RESULT OF STATE GOVERNMENT SERVICE AS ELECTED GOVERNOR FROM 1995-2003.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2018",
+          "parties-involved": "ISLANDPORT PRESS INC\n\t\t\t\t\t\t\t\tYARMOUTH, ME",
+          "type": "Royalty Agreement",
+          "status-and-terms": "PUBLISHING AGREEMENT TO WRITE A BOOK FEATURING IMAGES AND EXTENDED CAPTIONS RELATED TO PERSONAL LIFE AND WORK AS A US SENATOR WITH INTENT TO PUBLISH AND DISTRIBUTE FOR PUBLIC RESALE.  ALL CONTRACT ROYALTIES ARE ASSIGNED TO THE STATEWIDE PUBLIC CHARITY: GOOD SHEPHERD FOOD BANK OF AUBURN MAINE.  PUBLISHING AGREEMENT IS ATTACHED.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": [
+        {
+          "document-title": "IslandportPressBookAgmt.Jan.2018.pdf",
+          "date-time-added": "04/22/2019 @ 6:36 PM"
+        }
+      ]
+    }
+  ]
+}

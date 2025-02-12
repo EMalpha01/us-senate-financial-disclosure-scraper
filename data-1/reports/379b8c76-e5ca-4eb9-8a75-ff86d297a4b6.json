@@ -1,0 +1,336 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2019",
+  "filer": "Mrs. Joni K Ernst (Ernst, Joni)",
+  "filed-date": "08/11/2020",
+  "filed-time": "12:43 PM",
+  "calendar-year": "2019",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance)",
+          "who-paid": "Simon & Schuster, Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$48,000.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "TransAmerica InvestmentsFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IMOLX - Transamerica Asset Allc Moderate C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica BlackRock Tactical Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica PIMCO Total Return",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica BlackRock Global Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ReliaStar Life Ins. Co.Filer comment:  457 Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VY T. Rowe Price Capital Appreciation Pt. Srv.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VY Invesco Comstock Port I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Contrafund Port (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya Growth and Income Port I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VY Invesco Grw & Inc. Port. Srv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Voya Large Cap Value Port Inst.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IIGZX - Voya Global Value Advantage Port I",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American FundsFiler comment:  Education IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ANWPX-American Funds New Perspective A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco AIM",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VAFAX-Invesco American Franchise A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ACGIX-Invesco Growth and Income A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Iowa Retirement",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Iowa Retirement",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USA Financial SecuritiesFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AGTHX - American Funds The Growth Fund of America Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AWSHX - American Funds Washington Mutual Investors Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Great Western Bank(Stanton, IA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Senate Federal Credit Union(Washington, DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2019",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Midwest Loan Services\n\t\t\t\t\t\t\t\tHoughton, MI",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2019",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Home Point Financial Corporation\n\t\t\t\t\t\t\t\tAnn Arbor, MI",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "BB&T Mortgage\n\t\t\t\t\t\t\t\tCharlotte, NC",
+          "comments": "The BB&T mortgage was refinanced to Midwest Loan Services in 2019."
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "US Bank Home Mortgage\n\t\t\t\t\t\t\t\tOwensboro, KY",
+          "comments": "Filer sold property in 2019."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2002",
+          "parties-involved": "Iowa Public Employees' Retirement System\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "This is a retirement benefits plan that will pay retirement benefits upon eligibility and includes disability benefits and preretirement death benefits.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2019",
+          "parties-involved": "Simon & Schuster, Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on usual and customary terms. Income from this agreement is disclosed in Section 2.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

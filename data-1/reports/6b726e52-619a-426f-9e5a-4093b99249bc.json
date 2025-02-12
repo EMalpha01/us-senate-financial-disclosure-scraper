@@ -1,0 +1,210 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2014 (Amendment 1)",
+  "filer": "The Honorable Ron Johnson (Johnson, Ron)",
+  "filed-date": "05/12/2016",
+  "filed-time": "11:40 AM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Associated Bank N.A.(Green Bay, WI)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Charles Schwab & Co Inc.(San Francisco, CA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HSA Bank(Sheboygan, WI)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W. Baird & Co (Wausau, WI)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Associated Bank N.A.(Green Bay, WI)Type: IRA Cash Accounts, Filer comment:  This is the Goldman Sachs Financial Square Prime cash account.",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Asociated Bank N.A.(Green Bay, WI)Type: IRA Cash Accounts, Filer comment:  This is the Goldman Sachs Financial Square Prime cash account.",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wisconsin St Hlth & EdlRate/Coupon: 5.0%  Matures: 12/15/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Pacur, LLC (5% Ownership Interest)Company: Pacur, LLC (Oshkosh, WI) Description: Manufacturing - Plastic Extrusion",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Other, (Gross Receipts (before exp) Trade/Business)",
+          "income": "$50,001 - $100,000Other $4,651,344.00"
+        },
+        {
+          "asset": "DP Lenticular, Ltd (9.9% Ownership Interest)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Welsh Midwest RE Fund, LLC (0% Ownership Interest at year end)Company: Welsh Midwest RE Fund, LLC (Minnetonka, MN) Description: Commercial rental real estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Orchard at Picacho, LLC (0.73% Ownership Interest)Company: Orchard at Picacho, LLC (Picacho, AZ) Description: Land Development",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ronald H. and Jane K. Johnson, LLC (100% Ownership Interest)Company: Ronald H. and Jane K. Johnson, LLC (Oshkosh, WI) Description: Commercial rental real estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "ReceivableCompany: Ron Johnson for Senate, Inc. (Washington, DC)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stifel Nicolaus Cust For Jane Johnson Benficiary - Alice Curler Decd IRA(St. Louis, MO)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Welsh Property Trust, LLC (.4041% Ownership Interest)Company: Welsh Property Trust, LLC (Minneapolis, MN) Description: Commercial rental real estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Welsh Midwest RE Fund LLC",
+          "transaction-type": "Exchange",
+          "transaction-date": "11/14/2014",
+          "amount": "$100,001 - $250,000",
+          "comments": "Welsh Midwest RE Fund was exchanged for Welsh Property Trust"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Mar 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Grammie Jean Foundation, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOshkosh, WI",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

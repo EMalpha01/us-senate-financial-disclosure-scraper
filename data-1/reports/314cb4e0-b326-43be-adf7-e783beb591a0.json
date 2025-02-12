@@ -1,0 +1,3957 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Markwayne Mullin (Mullin, Markwayne)",
+  "filed-date": "08/12/2024",
+  "filed-time": "6:08 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Arvest Bank(Lowell, Arkansas)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Northwestern Mutual FDIC Insured",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DODIX - Dodge & Cox Income Fund - Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "American Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Cohen & Steers Preferred",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Invesco Exchange-Traded FD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ishares TR PFD & Income SECS ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Global X FDS US PFD ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Nuveen High Yield Municipal Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Nuveen Limited Term Municipal Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JHBIX - John Hancock Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Principal Spectrum Preferred AND",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Vaneck ETF TR High Yield Mun Index ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Victory Market Neutral Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Northwestern Mutual FDIC Insured",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "DODGX - Dodge & Cox Stock Fund - Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Fidelity Advisor Real Estate Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ishares TR Select Divid ETF FD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Ishares TR Core S&P Mid-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ishares TR Russell 1000 ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ishares TR Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "John Hancock Exchange Traded FD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Pacers FDS TR Data Infrastructure Real",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Pimco Commodities Plus Strategy Fund Class I2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Schwab Strategic TR US Mid-Cap",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Vanguard Specialized Funds Divid",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Vanguard Intl FD FTSE Developed Mkts",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Vanguard Intl Equity Index FDS FTSE",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Vanguard Index FDS Real Estate Index FD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Victory Market Neutral Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Northwestern Mutual",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Mullin Realty LLCDescription: Florida Investment Property (Englewood, FL)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The Christie Renee Mullin Insurance TrustProvider: Provident Trust Group",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American High Income Municipal",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Other, (Tax-Exempt Dividends)",
+          "income": "Other $9,090.28"
+        },
+        {
+          "asset": "Nuveen High Yield Municipal Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Tax-Exempt Dividends)",
+          "income": "$5,001 - $15,000Other $9,105.70"
+        },
+        {
+          "asset": "Nuveen Limited Term Municipal Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Tax-Exempt Dividends)",
+          "income": "$201 - $1,000Other $550.26"
+        },
+        {
+          "asset": "Vaneck ETF TR High Yield Mun Index ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Tax-Exempt Dividends)",
+          "income": "$2,501 - $5,000Other $4,696.55"
+        },
+        {
+          "asset": "Vanguard Intermediate Term Tax Exempt Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Tax-Exempt Dividends)",
+          "income": "$1,001 - $2,500Other $1,517.21"
+        },
+        {
+          "asset": "Mullin Ranch LLCDescription: Cattle Ranch (Westville, OK)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LPL Financial",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "LPL Financial",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Mullin Family Holdco LLCCompany: Mullin Family Holdco LLC (Westville, OK) Description: Equity investment in COP Hometown Parent LLC, a home services company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Family Holdco LLCCompany: Mullin Family Holdco LLC (Westville, OK) Description: Equity investment in COP Hometown Parent LLC, a home services company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Family Holdco LLCCompany: Mullin Family Holdco LLC (Westville, OK) Description: Equity investment in COP Hometown Parent LLC, a home services company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Family Holdco LLCCompany: Mullin Family Holdco LLC (Westville, OK) Description: Equity investment in COP Hometown Parent LLC, a home services company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Family Holdco LLCCompany: Mullin Family Holdco LLC (Westville, OK) Description: Equity investment in COP Hometown Parent LLC, a home services company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Family Holdco LLCCompany: Mullin Family Holdco LLC (Westville, OK) Description: Equity investment in COP Hometown Parent LLC, a home services company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Family Holdco LLCCompany: Mullin Family Holdco LLC (Westville, OK) Description: Equity investment in COP Hometown Parent LLC, a home services company.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rowan's Restaurant LLCCompany: Rowan's Restaurant LLC (Stillwell, OK) Description: Restaurant in Stillwell, Oklahoma.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Properties LLCCompany: Mullin Properties LLC (Westville, OK) Description: Property and Land in Oklahoma.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Mullin Realty LLCDescription: Washington DC Investment Property (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ABT - Abbott Laboratories Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AXP - American Express Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ELV - Elevance Health Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMAT - Applied Materials, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BLK - Blackrock Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CSX - CSX Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CAT - Caterpillar Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CVX - Chevron Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "COKE - Coca Cola Bot Cons",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Northwestern Mutual FDIC Insured",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Cohen & Steers Real Estate",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Comcast Corp New CL",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Conoco Phillips Com",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Constellation Brands Inc CL A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Costco Wholesale Corp New Com",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DHR - Danaher Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DE - Deere & Company Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EMR - Emerson Electric Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Fidelity Advisor Focus Emerging",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Goldman Sachs Group",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Goldman Sachs International",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "American Growth Fund of America",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "HLT - Hilton Worldwide Holdings Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HD - Home Depot, Inc. (The) Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HON - Honeywell International Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ICE - Intercontinental Exchange Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ishares Inc MSCI Eurozone ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Ishares TR Core S & P Mid-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Ishares TR Russell 1000 ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ishares TR Core S & P Small-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ishares TR Core MSCI EAFE ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Ishares Inc Core MSCI Emerging Mkts",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "JPM - JP Morgan Chase & Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "KLAC - KLA Corporation  - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LLY - Eli Lilly and Company Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MA - Mastercard Incorporated Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MSFT - Microsoft Corporation - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVDA - Nvidia Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PCLPX - Pimco Commoditiesplus Strategy Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Proctor & Gamble Co",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTX - RTX Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth Fund Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "S & P Global Inc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPDR S & P Mid Cap 400",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Sherwin Williams Co",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SBUX - Starbucks Corporation - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TMUS - T-Mobile US",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TXN - Texas Instruments Incorporated - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TMO - Thermo Fisher Scientific Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UNP - Union Pacific Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "United Health Corp Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VLO - Valero Energy Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Vanguard World FDS MATLS ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Vanguard World FDS UTILS ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Vanguard Index FDS Real Estate Index FD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Vanguard Index FDS Mid-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CBHIX - Victory Market Neutral Income Fund - Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Visa Inc Com CL A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ZTS - Zoetis Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northwestern Mutual FDIC Insured",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "American Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PSF - Cohen & Steers Preferred Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Global X FDS US PFD ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "John Hancock Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Invesco Exchange Traded FD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ishares TR PFD & Income Secs ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Nuveen High Yield Municipal Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Tax-Exempt Dividends)",
+          "income": "None (or less than $201)Other $1,821.00"
+        },
+        {
+          "asset": "Nuveen Limited Term Municipal Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Tax-Exempt Dividends)",
+          "income": "None (or less than $201)Other $123.00"
+        },
+        {
+          "asset": "Principal Spectrum Preferred",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Vaneck TR High Yield Mun Index ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Tax-Exempt Dividends)",
+          "income": "None (or less than $201)Other $1,614.00"
+        },
+        {
+          "asset": "CBHIX - Victory Market Neutral Income Fund - Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HIMFX - American High-Income Municipal Bond Fund - Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Other, (Tax-Exempt Dividends)",
+          "income": "Other $1,932.00"
+        },
+        {
+          "asset": "Vanguard Intermediate Term Tax-Exempt Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Other, (Tax-Exempt Dividends)",
+          "income": "Other $307.00"
+        },
+        {
+          "asset": "Northwestern Mutual FDIC Insured",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "DGQMM - Dreyfus Government Cash Management Wealth Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FT Cap Strgth Opp 26 RE",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FT TGT Div Dbl 1Q23 RE",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "OKE - ONEOK, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JPM Liq Asser Mmkt Prmr",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Albemarle Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CTVA - Corteva Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FT S&P TGT 25 1Q22 Fere",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FT S&P TGT 25 2Q23 Fere",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FT Cap Strgth Opp 28Fere",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FCFS - Firstcash Holdings Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HP Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HUBB - Hubbell Inc Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cavanal Hill Govt Sec Mmkt",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Oklahoma St Dev Fin Auth Hlths REV",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "LPL Financial",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LPL Financial",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AZO - AutoZone, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BRK.B - Berkshire Hathaway Cl B",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSX - Boston Scientific Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CMG - Chipotle Mexican Grill",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EW - Edwards Lifesciences Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "META - Meta Platforms, Inc. - Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FI - Fiserv, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LRCX - Lam Research Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PANW - Palo Alto Networks Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PEP - Pepsico Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CRM - Salesforce Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ADBE - Adobe Systems Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMD - Advanced Micro Devices, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOOGL - Alphabet Inc. - Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Amazon Com Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Franklin Small-Cap Value Fund Advisor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Johnston Cnty NC Go Ref BDSRate/Coupon: 5.0%  Matures: 02/01/24",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $1,979.00"
+        },
+        {
+          "asset": "Central Weber Utah SWR Impt Dist SWR Rev BDSRate/Coupon: 5.0%  Matures: 03/01/24",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $1,253.00"
+        },
+        {
+          "asset": "New Mexico Fin Auth St Transn Rev Ref BDSRate/Coupon: 5.0%  Matures: 06/15/24",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $200.00"
+        },
+        {
+          "asset": "Austin Tex Pub Impt Ref BDSRate/Coupon: 5.0%  Matures: 09/01/24",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $1,069.00"
+        },
+        {
+          "asset": "Lucas Cnty Ohio Ltd Tax Var Purp Impt Go BD Antic NTSRate/Coupon: 4.375%  Matures: 10/11/24",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $912.00"
+        },
+        {
+          "asset": "Upton Cnty Tex Tax Tax NTS 2023Rate/Coupon: 5.0%  Matures: 02/15/25",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $1,056.00"
+        },
+        {
+          "asset": "Pocono Mtn PA Sch Dist Go NTSRate/Coupon: 4.5%  Matures: 10/01/26",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $558.00"
+        },
+        {
+          "asset": "Alamogordo N Mex Mun Sch Dist No 001 Go BDSRate/Coupon: 5.0%  Matures: 08/01/27",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $300.00"
+        },
+        {
+          "asset": "Kaukauna Wis Antic NTS 2023BRate/Coupon: 5.0%  Matures: 06/01/28",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $913.00"
+        },
+        {
+          "asset": "Waxahachie Tex Indpt Sch Dist Ultd Tax Ref BDSRate/Coupon: 4.0%  Matures: 08/15/34",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $1,436.00"
+        },
+        {
+          "asset": "Texas St GO Mobility FD BDSRate/Coupon: 4.0%  Matures: 10/01/24",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $950.00"
+        },
+        {
+          "asset": "Clear Creek Tex Indpt Sch Dist Unltd Tax Ref BDSRate/Coupon: 5.0%  Matures: 02/15/38",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $375.00"
+        },
+        {
+          "asset": "Macomb Inter Sch Dist Mich Unltd Tax Go Bldg Site BDSRate/Coupon: 5.0%  Matures: 05/01/38",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $925.00"
+        },
+        {
+          "asset": "Nevada St Ltd Tax Go Cap Impt BDSRate/Coupon: 5.0%  Matures: 05/01/38",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $750.00"
+        },
+        {
+          "asset": "IPS Multi-Sch Bldg Corp Ind Unltd Advalorem Ppty TaxRate/Coupon: 5.0%  Matures: 07/15/38",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $1,088.00"
+        },
+        {
+          "asset": "Austin Tex CTFS Oblig Rate/Coupon: 5.0%  Matures: 09/01/38",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $956.00"
+        },
+        {
+          "asset": "Fort Lauderdale Fla Wtr & Swr Rev BDSRate/Coupon: 5.0%  Matures: 09/01/38",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $900.00"
+        },
+        {
+          "asset": "Seattle Wash Drain & Wastewater Rev Ref Rev BDSRate/Coupon: 4.0%  Matures: 05/01/39",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $633.00"
+        },
+        {
+          "asset": "New York NY City Mun Wtr Fin Auth Wtr & Swr Sys RevRate/Coupon: 5.0%  Matures: 06/15/39",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $200.00"
+        },
+        {
+          "asset": "Cook Cnty Ill Cmnty Cons Sch Dist No 015 Palatine Go BDSRate/Coupon: 5.25%  Matures: 12/15/39",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $774.00"
+        },
+        {
+          "asset": "Bank America NA Charlotte NC CTF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Bank Southn Calif NA San Diego CTF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "US Bk Natl Assn Instl CTF Dep",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "First Trust Cap Strength Oppty",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First Trust TGT Divid Dbl Play",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First Trust S&P Div Arst TGT",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NKE - Nike Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CELH - Celsius Holdings Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EXLS - ExlService Holdings, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FN - Fabrinet",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCFS - Firstcash Holdings Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "INST - Instructure Holdings Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PODD - Insulet Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PYPL - PayPal Holdings, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SHOP - Shopify Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TC4 Investment LLCDescription: Oklahoma Investment Property (Pryor, OK)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mullin Properties West Division LLCDescription: Various Oklahoma Investment Properties (Oklahoma, OK)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Corporate StockCompany: Citizens Bankshares Inc (Edmond, OK) Description: Banking",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Humphreys Fund I REIT",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Cleveland Cnty OK Eductnl Facs RevRate/Coupon: 5.0%  Matures: 06/01/32",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oklahoma Dev Fin Auth Lease RevRate/Coupon: 5.0%  Matures: 12/01/29",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oklahoma St Dev Fin Auth Hlths RevRate/Coupon: 5.0%  Matures: 08/15/31",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $1,765.00"
+        },
+        {
+          "asset": "Oklahoma St Turnpike Auth RevRate/Coupon: 5.0%  Matures: 01/01/25",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $661.00"
+        },
+        {
+          "asset": "Purcell OK Public Wks Auth Sal RevRate/Coupon: 5.0%  Matures: 03/01/30",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $194.00"
+        },
+        {
+          "asset": "Tulsa Cnty OK Indl Auth Eductn RevRate/Coupon: 5.0%  Matures: 09/01/27",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $272.00"
+        },
+        {
+          "asset": "Univ OK RevRate/Coupon: 5.0%  Matures: 07/01/28",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Accrued Interest)",
+          "income": "Other $525.00"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "ZTS",
+          "asset-name": "Zoetis Inc. Class A Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "AUSTIN TEX PUB IMPT REF BDS \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/24",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "AUSTIN TEX CTFS OBLIG\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/38",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "CENTRAL WEBER UTAH SWR IMPT DIST SWR REV BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/01/24",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "IPS MULTI-SCH BLDG CORP IND UNLTD AD VALOREM PPTY TAX FIRST MTG BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/38",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "TMUS",
+          "asset-name": "T-Mobile US",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "TXN",
+          "asset-name": "Texas Instruments Incorporated - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "UNP",
+          "asset-name": "Union Pacific Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "UNH",
+          "asset-name": "Unitedhealth Group Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "VLO",
+          "asset-name": "Valero Energy Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "V",
+          "asset-name": "Visa Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "ALAMOGORDO N MEX MUN SCH DIST NO 001 GO BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/27",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "ABT",
+          "asset-name": "Abbott Laboratories Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "ADBE",
+          "asset-name": "Adobe Systems Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "AMD",
+          "asset-name": "Advanced Micro Devices, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "GOOGL",
+          "asset-name": "Alphabet Cl A",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com Inc",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "AXP",
+          "asset-name": "American Express Company Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "ELV",
+          "asset-name": "Elevance Health, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "AMAT",
+          "asset-name": "Applied Materials, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "AZO",
+          "asset-name": "AutoZone, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "BRK.B",
+          "asset-name": "Berkshire Hathaway Cl B",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "BLK",
+          "asset-name": "BlackRock, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "BSX",
+          "asset-name": "Boston Scientific Corp",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "CSX",
+          "asset-name": "CSX Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corp",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "CMG",
+          "asset-name": "Chipotle Mexican Grill",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "KO",
+          "asset-name": "Coca-Cola Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation - Class A Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "COP",
+          "asset-name": "ConocoPhillips Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "STZ",
+          "asset-name": "Constellation Brands, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "DE",
+          "asset-name": "Deere & Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "EW",
+          "asset-name": "Edwards Lifesciences Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "EMR",
+          "asset-name": "Emerson Electric Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "META",
+          "asset-name": "Meta Platforms, Inc. - Class A Common Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "FI",
+          "asset-name": "Fiserv, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "GS",
+          "asset-name": "Goldman Sachs Group, Inc. (The) Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "HLT",
+          "asset-name": "Hilton Worldwide Holdings Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "HD",
+          "asset-name": "Home Depot, Inc. (The) Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "HON",
+          "asset-name": "Honeywell International Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "ICE",
+          "asset-name": "Intercontinental Exchange",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "JPM",
+          "asset-name": "JP Morgan Chase & Co. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "KLAC",
+          "asset-name": "KLA Corporation  - Common Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "LRCX",
+          "asset-name": "Lam Research Corp",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "LLY",
+          "asset-name": "Eli Lilly and Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "MA",
+          "asset-name": "Mastercard Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corp",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "NKE",
+          "asset-name": "Nike Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "NVDA",
+          "asset-name": "NVIDIA Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "PANW",
+          "asset-name": "Palo Alto Networks, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "PEP",
+          "asset-name": "Pepsico Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "PG",
+          "asset-name": "Procter & Gamble Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "RTX",
+          "asset-name": "RTX Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "SPGI",
+          "asset-name": "S&P Global Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "CRM",
+          "asset-name": "Salesforce, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "SHW",
+          "asset-name": "Sherwin-Williams Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/13/2023",
+          "owner": "Joint",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/14/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "SEATTLE WASH DRAIN & WASTEWATER REV REF REV BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/01/39",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/18/2023",
+          "owner": "Joint",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/20/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "TEXAS ST GO MOBILITY FD BDS A\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/34",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/22/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "UPTON CNTY TEX TAX NTS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/25",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/26/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "JOHNSTON CNTY N C GO REF BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/01/24",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/27/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "WAXAHACHIE TEX INDPT SCH DIST ULTD TAX REF BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/15/34",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/28/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "LUCAS CNTY OHIO LTD TAX VAR PURP IMPT GO BD ANTIC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.375%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/11/24",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/28/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Macomb Inter Sch Dist Mich Unltd Tax Fo Bldg Site Bds\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/01/38",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "LRCX",
+          "asset-name": "Lam Research Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "HLT",
+          "asset-name": "Hilton Worldwide Holdings Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "HD",
+          "asset-name": "Home Depot, Inc. (The) Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "HON",
+          "asset-name": "Honeywell International Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "ICE",
+          "asset-name": "Intercontinental Exchange Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "JPM",
+          "asset-name": "JP Morgan Chase & Co. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "LLY",
+          "asset-name": "Eli Lilly and Company Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "MA",
+          "asset-name": "Mastercard Inc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "NKE",
+          "asset-name": "Nike Inc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "NVDA",
+          "asset-name": "NVIDIA Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "PANW",
+          "asset-name": "Palo Alto Networks, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "PEP",
+          "asset-name": "PepsiCo, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "PG",
+          "asset-name": "Procter & Gamble Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "RTX",
+          "asset-name": "RTX Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "SPGI",
+          "asset-name": "S&P Global Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "CRM",
+          "asset-name": "Salesforce, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "SHW",
+          "asset-name": "Sherwin-Williams Company (The) Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "T-Mobile US, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "TXN",
+          "asset-name": "Texas Instruments Incorporated - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific Inc",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "UNP",
+          "asset-name": "Union Pacific Corp",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "UNH",
+          "asset-name": "Unitedhealth Group Inc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "V",
+          "asset-name": "Visa Inc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "ZTS",
+          "asset-name": "Zoetis Inc. Class A Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "NEW MEXICO FIN AUTH ST TRANSN REV REV REF BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/15/2024",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "ABT",
+          "asset-name": "Abbott Laboratories Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "ADBE",
+          "asset-name": "Adobe Systems Inc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "AMD",
+          "asset-name": "Advanced Micro Devices, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "GOOGL",
+          "asset-name": "Alphabet Inc. - Class A Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "AXP",
+          "asset-name": "American Express Company Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "ELV",
+          "asset-name": "Elevance Health, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "AMAT",
+          "asset-name": "Applied Materials, Inc. - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "AZO",
+          "asset-name": "AutoZone, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "BRK.B",
+          "asset-name": "Berkshire Hathaway Cl B",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "BLK",
+          "asset-name": "BlackRock, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "BSX",
+          "asset-name": "Boston Scientific Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "CSX",
+          "asset-name": "CSX Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "CMG",
+          "asset-name": "Chipotle Mexican Grill",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "KO",
+          "asset-name": "Coca-Cola Company (The) Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation - Class A Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "COP",
+          "asset-name": "ConocoPhillips Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "STZ",
+          "asset-name": "Constellation Brands Inc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation - Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "DE",
+          "asset-name": "Deere & Company Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "EW",
+          "asset-name": "Edwards Lifesciences Corporation Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "EMR",
+          "asset-name": "Emerson Electric Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "META",
+          "asset-name": "Meta Platforms, Inc. - Class A Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "FI",
+          "asset-name": "Fiserv, Inc. Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/03/2023",
+          "owner": "Joint",
+          "ticker": "GS",
+          "asset-name": "Goldman Sachs Group, Inc. (The) Common Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/04/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Kaukauna Wis Antic Nts 2023 B\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/01/28",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/04/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Purcell Oklahoma Public Works Auth\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/01/2030",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/04/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "COOK CNTY ILL CMNTY CONS SCH DIST NO 015 PALATINE GO BDS 2023A\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.25%\n\t\t\t\t\t\t\t\t\t\tMatures: 12/15/2039",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/06/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "FORT LAUDERDALE FLA WTR & SWR REV BDS PROSPECT LAKE WTR TREATMENT 2023\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/38",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/12/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "POCONO MTN PA SCH DIST GO NTS 2023\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.5%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2026",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/13/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Oklahoma Dev Fin Auth Health\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 0.41%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/15/2031",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/17/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "University Oklahoma Revs\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/01/2028",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/18/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Tulsa County Oklahoma Indl Auth Edl\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/2027",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/25/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Nevada St Ltd Tax Go Cap Impt BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/01/38",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/26/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Oklahoma Transn Auth OK F/K/A\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 01/01/2025",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/27/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "NEW YORK N Y CITY MUN WTR FIN AUTH WTR & SWR SYS REV REV BDS 2015 FF\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/15/2039",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/31/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "CLEAR CREEK TEX INDPT SCH DIST UNLTD TAX REF BDS 2023\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/2038",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/16/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Oklahoma Dev Fin Auth Lease RE\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 12/01/2029",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/05/2023",
+          "owner": "Joint",
+          "ticker": "VLTO",
+          "asset-name": "Veralto Corp Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/06/2023",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Cleveland County OK Educational FACS REV\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/01/2032",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "FN",
+          "asset-name": "Fabrinet",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "FCFS",
+          "asset-name": "FirstCash Holdings, Inc. - Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "EXLS",
+          "asset-name": "ExlService Holdings, Inc. - Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "CTVA",
+          "asset-name": "Corteva Inc",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "CELH",
+          "asset-name": "Celsius Holdings Inc",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "SHOP",
+          "asset-name": "Shopify Inc",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "PYPL",
+          "asset-name": "PayPal Holdings, Inc. - Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "PODD",
+          "asset-name": "Insulet Corp",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "INST",
+          "asset-name": "Instructure Holdings Inc",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/22/2023",
+          "owner": "Self",
+          "ticker": "HUBB",
+          "asset-name": "Hubbell Inc Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Invesco Small-Cap Value Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American Century Small-Cap Growth Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Columbia Overseas Value Advisor Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "DWS Enhanced Commodity Strategy Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Goldman Sachs International Small-Cap Insights Fund Institute",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Core S& P 500 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Russell 2000 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Global Reit ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MFS International Growth Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Northern Global Sustainability Index Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Parnassus Mid-Cap Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Royce Small-Cap Opportunity Fund Investment Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/18/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Schwab Strategic TR US Large-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Schwab Strategic TR US Dividend Equity ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Schwab Strategic TR US Reit ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Intl Equity Index FDS FTSE Euro PE ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Index FDS Vanguard Mi-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Index FDS Vanguard Growth ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Index FDS Vanguard Value ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/26/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Invesco Small -Cap Value Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Brown Capital Small Co Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Dodge & Cox Stock Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Fidelity Advisor Real Estate Income Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "OAYMX",
+          "asset-name": "Oakmark Fund Advisor Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Invesco Actively Managed Exchange Traded Commodity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Core S & P Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Russell 1000 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/03/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "John Hancock Exchange Traded Fund TR Multi Factor",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Morgan Stanley International Advantage Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American New Perspective Fund Class 2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American New World Fund Class F2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Pacer FDS TR Data Infrastructure Real Estate",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/14/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Schwab Strategic TR US Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American Small Cap World Fund Class F2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Intl FD FTS Developed Mkts",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Intl Equity Index FDS FTSE Emerging",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VLTO",
+          "asset-name": "Veralto Corporation",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Victory Market Neutral Income Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/12/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Select Divid ETF FD",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Core S & P Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/03/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR Russell 1000 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "John Hancock Exchange Traded FD Multi Factor",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Schwab Strategic TR US Mid-Cap",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Van Eck Constant Maturity Commodity Index Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Specialized Funds Divid Appreciation",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Intl FD FTS Developed Mkts ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/13/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Victory Market Neutral Inc Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American High Income Municipal Bond Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American Bond Fund of America Class F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PSF",
+          "asset-name": "Cohen & Steers Preferred Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "DODIX",
+          "asset-name": "Dodge & Cox Income Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "JHBIX",
+          "asset-name": "John Hancock Bond Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "NHMRX",
+          "asset-name": "Nuveen High Yield Municipal Bd Fd Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PREF",
+          "asset-name": "Principal Spectrum Preferred Securities ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Victory Market Neutral Inc Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American High Income Municipal Bond Fund Class 2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "American Bond Fund of America Class F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Cohen & Steers Prefer Securities and Inc Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "DODIX",
+          "asset-name": "Dodge & Cox Income Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Global X FDS US PFD ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "John Hancock Bond Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Invesco Exchange Traded TR II Var Rate PFD ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Ishares TR PFD & Inc Ome Secs ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "NHMRX",
+          "asset-name": "Nuveen High Yield Municipal Bd Fd Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "FAFJX",
+          "asset-name": "Nuveen Limited Term Municipal Bond Fd Cl C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Principal Spectrum Preferred and Capital Securities Inc",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vaneck ETF TR High Yield Mun Index ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Vanguard Intermediate E-Term Tax-Exempt Fund Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Victory Market Neutral Income fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Bank Southn Calif NA San Diego",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "FT TGT Div Dbl 4Q21 RE",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/09/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Trust TGT Divid Dbl Play",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/11/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "FT S&P TGT 25 1Q22 FERE",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/22/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "FT Cap Strg Op 22 Fere",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/22/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Trust Cap Strength Oppty 28 SA FE RE",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/31/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Trust S&P Div Arst TGT 25 2Q23 MO FE RE",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/30/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JPMorgan Liquid Assets Money Mkt Premier CL",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Bank Amer NA Charlotte NC CTF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/14/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "US Bk Natl Assn Ins TL CTF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/14/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Oklahoma St Dev Fin Auth Hlths Rev Adj",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/23/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Trust S & P Div Arst TGT 25",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/10/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Trust S & P Div Arst 25",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/11/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Catalyst Millburn Hedge Strategy",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/27/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Trust S&P Div Arst TGT 25",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/27/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Trust Cap Strength Oppty 25 SA",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/27/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "First Trust TGT Divid Dbl Play",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/11/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "First Trust TGT Divid Dbl Play",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/11/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Humphreys Fund I REIT",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/07/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Cavanal Hill Govt Sec Mmkt-Sel#0084",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/31/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Cleveland Cnty OK Eductnl Facs Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Oklahoma Dev Fin Auth Lease Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Oklahoma St Dev Fin Auth Hlths Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Oklahoma St Dev Fin Auth Hlths Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/29/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Oklahoma St Turnpike Auth Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Purcell OK Public Wks Auth Sal Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Tulsa Cnty OK Indl Auth Eductn Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/20/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Univ OK Rev",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/19/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Cavanal Hill Govt Sec Mmkt-Sel #0084",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/31/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2022",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.95%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Regent Bank\n\t\t\t\t\t\t\t\tTulsa, OK",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable Michael D Crapo (Crapo, Michael D.)",
+  "filed-date": "05/14/2021",
+  "filed-time": "11:48 AM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Wages",
+          "who-paid": "Crapo Victory Committee\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Checking, Savings, Filer comment:  Asset value/checking:  $25,460.71.\nAsset value/savings:  $5,072.32.\nTotal interest income:  $5.57.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings, Filer comment:  Asset balance/checking:  $50,600.11.\nAsset balance/savings:  $125,148.82.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Savings, Filer comment:  Asset balance: $33,316.51.",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERSI Base PlanFiler comment:  Asset value:  $34,752.68\nTotal interest income:  $2,432.19.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "3% of mineral rights leaseDescription: Subsurface mineral rights on 640 acres (McKenzie County, ND) Filer comment:  Total royalties received: $16,567.79.",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Joint",
+          "value": "Unascertainable",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Residential homeDescription: Rowhouse (Washington, DC) Filer comment:  Total rental income: $35,028.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Parking spaceDescription: Parking space (Washington, DC) Filer comment:  Total:  $3,120.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Pharma Partners LLCCompany: Pharma Partners LLC (Englewood, Colorado) Description: Funds research and clinical trials on a new class of drugs, metalloporphyrins.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Biominetix JV LLCCompany: Biominetix JV LLC (Englewood, Colorado) Description: Funds research and clinical trials on a new class of drugs, metalloporthyrins. Filer comment:  Business did not generate any income.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Crapo Enterprises LLCCompany: Crapo Enterprises LLC (Bountiful, UT) Description: Business entity that holds residential property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Single family homeDescription: Single family home (Island Park, ID) Filer comment:  Ownership percentage value: $11,502.44.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Crapo Estate Holdings LLCCompany: Crapo Estate Holdings LLC (Idaho Falls, ID) Description: Business entity that holds ranchland",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Minority interest in 359-acre ranch landDescription: Garrett Ranch (Fremont County, ID) Filer comment:  Asset value: $67,312.50.\nIncome, rental: $750.00.\nIncome, interest: $1.00.",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Life Insurance Policy (Susan Diane Crapo)Provider: Beneficial Life Insurance Filer comment:  Cash surrender value: $14,688.85.\nOrdinary income: $450.86.",
+          "asset-type": "Life InsuranceUniversal",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Other, (Ordinary Income)",
+          "income": "Other $450.86"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "APGYX",
+          "asset-name": "AB Large Cap Growth Fund Advisor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "Sale price: $18,290.55."
+        },
+        {
+          "owner": "Self",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $4,113.07."
+        },
+        {
+          "owner": "Self",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $11,867.13."
+        },
+        {
+          "owner": "Self",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "Sale price: $17,959.21."
+        },
+        {
+          "owner": "Self",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Class Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "Sale price: $16,061.67."
+        },
+        {
+          "owner": "Self",
+          "ticker": "FNSXX",
+          "asset-name": "Fidelity Colchester Street Trust - Money Market Po",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $12,445.27."
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $11,787.34."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JMGRX",
+          "asset-name": "Janus Henderson Enterprise Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $13,778.98."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $5,791.10."
+        },
+        {
+          "owner": "Self",
+          "ticker": "NDVIX",
+          "asset-name": "MFS New Discovery Value Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $6,014.09."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Short Duration Income Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "Sale price: $17,877.60."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PKSFX",
+          "asset-name": "Virtus KAR Small-Cap Core Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $5,890.46."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "PIMCO Income Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $14,661.82."
+        },
+        {
+          "owner": "Self",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $14,354.79."
+        },
+        {
+          "owner": "Self",
+          "ticker": "HCMAX",
+          "asset-name": "Hillman Value Fund No Load Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $13,989.79."
+        },
+        {
+          "owner": "Self",
+          "ticker": "QFVIX",
+          "asset-name": "Pear Tree Polaris Foreign Value Fund Class Institu",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,876.34."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "APGYX",
+          "asset-name": "AB Large Cap Growth Fund Advisor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,258.20."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,026.58."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,077.92."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Class Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,854.52."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FNSXX",
+          "asset-name": "Fidelity Colchester Street Trust - Money Market Po",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,243.65."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,963.91."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JMGRX",
+          "asset-name": "Janus Henderson Enterprise Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,433.19."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,006.34."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Short Duration Income Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,246.93."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PKSFX",
+          "asset-name": "Virtus KAR Small-Cap Core Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,012.28."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PIMIX",
+          "asset-name": "PIMCO Income Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,646.77."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,630.17."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HCMAX",
+          "asset-name": "Hillman Value Fund No Load Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,381.25."
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0.75",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tIdaho Falls, Idaho",
+          "comments": "Total loan amount: $270,997.59."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Nov 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Pharma Partners, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEnglewood, Colorado",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Crapo Enterprises LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBountiful, UT",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2006 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Crapo Estate Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tIdaho Falls, ID",
+          "entity-type": "Company",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

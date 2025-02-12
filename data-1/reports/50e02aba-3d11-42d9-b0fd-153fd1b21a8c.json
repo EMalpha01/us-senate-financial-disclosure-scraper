@@ -1,0 +1,1432 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable William Cassidy (Cassidy, Bill)",
+  "filed-date": "08/16/2021",
+  "filed-time": "11:04 AM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo IRA #1",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "YACKX - AMG Yacktman Service (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IVWIX - IVA Worldwide I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRWCX - T. Rowe Price Capital Appreciation (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GBLFX - American Funds Global Balanced Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ODVYX - Invesco Oppenheimer Developing Markets Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIAX - Vanguard Wellesley Income Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VO - Vanguard Mid-Cap Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VB - Vanguard Small-Cap Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo IRA #3",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Green Tree 95-8 B2 Financial CorporationRate/Coupon: 7.65  Matures: 12/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 95-10 B2 Financial CorporationRate/Coupon: 7.4  Matures: 01/15/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Countrywide 05-17 1X2 Adjustable Rate CallableRate/Coupon: 1.297  Matures: 07/25/2005",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Baton Rouge, Louisiana)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA Traditional",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA- CREF Retirement",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA - CREF Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo IRA #2",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wells Fargo(Baton Rouge, Louisiana)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "WMT",
+          "asset-name": "Walmart Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "DOW",
+          "asset-name": "Dow Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "JNJ",
+          "asset-name": "Johnson & Johnson",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "MMM",
+          "asset-name": "3M Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "PSX",
+          "asset-name": "Phillips 66",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "VFC",
+          "asset-name": "V.F. Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "AMGN",
+          "asset-name": "Amgen Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "BLK",
+          "asset-name": "BlackRock, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "EMR",
+          "asset-name": "Emerson Electric Co.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "MDT",
+          "asset-name": "Medtronic plc",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/09/2020",
+          "owner": "Spouse",
+          "ticker": "TROW",
+          "asset-name": "T. Rowe Price Group, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "07/15/2020",
+          "owner": "Spouse",
+          "ticker": "PLD",
+          "asset-name": "Prologis, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "07/15/2020",
+          "owner": "Spouse",
+          "ticker": "TROW",
+          "asset-name": "T. Rowe Price Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "LOW",
+          "asset-name": "Lowe's Companies, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/19/2020",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/11/2020",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "UPS",
+          "asset-name": "United Parcel Service, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "AMGN",
+          "asset-name": "Amgen Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "BLK",
+          "asset-name": "BlackRock, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "DOW",
+          "asset-name": "Dow Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "LOW",
+          "asset-name": "Lowe's Companies, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "MDT",
+          "asset-name": "Medtronic plc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "WMT",
+          "asset-name": "Walmart Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/05/2020",
+          "owner": "Spouse",
+          "ticker": "PLD",
+          "asset-name": "Prologis, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/25/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HASCX",
+          "asset-name": "Harbor Small Cap Value Fund Insti Cl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Oppenheimer Developing Markets Fund Clas",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MCVIX",
+          "asset-name": "MFS Mid Cap Value Fund - Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Oppenheimer Developing Markets Fund Clas",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EISMX",
+          "asset-name": "Eaton Vance Atlanta Capital Smid-Cap Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Oppenheimer Developing Markets Fund Clas",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EISMX",
+          "asset-name": "Eaton Vance Atlanta Capital Smid-Cap Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Oppenheimer Developing Markets Fund Clas",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EISMX",
+          "asset-name": "Eaton Vance Atlanta Capital Smid-Cap Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Oppenheimer Developing Markets Fund Clas",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EISMX",
+          "asset-name": "Eaton Vance Atlanta Capital Smid-Cap Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/10/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "Iva Worldwide Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "J.P. Morgan Chase & Co.\n\t\t\t\t\t\t\t\tManhattan, New York",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "J.P. Morgan Chase & Co.\n\t\t\t\t\t\t\t\tManhattan, New York",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

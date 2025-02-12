@@ -1,0 +1,566 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Amy J Klobuchar (Klobuchar, Amy)",
+  "filed-date": "05/15/2024",
+  "filed-time": "3:38 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "State of Maryland (University of Baltimore)\n\t\t\t\t\t\t\t\tAnnapolis, MD",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Georgetown University\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Penguin Random House, LLC (c/o Bertelsmann Global Business Services)\n\t\t\t\t\t\t\t\tWestminster, MD",
+          "amount-paid": "$20,190.31",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Macmillan Holdings, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$66,667.00",
+          "comments": "St. Martin's Publishing Group (See Part 9), the publisher of \"The Joy of Politics,\" is a division of Macmillan Publishers."
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "University of Trento\n\t\t\t\t\t\t\t\tTrento, Italy",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "QCBMIX - CREF Core Bond Account - R3",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TCLFX - TIAA-CREF Lifecycle 2025 Retirement",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Certificate of Deposit, Checking, IRA Cash Accounts, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Minneapolis, MN)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TruStone Financial(Minneapolis, MN)Type: Certificate of Deposit, Checking, IRA Cash Accounts, Money Market Account, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Fidelity Investments IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FAIGX - Fidelity Advisor Balanced Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAGOX - Fidelity Advisor Growth Opportunities Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAERX - Fidelity Advisor Overseas Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FEIRX - Fidelity Advisor Equity Income Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAEGX - Fidelity Advisor Equity Growth Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTBRX - Fidelity Advisor Limited Term Bond Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street Russell Small Cap Index Non-Lending Series Fund Class KFiler comment:  (S) 401(k) plan",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street Russell Small Cap Index Non-Lending Series Fund Class KFiler comment:  (S) 457(b) plan",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SIUSX - Guggenheim Investment Grade Bond Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northwestern Mutual Life Ins. - Variable Ins. Policies",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Select Bond (MSA/Allspring Global Investments)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "International Equity (MSA/Dodge and Cox)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Index 500 Stock (MSA/Blackrock Advisors LLC)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mid Cap Growth Stock (MSA/Wellington Management)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "High Yield Bond (MSA/Federated Invest. Mgmt. Co.)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Small Cap Growth Stock (MSA/Wellington Management)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Strategic Equity (Russell Invsts)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "International Developed Markets (Russell Invsts)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Small Cap Value (MSA/T Rowe Price)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mid Cap Value (MSA/American Century)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street S&P 500 Index Non-Lending Series Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street S&P MidCap Index Non-Lending Series Fund Class M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRILX - Parnassus Core Equity Fund-Institutional Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRSSX - T.Rowe Price Institutional Small-Cap Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRMCX - T. Rowe Price Mid-Cap Value Fund Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wilmington Trust Collective Investment Trust - Putnam Large Cap Value I1Filer comment:  New fund in (S) 401(k) plan.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FPURX - Fidelity Puritan FundFiler comment:  New fund in (S) 401(k) and 457(b) plans.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wilmington Trust/Great Gray Trust T. Rowe Price Retirement 2035Filer comment:  New fund in (S) 401(k) plan.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wilmington Trust/Great Gray Trust T. Rowe Price Retirement 2040Filer comment:  New fund in (S) 401(k) plan.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street U.S. Bond Index Non-Lending Series MFiler comment:  New fund in (S) 457(b) plan.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TCW Core Fixed Income FundFiler comment:  New fund in (S) 457(b) plan.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wilmington Trust/Great Gray Trust T. Rowe Price Retirement 2050Filer comment:  Fund in (S) 457(b) plan.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "T. Rowe Price Retirement 2050 Trust B",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "Effective May 12, 2023, this fund was sold as part of an \"Exchange.\" The new fund: Great Gray Trust T. Rowe Price Retirement Date 2050 Trust Class I1"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Great Gray Trust T. Rowe Price Retirement Date 2050 Trust Class I1",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "Effective May 12, 2023, this fund was purchased as part of an \"Exchange.\" The old fund: T. Rowe Price Retirement 2025 Trust B."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Delaware Value Fund - Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/08/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "On December 8, 2023, the Delaware Value Fund (Institutional Class) was sold as part of an \"Exchange.\" The new fund: Putnam Large Cap Value Fund."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Wilmington Trust Collective Investment Trust - Putnam Large Cap Value Fund I1",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/08/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "On December 8, 2023, the Putnam Large Cap Value Fund was purchased as part of an \"Exchange.\" The old fund: Delaware Value Fund - Institutional Class."
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Spouse",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "TruStone Financial Credit Union\n\t\t\t\t\t\t\t\tMinneapolis, MN",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Life Insurance Policy Loan)",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Northwestern Mutual\n\t\t\t\t\t\t\t\tMilwaukee, WI",
+          "comments": "Loan from variable life insurance policy"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Life Insurance Policy Loan)",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(4 years)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Northwestern Mutual\n\t\t\t\t\t\t\t\tMilwaukee, WI",
+          "comments": "Loan from variable life insurance policy"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Life Insurance Policy Loan (Dec. 12, 2023))",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Northwestern Mutual\n\t\t\t\t\t\t\t\tMilwaukee, WI",
+          "comments": "Loan from variable life insurance policy"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Life Insurance Policy Loan (Nov. 7, 2023))",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Northwestern Mutual\n\t\t\t\t\t\t\t\tMilwaukee, WI",
+          "comments": "Loan from variable life insurance policy"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Loan (Maryland Supplemental Retirement Plan - 401(k)))",
+          "points": "-",
+          "rate-term": "9.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(4 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Nationwide / Maryland Supplemental Retirement Plan - 401(k) Plan\n\t\t\t\t\t\t\t\tColumbus, OH",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Loan (Life Insurance Policy loan - June 16, 2023))",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Northwestern Mutual\n\t\t\t\t\t\t\t\tMilwaukee, WI",
+          "comments": "Loan from variable life insurance policy"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Apr 1986",
+          "parties-involved": "Waveland Press, Inc.\n\t\t\t\t\t\t\t\tLong Grove, IL",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with Waveland Press, Inc. to receive book royalties consistent with usual and customary publishing terms.  Waveland Press, Inc. periodically distributes royalties for the book \"Uncovering the Dome,\" written by Amy Klobuchar.  The royalty rate is 15% per copy for college and Amazon sales.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2015",
+          "parties-involved": "Henry Holt and Company, LLC (Publisher) and N. S. Bienstock, Inc. (Author's Agent)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with Henry Holt and Company, LLC (Henry Holt) to receive book royalties consistent with usual and customary publishing terms. In August 2015 Henry Holt published “The Senator Next Door: A Memoir from the Heartland” by Amy Klobuchar. The payment/book royalties were reported in the 2015 annual report.  The University of Minnesota Press has acquired certain paperback rights to this book.  The University of Minnesota Press issued a new edition of \"The Senator Next Door\" in 2019.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2018",
+          "parties-involved": "The Knopf Doubleday Publishing Group (Publisher) (Author's Agent: United Talent Agency LLC/Paul Fedorko)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with The Knopf Doubleday Publishing Group (Publisher), a division of Penguin Random House, LLC, to receive book royalties consistent with usual and customary publishing terms.  Author's agent: United Talent Agency LLC, 888 Seventh Avenue, 7th Floor, New York, NY 10106/Paul Fedorko (The Paul Fedorko Agency, 85 East End Avenue, New York, NY 10028). The contract pertains to \"Antitrust: Taking on Monopoly Power from the Gilded Age to the Digital Age.\"",
+          "comments": "A paperback of the \"Antitrust\" was published in 2022 by Vintage Books, an imprint of The Knopf Doubleday Publishing Group."
+        },
+        {
+          "date": "Feb 2022",
+          "parties-involved": "St. Martin's Publishing Group\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with St. Martin's Publishing Group to receive book royalties consistent with usual and customary publishing terms. Author's agent: Robert Barnett, Williams & Connolly LLP, 725 12th Street NW, Washington, DC 20005. The contract pertains to \"The Joy of Politics: Surviving Cancer, a Campaign, a Pandemic, an Insurrection, and Life's Other Unexpected Curveballs.\"",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": [
+        {
+          "document-title": "2023 Report Attachment re (S) 401(k) Plan_Amy Klobuchar Supplement to Report (Spouse 401(k) Plan Contributions).pdf",
+          "date-time-added": "05/08/2024 @ 4:36 AM"
+        },
+        {
+          "document-title": "2023 Report Attachment re (S) 457 Plan_Amy Klobuchar Supplement to Report (Spouse 457(b) Plan Contributions).pdf",
+          "date-time-added": "05/08/2024 @ 4:01 AM"
+        },
+        {
+          "document-title": "2023 Report_Amy Klobuchar Supplement to Report (MD Optional Retirement Plan Contributions).pdf",
+          "date-time-added": "04/21/2024 @ 1:48 PM"
+        },
+        {
+          "document-title": "2023 Report_Amy Klobuchar Supplement to Report (Northwestern Mutual Variable Life Insurance Contributions).pdf",
+          "date-time-added": "04/21/2024 @ 1:31 PM"
+        }
+      ]
+    }
+  ]
+}

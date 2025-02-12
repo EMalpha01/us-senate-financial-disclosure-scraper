@@ -1,0 +1,339 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable Roger F Wicker (Wicker, Roger)",
+  "filed-date": "05/12/2023",
+  "filed-time": "5:01 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "Public Employees Retirement System\n\t\t\t\t\t\t\t\tJackson, Mississippi",
+          "amount-paid": "$21,376.55",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Vision to Learn\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Public Employees Retirement System\n\t\t\t\t\t\t\t\tJackson, Mississippi",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Renasant Bank(Tupelo, MS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Renasant Bank(Tupelo, MS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Raymond James Bank Deposit Program(St. Petersburg, FL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Raymond James Bank Deposit(St. Petersburg, FL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rental PropertyDescription: Rental Property (Alexandria, VA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMZN-Amazon.com Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALTFX - AB Sustainable Global Thematic Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MRK - Merck & Co., Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WMT-Wal-Mart Stores Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RNST-Renasant Corp. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MRK - Merck & Co. Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RNST - Renasant Corp. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Putnam Investments IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PGRWX-Putnam Fund for Growth & Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "American Funds IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AIVSX-American Funds Invmt Co of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Public Employee's Retirement System of Mississippi",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Public Employee's Retirement System of Mississippi",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Unit Investment TrustDescription: Guggenheim Covered Call & Income Portfolio (Chicago, IL)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Estate of Thomas Frederick WickerFiler comment:  In period of administration; details of assets to be disclosed upon distribution.",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CTECBX",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/29/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Unit Invest Trust: Guggenheim",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/29/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": [
+        {
+          "date-s": "05/30/2022\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t06/05/2022",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Privately-Sponsored",
+          "itinerary": "Washington, DC, to Newark, NJ, to Geneva, Switzerland, and return.",
+          "reimbursed-for": "airfare transportation, ground transportation from airport to lodging and meeting sites, lodging, meals, conference space and equipment",
+          "who-paid": "The Aspen Institute, Inc. (Congressional Program)\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "n/a"
+        },
+        {
+          "date-s": "08/11/2022\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t08/14/2022",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Privately-Sponsored",
+          "itinerary": "Jackson Hole, Wyoming to Dallas-Fort Worth Airport to Memphis, Tennessee.",
+          "reimbursed-for": "Return airfare, ground transportation from lodging to airport, lodging, meals.",
+          "who-paid": "American Enterprise Institute\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Caliber Home Loans\n\t\t\t\t\t\t\t\tDallas, TX",
+          "comments": "mortgage on rental property, Alexandria, VA"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "1",
+          "rate-term": "2.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "GMFS\n\t\t\t\t\t\t\t\tGreenwood Village, CO",
+          "comments": "mortgage on personal residence, Oxford, MS"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "GMFS\n\t\t\t\t\t\t\t\tGreenwood Village, CO",
+          "comments": "mortgage on personal residence, Tupelo, MS"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Oct 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Thomas Frederick Wicker Living Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPontotoc, MS",
+          "entity-type": "Trust",
+          "comments": "Became trustee of living trust following death of father.  Assets to be distributed at a later date."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "May 1973",
+          "parties-involved": "Public Employee's Retirement System of Mississippi\n\t\t\t\t\t\t\t\tJackson, MS",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Pension plan provided by State of Mississippi for state employment.  Receives monthly distributions.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

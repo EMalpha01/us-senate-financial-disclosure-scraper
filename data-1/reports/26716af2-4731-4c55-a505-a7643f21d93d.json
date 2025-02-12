@@ -1,0 +1,330 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2023 (Amendment 1)",
+  "filer": "The Honorable Tom Cotton (Cotton, Tom)",
+  "filed-date": "11/25/2024",
+  "filed-time": "1:35 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Member Draw",
+          "who-paid": "SLG Solutions\n\t\t\t\t\t\t\t\tMcLean, Virginia",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Member Draw\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Royalties paid out by TBC Books LLC)",
+          "who-paid": "TBC Books LLC\n\t\t\t\t\t\t\t\tLittle Rock, Arkansas",
+          "amount-paid": "$100,000.00",
+          "comments": "Portion of royalties received from Grand Central Publishing paid out by TBC Books LLC per Ethics Committee Guidance."
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Grand Central Publishing\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$300,000.00",
+          "comments": "Portion of royalties received permissibly held in TBC Books LLC per Ethics Committee Guidance."
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Wages",
+          "who-paid": "Hillsdale College\n\t\t\t\t\t\t\t\tHillsdale, Michigan",
+          "amount-paid": "$31,500.00",
+          "comments": "Wages received for lecturing one-credit graduate course at Hillsdale College's D.C. campus, as approved by the Senate Ethics Committee."
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPRXX-Fidelity Money Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IWV - iShares Russell 3000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Northern Trust Rollover IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IWV - iShares Russell 3000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Northern Trust Discretionary Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IWV - iShares Russell 3000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NOGXX - U.S. Government Money Market Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SLG Solutions LLCCompany: SLG Solutions LLC (McLean, Viginia) Description: For business consulting and governance Filer comment:  Consistent with Instructions from Ethics in CY2020, amendment treats equity in the LLC, calculated as assets minus liabilities",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Child 1 UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Child 2 UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TBC Books LLCCompany: TBC Books LLC (Little Rock, Arkansas) Description: Book writing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Marcus by Goldman Sachs(NYC, New York)Type: Savings, Filer comment:  Marcus Savings Account #1 (of 2).",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Marcus by Goldman Sachs(NYC, New York)Type: Savings, Filer comment:  Marcus Savings Account # 2 (of 2).",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Marcus by Goldman Sachs(NYC, New York)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "IWV",
+          "asset-name": "iShares Russell 3000 ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/07/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "Funds transferred to SPRXX - Fidelity Money Market (see, Assets 4.1)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2022",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.86%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Chain Bridge Bank\n\t\t\t\t\t\t\t\tMcLean, VA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.49%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Year)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Chain Bridge Bank\n\t\t\t\t\t\t\t\tMcLean, VA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Dec 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "International Repubican Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "TBC Books LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLittle Rock, Arkansas",
+          "entity-type": "Company",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Feb 2018",
+          "parties-involved": "Harper Collins\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement to receive royalty payments consistent with usual and customary publishing terms.  The book is entitled, \"Sacred Duty: A Soldier's Tour at Arlington National Cemetery\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2022",
+          "parties-involved": "Grand Central Publishing\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement to receive royalty payments consistent with usual and customary publishing terms. The book is entitled, \"Only the Strong: Reversing the Left's Plot to Sabotage American Power.\"",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

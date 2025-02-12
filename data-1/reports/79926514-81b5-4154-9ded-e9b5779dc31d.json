@@ -1,0 +1,628 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2016",
+  "filer": "The Honorable Bernard Sanders (Sanders, Bernard)",
+  "filed-date": "06/04/2017",
+  "filed-time": "12:10 PM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": [
+        {
+          "date": "05/27/2016",
+          "activity": "Appearance",
+          "amount": "$850.00",
+          "who-paid": "Mahar Live Inc.\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        },
+        {
+          "date": "07/29/2016",
+          "activity": "Appearance",
+          "amount": "$850.00",
+          "who-paid": "Mahar Live Inc.\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        },
+        {
+          "date": "10/14/2016",
+          "activity": "Appearance",
+          "amount": "$850.00",
+          "who-paid": "Maher Live Inc.\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        },
+        {
+          "date": "11/29/2016",
+          "activity": "Appearance",
+          "amount": "$500.00",
+          "who-paid": "Conoco LLC\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        },
+        {
+          "date": "10/18/2016",
+          "activity": "Appearance",
+          "amount": "$1,000.00",
+          "who-paid": "Climate Change Leadership Institute\n\t\t\t\t\t\t\t\tSanta Fe, NM",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "City of Burlington Vermont\n\t\t\t\t\t\t\t\tBurlington, VT",
+          "amount-paid": "$5,086.92",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance Against Earning)",
+          "who-paid": "Macmillan - St. Martin's Press, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$795,000.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Macmillan - Henry Holt and Company, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$63,750.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Verso Publications\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$6,734.70",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Todd R. Lockwood Works\n\t\t\t\t\t\t\t\tBurlington, VT",
+          "amount-paid": "$2,520.60",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "VALIC Retiremnet\n\t\t\t\t\t\t\t\tAmarillo, TX",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Spouse Retirement plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CREF Stock Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CREF Growth Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CREF Equity Index Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CREF Global Equities Account -",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Mid-Cap Growth Retire",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Real Estate Sec Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CREF Bond Market Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CREF Inflation-Linked Bond Acco",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Social Choice Eq Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA Traditional Annuity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Teachers Personal Annuity Fixed Account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA Personal Annuity Stock Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse Retirement Plan 2",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VALIC Core Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Dividend Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Socially Responsible",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Stock Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Mid Cap Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Small Cap",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Small Cap Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Global Social Awareness",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC International Eqs Idx",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Science & Technology",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Asset Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Vanguard LifeStrategy Growth Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Vanguard LifeStrategy Moderate Gr Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Government Securities",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC International Govt Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Strategic Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Vanguard Long-Term Treasury Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VALIC Vanguard Long-Term Investment-Grade Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spousal Retirement IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "People's United Bank(Burlington, VT)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "City of Burlington Pension PlanFiler comment:  Pension income reported in Part 2.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "U.S. Senate Federal Credit Union(Washington, DC)Type: Checking, Savings, Filer comment:  $100,000 December tax payment was encumbered but not reflected on 12/31/16 statement.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "People's United Bank(Burlington, VT)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Country Federal Credit Union(Burlington, VT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Aggressive Growth Lifestyle",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Moderate Growth Lifestyle",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC International Equities Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Mid-Cap Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Asset Allocation",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Government Securities",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Social Awareness",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Stock Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Small Cap Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Core Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VALIC Socially Responsible",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2016",
+          "amount": "$1,001 - $15,000",
+          "comments": "Retirement account distribution"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": [
+        {
+          "date-s": "11/14/2016\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t12/13/2016",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "NYC (11/14), Wsh, DC (11/16), Balt, MD (11/17), Naperville, IL (11/18), Miami, FL (11/19), Bstn, MA (11/20), Prtlnd, ME & Cncrd, NH (11/21), Mnchstr, Mntplr & Brlngtn, VT (11/22), Phila., PA (11/28), LA & Psdna, CA (11/29), Seattle, WA (11/30), Prtlnd, OR (12/1), Berkly & SF, CA (12/2), NYC (12/13).",
+          "reimbursed-for": "Airfare, ground transportation, lodging and meals.",
+          "who-paid": "Macmillan - St. Martin's Press, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "The Senator's national  book tour to promote \"Our Revolution:  A Future to Believe In\""
+        }
+      ]
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": ".40",
+          "rate-term": "3.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Quicken Loans\n\t\t\t\t\t\t\t\tDetroit, MI",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Quicken Loans\n\t\t\t\t\t\t\t\tDetroit, MI",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Aug 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Islands Family Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNorth Hero, Vermont",
+          "entity-type": "Trust",
+          "comments": "I am a co-trustee in a family trust created when we bought a summer home."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Feb 2011",
+          "parties-involved": "Avalon Publishing Group\n\t\t\t\t\t\t\t\tBerkeley, CA",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalty agreement with the publisher to have them donate all royalties from proceeds of the sale of \"The Speech\" directly to charity.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Oct 1990",
+          "parties-involved": "Verso Publications\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Standard Royalty Agreement with Verso Publications regarding sales of \"Outsider in the House\" and \"Outsider in the White House.\"  Income from this agreement is disclosed in Section 2.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jul 2016",
+          "parties-involved": "Macmillan - St. Martin's Press\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with St. Martin's Press to write \"Our Revolution: A Future To Believe In\" that was published in November 2016.  Income from this agreement is disclosed in Section 2.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Aug 2016",
+          "parties-involved": "Macmillan - Henry Holt and Company, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with Henry Holt and Company to write a book for young adults  to be published in 2017.  Income from this agreement is disclosed in Section 2.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

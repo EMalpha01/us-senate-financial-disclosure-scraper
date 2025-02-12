@@ -1,0 +1,467 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report (Amendment 1)",
+  "filer": "Mrs. Joni K Ernst",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "City of Red Oak\n\t\t\t\t\t\t\t\tRed Oak, IA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Iowa Army National Guard\n\t\t\t\t\t\t\t\tJohnston, IA",
+          "amount-paid": "$18,048.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "State of Iowa\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "amount-paid": "$25,129.75",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "TransAmerica InvestmentsFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IMOLX - Transamerica Asset Allc Moderate C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica BlackRock Tactical Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica PIMCO Total Return",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TransAmerica BlackRock Global Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ReliaStar Life Ins. Co.Filer comment:  547 Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ING T. Rowe Price Capital Appreciation Pt. Srv.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING Growth and Income Port I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPCSX - VY Fidelity VIP Contrafund Port (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING InvVanKpn Comstock Port I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING InvVanKpn Grw & Inc. Port. Srv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING Large Cap Value Port Inst.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING Global Resources Portfolio Srv.",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING USA Annuity & LifeFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ING Retirement Growth Portfolio (A)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING Clarion Real Estate Portfolio (S)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IAIPX - ING American Funds Internationa (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American FundsFiler comment:  Education IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ANWPX - American Funds New Perspective A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US Bank(Red Oak, IA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Franklin Templeton InvestmentsFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FRDPX - Franklin Rising Dividends A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FREEX - Franklin Real Estate Securities A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Franklin Utilities Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FKINX - Franklin Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco AIMFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VAFAX - Invesco American Franchise A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco AIM",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VAFAX - Invesco American Franchise A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ACGIX - Invesco Growth and Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PrudentialFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AST T.Row Price Asset Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AST First Trust Balanced Target Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AST CLS Moderate Asset Allocation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AST Investment Grade Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AST Advanced Strategies Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING USA Annuity & Life InsuranceFiler comment:  Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IFSTX - ING American International Port (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ING Retirement Growth Portfolio (A)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XIGRX - ING Clarion Global Real Estate  (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Iowa Retirement",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Unoccupied property with garageDescription: 111 W Grimes St (Red Oak, Iowa) Filer comment:  Rental of parking space in garage",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$1,001 - $2,500"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2012",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Loan)",
+          "points": "-",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "US Bank\n\t\t\t\t\t\t\t\tRed Oak, IA",
+          "comments": "Loan for a camper"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jul 2001 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Iowa Army National Guard\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJohnston, IA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(National Guard)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2011 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Senator)",
+          "entity": "Iowa State Senate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDes Moines, IA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(State Government)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "Iowa Army National Guard\n\t\t\t\t\t\t\t\tJohnston, IA",
+          "duties": "Army National Guard Officer",
+          "comments": "n/a"
+        },
+        {
+          "source": "State of Iowa\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "duties": "Iowa State Senator",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

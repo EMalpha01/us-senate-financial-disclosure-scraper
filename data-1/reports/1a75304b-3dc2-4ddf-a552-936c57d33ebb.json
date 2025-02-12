@@ -1,0 +1,1495 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report",
+  "filer": "Mr. James Conley Justice II",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "State of WV\n\t\t\t\t\t\t\t\tCharleston, WV",
+          "amount-paid": "$231,250.00",
+          "comments": "Gov Justice paid all taxes due on his salary, but his net pay was donated direct to WV Dept of Education as a payroll deduction."
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Greenbrier County, WV Board of Education\n\t\t\t\t\t\t\t\tLewwisburg, WV",
+          "amount-paid": "$3,500.00",
+          "comments": "Coaching Salary-Girls High Basketball Team Head Coach"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Greenbrier Hotel Corporation\n\t\t\t\t\t\t\t\tWhite Sulphur Springs, WV",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "PEBO - Peoples Bancorp Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PEBO - Peoples Bancorp Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "CAT - Caterpillar, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Komatsu",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Bank of Monroe(Lewisburg, WV)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of Monroe(Lewisburg, WV)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Peoples Bank(Lewisburg, WV)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Peoples Bank(Lewisburg, WV)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "City National Bank(Beckley, WV)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HPQ - HP Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "HPE - Hewlett Packard Enterprise Company Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Charles Schwab(San Francisco, CA)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Charles Schwab(San Francisco, CA)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Nexeon Medsystems-CelonovaCompany: Nexeon Medsystems-Celonova (Lexington, KY) Description: Research & Development",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CompressusCompany: Compressus (Washington, DC) Description: Research & Development",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice ReceivableCompany: James C Justice Companies, Inc (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Southern Coal ReceivableCompany: Southern Coal Corporation (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Alabama ReceivableCompany: Justice Coal of Alabama (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$25,000,001 - $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice, LLC ReceivableCompany: James C Justice Companies, LLC (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Southern Coal Sales ReceivableCompany: Southern Coal Sales Corporation (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "A&G ReceivableCompany: A&G Coal Corporation (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone ReceivableCompany: Bluestone Resources, Inc (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$25,000,001 - $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Glade Entities ReceivableCompany: GSR, LLC (Daniels, WV)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFC ReceivableCompany: Virginia Fuel Corporation (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$25,000,001 - $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice Farms EntitiesCompany: Justice Farms of North Carolina (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Other, (Loan repayments)",
+          "income": "Other $2,500.00"
+        },
+        {
+          "asset": "Dublin ReceivableCompany: Dublin Properties, LLC (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Monroe Prop ReceivableCompany: Monroe Properties, Inc (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pulaski ReceivableCompany: Pulaski Properties, LLC (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stretcher Neck ReceivableCompany: Stretcher Neck Properties, LLC (Roanoke, VA)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morton ReceivableDebtor: Charles Morton",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prosperity houseDescription: Redacted Residential (Prosperity, WV)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Glade houseDescription: Redacted- Glade Springs (Daniels, WV) Filer comment:  Governor Justice owns jointly with his sister.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dwyer house Description: Redacted (Lewisburg, WV)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Millstone houseDescription: Redacted (Beckley, WV)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Blacksburg houseDescription: Redacted (Blacksburg, VA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rt 19 Daniels propertyDescription: Sur 4.5 ac Redacated (Daniels, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oakley Rd propertyDescription: 6.39 ac Redacted (Beckley, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Old White LandDescription: Redacted (White Sulphur Springs, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Landgraff propertyDescription: Landgraff 3 lots (Landgraff, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bishop propertyDescription: .22 ac sur Bishop (Bishop, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Crumpler propertyDescription: Crumpler, WV 25 ac (Crumpler, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Algoma propertyDescription: Algoma tract (Algoma, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northfork propertyDescription: 4,859 ac Northfork/Elkhorn area (Northfork, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Southern Coal InvestmentCompany: Southern Coal Corporation (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice Low Seam InvestmentCompany: Justice Low Seam Mining (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Kentucky Fuel InvestmentCompany: Kentucky Fuel Corporation (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia Fuel InvestmentCompany: Virginia Fuel Corporation (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Resources InvestmentCompany: Bluestone Resources, Inc. (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice Alabama Coal InvestmentsCompany: Justice Coal of Alabama (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bellwood InvestmentCompany: Bellwood Corporation (Roanoke, VA) Description: Raw land and coal reserves",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Kirby InvestmentCompany: Kirby Land Co. (Roanoke, VA) Description: Raw land and coal reserves",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Monroe InvestmentCompany: Monroe Properties, Inc. (Roanoke, VA) Description: Property at Smith Mtn Lake, Moneta, VA",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Orchard InvestmentCompany: Orchard Coal Co. (Roanoke, VA) Description: Coal loading facility at Crab orchard, WV",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wilcox InvestmentCompany: Wilcox Industries, Inc. (Roanoke, VA) Description: Raw land and mineral rights investment",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Blind Trust of James C Justice, II",
+          "asset-type": "TrustBlind",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "A & G Coal InvestmentCompany: A&G Coal Corporation (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Coal InvestmentCompany: Bluestone Coal Corporation (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Golf & Tennis InvestmentCompany: Greenbrier Golf & Tennis Club Corporation (White Sulphur Springs, WV) Description: Hospitality",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Hotel InvestmentCompany: Greenbrier Hotel Corporation (Wht Sphr Spgs, WV) Description: Owns The Greenbrier Resort",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier IntellectualCompany: Greenbrier IA, Inc (Wht Sphr Spgs, WV) Description: Intellectual property related to The Greenbrier Resort",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Infinity Energy InvestmentCompany: Infinity Energy, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice Energy InvestmentCompany: Justice Energy Company, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice Highwall InvestmentCompany: Justice Highwall Mining, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMTURF InvestmentCompany: American Turf Grass Corporation (Roanoke, VA) Description: Agriculture",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Comer InvestmentCompany: Comer Electric, Inc (Beckley, WV) Description: Electrical Contractor-Inactive",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Baden InvestmentCompany: Baden Reclamation Company (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Energy Sales InvestmentCompany: Bluestone Energy Sales Corporation (Roanoke, VA) Description: Coal Sales",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Industries InvestmentCompany: Bluestone Industries, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Mineral InvestmentCompany: Bluestone Mineral, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Oil InvestmentCompany: Bluestone Oil Corp (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cane Patch InvestmentCompany: Cane Patch Mining Co, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Double Bonus InvestmentCompany: Double-Bonus Coal Company (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dynamic InvestmentCompany: Dynamic Energy, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Frontier InvestmentCompany: Frontier Coal Company (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$25,000,001 - $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Gilbert InvestmentCompany: Gilbert Mine, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$25,000,001 - $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grain Development InvestmentCompany: Grain Development, Inc (Roanoke, VA) Description: Land Investment",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Legacy 1 InvestmentCompany: Greenbrier Legacy Cottage Development Company 1, Inc (Wht Sphr Spgs, WV) Description: Owner of Greenbrier Hotel Corporation cottages being marketed for sale",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$25,000,001 - $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Legacy II InvestmentCompany: Greenbrier Legacy Cottage Development Company II, Inc (Wht Sphr Spgs, WV) Description: Owner of Greenbrier Hotel Corporation cottages being marketed for sale",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JCJCOS 1 InvestmentCompany: James C Justice Companies, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Keystone InvestmentCompany: Keystone Service Industries, Inc (Roanoke, VA) Description: Coal Preparation & Materials Handling",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Meg-Lynn InvestmentCompany: Meg-Lynn Land Company Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "National Resources InvestmentCompany: National Resources, Inc (Roanoke, VA) Description: Coal reserves & raw land, McDowell County, WV",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Nevada Holdings InvestmentCompany: Nevada Holdings, Inc (Roanoke, VA) Description: Coal investment",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pay Car InvestmentCompany: Pay Car Mining, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NUFAC InvestmentCompany: NUFAC Mining Company, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Old White Club InvestmentCompany: Old White Club Corporation (Wht Sphr Spgs, WV) Description: Holds WV Alcohol Beverage Commission licenses for Greenbrier Hotel Corporation",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Premium InvestmentCompany: Premium Coal Company, Incorporated (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Sterling InvestmentCompany: Second Sterling Corp (Roanoke, VA) Description: Coal preparation plant & related facilities, Keystone, WV",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cotton InvestmentCompany: Southeast Cotton, Inc (Roanoke, VA) Description: Cotton broker-inactive",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "S and H InvestmentCompany: S and H Mining, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ranger 4 InvestmentCompany: Ranger Energy Sales Corp (Roanoke, VA) Description: Coal Sales",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COTI InvestmentCompany: The Chesapeake and Ohio Traveler, Inc (Wht Sphr Spgs, WV) Description: Hospitality",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Clinic InvestmentCompany: The Greenbrier Clinic, Inc (Wht Sphr Spgs, WV) Description: Medical",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GRCMC InvestmentCompany: The Greenbrier Resort and Club Management Company (Wht Sphr Spgs, WV) Description: Hospitality",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSCDC InvestmentCompany: The Greenbrier Sporting Club Development Company, Inc (Wht Sphr Spgs, WV) Description: Land Development",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Coal Sales InvestmentCompany: Bluestone Coal Sales Corporation (Roanoke, VA) Description: Coal sales",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Blueridge InvestmentCompany: Blueridge Farm Center, Inc (Roanoke, VA) Description: Equipment sales",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone Equipment InvestmentCompany: Bluestone Equipment Management, Inc (Roanoke, VA) Description: Equipment repair",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coaltex InvestmentCompany: Coaltex, Inc (Roanoke, VA) Description: Mine equipment development",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Energy Plus InvestmentCompany: Energy Plus, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mine Support InvestmentCompany: Mine Support Services, Inc (Roanoke, VA) Description: Coal management",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Nine Mile InvestmentCompany: Nine Mile Mining, Inc (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Old White InvestmentCompany: Old White Development Company (White Sulphur Springs, WV) Description: Land Development",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia Rebuild InvestmentCompany: Virginia Maintenance and Rebuilding Services, Inc (Roanoke, VA) Description: Equipment repair and rebuild",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WV Timber InvestmentCompany: West Virginia Timber, Inc (Lewisburg, WV) Description: Timber",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgantown Industrial Park Associates, LPCompany: Morgantown Industrial Park Associates, LP (Morgantown, WV) Description: Industrial Park lessor",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Allegheny Creative Energy Solutions, LPCompany: Allegheny Creative Energy Solutions, LP (Pottstown, PA) Description: Research & Development",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MidelburgCompany: Midelburg Property, LLC (Roanoke, VA) Description: Land Investment",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Midelburg LandDescription: 1200 ac in Fayette County WV (Babcock, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brier PatchCompany: Saddlebred. LLC (Beckley, WV) Description: Golf course-closed inactive",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Brier Patch Golf LinksDescription: Public golf course-closed (Beckley, WV)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stretcher NeckCompany: Stretcher Neck Properties, LLC (Beckley, WV) Description: Raw land, mineral rights and timber",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stretcher Neck LandDescription: 3030 ac surface & mineral-Raleigh County WV (Beckley, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bluestone CokeCompany: Bluestone Coke, LLC (Roanoke, VA) Description: Coke production plant for steel mills-currently inactive",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Bluestone Coke Processing PlantDescription: Coke processing facility-inactive (Birmingham, AL)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Care InvestmentCompany: Greenbrier Care, LLC (White Sulphur Springs, wv) Description: Medical clinic",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Surgery CenterCompany: Greenbrier Clinic Surgery Center, LLC (White Sulphur Springs, wv) Description: Out patient surgery center",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier MedicalCompany: Greenbrier Medical Institute, LLC (White Sulphur Springs, wv) Description: Medical/Sports Rehabilitation",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GMI Sports Performance CenterDescription: Sports performance/medical rehabilitation (White Sulphur Springs, wWV)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GreenthornCompany: Greenthorn, LLC (Roanoke, va) Description: Coal",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Real estateCompany: Greenbrier Legacy Real Estate, LLC (Wht Sphr Spgs, WV) Description: Real Estate Brokerage",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JFG InvestmentCompany: Justice Family Group, LLC (Wht Sphr Spgs, WV) Description: Hospitality",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice ManagementCompany: Justice Management Services, LLC (Roanoke, va) Description: Management of Corporate Office and coal mining operations-company is currently inactive",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AirwayCompany: Airway Resources, LLC (Roanoke, va) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BardoCompany: Bardo Mining, LLC (Roanoke, va) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Black RiverCompany: Black River Coal, LLC (Roanoke, va) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BlackstoneCompany: Blackstone Energy, LLC (Roanoke, va) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ChestnutCompany: Chestnut Land Holdings, LLC (Roanoke, va) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DublinCompany: Dublin Properties, L C (Roanoke, va) Description: Raw land and timber",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Dublin LandDescription: 1400 ac raw land in Allegheny County, VA (Dublin, VA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Four StarCompany: Four Star Resources, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JCJ CoalCompany: JCJ Coal Group, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JCJCOS LLCCompany: James C Justice Companies, LLC (Roanoke, VA) Description: Coal Mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Twin FirCompany: Twin Fir Estates, LLC (Roanoke, VA) Description: Raw land-inactive",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LiggettCompany: Liggett Mining, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "National CoalCompany: National Coal, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OakhurstCompany: Oakhurst Club, LLC (White Sulphur Springss, WV) Description: Raw land",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Oakhurst LandDescription: 806 ac raw land in Greenbrier County, WV (Wht Sphr Spgs, WV)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Southern MineralsCompany: Southern Minerals, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SequoiaCompany: Sequoia Energy, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ranger 1Company: Ranger Coal Holdings, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ranger 2Company: Ranger Energy Group, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ranger 3Company: Ranger Energy Investments, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ranger 5Company: Ranger Investments, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Black DiamondCompany: Black Diamond Holdings, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier HoldingsCompany: Greenbrier-West Virginia Holdings, LLC (White Sulphur Springs, WV) Description: Co was set up to hold certain assets but is currently inactive",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JFF AgricultureCompany: Justice Family Farms, LLC (Roanoke, VA) Description: Agriculture-farming",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Machinery ServicesCompany: Machinery Services & Support, LLC (Roanoke, VA) Description: Mine equipment repair",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Players ClubCompany: Players Club, LLC (White Sulphur Springs, WV) Description: Casino gaming",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRASCompany: PRAS, LLC (White Sulphur Springs, WV) Description: Receives & manages legal filings for Justice related companies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Justice ThermalCompany: Justice Thermal, LLC (Roanoke, VA) Description: Coal mining",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Equipment SupportCompany: Equipment Support Services, LLC (Roanoke, VA) Description: Equipment repair",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Triple JCompany: JJJ, LLC (Roanoke, VA) Description: Commercial property investment-inactive",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Greenbrier Hotel ReceivableCompany: Greenbrier Hotel Corporation (White Sulphur Springs, WV)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2010",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "5.80%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$25,000,001 - $50,000,000",
+          "creditor": "McCormick 101, LLC\n\t\t\t\t\t\t\t\tHunt Valley, MD",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Promissory Note",
+          "points": "-",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "First Guaranty Bank\n\t\t\t\t\t\t\t\tHammond, LA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Promissory Note",
+          "points": "-",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Peoples Bank\n\t\t\t\t\t\t\t\tLewisburg, WV",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2012",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Tams Management, LLC\n\t\t\t\t\t\t\t\tRoanoke, VA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2018",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Bellwood Corporation\n\t\t\t\t\t\t\t\tRoanoke, VA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2009",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Black River Farms\n\t\t\t\t\t\t\t\tRoanoke, VA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Self",
+          "type": "Judgement",
+          "points": "-",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "XCoal Energy Resources\n\t\t\t\t\t\t\t\tLatrobe, PA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Self",
+          "type": "Judgement",
+          "points": "-",
+          "rate-term": "5-6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "MVB Bank\n\t\t\t\t\t\t\t\tBridgeport, WV",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Self",
+          "type": "Judgement",
+          "points": "-",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Citizens Bank of WV, Inc.\n\t\t\t\t\t\t\t\tElkins, WV",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Promissory Note",
+          "points": "-",
+          "rate-term": "10%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Bray Cary, Jr\n\t\t\t\t\t\t\t\tCharleston, WV",
+          "comments": "Date of Note is August 31, 2021"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Promissory Note",
+          "points": "-",
+          "rate-term": "10%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Cary Foundation, Inc\n\t\t\t\t\t\t\t\tCharleston, WV",
+          "comments": "Date of Note is August 31, 2021"
+        },
+        {
+          "incurred": "2024",
+          "debtor": "Self",
+          "type": "Judgement",
+          "points": "-",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$5,000,001 - $25,000,000",
+          "creditor": "Western Surety Co\n\t\t\t\t\t\t\t\tSioux Falls, SD",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2024",
+          "debtor": "Self",
+          "type": "Judgement",
+          "points": "-",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "Over $50,000,000",
+          "creditor": "Carter Bank & Trust\n\t\t\t\t\t\t\t\tMartinsville, VA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2023",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Beech Creek Coal Co\n\t\t\t\t\t\t\t\tRoanoke, VA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Governor)",
+          "entity": "State of WV\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCharleston, WV",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(State of WV)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 1992 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Beckley Little League, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBeckley, WV",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2000 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Employee",
+          "entity": "Greenbrier County, WV Board of Education\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLewisburg, WV",
+          "entity-type": "Educational Organization",
+          "comments": "Head Coach-Greenbrier East High School Girls Basketball"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "State of WV\n\t\t\t\t\t\t\t\tCharleston, WV",
+          "duties": "Governor",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

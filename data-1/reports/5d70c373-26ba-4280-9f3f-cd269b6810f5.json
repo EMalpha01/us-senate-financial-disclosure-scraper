@@ -1,0 +1,1327 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report",
+  "filer": "Mr. Bernie Moreno",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Ownum, LLC/Champ Titles, Inc.\n\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "amount-paid": "$63,657.82",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Bernardo Moreno Revocable Trust Dated July 2008",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "KeyBank National Association(Westlake, Ohio)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Sanford C Bernstein & Co, LLC",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AB Securitized Asset Fund (Delaware) LP CL BDescription: Securitized Asset Fund (New York City, New York)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Bitcoin Exchange/Platform: eToro",
+          "asset-type": "Cryptocurrency",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "M Realty Group, LLCCompany: M Realty Group, LLC (Westlake, OH) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "M1 Realty, LLCCompany: M1 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #1Description: Building & Land (North Olmsted, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "M4 Realty, LLCCompany: M4 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #2Description: Building & Land (Beachwood, Ohio) Filer comment:  1231 Gain",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M6 Realty, LLCCompany: M6 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #3Description: Building & Land (Brook Park, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M7 Realty, LLCCompany: M7 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #4Description: Building (Streetsboro, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M12 Realty, LLCCompany: M12 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #5Description: Sold Building & Land (Brook Park, Ohio) Filer comment:  Gross rents included a lease termination payment from tenant, which is the reason for the large amount of reported income.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "M14 Realty, LLCCompany: M14 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #6Description: Building & Land (Streetsboro, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M15 Realty, LLCCompany: M15 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #7Description: Building & Land (Streetsboro, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M10 Motors, LLCCompany: M10 Motors, LLC (Coral Gables, Florida) Description: Car Dealership",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Live More, LLCCompany: Live More, LLC (Westlake, Ohio) Description: Real Estate/Personal Property Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Personal home in Baker's Bay, Bahamas (Baker's Bay, Bahamas)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BoatDescription: Boat",
+          "asset-type": "Personal PropertyOther",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Moreno Family Land Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Home in Ocean Reef, FL (Ocean Reef, Florida)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Treatment Technologies & Insights, LLCCompany: Treatment Technologies & Insights, LLC (Los Angeles, California) Description: Technologies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Hyperbole Investments II, LLCCompany: Hyperbole Investments II, LLC (Cleveland, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "iAngels Ingenuity Fund, LPCompany: iAngles Ingenuity Fund, LP (Tel Aviv, Israel) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "iAngels Technologies, LPCompany: iAngels Technologies, LP (Tel Aviv, Israel) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "AutoTech Fund II, LPCompany: AutoTech Fund II, LP (Cleveland, Ohio) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "Narya Capital Fund, LPCompany: Narya Capital Fund, LP (Cleveland, Ohio) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "The Moreno Family, L.P.Company: The Moreno Family, L.P. (Westlake, Ohio) Description: Family Holding Company",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aquila Calva Properties, LLCCompany: Aquila Calva Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Washington D.C. Condo (Washington D.C, D.C.)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Butterfly Properties NYC, LLCCompany: Butterfly Properties NYC, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: New York City Condo (New York City, New York)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pangolin Properties, LLCCompany: Pangolin Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: House in Columbus, Ohio (Columbus, Ohio)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hyperbole Investments, LLCCompany: Hyperbole Investments, LLC (Westlake, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BeMyDD, LLCCompany: BeMyDD, LLC (Westlake, Ohio) Description: Driving Services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coyne Voss, LLCCompany: Coyne Voss, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "R&L Ohio City Holding, LLCCompany: R&L Ohio City Holding, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #8Description: Building & Land (Ohio City, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownum, LLCCompany: Ownum, LLC (Gates Mills, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Champ Titles, Inc.Company: Champ Titles, Inc. (Cleveland, Ohio) Description: Technology",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VC, Inc.Company: VC, Inc. (Gates Mills, Ohio) Description: Technology",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "M Motors Group, Inc.Company: M Motors Group, Inc. (Westlake, Ohio) Description: Car Dealership",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Historic Investment Fund 2019 (QP), LLCCompany: Historic Investment Fund 2019 (QP), LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Husto, Inc.Company: Husto, Inc. (Westlake, Ohio) Description: Travel Subscription Service",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ohio Opportunity Zone Tax CreditDebtor: Bernardo Moreno Filer comment:  Tax credit is transferrable under OH law and was purchased from an investor in the OH Qualified Opportunity Fund; filer is not an investor in the Fund.",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Bridget Moreno Revocable Trust dated July 10, 2008",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "KeyBank National Association(Westlake, Ohio)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "M Realty Group, LLCCompany: M Realty Group, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "M1 Realty, LLCCompany: M1 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #1Description: Building & Land (North Olmsted, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "M4 Realty, LLCCompany: M4 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #2Description: Building & Land (Beachwood, Ohio) Filer comment:  1231 Gain",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M6 Realty, LLCCompany: M6 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #3Description: Building & Land (Brook Park, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "M7 Realty, LLCCompany: M7 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #4Description: Building (Streetsboro, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "M12 Realty, LLCCompany: M12 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #5Description: Building & Land (Streetsboro, Ohio) Filer comment:  Gross rents included a lease termination payment from tenant, which is the reason for the large amount of reported income. Property sold in 2020.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M14 Realty, LLCCompany: M14 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #6Description: Building & Land (Streetsboro, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "M15 Realty, LLCCompany: M15 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #7Description: Building & Land (Streetsboro, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "BMC Promotions, LLCCompany: BMC Promotions, LLC (Westlake, Ohio) Description: Advertising and Promotions Filer comment:  Sold units in company in 2020",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "The Moreno Family, L.P.Company: The Moreno Family, L.P. (Westlake, Ohio) Description: Family Holding Company",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aquila Calva Properties, LLCCompany: Aquila Calva Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Washington D.C. Condo (Washington D.C, D.C.)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Butterfly Properties NYC, LLCCompany: Butterfly Properties NYC, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: New York City Condo (New York City, Ohio)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pangolin Properties, LLCCompany: Pangolin Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: House in Columbus, Ohio (Columbus, Ohio)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hyperbole Investments, LLCCompany: Hyperbole Investments, LLC (Westlake, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BeMyDD, LLCCompany: BeMyDD, LLC (Westlake, Ohio) Description: Driving Services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coyne Voss, LLCCompany: Coyne Voss, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "R&L Ohio City Holding, LLCCompany: R&L Ohio City Holding, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #8Description: Building & Land (Ohio City, Ohio)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownum, LLCCompany: Ownum, LLC (Gates Mills, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Champ Titles, Inc.Company: Champ Titles, Inc. (Cleveland, Ohio) Description: Technology",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VC, Inc.Company: VC, Inc. (Gates Mills, Ohio) Description: Technology",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2018",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "4.63%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Cortland Savings and Banking Company\n\t\t\t\t\t\t\t\tNorth Olmsted, Ohio",
+          "comments": "Mortgage held by M1 Realty, LLC (Asset: commercial real estate #1)"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "3.60%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$5,000,001 - $25,000,000",
+          "creditor": "CF Bank\n\t\t\t\t\t\t\t\tStreetsboro, Ohio",
+          "comments": "Mortgage held by M7 Realty, LLC (Asset: commercial real estate #4)"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "4.00%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(2 Years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "CF Bank\n\t\t\t\t\t\t\t\tStreetsboro, Ohio",
+          "comments": "Mortgage held by M7 Realty, LLC (Asset: commercial real estate #4)"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Paycheck Protection Loan)",
+          "points": "-",
+          "rate-term": "0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(0)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Small Business Administration\n\t\t\t\t\t\t\t\tCoral Gables, Florida",
+          "comments": "PPP Loan on M10 Motors, LLC.  PPP Loan Forgiven July 2021."
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Main Street Business Loan)",
+          "points": "-",
+          "rate-term": "3.00%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 Years)",
+          "amount": "$5,000,001 - $25,000,000",
+          "creditor": "Small Business Administration\n\t\t\t\t\t\t\t\tCoral Gables, Florida",
+          "comments": "Held by M10 Motors, LLC"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "3.875%%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 Years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "CF Bank\n\t\t\t\t\t\t\t\tMiddleburg Heights, Ohio",
+          "comments": "Held by M6 Realty, LLC. (Asset: commercial real estate #3)"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "7.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(6.5 years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Capital Automotive Finance, LLC\n\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "comments": "Mortgage held by M3 Realty, LLC and M6 Realty, LLC (Asset: commercial real estate #3)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Dec 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "BeMyDD, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2008 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Bernie Moreno Companies\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Bernie Moreno Companies Reinsurance Co., Ltd.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTurks and Caicos, BVI",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2015 to\n\t\t\t\t\t\t\t\tMar 2020",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "BMC Promotions, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Butterfly Properties NYC, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2011 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Collection Auto Care, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Champ Titles, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2011 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "CAG Promotions, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "DigiCredits, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "DonaldDaters, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Drive Options, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Flight Plan, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Hyperbole Investments II, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Hyperbole Investments, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Live More, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M Motors Group, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2008 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M1 Aviation, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Apr 2005 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M1 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2008 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M2 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Apr 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M2 Motors, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Oct 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M3 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Aug 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M3 Disposition Corp\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Oct 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M4 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M6 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M7 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M8 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M9 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Nov 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M10 Motors, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M11 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Mar 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M11 Motors, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M12 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M13 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M14 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M15 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M16 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M17 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M Realty Group, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2007 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M1 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M2 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M3 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M4 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M5 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Mar 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M6 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M7 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M8 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M9 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M10 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Aug 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M11 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M12 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M13 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M14 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M15 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2015 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M Yachts, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2008 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Bernardo Moreno Rev Trust Dated July 2008\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Moreno Family L.P.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Partnership",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Moreno Family Land Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Moreno Family Opportunity Zone Fund, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Apr 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Ownum, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Pangolin Properties, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tColumbus, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Tech Tags, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "VC, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Yacht Plan, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2014 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "28450 Lorain Road, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Aquila Calva Properties, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tDec 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Destination Cleveland\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Apr 2014 to\n\t\t\t\t\t\t\t\tApr 2020",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Cleveland Foundation Board\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2008 to\n\t\t\t\t\t\t\t\tDec 2020",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Cuyahoga Community College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2011 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Fifty Club of Cleveland\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2012 to\n\t\t\t\t\t\t\t\tDec 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Greater Cleveland Partnership\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2019 to\n\t\t\t\t\t\t\t\tFeb 2021",
+          "position-held": "Officer",
+          "entity": "Metro Health Board\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2007 to\n\t\t\t\t\t\t\t\tAug 2020",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Young Presidents Organization\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "Ownum, LLC/Champ Titles, Inc.\n\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "duties": "Perform company manger/director duties",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

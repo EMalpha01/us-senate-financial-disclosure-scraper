@@ -1,0 +1,2305 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "Mr. Peter Welch (Welch, Peter)",
+  "filed-date": "05/04/2023",
+  "filed-time": "11:43 AM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Required Minimum Distribution)",
+          "who-paid": "Charles Schwab & Co., Inc.\n\t\t\t\t\t\t\t\tWestlake, TX",
+          "amount-paid": "$7,867.22",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Required Minimum Distribution)",
+          "who-paid": "Fidelity Investments\n\t\t\t\t\t\t\t\tAlbuquerque, NM",
+          "amount-paid": "$127,955.11",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Annuity Distribution)",
+          "who-paid": "TIAA\n\t\t\t\t\t\t\t\tCharlotte, NC",
+          "amount-paid": "$23,528.52",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Public Service Board\n\t\t\t\t\t\t\t\tMontpelier, VT",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "American Century Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ABHIX - American Century High-Yield Bond Fund Investor CFiler comment:  Sold for a loss",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TWIEX - American Century International Growth Investor CFiler comment:  Sold for a loss",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REACX - American Century Real Estate Fund Investor ClassFiler comment:  Sold for a loss",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Brokerage #1",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FAGIX - Fidelity Capital and Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "FDRXX - Fidelity Government Cash Reserves(Jersey City, NJ)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FDGRX - Fidelity Growth Company Fund Retail Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "EWZ - iShares Inc iShares MSCI Brazil ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EEMA - iShares MSCI Emerging Markets Asia ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EWT - iShares Inc iShares MSCI Taiwan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CWB - SPDR Bloomberg Convertible Securities ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VGK - Vanguard FTSEEuropean ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VYM - Vanguard High Dividend Yield ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Fidelity Brokerage #2",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPAXX - Fidelity Government Money Market Fund(Jersey City, NJ)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FTEXX - Fidelity Municipal Money Market Fund(Jersey City, NJ)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EEM - iShares MSCI Emerging Index Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VTI - Vanguard Total Stock Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MORT - VanEck Vectors Mortgage REIT Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FDRXX - Fidelity Government Cash Reserves(Jersey City, NJ)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIUIX - Fidelity Utilities Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCVSX - Fidelity Convertible Securities Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBALX - Fidelity Balanced Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBGRX - Fidelity Blue Chip Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBSOX - Fidelity Select IT Services",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OPGIX - Invesco Oppenheimer Global Opportunities Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGPMX - Vanguard Global Capital Cycles Fund Investor Sha",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTSAX - Vanguard Total Stock Market Index Fd Admiral Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPAXX - Fidelity Government Money Market(Jersey City, NJ)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPV - Invesco S&P 500 Pure Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XSVM - Invesco S&P Smallcap Value With Momentum ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EWZ - iShares Inc iShares MSCI Brazil ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EWW - iShares Inc iShares MSCI Mexico ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IWN - iShares Russell 2000 Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLB - Materials Select Sector SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLV - SPDR Select Sector Fund - Health Care",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLI - SPDR Select Sector Fund - Industrial",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLU - SPDR Select Sector Fund - Utilities",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIG - Vanguard Div Appreciation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIOV - Vanguard S&P Small-Cap 600 Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANGL - VanEck Fallen Angel High Yield Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFF - iShares Preferred and Income Securities ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLRE - Real Estate Select Sector SPDR Fund (The)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VNQ - Vanguard Real Estate ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spinnaker Trust - Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Spinnaker Total Cash & Cash Equivalents(Portland, ME)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust, Series 1",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "RCD - Invesco S&P 500 Equal Weight Consumer Discretionar",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "OMFL - Invesco Exchange-Traded Self-Indexed Fund Trust In",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SUSA - iShares MSCI USA ESG Select ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SPSM - SPDR Portfolio S&P 600 Small Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SCHV - Schwab U.S. Large-Cap Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLV - SPDR Select Sector Fund - Health Care",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "XLP - SPDR Select Sector Fund - Consumer Staples",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLY - SPDR Select Sector Fund - Consumer Discretionary",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLF - SPDR Select Sector Fund - Financial",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "XLI - SPDR Select Sector Fund - Industrial",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "XLK - SPDR Select Sector Fund - Technology",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GEM - GS Activebeta Emerging Markets Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ICLN - iShares Global Clean Energy ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EWT - iShares Inc iShares MSCI Taiwan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CNYA - iShares MSCI China A ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ESGD - iShares ESG Aware MSCI EAFE ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BBCA - Jpmorgan Betabuilders Canada ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "GDX - VanEck Vectors Gold Miners ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSS - Vanguard FTSE All-Wld ex-US SmCp Idx ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TLH - iShares 10-20 Year Treasury Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IGLB - iShares 10  Year Investment Grade Corporate Bond E",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ISTB - iShares Core 1-5 Year USD Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IUSB - iShares Core Total USD Bond Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SRLN - SPDR Blackstone GSO Senior Loan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BCI - Aberdeen Standard Bloomberg All Commodity Strategy",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FPE - First Trust Preferred Securities and Income ETF ET",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IAU - ishares Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "KRBN - KraneShares Global Carbon ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ASHR - Xtrackers Harvest CSI 300 China A-Shares ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "URA - Global X Uranium ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BBJP - JPMorgan BetaBuilders Japan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TLT - iShares 20+ Year Treasury Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGSH - Vanguard Short-Term Treasury ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VCSH - Vanguard Short-Term Corporate Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FXY - Invesco CurrencyShares Japanese Yen Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab - Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Charles Schwab(Westlake, TX)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SNVXX - Charles Schwab Government Money Market(Westlake, TX)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "University of VTRate/Coupon: 3.5%  Matures: 10/01/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VT MuniRate/Coupon: 5.0%  Matures: 12/01/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IXP - iShares Global Comm Services ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SUSA - iShares MSCI USA ESG Select ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PRBLX - Parnassus Core Equity Fund-Investor Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "VPL - Vanguard FTSE Pacific ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JPM - JP Morgan Chase & Co. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Charles Schwab - Contributory IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Charles Schwab Government Money Market (SNVXX)(Westlake, TX)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab Value Advantage Money Market(Westlake, TX)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IXP - iShares Global Comm Services ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SUSA - iShares MSCI USA ESG Select ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRBLX - Parnassus Core Equity Fund-Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPL - Vanguard FTSE Pacific ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab - Inherited IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Charles Schwab Value Advantage Money Market(Westlake, TX)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab Government Money Fund (SNVXX)(Westlake, TX)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IXP - iShares Global Comm Services ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SUSA - iShares MSCI USA ESG Select ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRBLX - Parnassus Core Equity Fund-Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPL - Vanguard FTSE Pacific ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TD Ameritrade - Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RPV - Invesco S&P 500 Pure Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EWZ - iShares Inc iShares MSCI Brazil ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "XLB - Materials Select Sector SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLK - SPDR Select Sector Fund - Technology",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MORT - VanEck Vectors Mortgage REIT Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "VNM - VanEck Vectors Vietnam ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TD Ameritrade Money Market(Omaha, NE)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ILF - iShares Latin America 40 ETFFiler comment:  12/31/21 full sale settled in 2022",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF Growth R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF Equity Index R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF Global Equities R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Real Estate Securities Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF Large-Cap Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF Quant Small-Cap Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA Real Estate",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF High Yield Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF Money Market R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA CREF Social Choice R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard - Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Federal Money Market(Malvern, PA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VEU - Vanguard FTSE All World Ex US ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VMLUX - Vanguard Limited-Term Tax-Exempt Fd Admiral Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VWLUX - Vanguard Long-Term Tax-Exempt Fd Admiral Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "VXUS - Vanguard Total International Stock ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTI - Vanguard Total Stock Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Charles Schwab - Inherited IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Charles Schwab Government Money Fund (SNVXX)(Westlake, TX)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IXP - iShares Global Comm Services ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SUSA - iShares MSCI USA ESG Select ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRBLX - Parnassus Core Equity Fund-Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPL - Vanguard FTSE Pacific ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "REACX",
+          "asset-name": "American Century Real Estate Fund Investor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/19/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TWIEX",
+          "asset-name": "American Century International Growth Investor C",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/19/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TWIEX",
+          "asset-name": "American Century International Growth Investor C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/19/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ABHIX",
+          "asset-name": "American Century High-Yield Bond Fund Investor C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/19/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RPV",
+          "asset-name": "Invesco S&P 500 Pure Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/08/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of Fidelity Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OPGIX",
+          "asset-name": "Invesco Global Opportunities Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/28/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Fidelity Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANGL",
+          "asset-name": "VanEck Vectors Fallen Angel High Yield Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/28/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Fidelity Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FAGIX",
+          "asset-name": "Fidelity Capital and Income Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/23/2022",
+          "amount": "$250,001 - $500,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FAGIX",
+          "asset-name": "Fidelity Capital and Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/10/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FAGIX",
+          "asset-name": "Fidelity Capital and Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/31/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FAGIX",
+          "asset-name": "Fidelity Capital and Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FAGIX",
+          "asset-name": "Fidelity Capital and Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/07/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTI",
+          "asset-name": "Vanguard Total Stock Market ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/11/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTI",
+          "asset-name": "Vanguard Total Stock Market ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/23/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RPV",
+          "asset-name": "Invesco S&P 500 Pure Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/10/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RPV",
+          "asset-name": "Invesco S&P 500 Pure Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/03/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/13/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/14/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/18/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MORT",
+          "asset-name": "VanEck Vectors Mortgage REIT Income ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/17/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MORT",
+          "asset-name": "VanEck Vectors Mortgage REIT Income ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/29/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MORT",
+          "asset-name": "VanEck Vectors Mortgage REIT Income ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/21/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VNM",
+          "asset-name": "VanEck Vectors Vietnam ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/21/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VNM",
+          "asset-name": "VanEck Vectors Vietnam ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/22/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MORT",
+          "asset-name": "VanEck Vectors Mortgage REIT Income ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VXUS",
+          "asset-name": "Vanguard Total International Stock ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Vanguard Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VXUS",
+          "asset-name": "Vanguard Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Vanguard Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VXUS",
+          "asset-name": "Vanguard Total International Stock ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Vanguard Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA CREF Large-Cap Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA Real Estate",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA CREF Global Equities R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA CREF Growth R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA CREF Global Equities R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA CREF Growth R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA Real Estate",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA CREF Large-Cap Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VXUS",
+          "asset-name": "Vanguard Total International Stock ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Vanguard - Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEU",
+          "asset-name": "Vanguard FTSE All World Ex US ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Vanguard - Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VXUS",
+          "asset-name": "Vanguard Total International Stock ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Vanguard - Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEU",
+          "asset-name": "Vanguard FTSE All World Ex US ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Vanguard - Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/20/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of TD Ameritrade Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MORT",
+          "asset-name": "VanEck Vectors Mortgage REIT Income ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/03/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of Fidelity Brokerage #2"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FDGRX",
+          "asset-name": "Fidelity Growth Company Fund Retail Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/03/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EEMA",
+          "asset-name": "iShares MSCI Emerging Markets Asia ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/03/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of Fidelity Brokerage #1"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/09/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Charles Schwab Brokerage"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ESGD",
+          "asset-name": "iShares ESG Aware MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/09/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/09/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FPE",
+          "asset-name": "First Trust Preferred Securities and Income ETF ET",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/17/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SPLB",
+          "asset-name": "SPDR Portfolio Long Term Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ISTB",
+          "asset-name": "iShares Core 1-5 Year USD Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/18/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TLT",
+          "asset-name": "iShares 20+ Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "OMFL - Invesco Russell 1000 Dynamic",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ASHR",
+          "asset-name": "Xtrackers Harvest CSI 300 China A-Shares ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TLT",
+          "asset-name": "iShares 20+ Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/29/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "OMFL - Invesco Russell 1000 Dynamic",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/02/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGSH",
+          "asset-name": "Vanguard Short-Term Treasury ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VCSH",
+          "asset-name": "Vanguard Short-Term Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGLT",
+          "asset-name": "Vanguard Long-Treasury ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/18/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGLT",
+          "asset-name": "Vanguard Long-Treasury ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VCSH",
+          "asset-name": "Vanguard Short-Term Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGSH",
+          "asset-name": "Vanguard Short-Term Treasury ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/27/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ASHR",
+          "asset-name": "Xtrackers Harvest CSI 300 China A-Shares ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/09/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGLT",
+          "asset-name": "Vanguard Long-Treasury ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/08/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VCSH",
+          "asset-name": "Vanguard Short-Term Corporate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/08/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGSH",
+          "asset-name": "Vanguard Short-Term Treasury ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/08/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GEM",
+          "asset-name": "Goldman Sachs ActiveBeta Emerging Markets Equity E",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ESGD",
+          "asset-name": "iShares ESG Aware MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BBJP",
+          "asset-name": "JPM Betabuilders Japan ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FXY",
+          "asset-name": "Invesco CurrencyShares Japanese Yen Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/14/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ICLN",
+          "asset-name": "iShares Global Clean Energy ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "URA",
+          "asset-name": "Global X Uranium ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TLT",
+          "asset-name": "iShares 20+ Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/12/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SPSM",
+          "asset-name": "SPDR Portfolio S&P 600 Small Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/09/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BBCA",
+          "asset-name": "JPMorgan BetaBuilders Canada ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ICLN",
+          "asset-name": "iShares Global Clean Energy ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BCI",
+          "asset-name": "Aberdeen Standard Bloomberg All Commodity Strategy",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/22/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TLH",
+          "asset-name": "iShares 10-20 Year Treasury Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IUSB",
+          "asset-name": "iShares Core Total USD Bond Market ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/23/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IGLB",
+          "asset-name": "iShares 10  Year Investment Grade Corporate Bond E",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RCD",
+          "asset-name": "Invesco S&P 500 Equal Weight Consumer Discretionar",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CNYA",
+          "asset-name": "iShares MSCI China A ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/29/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ISTB",
+          "asset-name": "iShares Core 1-5 Year USD Bond ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/03/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "XLF",
+          "asset-name": "SPDR Select Sector Fund - Financial",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "XLI",
+          "asset-name": "SPDR Select Sector Fund - Industrial",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/04/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TLT",
+          "asset-name": "iShares 20+ Year Treasury Bond ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/20/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SPLB",
+          "asset-name": "SPDR Portfolio Long Term Corporate Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/20/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SRLN",
+          "asset-name": "SPDR Blackstone GSO Senior Loan ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ISTB",
+          "asset-name": "iShares Core 1-5 Year USD Bond ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FPE",
+          "asset-name": "First Trust Preferred Securities and Income ETF ET",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/01/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BBCA",
+          "asset-name": "JPMorgan BetaBuilders Canada ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BCI",
+          "asset-name": "Aberdeen Standard Bloomberg All Commodity Strategy",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SRLN",
+          "asset-name": "SPDR Blackstone GSO Senior Loan ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PFF",
+          "asset-name": "iShares Preferred and Income Securities ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ISTB",
+          "asset-name": "iShares Core 1-5 Year USD Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWZ",
+          "asset-name": "iShares Inc iShares MSCI Brazil ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GDX",
+          "asset-name": "VanEck Vectors Gold Miners ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ESGD",
+          "asset-name": "iShares ESG Aware MSCI EAFE ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IAU",
+          "asset-name": "ishares Gold Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/14/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ESGD",
+          "asset-name": "iShares ESG Aware MSCI EAFE ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/07/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GEM",
+          "asset-name": "Goldman Sachs ActiveBeta Emerging Markets Equity E",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGLT",
+          "asset-name": "Vanguard Long-Treasury ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/12/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/09/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VMLUX",
+          "asset-name": "Vanguard Limited-Term Tax-Exempt Fd Admiral Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/12/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "Underlying asset of Vanguard - Brokerage"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Mascoma Savings Banks\n\t\t\t\t\t\t\t\tSouth Burlington, VT",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Margin Loan)",
+          "points": "-",
+          "rate-term": "7.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "TD Ameritrade\n\t\t\t\t\t\t\t\tOmaha, NE",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

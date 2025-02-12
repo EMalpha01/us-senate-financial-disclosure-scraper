@@ -1,0 +1,1386 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2019",
+  "filer": "The Honorable Michael D Crapo (Crapo, Michael D.)",
+  "filed-date": "08/13/2020",
+  "filed-time": "10:32 AM",
+  "calendar-year": "2019",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Wages",
+          "who-paid": "Crapo Victory Committee\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Residential homeDescription: Rowhouse (Washington, DC) Filer comment:  Total rental income: $34,470.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings, Filer comment:  Asset balance/checking:  $22,166.00.\nAsset balance/savings:  $78,190.00.\nTotal interest income:  $471.71.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Parking spaceDescription: Parking space (Washington, DC) Filer comment:  Monthly rent collected on parking space.  Annual total:  $3,120.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Checking, Savings, Filer comment:  Asset value/checking:  $58,587.07.\nAsset value/savings:  $5,073.37.\nTotal interest income:  $33.90.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERSI Base PlanFiler comment:  Asset value:  $32,329.49.\nTotal interest income:  $2,435.44.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "3% of mineral rights leaseDescription: Subsurface mineral rights on 640 acres (McKenzie County, ND) Filer comment:  Total royalties received: $33,181.59.",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Joint",
+          "value": "Unascertainable",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Pharma Partners LLCCompany: Pharma Partners LLC (Englewood, Colorado) Description: Funds research and clinical trials on a new class of drugs, metalloporphyrins.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Biominetix JV LLCCompany: Biominetix JV LLC (Englewood, Colorado) Description: Funds research and clinical trials on a new class of drugs, metalloporthyrins. Filer comment:  Income: -$48,345.00.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Crapo Enterprises LLCCompany: Crapo Enterprises LLC (Bountiful, UT) Description: Business entity that holds residential property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Single family homeDescription: Single family home (Island Park, ID) Filer comment:  Ownership percentage value: $11,893.90.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Crapo Estate Holdings LLCCompany: Crapo Estate Holdings LLC (Idaho Falls, ID) Description: Business entity that holds ranchland",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Minority interest in 359-acre ranch landDescription: Garrett Ranch (Fremont County, ID) Filer comment:  Asset value: $67,312.50.\nIncome: rental,$106.00; interest $3.50.\nFrom 2006 to 2018, asset value was misreported; an amendment letter has been filed to correct.",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJJ - iShares S&P Mid-Cap 400 Value ETFFiler comment:  Asset value: $12,121.83.\nIncome: $688.66.",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "APGYX - AB Large Cap Growth Fund Advisor ClassFiler comment:  Asset value: $17,838.99.\nIncome: $5,312.92.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MADCX - BlackRock Emerging Markets Fund, Inc. InstitutionaFiler comment:  Asset value: $4,161.19.\nIncome: $444.04.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Institutional ClassFiler comment:  Asset value: $11,737.51.\nIncome: $927.52.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DSEEX - DoubleLine Shiller Enhanced CAPE Class IFiler comment:  Asset value: $17,672.10.\nIncome: $1.721.04.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EGFIX - Edgewood Growth Fund Class InstitutionalFiler comment:  Asset value: $15,521.71.\nIncome: $5,894.47.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FNSXX-Fidelity Investements Money Market FDS InstlFiler comment:  Asset value: $12,426.57.\nIncome: $0.00.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HCMAX - Hillman Value Fund No Load SharesFiler comment:  Asset value: $14,273.79.\nIncome: $1,441.46.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JMGRX - Janus Henderson Enterprise Fund Class IFiler comment:  Asset value: $13,442.28.\nIncome: $1,240.30.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LMGNX - ClearBridge International Growth Fund Class IFiler comment:  Asset value: $5,818.85.\nIncome: $870.84.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NDVIX - MFS New Discovery Value Fund Class IFiler comment:  Asset value: $6,173.42.\nIncome: $143.58.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LLDYX - Lord Abbett Short Duration Income Fund Class IFiler comment:  Asset value: $17,784.33.\nIncome: $84.68.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QFVIX - Pear Tree Polaris Foreign Value Fund Class InstituFiler comment:  Asset value: $4,058.22.\nIncome: $234.27.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PKSFX - Virtus KAR Small-Cap Core Fund Class IFiler comment:  Asset value: $5,823.73.\nIncome: $730.19.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PIMIX - PIMCO Income Fund Institutional ClassFiler comment:  Asset value: $14,546.33.\nIncome: -$156.09.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WATFX - Western Asset Core Bond Fund Class IFiler comment:  Asset value: $14,148.55.\nIncome: $316.30.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IJJ - iShares S&P Mid-Cap 400 Value ETFFiler comment:  Asset value: $2,219.49.\nIncome: $127.63.",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "APGYX - AB Large Cap Growth Fund Advisor ClassFiler comment:  Asset value: $3,206.95.\nIncome: $955.22.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSFTX - Columbia Dividend Income Fund Institutional ClassFiler comment:  Asset value: $2,109.39.\nIncome: $166.69.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DSEEX - DoubleLine Shiller Enhanced CAPE Class IFiler comment:  Asset value: $3,176.48.\nIncome: $309.34.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EGFIX - Edgewood Growth Fund Class InstitutionalFiler comment:  Asset value: $2,789.34.\nIncome: $1,059.57.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FNSXX-Fidelity Investments Money Market FDS InstlFiler comment:  Asset value: $2,233.88.\nIncome: $0.00.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HCMAX - Hillman Value Fund No Load SharesFiler comment:  Asset value: $2,565.17.\nIncome: $259.05.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JMGRX - Janus Henderson Enterprise Fund Class IFiler comment:  Asset value: $2,537.88.\nIncome: $234.23.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LMGNX - ClearBridge International Growth Fund Class IFiler comment:  Asset value: $1,046.07.\nIncome: $156.58.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NDVIX - MFS New Discovery Value Fund Class IFiler comment:  Asset value: $1,071.97.\nIncome: $22.08.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LLDYX - Lord Abbett Short Duration Income Fund Class IFiler comment:  Asset value: $3,197.06.\nIncome: $15.21.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PKSFX - Virtus KAR Small-Cap Core Fund Class IFiler comment:  Asset value: $1,046.99.\nIncome: $131.30.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIMIX - PIMCO Income Fund Institutional ClassFiler comment:  Asset value: $2,614.83.\nIncome: -$27.98.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WATFX - Western Asset Core Bond Fund Class IFiler comment:  Asset value: $2543.14.\nIncome: $56.87.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $10,521.88."
+        },
+        {
+          "owner": "Self",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $8,721.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $12,209.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JMGRX",
+          "asset-name": "Janus Henderson Enterprise Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $12,209.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $6,977.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $7,048.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Short Duration Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $10,465.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "QFVIX",
+          "asset-name": "Pear Tree Polaris Foreign Value Fund Class Institu",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $6,977.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PKSFX",
+          "asset-name": "Virtus KAR Small-Cap Core Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $5,232.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "PIMCO Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,347.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $8,721.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRNIX",
+          "asset-name": "AllianzGI NFJ Mid-Cap Value Fund Institutional Cla",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $8,571.33."
+        },
+        {
+          "owner": "Self",
+          "ticker": "DOMOX",
+          "asset-name": "Domini Impact International Equity Fund Institutio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $6,740.58."
+        },
+        {
+          "owner": "Self",
+          "ticker": "GOGIX",
+          "asset-name": "John Hancock Funds International Growth Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $8,3563.02."
+        },
+        {
+          "owner": "Self",
+          "ticker": "NFFFX",
+          "asset-name": "American Funds New World Fund Class F-2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $7,106.35."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JSOSX",
+          "asset-name": "JPMorgan Strategic Income Opportunities Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,583.64."
+        },
+        {
+          "owner": "Self",
+          "ticker": "NDVIX",
+          "asset-name": "MFS New Discovery Value Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,716.60."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PSMIX",
+          "asset-name": "Principal Global Multi-Strategy Fund Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $5,293.82."
+        },
+        {
+          "owner": "Self",
+          "ticker": "QOPYX",
+          "asset-name": "Invesco Oppenheimer Fundamental Alternatives Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $5,312.48."
+        },
+        {
+          "owner": "Self",
+          "ticker": "OOSYX",
+          "asset-name": "Invesco Oppenheimer Senior Floating Rate Fund Clas",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,563.41."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PCBIX",
+          "asset-name": "Principal MidCap Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $10,818.20."
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,599.63."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFORX",
+          "asset-name": "PIMCO International Bond Fund (U.S. Dollar-Hedged)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,64.0.81."
+        },
+        {
+          "owner": "Self",
+          "ticker": "BPAIX",
+          "asset-name": "Boston Partners All Cap Value Fund Institutional C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$15,001 - $50,000",
+          "comments": "Sale price: $15,676.91."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRDSX",
+          "asset-name": "T. Rowe Price QM U.S. Small-Cap Growth Equity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $6,926.09."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,942.50."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,567.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $2,195.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JMGRX",
+          "asset-name": "Janus Henderson Enterprise Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $2,195.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,254.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,267.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Short Duration Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,881.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QFVIX",
+          "asset-name": "Pear Tree Polaris Foreign Value Fund Class Institu",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,254.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PKSFX",
+          "asset-name": "Virtus KAR Small-Cap Core Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $940.00. Under $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PIMIX",
+          "asset-name": "PIMCO Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $242.00. Under $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,567.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRNIX",
+          "asset-name": "AllianzGI NFJ Mid-Cap Value Fund Institutional Cla",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,541.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DOMOX",
+          "asset-name": "Domini Impact International Equity Fund Institutio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,211.81."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GOGIX",
+          "asset-name": "John Hancock Funds International Growth Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,501.72."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NFFFX",
+          "asset-name": "American Funds New World Fund Class F-2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,277.63."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JSOSX",
+          "asset-name": "JPMorgan Strategic Income Opportunities Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $644.27. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NDVIX",
+          "asset-name": "MFS New Discovery Value Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $308.38. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PSMIX",
+          "asset-name": "Principal Global Multi-Strategy Fund Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $951.72. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QOPYX",
+          "asset-name": "Invesco Oppenheimer Fundamental Alternatives Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $955.11. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OOSYX",
+          "asset-name": "Invesco Oppenheimer Senior Floating Rate Fund Clas",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $640.58. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PCBIX",
+          "asset-name": "Principal MidCap Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,944.89."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opportunities Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $647.10. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PFORX",
+          "asset-name": "PIMCO International Bond Fund (U.S. Dollar-Hedged)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $654.50. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BPAIX",
+          "asset-name": "Boston Partners All Cap Value Fund Institutional C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,818.48."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRDSX",
+          "asset-name": "T. Rowe Price QM U.S. Small-Cap Growth Equity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/26/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,245.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $463.22. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $448.07. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $3,654.38."
+        },
+        {
+          "owner": "Self",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $10,578.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $3,590.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Class Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,546.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "HCMAX",
+          "asset-name": "Hillman Value Fund No Load Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $12,342.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "NDVIX",
+          "asset-name": "MFS New Discovery Value Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $183.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Short Duration Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $6,863.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "QFVIX",
+          "asset-name": "Pear Tree Polaris Foreign Value Fund Class Institu",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $582.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "PIMCO Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $3,381.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $5,175.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "APGYX",
+          "asset-name": "AB Large Cap Growth Fund Advisor Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,373.69."
+        },
+        {
+          "owner": "Self",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $651.39. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Class Institutional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $482.35. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JMGRX",
+          "asset-name": "Janus Henderson Enterprise Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $630.36. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $358.67. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PKSFX",
+          "asset-name": "Virtus KAR Small-Cap Core Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $402.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $419.23. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $275.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $648.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "PIMCO Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $431.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $5,173.54."
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "FNSXX - Fidelity Investments Money Market FDS Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $416.24. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,835.81."
+        },
+        {
+          "owner": "Self",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $14,171.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "FMJXX",
+          "asset-name": "Goldman Sachs Trust - Investor Money Market Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $10,932.18."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PXTIX",
+          "asset-name": "PIMCO RAE PLUS Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $8,785.53."
+        },
+        {
+          "owner": "Self",
+          "ticker": "QFVIX",
+          "asset-name": "Pear Tree Polaris Foreign Value Fund Class Institu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $3,510.93."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $149.36. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $50.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSFTX",
+          "asset-name": "Columbia Dividend Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,901.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $645.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Class Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $277.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HCMAX",
+          "asset-name": "Hillman Value Fund No Load Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $2,218.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Short Duration Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,234.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QFVIX",
+          "asset-name": "Pear Tree Polaris Foreign Value Fund Class Institu",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $104.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PIMIX",
+          "asset-name": "PIMCO Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $608.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $930.00. Below $1,000 threshold; will be removed after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "APGYX",
+          "asset-name": "AB Large Cap Growth Fund Advisor Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $247.11. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DSEEX",
+          "asset-name": "DoubleLine Shiller Enhanced CAPE Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $117.29. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Class Institutional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $86.82. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $64.19. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PKSFX",
+          "asset-name": "Virtus KAR Small-Cap Core Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $71.63. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WATFX",
+          "asset-name": "Western Asset Core Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $74.53. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $116.00. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PXTIX",
+          "asset-name": "PIMCO RAE PLUS Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $77.00. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MADCX",
+          "asset-name": "BlackRock Emerging Markets Fund, Inc. Institutiona",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $929.85. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "FNSXX - Fidelity Investments Money Market FDS Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $74.72. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LMGNX",
+          "asset-name": "ClearBridge International Growth Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $330.04. Below $1,000 threshold; will remove after Ethics review."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,546.82."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FMJXX",
+          "asset-name": "Goldman Sachs Trust - Investor Money Market Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,964.69."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PXTIX",
+          "asset-name": "PIMCO RAE PLUS Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,579.01."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QFVIX",
+          "asset-name": "Pear Tree Polaris Foreign Value Fund Class Institu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2019",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $630.31. Below $1,000 threshold; will remove after Ethics review."
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0.75",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tIdaho Falls, Idaho",
+          "comments": "Total loan amount: $294,644.57."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Nov 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Pharma Partners, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEnglewood, Colorado",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Crapo Enterprises LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBountiful, UT",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2006 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Crapo Estate Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tIdaho Falls, ID",
+          "entity-type": "Company",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

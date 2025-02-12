@@ -1,0 +1,363 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2022 (Amendment 1)",
+  "filer": "The Honorable Eric Schmitt (Schmitt, Eric)",
+  "filed-date": "08/28/2023",
+  "filed-time": "12:42 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "State of Missouri\n\t\t\t\t\t\t\t\tJefferson City, Missouri",
+          "amount-paid": "$119,226.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "GOLDIE CO LLC\n\t\t\t\t\t\t\t\tGlendale, Missouri",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "IRA Brokerage Cash Services",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPDR S&P 500 TRUST ETF SPY",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VANGUARD MID CAP ETF VO",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VANGUARD MID-CAP VAL ETF INDEX FUND VOE",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VANGUARD SMALL CAP V ETF ETF VBR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VANGUARD TOTAL STOCK ETF MARKET ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TREASURY ^ NOTESRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Jefferson City, MO)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US TREASURY WI NOTESRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TREASURY NOTESRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TREASURY NOTESRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GLD - SPDR Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VONG - Vanguard Russell 1000 Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIOV - Vanguard S&P Small-Cap 600 Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TREASURY NOTESRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US TREASURY NOTESRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MOSERS",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Public School Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MOST 529 PlanInstitution: State of MissouriFiler comment:  Child #1",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Conservative Growth Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Advisor 529 PlanInstitution: Fidelity Advisor Plan Sponsored by New HampshireFiler comment:  Child #1",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity Advisory Port Class 2025 Age Based Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MOST 529 PlanInstitution: State of MissouriFiler comment:  Child #2",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Aggressive Growth Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Permanent Whole Life InsuranceProvider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Permanent Whole Life InsuranceProvider: Northwestern Mutual Filer comment:  Loan taken against the policy -- May\n2014. $1056.73",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Goldie Co LLCCompany: Goldie Co LLC (Webster Groves, Missouri) Description: Administrative services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "UMB Bank(Kirkwood, Missouri)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UMB Bank(Kirkwood, Missouri)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tDec 2022",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Commissioner)",
+          "entity": "Board of Public Buildings\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJefferson City, MO",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Government Organization)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tDec 2022",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Commissioner)",
+          "entity": "Missouri Housing Development Commission\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJefferson City, MO",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Government Organization)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tDec 2022",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Commissioner)",
+          "entity": "MOPERM\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJefferson City, MO",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Government Organization)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tDec 2022",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Attorney General)",
+          "entity": "State of Missouri\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJefferson City, MO",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Government)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tDec 2022",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Commissioner)",
+          "entity": "Board of Fund Commissioners\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJefferson City, MO",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Government Organization)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2014",
+          "parties-involved": "Missouri Employees Retirement System\n\t\t\t\t\t\t\t\tJefferson City, MO",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Senator Schmitt is eligible to receive defined pension benefits from the Missouri Employees Retirement System under the “Missouri State Employee Plan 2000.” Under this plan, beneficiaries are eligible to receive benefits at age 62 for the “normal retirement” option. The plan vested for Senator Schmitt five years after he took office as Missouri State Senator in January 2009.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

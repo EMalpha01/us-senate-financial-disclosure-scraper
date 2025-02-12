@@ -1,0 +1,2487 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report (Amendment 1)",
+  "filer": "Mr. Timothy P Sheehy",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Wages",
+          "who-paid": "Ascent Vision Technologies, LLC\n\t\t\t\t\t\t\t\tArlington, VA",
+          "amount-paid": "$36,194.79",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Wages",
+          "who-paid": "Bridger Aerospace Group Holdings, LLC\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "amount-paid": "$2,460,449.12",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Timothy P Sheehy Irrevocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account #1",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PDBC - Invesco Optimum Yield Diversified Commodity Strate",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "VTIP - Vanguard Short-Term Inflation-Protected Securities",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "ABYIX - Abbey Capital Futures Strategy Fund- Class I Sha",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Excepted Trust",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CSHIX - Credit Suisse High Income Fund Common",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "PCRPX - Pimco Commodity Real Return Strategy Fund Class I-",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PZIEX - Pzena Emerging Markets Value Fund - Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains, Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PIMSX - Virtus Newfleet Multi-Sector Short Term Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "US TBILL MATURES 07/18/2023 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US T-NOTE MATURE 07/31/2023 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US TBILL MATURES 08/15/2023 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EXG - Eaton Vance Tax-Managed Global Diversified Equity (DISPOSED)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains, Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "US TBILL MATURES 07/18/23 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "US TBILL MATURES 06/20/2023 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US T-NOTE MATURES 06/15/23 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "US T-NOTE MATURES 09/30/2023 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US T-BILL MATURES 08/15/23 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "US T-Bill MATURES 11/30/23 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "US T-BILL MATURES 10/31/23 (DISPOSED)Rate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account #2",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NVO - Novo Nordisk A/S ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AZN - Astrazeneca Plc ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "TTE - Totalenergies Se ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "HESAY - Hermes Intl SCA ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "TFII - TFI International Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LVMUY - LVMH Moet Hennessy (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CFRUY - Compangnie Financiere Richemont (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SARFRON S.A. (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "INDUSTRIA DE DISENOTESTIL IND (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "STM - Stmicroelectronics N.V. ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "L'Oreal Co ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Daiichi Sankyo Co ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MTU Aero Engines AG (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DBS Group Holdings Ltd SP (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SHOP - Shopify Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Sika AG ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ABB - ABB Ltd Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AON - AON Plc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RELX - Relx Plc ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Engie Spons ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Amadeus IT Group S.A. ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BTI - British American Tobacco Industries ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Enel S.P.A ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Tencent Holdings Ltd ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Iberdrola SA ADR (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account #3",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AFRM - Affirm Holdings Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AGL - Agilon Health Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ABNB - Airbnb Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMZN - Amazon.com Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AUR - Aurora Innovation, Inc.  - Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BILL - Bill.com Holdings, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CVNA - Carvana Co. Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NET - Cloudflare Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COIN - Coinbase Global Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DASH - Doordash Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GTLB - Gitlab Inc Cl A (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GLBE - Global-E Online Ltd",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MELI - Mercadolibre Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RBLX - Roblox Corp Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ROIV - Roivant Sciences Ltd",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPRX - Royalty Pharma Plc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IOT - Samsara Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SHOP - Shopify Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SNOW - Snowflake Inc Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSLA - Tesla Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TTD - Trade Desk Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBER - Uber Technologies Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "DHR - Danaher Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ICE - Intercontinental Exchange",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MSTR - Microstrategy Cl A",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Union Pacific Corp (UNP)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account #4",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SU - Suncor Energy Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AMP - Ameriprise Financial, Inc. Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AVGO - Broadcom Inc. - Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CNC - Centene Corp (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CNXC - Concentrix Corporation - Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "URI - United Rentals, Inc. Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "HCA - HCA Healthcare, Inc. Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FLEX - Flextronics Intl Ltd (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UNVR - Univar Solutions Inc. Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MGR - Affiliated Managers Group Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AER - AerCap Holdings N.V. Ordinary Shares (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LEA - Lear Corp (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ARW - Arrow Electronics (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ADNT - Adient Plc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account #5",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "DVN - Devon Energy Corp (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VRNS - Varonis Systems Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NEWR - New Relic Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CLF - Cleveland-Cliffs Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VST - Vistra Corp. Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VMI - Valmont Industries (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WIX - Wix.com Ltd (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SEAS - Seaworld Entertainment Inc Company (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TPX - Tempur Sealy International, Inc. Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AER - Aercap Holdings N.V. (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MOH - Molina Healthcare Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IGT - International Game Technology (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BOX - Box Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CLH - Clean Harbors (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "HAE - Haemonetics Corp (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FTI - Technipfmc Plc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ACHC - Acadia Healthcare Company, Inc. - Common Stock (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "KBR - KBR Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RMBS - Rambus Inc (DISPOSED)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account #6",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FS NYDIG SELECT BITCOIN LPDescription: INVESTMENT FUND (NEW YORK, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARES SMEDescription: INVESTMENT FUND (NEW YORK, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ASHBRIDGE SECONDARIES IIDescription: INVESTMENT FUND (NEW YORK, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ASHBRIDGE SECONDARIES II CPVDescription: INVESTMENT FUND (NEW YORK, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARES SME CPVDescription: Private Equity (New York, NY`)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account #7",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "GALLATIN CNTY MONT INDL DEVRate/Coupon: 11.5  Matures: 09/01/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "BAER - Bridger Aerospace Group Holdings Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Turtle Lake Holding Company, LLCCompany: Turtle Lake Holding Company, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Note Receivable - Bird Point, LLCCompany: Bird Point, LLC (Bozeman, MT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Note Receivable - Element Aviation Services, LLCCompany: Element Aviation Services, LLC (Bozeman, MT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Note Receivable - Half Hitch Big Sky, LLCCompany: Half Hitch Big Sky, LLC (Bozeman, MT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Note Receivable - Little Belt Cattle Company, LLCCompany: Little Belt Cattle Company, LLC (Bozeman, MT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Note Receivable - Tim SheehyDebtor: Tim Sheehy",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Interest in Yellowstone WFH Holdings, LLCCompany: Yellowstone WFH Holdings, LLC (Belgrade, MT) Description: Apartment buildings",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "1% Interest in North Summit, LLC (Underlying assets reported under filer's ownership)Company: North Summit, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Element Capital, LLCCompany: Element Capital, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Merrill Lynch(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Note Receivable - Little Belt Cattle Company, LLCCompany: Little Belt Cattle Company, LLC (Bozeman, MT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Interest in Blackstone Growth L.P.Company: Blackstone Growth L.P. (New York, NY) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Interest in Flint Hills Founders II, L.P.Company: Flint Hills Founders II, L.P. (Bozeman, MT) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Interest in Next Frontier Fund III, L.P.Company: Next Frontier Fund III, L.P. (Bozeman, MT) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in Max Ventures Fund II, L.P.Company: Max Ventures Fund II, L.P. (New York, NY) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Max Ventures New World Opportunities Fund, L.P.Company: Max Ventures Fund II, L.P. (New York, NY) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Equestrian Labs, Inc. Company: Perry Health Inc. (New York, NY) Description: Ecommerce",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Eden Health, Inc.Company: Eden Health, Inc. (New York, NY) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "K Health, Inc.Company: K Health, Inc. (New York, NY) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Sana Labs, ABCompany: Sana Labs, AB (Stockholm, Sweden) Description: Education/Training",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Zandivo PlcCompany: Zandivo Plc (Barcelona, Spain) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Heartbeat Health, Inc.Company: Heartbeat Health, Inc. (New York, NY3) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vori Health Inc.Company: Vori Health Inc. (Nashville, TN) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bozburun, Inc.Company: Bozburun, Inc. (New York, NY) Description: Contracting Services",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Properly Inc. (DISPOSED)Company: Properly Inc. (Toronto, Canada) Description: Property Management App",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Trail Games ABCompany: Trail Games AB (Stockholm, Sweden) Description: Video Game Platform",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Furnishare Inc.Company: Furnishare Inc. (New York, NY) Description: Ecommerce Furniture",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Perry Health Inc.Company: Perry Health Inc. (New York, NY) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Max Ventures New World Opportunities Fund I, L.P.Company: Max Ventures New World Opportunities Fund I, L.P. (Belgrade, MT) Description: Investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Compass Inc Preferred B-1",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bram Capital Fund LLC - Series ICompany: Bram Capital Fund LLC - Series I (Boston, MA) Description: Investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Pison Technology, Inc.Company: Pison Technology, Inc. (Boston, MA) Description: Gesture Control Devices",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Bram Capital Fund, LLCCompany: Bram Capital Fund LLC - Series I (Boston, MA) Description: Investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hinge Capital LD, L.P.Company: Hinge Capital LD, L.P. (Austin, TX) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Interest in Supplying Demand Inc.Company: Supplying Demand, Inc. (Santa Monica, CA) Description: Beverages",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Hinge Capital LD, L.PCompany: Hinge Capital LD, L.P. (Bozeman, MT) Description: Investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in Franklin Ventures Investments, L.P. - FVP Series 8Company: Franklin Ventures Investments, L.P. - FVP Series 8 (San Mateo, CA) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Element Capital, LLCCompany: Element Capital, LLC (Belgrade, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Ownership Interest in Turtle Lake Holding Company, LLCCompany: Turtle Lake Holding Company, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "Over $50,000,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Stockman Bank(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Merrill Lynch(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Carmen's Farms, LLCCompany: Carmens' Farms, LLC (Bozeman, MT) Description: Farming and Rental Activities",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Carmen's FarmsCompany: Carmens' Farms, LLC (Bozeman, MT) Description: Farming and Rental Activities",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties, Other, (Ordinary Income)",
+          "income": "$15,001 - $50,000Other $2,500.00"
+        },
+        {
+          "asset": "Half Hitch Big Sky, LLCCompany: Half Hitch Big Sky, LLC (Big Sky, MT) Description: Rental Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Rocky Mountain Bank(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Half Hitch Big SkyDescription: Single Family Residential Home (Big Sky, Mt)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Note Receivable - Element Aviation Services, LLCCompany: Element Aviation Services, LLC (Bozeman, MT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Ownership Interest in Half Hitch Big Sky, LLCCompany: Half Hitch Big Sky, LLC (Big Sky, MT) Description: Rental Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Bird Point, LLCCompany: Bird Point, LLC (Bozeman, MT) Description: Rental Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bird PointDescription: Single Family Residential Home and Cabins (Polson, MT)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Bird Point, LLCCompany: Bird Point, LLC (Bozeman, MT) Description: Rental Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Little Belt Feeders, LLCCompany: Little Belt Feeders, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Interest in Yellowstone Cattle Feeders, LLCCompany: Yellowstone Cattle Feeders, LLC (Billings, MT) Description: Cattle Feed Lot",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Other, (Ordinary Income)",
+          "income": "Other $6,528,063.00"
+        },
+        {
+          "asset": "Ownership Interest in Little Belt Feeders, LLCCompany: Little Belt Feeders, LLC (Belgrade, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in White Shield Holding Company, LLCCompany: White Shield Holding Company, LLC (Billings, MT) Description: Real Property Leasing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Summit, LLCCompany: North Summit, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Element Aviation Services, LLCCompany: Element Aviation Services, LLC (Bozeman, MT) Description: Airplane Leasing and Sales",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Merrill Lynch(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Ownership Interest in Element Aviation Services, LLCCompany: Element Aviation Services, LLC (Belgrade, MT) Description: Airplane Leasing and Sales",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Element Holdings, LLCCompany: Element Holdings, LLC (Bozeman, MT) Description: Family Office Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Merrill Lynch(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ElementCompany, LLCCompany: ElementCompany, LLC (Belgrade, MT) Description: Family Office Operating Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Merrill Lynch(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Rocky Mountain Bank(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Little Belt Land, LLCCompany: Little Belt Land, LLC (Bozeman, MT) Description: Real Property Leasing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Merrill Lynch(Belgrade, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Little Belt RanchDescription: Cattle Ranch (Martinsdale, MT)",
+          "asset-type": "Farm",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Little Belt Land, LLCCompany: Little Belt Land, LLC (Belgrade, MT) Description: Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Little Belt Cattle Company, LLCCompany: Little Belt Cattle Company, LLC (Bozeman, MT) Description: Cattle Ranching",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PayPal(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Little Belt Cattle Company, LLCCompany: Little Belt Cattle Company, LLC (Belgrade, MT) Description: Ranching",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties, Other, (Ordinary Income)",
+          "income": "$1,000,001 - $5,000,000Other $1,074,726.00"
+        },
+        {
+          "asset": "Element Land Airport Road, LLCCompany: Element Land Airport Road, LLC (Belgrade, MT) Description: Rental Property",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Rocky Mountain Bank(Bozeman, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Commercial Real EstateDescription: Commercial Real Estate Office Building (Belgrade, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Ownership Interest in Element Land Airport Road, LLCCompany: Element Land Airport Road, LLC (Belgrade, MT) Description: Commercial Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Little Belt Burger Bar, LLCCompany: Little Belt Burger Bar, LLC (Belgrade, MT) Description: Restaurant and Food Catering",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Belgrade, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in Little Belt Burger Bar, LLCCompany: Little Belt Burger Bar, LLC (Belgrade, MT) Description: Restaurant and Food Catering",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in Yellowstone WFH Holdings, LLCCompany: Yellowstone WFH Holdings, LLC (Belgrade, MT) Description: Apartment buildings",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in Wealthlete AlphaCompany: Wealthlete Alpha Fund, L.P. (Princeton, NJ) Description: Bourbon Barrell Buying and Selling",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Ansett Aerospace Holdings, LLCCompany: Ansett Aerospace Holdings, LLC (Belgrade, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PNC Bank(Belgrade, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in Regaero Holdings Pty LtdCompany: Regaero Holdings Pty Ltd (Melbourne, Australia) Description: Aviation Training Facilities",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Ownership Interest in Ansett Aerospace Holdings, LLCCompany: Ansett Aerospace Holdings, LLC (Belgrade, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Interest in WCAS XIV Co-Investors, LLCCompany: WCAS XIV Co-Investors, LLC (New York, NY) Description: Investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cloverly Inc.Company: Cloverly Inc. (Atlanta, GA) Description: Carbon Trading Platform",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Working InterestDescription: Working Interest in Oil & Gas Wells (Permian, TX)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Interest in LKN NC Intterra Holdings, LLCCompany: LKN NC Intterra Holdings, LLC (Belgrade, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BAER - Bridger Aerospace Group Holdings Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in Bridger Element, LLCCompany: Bridger Element, LLC (Belgrade, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Interest in Yellowstone WFH Holdings, LLCCompany: Yellowstone WFH Holdings, LLC (Belgrade, MT) Description: Apartment buildings",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownership Interest in ElementCompany, LLCCompany: ElementCompany, LLC (Belgrade, MT) Description: Family Office Operating Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Ownership Interest in Element Holdings, LLCCompany: Element Holdings, LLC (Belgrade, MT) Description: Family Office Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Ownership Interest in North Summit, LLCCompany: North Summit, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Note Receivable - Yellowstone Feeders, LLCCompany: Yellowstone Cattle Feeders, LLC (Billings, MT)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Wapiti Way, LLCCompany: Wapiti Way, LLC (Bozeman, MT) Description: Farming and Rental Activities",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wapiti Way, LLCDescription: Farmland and Residential Property (Bozeman, MT)",
+          "asset-type": "Farm",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Ownership Interest in Wapiti Way, LLCCompany: Wapiti Way, LLC (Bozeman, MT) Description: Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Interest in Yellowstone WFH Holdings, LLCCompany: Yellowstone WFH Holdings, LLC (Belgrade, MT) Description: Apartment buildings",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BAER - Bridger Aerospace Group Holdings Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Merrill Lynch Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GOOG - Alphabet Cl C",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BAX - Baxter International Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BA - Boeing Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COST - Costco Wholesale",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DEO - Diageo plc Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "INTC - Intel Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MSFT - Microsoft Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MADVX - Blackrock Eq Dividend I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VTI - Total Stock Market ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VIG - Vanguard Div Appreciation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VYMI - Vanguard International High Dividend Yield ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VOO - S&P 500 ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Merrill Lynch Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GOOG - Alphabet Cl C",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BAX - Baxter International Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BA - Boeing Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COST - Costco Wholesale",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DEO - Diageo plc Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GIS - General Mills",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "INTC - Intel Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNJ - Johnson & Johnson",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MSFT - Microsoft Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VTI - Total Stock Market ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VIG - Dividend Appreciation ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VYMI - Vanguard International High Dividend Yield ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VOO - S&P 500 ETF Vanguard",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Annabelle Sheehy 2020 Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Interest in Yorktown Holdings, LLCCompany: Yorktown Holdings, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Belgrade, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "6.25% Interest in Element Holdings, LLC (Underlying assets reported under filer's ownership)Company: Element Holdings, LLC (Belgrade, MT) Description: Family Office Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Evelyn Sheehy 2020 Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Interest in Lexington Holdings, LLCCompany: Lexington Holdings, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Belgrade, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "6.25% Interest in Element Holdings, LLC (Underlying assets reported under filer's ownership)Company: Element Holdings, LLC (Belgrade, MT) Description: Family Office Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Bruce Sheehy 2020 Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Interest in Wapiti Holdings, LLCCompany: Wapit Holdings, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Belgrade, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "6.25% Interest in Element Holdings, LLC (Underlying assets reported under filer's ownership)Company: Element Holdings, LLC (Belgrade, MT) Description: Family Office Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Walter Sheehy 2020 Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Interest in Linney Holdings, LLCCompany: Linney Holdings, LLC (Bozeman, MT) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Stockman Bank(Belgrade, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "6.25% Interest in Element Holdings, LLC (Underlying assets reported under filer's ownership)Company: Element Holdings, LLC (Belgrade, MT) Description: Family Office Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "3.15%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Morgan Stanley\n\t\t\t\t\t\t\t\tEWING, NJ",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Dec 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Montana Firefighter Fund\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "United Aerial Firefighter Association\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Bridger Aerospace Group Holdings, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Bridger Aerospace Group Holdings, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Turtle Lake Holding Company, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMinneapolis, MN",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Wapiti Holdings, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Linney Holdings, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Yorktown Holdings, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Lexington Holdings, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "North Summit, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "North Summit Holdings, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Element Aviation Services, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Half Hitch Big Sky, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Little Belt Burger Bar, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Ansett Aerospace Holdings, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Wapiti Way, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Carmen's Farms, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2020 to\n\t\t\t\t\t\t\t\tJun 2023",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "North American Land Holding Enterprises, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Bird Point, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(LLC Manager)",
+          "entity": "Little Belt Feeders, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBelgrade, MT",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Walter Sheehy Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Bruce Sheehy Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Annabelle Sheehy Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Evelyn Sheehy Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Matt Sheehy Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDenver, CO",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Charles Sheehy Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDenver, CO",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Brooks Sheehy Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDenver, CO",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2022 to\n\t\t\t\t\t\t\t\tJun 2023",
+          "position-held": "Director",
+          "entity": "Property and Environmental Research Center (PERC)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

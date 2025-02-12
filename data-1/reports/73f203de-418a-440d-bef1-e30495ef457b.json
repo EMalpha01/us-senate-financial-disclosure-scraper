@@ -1,0 +1,980 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2020 (Amendment 2)",
+  "filer": "The Honorable Lisa A Murkowski (Murkowski, Lisa)",
+  "filed-date": "09/23/2021",
+  "filed-time": "2:39 PM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "State of Alaska PERS Pension Income\n\t\t\t\t\t\t\t\tJuneau, Alaska",
+          "amount-paid": "$247.59",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Schwab Cash(Anchorage, AK)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPIAX - Invesco S&P 500 Index Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Northrim Bank(Anchorage, AK)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Anchorage, AK)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WFC - Wells Fargo & Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "EUGBX-Morgan Stanley European Equity B",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSCDX - Fidelity Advisor Small Cap A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Voya Multi Manager International Small Cap A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley(Anchorage, AK)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco S&P 500 Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMOAX - MS Focus Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "First Bank(Ketchikan, AK)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First Bank(Ketchikan, AK)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Rental income from basement apartmentDescription: Basement apartment in DC residence (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "National Capital Bank(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First BankCompany: First Bank (Ketchikan, AK) Description: Bank",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "State of Alaska Public Employee Retirement System (PERS)",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFRA - FlexShares STOXX Global Broad Infrastructure Index",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BBRE - J.P. Morgan Exchange-Traded Fund Trust - JPMorgan",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BND - Vanguard Total Bond Market Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BNDX - Vanguard Total International Bond Index Fund ETF S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IEFA - iShares Core MSCI EAFE ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IJH - iShares Core S&P Mid-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IQDF - FlexShares International Quality Dividend Index Fu",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PDBC - Invesco Optimum Yield Diversified Commodity Strate",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QDF - FlexShares Quality Dividend Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF Trust",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BIMBX - BlackRock Systematic Multi-Strategy Fund Instituti",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "INDS - Pacer Benchmark Industrial Real Estate SCTR ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MUB - iShares National Muni Bond ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QAI - IQ Hedge Multi-Strategy Tracker ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SHM - SPDR Nuveen Bloomberg Barclays Short Term Municipa",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTIP - Vanguard Short-Term Inflation-Protected Securities",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWEAX - Vanguard High-Yield Corporate Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "USMV",
+          "asset-name": "iShares MSCI USA Min Vol Factor ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EFAV",
+          "asset-name": "iShares MSCI EAFE Min Vol Factor ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BND",
+          "asset-name": "Vanguard Total Bond Market Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTIP",
+          "asset-name": "Vanguard Short-Term Inflation-Protected Securities",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BNDX",
+          "asset-name": "Vanguard Total International Bond Index Fund ETF S",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QUAL",
+          "asset-name": "iShares MSCI USA Quality Factor ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PDBC",
+          "asset-name": "Invesco Optimum Yield Diversified Commodity Strate",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QDF",
+          "asset-name": "FlexShares Quality Dividend Index Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJH",
+          "asset-name": "iShares Core S&P Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SHV",
+          "asset-name": "iShares Short Treasury Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QUAL",
+          "asset-name": "iShares MSCI USA Quality Factor ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "INDS",
+          "asset-name": "Pacer Benchmark Industrial Real Estate SCTR ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PDBC",
+          "asset-name": "Invesco Optimum Yield Diversified Commodity Strate",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IQDF",
+          "asset-name": "FlexShares International Quality Dividend Index Fu",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IQLT",
+          "asset-name": "iShares MSCI Intl Quality Factor ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BBRE",
+          "asset-name": "JPMorgan BetaBuilders MSCI U.S. REIT ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QDF",
+          "asset-name": "FlexShares Quality Dividend Index Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PDBC",
+          "asset-name": "Invesco Optimum Yield Diversified Commodity Strate",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTIP",
+          "asset-name": "Vanguard Short-Term Inflation-Protected Securities",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QAI",
+          "asset-name": "IQ Hedge Multi-Strategy Tracker ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BND",
+          "asset-name": "Vanguard Total Bond Market Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWEAX",
+          "asset-name": "Vanguard High-Yield Corporate Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BIMBX",
+          "asset-name": "BlackRock Systematic Multi-Strategy Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SHM",
+          "asset-name": "SPDR Nuveen Bloomberg Barclays Short Term Municipa",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJH",
+          "asset-name": "iShares Core S&P Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MUB",
+          "asset-name": "iShares National Muni Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NFRA",
+          "asset-name": "FlexShares STOXX Global Broad Infrastructure Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJH",
+          "asset-name": "iShares Core S&P Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SHM",
+          "asset-name": "SPDR Nuveen Bloomberg Barclays Short Term Municipa",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MUB",
+          "asset-name": "iShares National Muni Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NFRA",
+          "asset-name": "FlexShares STOXX Global Broad Infrastructure Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MUB",
+          "asset-name": "iShares National Muni Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SHM",
+          "asset-name": "SPDR Nuveen Bloomberg Barclays Short Term Municipa",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJH",
+          "asset-name": "iShares Core S&P Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NFRA",
+          "asset-name": "FlexShares STOXX Global Broad Infrastructure Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MUB",
+          "asset-name": "iShares National Muni Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NFRA",
+          "asset-name": "FlexShares STOXX Global Broad Infrastructure Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SHM",
+          "asset-name": "SPDR Nuveen Bloomberg Barclays Short Term Municipa",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IJH",
+          "asset-name": "iShares Core S&P Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tAnchorage, AK",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2005 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "U.S. - Japan Friendship Commission\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Ind. Federal Agency)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

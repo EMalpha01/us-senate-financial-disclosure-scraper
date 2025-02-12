@@ -1,0 +1,714 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable Rafael E Cruz (Cruz, Ted)",
+  "filed-date": "08/16/2021",
+  "filed-time": "12:58 PM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Goldman Sachs and Co\n\t\t\t\t\t\t\t\tJersey City, NJ",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance payment for book)",
+          "who-paid": "Regnery Publishing\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "$319,673.67",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "GGLPX - Goldman Sachs High Yield Municipal Fund Class P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GMWPX - Goldman Sachs Local Emerging Markets Debt Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GAJPX - Goldman Sachs Dynamic Municipal Income Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GGNPX - Goldman Sachs High Yield Floating Rate Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSPPX - Goldman Sachs Strategic Growth Fund Class P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XOM-Exxon Mobil Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "GMYPX - Goldman Sachs Large Cap Value Fund Class P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "OGS-ONE Gas, Inc. Common Stock (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GMEPX - Goldman Sachs China Equity Fund Class PFiler comment:  The fund was previously named Goldman Sachs Asia Equity Fund Class P.  The ticker symbol is the same.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EPD-Enterprise Products Partners L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "USAA 529 - Child 2Institution: USAA",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aged Based Option 9-11 Moderate Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Plan FBO  Aggressive Growth Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Plan FBO  Moderate Aggressive Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Plan FBO  Moderate Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity 529 - Child 1Institution: Fidelity",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MA 2027 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GAFPX - Goldman Sachs Enhanced Dividend Global Equity Port",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Lewis Cash Balance Retirement Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Houston, Texas)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Express(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Texas ERS Retirement Account",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Health Equity HSA(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Capital One 360(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Lewis Bockius LLP Defined Contribution Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Target Retirement 2035 Tr II",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Lewis Bockius LLP Tax-Saver Retirement Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Target Retirement 2040 Trust II",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGSNX - Vanguard Real Estate Index Fund Institutional Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MVTIX - Transamerica Mid Cap Value Opps I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VMGRX - Vanguard Mid Cap Growth Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WB International Growth CIT",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Loan to Ted Cruz for SenateCompany: Ted Cruz for Senate (Austin, Texas)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Goldman Sachs(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Goldman Sachs(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GS-The Goldman Sachs Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "GGMPX - Goldman Sachs High Yield Fund Class P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse 401K",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "LIJIX - BlackRock LifePath Index 2035 Fund Institutional S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BFK - BlackRock Municipal Income Trust",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Interest, Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "BFK",
+          "asset-name": "BlackRock Municipal Income Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/30/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "GMWPX - Goldman Sachs Local Emerging Markets Debt Fund Class P",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GMYPX",
+          "asset-name": "Goldman Sachs Large Cap Value Fund Class P",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSPPX",
+          "asset-name": "Goldman Sachs Strategic Growth Fund Class P",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BFK",
+          "asset-name": "BlackRock Municipal Income Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/24/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/20/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MA Portfolio 2027 Fidelity Funds",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Age-Based Option 9-11: Moderate Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Aggressive Growth Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Moderately Aggressive Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Moderate Portfolio",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Margin loan)",
+          "points": "-",
+          "rate-term": "floating%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Goldman Sachs\n\t\t\t\t\t\t\t\tNew York, New York",
+          "comments": "The floating interest rate is broker call plus 100 basis points."
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "15.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(NA)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Chase\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year conv jumbo ARM)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Bank of America\n\t\t\t\t\t\t\t\tHouston, Texas",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2019",
+          "debtor": "Joint",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "15.24%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(NA)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "American Express\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Dec 2011 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Free Enterprise Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHouston, Texas",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Nov 2002",
+          "parties-involved": "CEP Investments Holdings Limited\n\t\t\t\t\t\t\t\tKingston, Jamaica",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Promissory note)",
+          "status-and-terms": "Principle sum of $75,000 plus reasonable rate of interest.  Incorporated in B.V.I and operates in Kingston, Jamaica.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jun 2014",
+          "parties-involved": "HarperCollins\n\t\t\t\t\t\t\t\tNew York, New York",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalty payments as follows: ($318,750 guaranteed, payable 6/2016); Hardcover: 15%; Paperback: 7.5%; Mass market paperback: 8% to 150,000 copies; 10% thereafter; Large print hardcover: 10%; Large print paperback: 7.5%; Digital versions: 25% of amounts received.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jun 2014",
+          "parties-involved": "Javelin Group LLC\n\t\t\t\t\t\t\t\tAlexandria, Virginia",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Literary agent agreement)",
+          "status-and-terms": "15% of all sums received for serving as agent and $1 per word for collaboration services.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Aug 2003",
+          "parties-involved": "Texas ERS\n\t\t\t\t\t\t\t\tAustin, TX",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continuing participation in employee benefit plan. There are no continuing contributions by the employer or employee.",
+          "comments": "n/a"
+        },
+        {
+          "date": "May 2008",
+          "parties-involved": "Morgan Lewis\n\t\t\t\t\t\t\t\tHouston, TX",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continuing participation in employee benefit plan.  There are no continuing contributions by the employer or employee.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Mar 2020",
+          "parties-involved": "Regnery Publishing\n\t\t\t\t\t\t\t\tWashington, DC",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance of $400,000 payable in 3 installments; Hardcover 15% of net sales; on all net sales to the book trade of Publisher’s hardcover editions at a discount of forty-eight percent (48%) or more off Publisher’s catalog retail price, Author’s royalty shall be reduced by one-half of one\npercentage point for each one percentage point that the discount exceeds forty-eight\npercent; Paperback 7.5% of net sales; Sales outside the US 15% net proceeds; e-book 25% of net proceeds",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

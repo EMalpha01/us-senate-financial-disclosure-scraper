@@ -1,0 +1,774 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2021",
+  "filer": "The Honorable Cory A Booker (Booker, Cory)",
+  "filed-date": "05/09/2022",
+  "filed-time": "8:14 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "New Jersey Public Employee Retirement System Pension",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FIVFX - Fidelity Aggressive International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FNCMX - Fidelity Nasdaq Composite Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FOCPX - Fidelity OTC Pt",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "FBGRX - Fidelity Blue Chip Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AGOZX - Alger Small Cap Focus Fund Class Z",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BFTIX - Baron Fifth Avenue Growth Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AKRIX - Akre Focus - Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth Fund Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PRGSX - T. Rowe Price Global Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "FGRIX - Fidelity Growth and Income PtFiler comment:  Purchased and sold in 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Fidelity Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FIVFX - Fidelity Aggressive International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FNCMX - Fidelity Nasdaq Composite Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contra Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FOCPX - Fidelity OTC Pt",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBGRX - Fidelity Blue Chip Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FCPGX - Fidelity Small Cap Growth Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BPTIX - Baron Partners Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BGAIX - Baron Global Advantage Fd Inst Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AKRIX - Akre Focus - Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "FIVFX",
+          "asset-name": "Fidelity Aggressive International Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FIVFX",
+          "asset-name": "Fidelity Aggressive International Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FNCMX",
+          "asset-name": "Fidelity Nasdaq Composite Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FNCMX",
+          "asset-name": "Fidelity Nasdaq Composite Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/12/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/25/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/22/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FOCPX",
+          "asset-name": "Fidelity OTC Pt",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FOCPX",
+          "asset-name": "Fidelity OTC Pt",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/01/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FOCPX",
+          "asset-name": "Fidelity OTC Pt",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FOCPX",
+          "asset-name": "Fidelity OTC Pt",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FBGRX",
+          "asset-name": "Fidelity Blue Chip Growth Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FBGRX",
+          "asset-name": "Fidelity Blue Chip Growth Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FBGRX",
+          "asset-name": "Fidelity Blue Chip Growth Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FBGRX",
+          "asset-name": "Fidelity Blue Chip Growth Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/14/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGOZX",
+          "asset-name": "Alger Small Cap Focus Fund Class Z",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGOZX",
+          "asset-name": "Alger Small Cap Focus Fund Class Z",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/15/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BFTIX",
+          "asset-name": "Baron Fifth Avenue Growth Fund Inst Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/25/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/19/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/08/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRGSX",
+          "asset-name": "T. Rowe Price Global Stock Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRGSX",
+          "asset-name": "T. Rowe Price Global Stock Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FEQIX",
+          "asset-name": "Fidelity Equity Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FEQIX",
+          "asset-name": "Fidelity Equity Income Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FGRIX",
+          "asset-name": "Fidelity Growth and Income Pt",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FGRIX",
+          "asset-name": "Fidelity Growth and Income Pt",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FPURX",
+          "asset-name": "Fidelity Puritan Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FPURX",
+          "asset-name": "Fidelity Puritan Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/08/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FSDIX",
+          "asset-name": "Fidelity Strategic Dividend & Income",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FSDIX",
+          "asset-name": "Fidelity Strategic Dividend & Income",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/08/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRASX",
+          "asset-name": "T. Rowe Price New Asia Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRASX",
+          "asset-name": "T. Rowe Price New Asia Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Fidelity Brokerage"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BPTIX",
+          "asset-name": "Baron Partners Fund Inst Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of SEP IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FIVFX",
+          "asset-name": "Fidelity Aggressive International Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of SEP IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FNCMX",
+          "asset-name": "Fidelity Nasdaq Composite Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of SEP IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCPGX",
+          "asset-name": "Fidelity Small Cap Growth Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of SEP IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FIVFX",
+          "asset-name": "Fidelity Aggressive International Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCNTX",
+          "asset-name": "Fidelity Contra Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FOCPX",
+          "asset-name": "Fidelity OTC Pt",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FOCPX",
+          "asset-name": "Fidelity OTC Pt",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FBGRX",
+          "asset-name": "Fidelity Blue Chip Growth Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/19/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FGBRX",
+          "asset-name": "Templeton Global Bond Fund Class R",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/12/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FCPGX",
+          "asset-name": "Fidelity Small Cap Growth Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BPTIX",
+          "asset-name": "Baron Partners Fund Inst Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BPTIX",
+          "asset-name": "Baron Partners Fund Inst Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BGAIX",
+          "asset-name": "Baron Global Advantage Fd Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FLCOX",
+          "asset-name": "Fidelity Large Cap Value Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Traditional IRA"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FLCOX",
+          "asset-name": "Fidelity Large Cap Value Index Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/08/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Underlying asset of Traditional IRA"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Apr 2015",
+          "parties-involved": "Penguin Random House LLC\n\t\t\t\t\t\t\t\tNew York, New York",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance and royalties based on customary and usual terms for book, \"United\". (no royalties received in 2021).",
+          "comments": "n/a"
+        },
+        {
+          "date": "Oct 2013",
+          "parties-involved": "New Jersey Public Employee Retirement System\n\t\t\t\t\t\t\t\tNewark, New Jersey",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Under terms of defined benefit state pension plan, filer will receive monthly payment of $2,627.74 beginning at age 60.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

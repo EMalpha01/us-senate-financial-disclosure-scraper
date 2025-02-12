@@ -1,0 +1,2707 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2021",
+  "filer": "Mr. William F Hagerty IV (Hagerty, Bill)",
+  "filed-date": "08/13/2022",
+  "filed-time": "8:26 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Rollover IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PRJIX - T. Rowe Price New Horizons Fund I Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AMRFX - American Funds American Mutual Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AEPFX - American Funds EuroPacific Growth Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMCFX - American Funds AMCAP Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFFFX - American Funds New World Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Charles Schwab(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIREX - Principal Real Estate Securities Fund Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "UBVLX - Undiscovered Managers Behavioral Value Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MISIX - Victory Trivalent International Small-Cap Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SEP IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AMCFX - American Funds AMCAP Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMRFX - American Funds American Mutual Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AEPFX - American Funds EuroPacific Growth Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFFFX - American Funds New World Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PIREX - Principal Real Estate Securities Fund Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Charles Schwab(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pinnacle Bank(Nashville, TN)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "William F. Hagerty IV - Morgan Stanley",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RNR - RenaissanceRe Holdings Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Morgan Stanley(Nashville, TN)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IAU - iShares Gold Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MTUM - iShares MSCI USA Momentum Factor ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "QUAL - iShares MSCI USA Quality Factor ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SPDW - SPDR Portfolio Developed World ex-US ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SPEM - SPDR Portfolio Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "VOT - Vanguard Mid-Cap Growth Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VOE - Vanguard Mid-Cap Value Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VONG - Vanguard Russell 1000 Growth Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VONV - Vanguard Russell 1000 Value Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "VIOG - Vanguard S&P Small-Cap 600 Growth Index Fund ETF S",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VBR - Vanguard Small-Cap Value Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DBEF - Xtrackers MSCI EAFE Hedged Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "DC 1 Irrevocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FINFX - American Funds Fundamental Investors Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMCFX - American Funds AMCAP Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ANWFX - American Funds New Perspective Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFFFX - American Funds New World Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SBNY - Signature Bank",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Schwab(Chicago, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IQDNX - Infinity Q Diversified Alpha Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFSUX - Vanguard Short-Term Investment-Grade Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "HC 17th and Grand Partners, LPDescription: Limited Partnership for purpose of acquiring, developing and selling commercial real estate (Wilmington, DE) Filer comment:  Alternative disclosure on file with Committee; no authority to direct investment; disclosure of fund assets precluded by confidentiality agreement.",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DC 2 Irrevocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FINFX - American Funds Fundamental Investors Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMCFX - American Funds AMCAP Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ANWFX - American Funds New Perspective Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFFFX - American Funds New World Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SBNY - Signature Bank",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IQDNX - Infinity Q Diversified Alpha Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab(Chicago, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFSUX - Vanguard Short-Term Investment-Grade Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "HC 17th and Grand Partners, LPDescription: Limited Partnership for purpose of acquiring, developing and selling commercial real estate (Wilmington, DE) Filer comment:  Alternative disclosure on file with Committee; no authority to direct investment; disclosure of fund assets precluded by confidentiality agreement.",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DC 3 Irrevocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FINFX - American Funds Fundamental Investors Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AMCFX - American Funds AMCAP Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ANWFX - American Funds New Perspective Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFFFX - American Funds New World Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SBNY - Signature Bank",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IQDNX - Infinity Q Diversified Alpha Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab(Chicago, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFSUX - Vanguard Short-Term Investment-Grade Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "HC 17th and Grand Partners, LPDescription: Limited Partnership for purpose of acquiring, developing and selling commercial real estate (Wilmington, DE) Filer comment:  Alternative disclosure on file with Committee; no authority to direct investment; disclosure of fund assets precluded by confidentiality agreement.",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DC 4 Irrevocable Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Charles Schwab(Chicago, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IQDNX - Infinity Q Diversified Alpha Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFSUX - Vanguard Short-Term Investment-Grade Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "HC 17th and Grand Partners, LPDescription: Limited Partnership for purpose of acquiring, developing and selling commercial real estate (Wilmington, DE) Filer comment:  Alternative disclosure on file with Committee; no authority to direct investment; disclosure of fund assets precluded by confidentiality agreement.",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Tennessee Community Ventures, LLCCompany: Tennessee Community Ventures, LLC (Nashville, TN) Description: Early stage investment company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "American Home MediaCompany: American Home Media (Nashville, TN) Description: Online recipes",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Alto SolutionsCompany: Alto Solutions (Nashville, TN) Description: Online investment services",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Virginia College Savings PlanInstitution: College American Fund FBO DC #1,#2,#3,#4",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CBAAX - American Funds Moderate Growth and Income Portfoli",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "CPGAX - American Funds Global Growth Portfolio Class 529-A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Northwestern Mutual Life InsuranceProvider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Unum Life InsuranceProvider: Unum Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MainStreet ManagementCompany: MainStreet Management (Nashville, TN) Description: Pass-through account",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Roundstone Ventures, LLCCompany: Roundstone Ventures, LLC (Nashville, TN) Description: 5% ownership interest",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "VFSUX - Vanguard Short-Term Investment-Grade Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "CSX - CSX Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "DRI - Darden Restaurants, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ICE - Intercontinental Exchange, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDLZ - Mondelez International, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NSC - Norfolk Southern Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NSRGY - Nestle S.A.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PEP - PepsiCo, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PNC - The PNC Financial Services Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SO - The Southern Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PNFP - Pinnacle Financial Partners, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "IQDNX - Infinity Q Diversified Alpha Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab(Chicago, IL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley(Chicago, IL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brinker International BondRate/Coupon: 3.875%  Matures: 05/15/23",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Lord Abbott Floating Rate F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Aspen Insurance Hldg LTD 5.95% (AHL.C)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PH - Parker-Hannifin Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LKQ - LKQ Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LYB - LyondellBasell Industries N.V.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "WY - Weyerhaeuser Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EQC - Equity Commonwealth",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARCC - Ares Capital Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NTRA - Natera, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARLP - Alliance Resource Partners, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BKEPP - Blueknight Energy Partners, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BKEP - Blueknight Energy Partners, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FUN - Cedar Fair, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CEQP - Crestwood Equity Partners LP",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ET - Energy Transfer LP",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "EPD - Enterprise Products Partners L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "ETRN - Equitrans Midstream Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "KMI - Kinder Morgan, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NS - NuStar Energy L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "OKE - ONEOK, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PAA - Plains All American Pipeline, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "WES - Western Midstream Partners, LP",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Goldman Sachs(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Capital Partners VICompany: Goldman Sachs (New York, NY) Description: Real Estate Fund",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Keysight Technologies BondRate/Coupon: 4.55%  Matures: 10/30/24",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "CTAA - Qwest Corp. NT 7% 2056",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Contour Venture Partners, LPCompany: Contour Venture Partners (Princeton, NJ) Description: Early stage venture capital equity investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Contour Venture Partners II, LPCompany: Contour Venture Partners (Princeton, NJ) Description: Early stage venture capital equity investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Contour Venture Partners III, LPCompany: Contour Venture Partners (Princeton, NJ) Description: Early stage venture capital equity investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Contour Venture Partners IV, LPCompany: Contour Venture Partners (Princeton, NJ) Description: Early stage venture capital equity investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Contour Opportunity FundCompany: Contour Venture Partners (Princeton, NJ) Description: Early stage venture capital equity investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Contour Opportunity Fund II, LPCompany: Contour Venture Partners (Princeton, NJ) Description: Early stage venture capital equity investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Silverpeak Legacy Fund, II LPCompany: Silverpeak (New York, NY) Description: An alternative investment management firm with expertise in real estate, energy, real assets, and credit",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Silverpeak Legacy Fund, III LPCompany: Silverpeak (New York, NY) Description: An alternative investment management firm with expertise in real estate, energy, real assets, and credit",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Liquidity Partners III/Mezzanine Partners V Access LPCompany: Goldman Sachs (New York, NY) Description: Mid stage venture capital equity investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Distressed Managers IV, LPCompany: Goldman Sachs (New York, NY) Description: Venture Equity Capital investments",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PSX - Phillips 66",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RNR - RenaissanceRe Holdings Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Princeton Fund LLC Class A Series 1Description: Hedge fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "A - Agilent Technologies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BAH - Booz Allen Hamilton Holding Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FL4.SG - FLIR SYSTEMS INC. Registered Sh",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BX - The Blackstone Group Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FDX - FedEx Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AMZN - Amazon.com, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BA - The Boeing Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANET - Arista Networks, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSCO - Cisco Systems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EDIT - Editas Medicine, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOOG - Alphabet Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "KOCT - Innovator Russell 2000 Power Buffer ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "POCT - Innovator S&P 500 Power Buffer ETF - October",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GS - The Goldman Sachs Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "INGR - Ingredion Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JNJ - Johnson & Johnson",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TACO - Del Taco Restaurants, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VTI - Vanguard Total Stock Market ETFStrike price: $223.13 | Short SaleExpires: 12/31/2022 Filer comment:  Open short position on 09/30/2021: sold short 9,340 shares at $223.13",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CCEP - Coca-Cola Europacific Partners plc - Ordinary Shar",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "HC 17th and Grand Partners, LPDescription: Partnership for purpose of acquiring, developing and selling commercial real estate (Wilmington, DE) Filer comment:  Alternative disclosure on file with Committee; no authority to direct investment; disclosure of fund assets precluded by confidentiality agreement.",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Line of Credit for DC 1 Irrevocable TrustDebtor: DC 1 Irrevocable Trust",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Line of Credit for DC 2 Irrevocable TrustDebtor: DC 2 Irrevocable Trust",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Line of Credit for DC 3 Irrevocable TrustDebtor: DC 3 Irrevocable Trust",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Line of Credit for DC 4 Irrevocable TrustDebtor: DC 4 Irrevocable Trust",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QRTEP - Qurate Retail, Inc. - 8.0% Fixed Rate Cumulative R",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "TDY - Teledyne Technologies Incorporated Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LMND - Lemonade, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NuSirtCompany: NuSirt (Nashville, TN) Description: Pharmaceuticals",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NEWAsurionCompany: NEWAsurion (Nashville, TN) Description: Provider of consumer product protection programs",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DataCo SolutionsCompany: DataCo Solutions (Chicago, IL) Description: Data-based analytical marketing services",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Agent HeroCompany: Agent Hero (Arlington, VA) Description: Online realtor company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Eakin Partners, LLC Company: Eakin Partners, LLC (Nashville, Tennessee) Description: Local real estate investments in Nashville, TN market",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Burton 6, LLCDescription: Office building (Nashville, TN)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "4th and CommerceDescription: Commercial real estate (Nashville, TN)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "EP Grassmere, LLCDescription: Commercial real estate (Nashville, TN)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Pinnacle Bank(Nashville, TN)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pinnacle Bank(Nashville, TN)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pinnacle Bank(Nashville, TN)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pinnacle Bank(Nashville, TN)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "William F. Hagerty IV - Charles Schwab",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Charles Schwab(New York, NY)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GJRTX - Goldman Sachs Absolute Return Tracker Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "IQDNX - Infinity Q Diversified Alpha I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PNFP - Pinnacle Financial Partners, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RHP - Ryman Hospitality Properties, Inc. (REIT)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Fd Admiral Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VEMAX - Vanguard Emerging Markets Stock Index Fd Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "01/08/2021",
+          "owner": "Self",
+          "ticker": "LMND",
+          "asset-name": "Lemonade, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/08/2021",
+          "owner": "Self",
+          "ticker": "VRM",
+          "asset-name": "Vroom, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/11/2021",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "HC 17th and Grand Partners, LP \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Limited Partnership for the purpose of acquiring, developing and selling commercial real estate",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Asset held by Tara E. Hagerty Irrevocable Trust"
+        },
+        {
+          "transaction-date": "01/11/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "HC 17th and Grand Partners, LP\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Limited Partnership for purpose of acquiring, developing and selling commercial real estate",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "Asset held by Roundstone Ventures, LLC"
+        },
+        {
+          "transaction-date": "01/11/2021",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "HC 17th and Grand Partners, LP\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Limited Partnership for purpose of acquiring, developing and selling commercial real estate",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Asset held by William F. Hagerty V Irrevocable Trust"
+        },
+        {
+          "transaction-date": "01/11/2021",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "HC 17th and Grand Partners, LP \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Limited Partnership for the purpose of acquiring, developing and selling commercial real estate",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Asset held by Stephen L. Hagerty Irrevocable Trust"
+        },
+        {
+          "transaction-date": "01/11/2021",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "HC 17th and Grand Partners, LP \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Limited Partnership for the purpose of acquiring, developing and selling commercial real estate",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Asset held by Christine B. Hagerty Irrevocable Trust"
+        },
+        {
+          "transaction-date": "01/19/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Editas Medicine, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/26/2021",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Vroom, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/16/2021",
+          "owner": "Self",
+          "ticker": "CTAA",
+          "asset-name": "Qwest Corp. NT 7% 2056",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/26/2021",
+          "owner": "Self",
+          "ticker": "QRTEP",
+          "asset-name": "Qurate Retail, Inc.",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset held by Roundstone Ventures, LLC"
+        },
+        {
+          "transaction-date": "04/20/2021",
+          "owner": "Self",
+          "ticker": "NTRA",
+          "asset-name": "Natera, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Asset held by Roundstone Ventures, LLC"
+        },
+        {
+          "transaction-date": "05/17/2021",
+          "owner": "Self",
+          "ticker": "FL4.SG\n                                \n                                \n                                    \n                                    TDY",
+          "asset-name": "FLIR SYSTEMS INC. Registered Sh (Exchanged)\n                                    \n                                    Teledyne Technologies Incorporated Received",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "FLIR Systems Merger With Teledyne\nAsset Held in Roundstone Ventures, LLC"
+        },
+        {
+          "transaction-date": "06/08/2021",
+          "owner": "Self",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Asset owned by Roundstone Ventures LLC"
+        },
+        {
+          "transaction-date": "11/08/2021",
+          "owner": "Self",
+          "ticker": "DDOG",
+          "asset-name": "Datadog, Inc. - Class A Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "Asset held in Roundstone Ventures, LLC"
+        },
+        {
+          "transaction-date": "12/01/2021",
+          "owner": "Self",
+          "ticker": "CTAA",
+          "asset-name": "Qwest Corporation 7% Notes due 2056\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 6.75\n\t\t\t\t\t\t\t\t\t\tMatures: 12/01/2021",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Asset owned by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/16/2021",
+          "owner": "Self",
+          "ticker": "VRM",
+          "asset-name": "Vroom, Inc. - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Asset owned by Roundstone Ventures, LLC"
+        },
+        {
+          "transaction-date": "12/23/2021",
+          "owner": "Self",
+          "ticker": "RNR",
+          "asset-name": "RenaissanceRe Holdings Ltd. Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/23/2021",
+          "owner": "Self",
+          "ticker": "RHP",
+          "asset-name": "Ryman Hospitality Properties, Inc. (REIT)",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset held by William F. Hagerty IV."
+        },
+        {
+          "transaction-date": "12/23/2021",
+          "owner": "Self",
+          "ticker": "RHP",
+          "asset-name": "Ryman Hospitality Properties, Inc. (REIT)",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/28/2021",
+          "owner": "Child",
+          "ticker": "SBNY",
+          "asset-name": "Signature Bank - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset sold in DC 3 Trust"
+        },
+        {
+          "transaction-date": "12/28/2021",
+          "owner": "Child",
+          "ticker": "SBNY",
+          "asset-name": "Signature Bank - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset sold in DC 2 Trust"
+        },
+        {
+          "transaction-date": "12/28/2021",
+          "owner": "Child",
+          "ticker": "SBNY",
+          "asset-name": "Signature Bank - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset sold in DC 1 Trust"
+        },
+        {
+          "transaction-date": "12/28/2021",
+          "owner": "Self",
+          "ticker": "DDOG",
+          "asset-name": "Datadog, Inc. - Class A Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/28/2021",
+          "owner": "Self",
+          "ticker": "RNR",
+          "asset-name": "RenaissanceRe Holdings Ltd. Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "Asset held by William F. Hagerty IV."
+        },
+        {
+          "transaction-date": "12/29/2021",
+          "owner": "Self",
+          "ticker": "ENVA",
+          "asset-name": "Enova International, Inc. Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/29/2021",
+          "owner": "Self",
+          "ticker": "PNFP",
+          "asset-name": "Pinnacle Financial Partners, Inc. - Common Stock",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/29/2021",
+          "owner": "Self",
+          "ticker": "CCEP",
+          "asset-name": "Coca-Cola Europacific Partners plc - Ordinary Shar",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/29/2021",
+          "owner": "Self",
+          "ticker": "BKEP",
+          "asset-name": "Blueknight Energy Partners L.P., L.L.C. - Common U",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/29/2021",
+          "owner": "Self",
+          "ticker": "NS",
+          "asset-name": "Nustar Energy L.P.  Common Units",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        },
+        {
+          "transaction-date": "12/29/2021",
+          "owner": "Self",
+          "ticker": "CLDT",
+          "asset-name": "Chatham Lodging Trust (REIT) Common Shares of Bene",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Asset held by Roundstone Ventures, LLC."
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "DBEF",
+          "asset-name": "Xtrackers MSCI EAFE Hedged Equity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IAU",
+          "asset-name": "iShares Gold Trust Shares of the iShares Gold Trus",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MTUM",
+          "asset-name": "USA Momentum Factor Ishares Edge MSCI ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/04/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QUAL",
+          "asset-name": "VanEck Vectors MSCI World ex-Australia Quality",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPDW",
+          "asset-name": "SPDR World Ex-US Portfolio ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPEM",
+          "asset-name": "SPDR Emerging Markets Portfolio ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VBR",
+          "asset-name": "Smallcap Value ETF Vanguard",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIOG",
+          "asset-name": "S&P Smallcap 600 Growth Vanguard",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOE",
+          "asset-name": "Midcap Value ETF Vanguard",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VONG",
+          "asset-name": "Vanguard Russell 1000 Growth ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/05/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOT",
+          "asset-name": "Vanguard Mid-Cap Growth ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBEF",
+          "asset-name": "Xt MSCI EAFE Hedged Equity ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IAU",
+          "asset-name": "iShares Gold Trust Shares of the iShares Gold Trus",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MTUM",
+          "asset-name": "USA Momentum Factor Ishares Edge MSCI ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPDW",
+          "asset-name": "SPDR World Ex-US Portfolio ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPEM",
+          "asset-name": "SPDR Emerging Markets Portfolio ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VBR",
+          "asset-name": "Smallcap Value ETF Vanguard",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIOG",
+          "asset-name": "S&P Smallcap 600 Growth Vanguard",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOE",
+          "asset-name": "Vanguard Mid-Cap Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VONG",
+          "asset-name": "Vanguard Russell 1000 Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VONV",
+          "asset-name": "Vanguard Russell 1000 Value ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/01/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOT",
+          "asset-name": "Vanguard Mid-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "DBEF",
+          "asset-name": "Xt MSCI EAFE Hedged Equity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IAU",
+          "asset-name": "iShares Gold Trust Shares of the iShares Gold Trus",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QUAL",
+          "asset-name": "iShares MSCI USA Quality Factor ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPDW",
+          "asset-name": "SPDR World Ex-US Portfolio ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPEM",
+          "asset-name": "SPDR Emerging Markets Portfolio ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VBR",
+          "asset-name": "Smallcap Value ETF Vanguard",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIOG",
+          "asset-name": "Vanguard S&P Small-Cap 600 Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOE",
+          "asset-name": "Vanguard Mid-Cap Value ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VONG",
+          "asset-name": "Vanguard Russell 1000 Growth ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VONV",
+          "asset-name": "Vanguard Russell 1000 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOT",
+          "asset-name": "Vanguard Mid-Cap Growth ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/15/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset purchased by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEMAX",
+          "asset-name": "Vanguard Emerging Markets Stock Index Fd Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/29/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Asset sold by William F. Hagerty IV"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/18/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IWB",
+          "asset-name": "iShares Russell 1000 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/21/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Short sale partially covered by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/14/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Asset sold by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IWB",
+          "asset-name": "iShares Russell 1000 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "Short sale fully covered by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTI",
+          "asset-name": "Total Stock Market ETF Vanguard",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "Shares sold short by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EUO",
+          "asset-name": "Ultrashort Euro ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/08/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/31/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "Asset sold by Roundstone Ventures LLC"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/05/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/22/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/14/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FINFX",
+          "asset-name": "Fundamental Investors Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ANWFX",
+          "asset-name": "New Perspective Fund Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "NFFFX",
+          "asset-name": "New World Fund Inc. Class F-2 Shs",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AMCFX",
+          "asset-name": "Amcap Fund Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Asset sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FNOV",
+          "asset-name": "FT CBOE Vest U.S. Equity Buffer ETF November",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset Sold by DC 1 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/05/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/22/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/14/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FINFX",
+          "asset-name": "Fundamental Investors Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ANWFX",
+          "asset-name": "New Perspective Fund Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "NFFFX",
+          "asset-name": "New World Fund Inc. Class F-2 Shs",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AMCFX",
+          "asset-name": "Amcap Fund Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FNOV",
+          "asset-name": "FT CBOE Vest U.S. Equity Buffer ETF November",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 2 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/05/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/22/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/30/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/14/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FINFX",
+          "asset-name": "Fundamental Investors Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ANWFX",
+          "asset-name": "New Perspective Fund Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "NFFFX",
+          "asset-name": "New World Fund Inc. Class F-2 Shs",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AMCFX",
+          "asset-name": "Amcap Fund Class F-2 Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$250,001 - $500,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FNOV",
+          "asset-name": "FT CBOE Vest U.S. Equity Buffer ETF November",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 3 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/05/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 4 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/22/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "Asset sold by DC 4 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/30/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 4 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/14/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "Asset sold by DC 4 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VFSUX",
+          "asset-name": "Vanguard Short-Term Investment Grade Fund Admira",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 4 Trust"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FNOV",
+          "asset-name": "FT CBOE Vest U.S. Equity Buffer ETF November",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "Asset sold by DC 4 Trust"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2015",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "N/A%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Contour Opportunity Fund, LP\n\t\t\t\t\t\t\t\tNew York, New York",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2014",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "N/A%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Contour Venture Partners III, LP\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2018",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "N/A%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Contour Venture Partners IV, LP\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2018",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "N/A%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Contour Opportunity Fund, II, LP\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "First Bank\n\t\t\t\t\t\t\t\tNashville, TN",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "-",
+          "rate-term": "3%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "First Bank\n\t\t\t\t\t\t\t\tNashville, TN",
+          "comments": "Bank of America mortgage refinanced with First Bank."
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "NA%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "Capital Commitment from Roundstone Ventures, LLC"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "NA%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "Capital Commitment for DC 1 Irrevocable Trust"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "NA%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "Capital Commitment for DC 2 Irrevocable Trust"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "NA%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "Capital Commitment for DC 3 Irrevocable Trust"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Capital Commitment)",
+          "points": "-",
+          "rate-term": "NA%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "HC 17th and Grand Partners, LP\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "Capital Commitment for DC 4 Irrevocable Trust"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "1.4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Roundstone Ventures LLC\n\t\t\t\t\t\t\t\tNashville, TN",
+          "comments": "LOC drawn by DC Trust 1"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "1.4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Roundstone Ventures LLC\n\t\t\t\t\t\t\t\tNashville, TN",
+          "comments": "LOC drawn by DC Trust 2"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "1.4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 Years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Roundstone Ventures LLC\n\t\t\t\t\t\t\t\tNashville, TN",
+          "comments": "LOC drawn by DC Trust 3"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Child",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "1.4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Roundstone Ventures LLC\n\t\t\t\t\t\t\t\tNashville, TN",
+          "comments": "LOC drawn by DC Trust 4"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2001 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Roundstone Ventures, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNashville, TN",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Holding company for passive investments)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2001 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Main Street Management\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNashville, TN",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Management company for Roundstone Ventures, LLC)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2003 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "William F. Hagerty, IV  Living Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNashville, TN",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2002 to\n\t\t\t\t\t\t\t\tDec 2020",
+          "position-held": "Proprietor",
+          "entity": "Hagerty Consulting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNashville, TN",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Sole Proprietorship)",
+          "comments": "This is a dormant entity that has no clients nor any assets."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2002",
+          "parties-involved": "Hagerty Consulting\n\t\t\t\t\t\t\t\tNashville, TN",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Sole Proprietorship, now inactive)",
+          "status-and-terms": "Sole Proprietorship, now inactive",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2010",
+          "parties-involved": "Hagerty Peterson\n\t\t\t\t\t\t\t\tBarrington, IL",
+          "type": "Leave of absence",
+          "status-and-terms": "Hagerty Peterson is a limited liability company that, in the past, has made and held equity investments.  It has been inactive since 2010.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

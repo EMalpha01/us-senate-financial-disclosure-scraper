@@ -1,0 +1,1314 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report (Amendment 1)",
+  "filer": "Mr. Mark E Kelly",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": [
+        {
+          "date": "02/20/2019",
+          "activity": "Speech",
+          "amount": "$19,125.00",
+          "who-paid": "Everglades Foundation\n\t\t\t\t\t\t\t\tPalm Beach, FL",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "02/20/2019",
+          "activity": "Speech",
+          "amount": "$23,375.00",
+          "who-paid": "College of DuPage\n\t\t\t\t\t\t\t\tChicago, IL",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "02/27/2019",
+          "activity": "Speech",
+          "amount": "$29,750.00",
+          "who-paid": "John Deere\n\t\t\t\t\t\t\t\tMoline, IL",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "03/11/2019",
+          "activity": "Speech",
+          "amount": "$29,750.00",
+          "who-paid": "National Business Officers Association\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "03/10/2019",
+          "activity": "Speech",
+          "amount": "$18,700.00",
+          "who-paid": "Share\n\t\t\t\t\t\t\t\tChicago, IL",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "03/25/2019",
+          "activity": "Speech",
+          "amount": "$17,000.00",
+          "who-paid": "Telecommunications Risk Mgmt Assoc\n\t\t\t\t\t\t\t\tRoseland, NJ",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "03/26/2019",
+          "activity": "Speech",
+          "amount": "$23,375.00",
+          "who-paid": "National Quality Forum\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "04/02/2019",
+          "activity": "Speech",
+          "amount": "$33,575.00",
+          "who-paid": "West Texas A&M University\n\t\t\t\t\t\t\t\tCanyon, TX",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "04/16/2019",
+          "activity": "Speech",
+          "amount": "$25,500.00",
+          "who-paid": "Yakima Town Hall\n\t\t\t\t\t\t\t\tYakima, WA",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "05/22/2019",
+          "activity": "Speech",
+          "amount": "$31,875.00",
+          "who-paid": "Tenebale Network Security\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "06/04/2019",
+          "activity": "Speech",
+          "amount": "$23,375.00",
+          "who-paid": "Electric Utility Fleet Managers Conference\n\t\t\t\t\t\t\t\tWilliamsburg, VA",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "10/07/2019",
+          "activity": "Speech",
+          "amount": "$23,375.00",
+          "who-paid": "Port Huron Town Hall\n\t\t\t\t\t\t\t\tPort Huron, MI",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        },
+        {
+          "date": "10/28/2019",
+          "activity": "Speech",
+          "amount": "$38,250.00",
+          "who-paid": "Eminent Speaker's Series\n\t\t\t\t\t\t\t\tSalt Lake City, UT",
+          "who-received-payment": "Self",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$9,482.94",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "World View Enterprises\n\t\t\t\t\t\t\t\tTucson, AZ",
+          "amount-paid": "$260.38",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Self-Employment Income",
+          "who-paid": "Kelly Aerospace Consulting, LLC\n\t\t\t\t\t\t\t\tTucson, AZ",
+          "amount-paid": "$289,321.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Residential PropertyDescription: Residential Property (Tucson, AZ)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Pacific Premier Bank(Irvine, CA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SV Angel V Investment FundDescription: SV Angel V Investment Fund (San Francisco, CA) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not known or ascertainable; and the filer has no authority to direct the investments.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "SV Angel VI Investment FundDescription: SV Angel VI Investment Fund (San Francisco, CA) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not known or ascertainable; and the filer has no authority to direct the investments.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Nelson Family Trust - Northern Trust Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MXF - The Mexico Fund, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Goldman Sachs Group Inc MTNRate/Coupon: 2.0%  Matures: 11/28/2021",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Credit Suisse AG London BRH ME MTNRate/Coupon: 2.0%  Matures: 11/29/2021",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Chandler Arizona GO Ref BDS SER, 2016Rate/Coupon: 3.0%  Matures: 07/01/2025",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Tempe Arizona GO BDS SER BRate/Coupon: 4.0%  Matures: 07/01/2027",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Tempe Arizona UN High Sch Dist No 213 Ref Rate/Coupon: 5.25%  Matures: 07/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Maricopa County Arizona Sch Dist No 001Rate/Coupon: 3.0%  Matures: 07/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Maricopa County Arizona UNI Sch Dist No 80Rate/Coupon: 2.75%  Matures: 07/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "LFRAX - Lord Abbett Floating Rate Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "LHYAX - Lord Abbett High Yield Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "LALDX - Lord Abbett Short Duration Income Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VWSTX - Vanguard Short-Term Tax-Exempt Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "EFV - iShares MSCI EAFE Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "IBB - iShares Nasdaq Biotechnology ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "EEM - iShares MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DIA - SPDR Dow Jones Industrial Average ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MDY - SPDR S&P MidCap 400 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "VOO - Vanguard S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "VTI - Vanguard Total Stock Market Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "NOGXX - Northern Funds - U.S. Government Money Market Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "LUBAX - Lord Abbett Ultra Short Bond Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MUAIX - Morgan Stanley Institutional Fund Trust Ultra-Shor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VSIGX - Vanguard Intermediate-Term Treasury Index Fund Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Arizona St Transn BRD Grant Antic NtsRate/Coupon: 5.25%  Matures: 07/01/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "American Express Natl BK Brokered Intl CD(Salt Lake City, UT)Type: Certificate of Deposit, Filer comment:  Rate: 0.95% ; Matures: 03/24/2021",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BMW Bk N Amer Salt CD(Salt Lake City, UT)Type: Certificate of Deposit, Filer comment:  Rate: 0.90%; Matures: 09/25/2020",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Bank Amer NA Charlotte NC CD(Charlotte, NC)Type: Certificate of Deposit, Filer comment:  Rate: 1.6%; Matures: 10/29/2020",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Santander Bank Natl CD(Wilmington, DE)Type: Certificate of Deposit, Filer comment:  Rate: 0.95%; Matures: 06/25/2020",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Wells Fargo Bank Natl Assn CD(Sioux Falls, SD)Type: Certificate of Deposit, Filer comment:  Rate: 1.7%; Matures: 10/29/2020",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Northern Trust - Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VOO - Vanguard S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust - Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VOO - Vanguard S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USAA Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UATXX - USAA Mutual Funds Trust - USAA Treasury Money Mark",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "USAA Investment Management Co.(San Antonio, TX)Type: Certificate of Deposit, Filer comment:  Yield 0.86%",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "USAA Investment Management Co.(San Antonio, TX)Type: Certificate of Deposit, Filer comment:  Yield 0.96%",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "USISX - USAA Income Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Fund Admiral SharesFiler comment:  VFIAX was previously reported as VFINX but due to a share class exchange, it is now reported as VFIAX.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "IYY - iShares Dow Jones U.S. ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "MDY - SPDR S&P MidCap 400 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VSIGX - Vanguard Intermediate-Term Treasury Index Fund Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "USAA - Certificate of Deposit #1(San Antonio, TX)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "USAA - Certificate of Deposit #2(San Antonio, TX)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "USSA Federal Savings Bank(San Antonio, TX)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USAA Federal Savings Bank(San Antonio, TX)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Kelly Aerospace Consulting LLCCompany: Kelly Aerospace Consulting LLC (Tucson, AZ) Description: Consulting Filer comment:  Closed in January 2020",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Other, (Ordinary Business Income)",
+          "income": "$100,001 - $1,000,000Other $289,321.00"
+        },
+        {
+          "asset": "Vistria Fund II (FT), LPDescription: Investment Company (Chicago, IL) Filer comment:  Although we have requested addl info. from the fund mgr, addl info. is not known or ascertainable; and the filer has no authority to direct the investments.",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "World View Enterprises, Inc.Company: World View Enterprises, Inc. (Tucson, AZ) Description: Aerospace Company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Boom Technology, Inc.Strike price: $2.06 | NeitherExpires: 02/01/2022 Filer comment:  Previously reported as Boom Aerospace.",
+          "asset-type": "Corporate SecuritiesStock Option",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WTRH - Waitr Holdings Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Angel MedFlightCompany: Angel MedFlight (Scottsdale, AZ) Description: Ambulance Services",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PINS - Pinterest, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Kelly Aerospace Consulting LLC - 401(k)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VOO - Vanguard S&P 500 ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Kelly Aerospace Consulting LLC - Defined Benefit Plan",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VSIGX - Vanguard Intermediate-Term Treasury Index Fund Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VOO - Vanguard S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Lightspeed Partners LLCCompany: Lightspeed Partners LLC (Tucson, AZ) Description: Media Production",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Alacura Medical Transportation Management LLCCompany: Alacura Medical Transportation Management LLC (Dallas, TX) Description: Managed Medical Transportation Company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Boom Technology, Inc.Company: Boom Technology, Inc. (Denver, CO) Description: Aerospace Company Filer comment:  Previously reported as Boom Aerospace.",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VOO - Vanguard S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VOO - Vanguard S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Retirement Annuity Provider: USAA",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Retirement Annuity 2Provider: USAA",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Flexible Retirement Annuity - Traditional IRAProvider: USAA",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Jackson National Life Insurance CompanyProvider: Jackson National Life Insurance Company Filer comment:  50% ownership",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "May 2014 to\n\t\t\t\t\t\t\t\tFeb 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board Member)",
+          "entity": "General Fusion, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBurnaby, British Columbia",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2015 to\n\t\t\t\t\t\t\t\tFeb 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Strategic Advisor)",
+          "entity": "World View Enterprises, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2016 to\n\t\t\t\t\t\t\t\tFeb 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Angel MedFlight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tScottsdale, AZ",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2016 to\n\t\t\t\t\t\t\t\tSep 2018",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Alacura Medical Transportation Management LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDallas, TX",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2016 to\n\t\t\t\t\t\t\t\tNov 2018",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Landcadia Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNew York, NY",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2013 to\n\t\t\t\t\t\t\t\tFeb 2018",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board Member)",
+          "entity": "University of Arizona Math Department\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2015 to\n\t\t\t\t\t\t\t\tSep 2018",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board Member)",
+          "entity": "Lunar and Planetary Laboratory of the University of Arizona\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2015 to\n\t\t\t\t\t\t\t\tApr 2018",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Challenger Center for Space Science Education\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Educational Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2012 to\n\t\t\t\t\t\t\t\tFeb 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Crew Safety Advisory Board Member)",
+          "entity": "SpaceX\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHawthorne, CA",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2015 to\n\t\t\t\t\t\t\t\tFeb 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board Member)",
+          "entity": "Boom Aerospace\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDenver, CO",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "El Campo Center LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2011 to\n\t\t\t\t\t\t\t\tJan 2020",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Sole Owner)",
+          "entity": "Kelly Aerospace Consulting LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Managing Member)",
+          "entity": "Lightspeed Partners LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTucson, AZ",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "May 2011",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive royalty payments based on usual and customary terms for the publication of the book titled, \"Gabby.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2011",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on usual and customary terms for the publication of the book titled, \"Mousetronaut.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Sep 2012",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on usual and customary terms for the publication of the book titled, \"Mousetronaut Goes To Mars.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jun 2013",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and payments based on usual and customary terms for the publication of the book titled, \"Enough.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2014",
+          "parties-involved": "Simon and Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advances and royalty payments based on usual and customary terms for the publication of the books titled, \"Astrotwins Project Blastoff and Astrotwins Project Rescue.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Apr 2020",
+          "parties-involved": "Imagine Kids (Imagine Entertainment)\n\t\t\t\t\t\t\t\tBeverly Hills, CA",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Film)",
+          "status-and-terms": "Agreement to receive payment based on usual and customary terms for option to produce motion picture.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "Aclara Technologies LLC\n\t\t\t\t\t\t\t\tSaint Louis, MO",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Alliant Insurance\n\t\t\t\t\t\t\t\tNewport Beach, CA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Amazon\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "duties": "Commercial",
+          "comments": "n/a"
+        },
+        {
+          "source": "American Academy of Periodontology\n\t\t\t\t\t\t\t\tChicago, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "American College of Foot and Ankle Surgeons\n\t\t\t\t\t\t\t\tChicago, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "American Medical Group Association\n\t\t\t\t\t\t\t\tAlexandria, VA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "American Railway Engineering Association\n\t\t\t\t\t\t\t\tLanham, MD",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "American Society of Dermatological Surgery\n\t\t\t\t\t\t\t\tRolling Meadows, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Ameriprise Financial Services LLC\n\t\t\t\t\t\t\t\tMinneapolis, MN",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Angel MedFlight\n\t\t\t\t\t\t\t\tScottsdale, AZ",
+          "duties": "Consulting",
+          "comments": "n/a"
+        },
+        {
+          "source": "Association for Financial Technology\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Aviation Insurance Association\n\t\t\t\t\t\t\t\tOverland Park, KS",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Big Lots Inc.\n\t\t\t\t\t\t\t\tColumbus, OH",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Boston Speakers Series\n\t\t\t\t\t\t\t\tBoston, MA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Boy Scouts of America, Northern New Jersey Council\n\t\t\t\t\t\t\t\tGarfield, NJ",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Breitling USA Inc.\n\t\t\t\t\t\t\t\tWilton, CT",
+          "duties": "Endorsement Fee",
+          "comments": "n/a"
+        },
+        {
+          "source": "Cambridge Baltimore Speakers Series\n\t\t\t\t\t\t\t\tBaltimore, MD",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Cambridge Pittsburgh Speakers Series LLC\n\t\t\t\t\t\t\t\tPittsburgh, PA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Chobani, LLC\n\t\t\t\t\t\t\t\tNorwich, NY",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Christus Foundation for Healthcare\n\t\t\t\t\t\t\t\tHouston, TX",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Clean Earth\n\t\t\t\t\t\t\t\tPhiladelphia, PA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "College of DuPage\n\t\t\t\t\t\t\t\tChicago, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "CORY's Thunder Inc.\n\t\t\t\t\t\t\t\tJacksonville, FL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Desert Forum Inc.\n\t\t\t\t\t\t\t\tIndian Springs, CA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Electric Utility Fleet Managers Conference\n\t\t\t\t\t\t\t\tWilliamsburg, VA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Evanta, a Gardner Company\n\t\t\t\t\t\t\t\tPortland, OR",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Everglades Foundation\n\t\t\t\t\t\t\t\tPalm Beach, FL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Experian\n\t\t\t\t\t\t\t\tCosta Mesa, CA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "General Fusion Inc.\n\t\t\t\t\t\t\t\tBurnaby, Canada",
+          "duties": "Advisory Board",
+          "comments": "n/a"
+        },
+        {
+          "source": "Georgia Ports Authority\n\t\t\t\t\t\t\t\tGarden City, GA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Great Dane Trailers\n\t\t\t\t\t\t\t\tChicago, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Illinois Farm Bureau\n\t\t\t\t\t\t\t\tBloomington, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Innovatix\n\t\t\t\t\t\t\t\tNew York, NY",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Intuitive Surgical Inc.\n\t\t\t\t\t\t\t\tSunnyvale, CA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "John Deere\n\t\t\t\t\t\t\t\tMoline, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Kelly Aerospace Consulting, LLC\n\t\t\t\t\t\t\t\tTucson, AZ",
+          "duties": "Consulting business",
+          "comments": "n/a"
+        },
+        {
+          "source": "Kinney Drugs Foundation, Inc.\n\t\t\t\t\t\t\t\tGouvernour, NY",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Lightspeed Partners, LLC\n\t\t\t\t\t\t\t\tMenlo Park, CA",
+          "duties": "Film production",
+          "comments": "n/a"
+        },
+        {
+          "source": "Landry's Inc.\n\t\t\t\t\t\t\t\tHouston, TX",
+          "duties": "Board compensation",
+          "comments": "n/a"
+        },
+        {
+          "source": "National Business Officers Association\n\t\t\t\t\t\t\t\tWashington, DC",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "National Quality Forum\n\t\t\t\t\t\t\t\tWashington, DC",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Northwestern Mutual\n\t\t\t\t\t\t\t\tMilwaukee, WI",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Oracle Corporation\n\t\t\t\t\t\t\t\tRedwood City, CA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Ossip Optometry and Ophthalmology\n\t\t\t\t\t\t\t\tCamel, IN",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Paradigm Outcomes\n\t\t\t\t\t\t\t\tWalnut Creek, CA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Pink Tank\n\t\t\t\t\t\t\t\tDubai, UAE",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Regency Centers\n\t\t\t\t\t\t\t\tJacksonville, FL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Rutgers University\n\t\t\t\t\t\t\t\tNew Brunswick, NJ",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Self Storage Association\n\t\t\t\t\t\t\t\tAlexandria, VA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Sexual Medicine Society of North America\n\t\t\t\t\t\t\t\tBurnsville, MN",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Share\n\t\t\t\t\t\t\t\tChicago, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "SNAC International\n\t\t\t\t\t\t\t\tArlington, VA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Society for Maintenance and Reliability Professionals\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Sonitrol National Dealers Association\n\t\t\t\t\t\t\t\tDayton, OH",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "SpaceX\n\t\t\t\t\t\t\t\tHawthorne, CA",
+          "duties": "Consulting",
+          "comments": "n/a"
+        },
+        {
+          "source": "Starkey Hearing Technology\n\t\t\t\t\t\t\t\tEden Prairie, MN",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Subaru of America\n\t\t\t\t\t\t\t\tCamden, NJ",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Swiss Re\n\t\t\t\t\t\t\t\tNew York, NY",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Telecommunications Risk Management Association\n\t\t\t\t\t\t\t\tRoseland, NJ",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Tenebale Network Security\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "The Heico Corporation, LLC\n\t\t\t\t\t\t\t\tChicago, IL",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "The Manufacturers Association\n\t\t\t\t\t\t\t\tEmigsville, PA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "The Vistria Group\n\t\t\t\t\t\t\t\tChicago, IL",
+          "duties": "Board compensation",
+          "comments": "n/a"
+        },
+        {
+          "source": "Tourism Jasper\n\t\t\t\t\t\t\t\tAlberta, Canada",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Tri-State Generation and Transmission Association Inc.\n\t\t\t\t\t\t\t\tWestminster, CO",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "West Texas A&M University\n\t\t\t\t\t\t\t\tCanon, TX",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Yakima Town Hall\n\t\t\t\t\t\t\t\tYakima, WA",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Youngstown State University\n\t\t\t\t\t\t\t\tYoungstown, OH",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Port Huron Town Hall\n\t\t\t\t\t\t\t\tPort Huron, MI",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Eminent Speaker's Series\n\t\t\t\t\t\t\t\tSalt Lake City, UT",
+          "duties": "Speech",
+          "comments": "n/a"
+        },
+        {
+          "source": "Simon & Schuster\n\t\t\t\t\t\t\t\tNew York, NY",
+          "duties": "Royalties",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

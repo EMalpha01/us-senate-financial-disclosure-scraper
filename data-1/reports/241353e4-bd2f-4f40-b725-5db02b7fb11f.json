@@ -1,0 +1,1897 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2020 (Amendment 1)",
+  "filer": "The Honorable Roger W Marshall (Marshall, Roger)",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "IRA Distribution (Francis Financial Services)\n\t\t\t\t\t\t\t\tGreat Bend, KS",
+          "amount-paid": "$60,000.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "American FundsInstitution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CLBAX - American Balanced Fund Class 529-A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CLBCX - American Balanced Fund Class 529-C Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invest Ed Growth PortfolioInstitution: Waddell & Reed",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WAGRX - Invested Growth Portfolio Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Farmers Bank & Trust(Great Bend, KS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Farmers Bank & Trust(Great Bend, KS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Farmers Bank & Trust(Great Bend, KS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Farmers Bank & Trust(Great Bend, KS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Farmers Bank & Trust(Great Bend, KS)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Smith Barney Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AWSHX - Washington Mutual Invs Fd Cl A Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AEPGX - American Funds Europacific Growth A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Smith Barney Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AWSHX - Washington Mutual Invs Fd Cl A Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AEPGX - American Funds Europacific Growth A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brokerage Account (Francis Financial Services)",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Francis Financial Services(Great Bend, KS)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CVX - Chevron Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DIS - Walt Disney Company (The) Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MCD - McDonald's Corporation Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PFE - Pfizer, Inc. Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VTRS - Viatris Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Brokerage Account (Francis Financial Services)",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Francis Financial Services(Great Bend, KS)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Traditional IRA (Francis Financial Services)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Francis Financial Services(Great Bend, KS)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANWPX - New Perspective Fund Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NEWFX - American Funds New World Fund A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PHYS - Sprott Physical Gold Trust",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PSLV.U - Sprott Physical Silver Trust USD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ABNDX - The Bond Fund of America Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AGTHX - The Growth Fund of America Class A Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HFMCX - Hartford Midcap Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IHSAX - Hartford Small Company Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMUSX - American Funds U.S. Govt Securities A [Income Se",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AWSHX - Washington Mutual Invs Fd Cl A Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Club West of Great Bend LLC, 4% InterestCompany: Club West of Great Bend LLC (Great Bend, KS) Description: Management of swimming pool",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Jacam Chemical Company, Inc.Company: Jacam Chemical Company, Inc. (Sterling, KS) Description: Chemical company Filer comment:  Jacam's parent company is Canadian Energy Services & Technology Corp., as noted in previous filings.",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Farmers Enterprises, Inc., 1% InterestCompany: Famers Enterprises, Inc. (Great Bend, KS) Description: Holding company for bank stock",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Healthcare Properties Fund 1, LLC, 2% InterestCompany: Healthcare Properties Fund 1, LLC (Houston, TX) Description: Venture capital in hospitals",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Methodist McKinney Hospital PropertyDescription: 2% Interest (McKinney, Hospital)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Wichita NW Medical PropertyDescription: 2% Interest (Wichita, KS)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "HPH BuildingDescription: 2% Interest (Houston, TX)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "NCM Bioscience Partners, LLCCompany: Investment in Open Prairie Ventures II, LP (Leawood, KS) Description: Venture capital investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Open Prairie Ventures, LP 3%Description: Healthcare investment Fund (Leawood, KS)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "3% Interest in Fund's investment in companyCompany: Vestaron Corporation (Raleigh, NC) Description: Biotechnology",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "3% Interest in Fund's investment in companyCompany: Artio Medical (Fairway, KS) Description: Biotechnology",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "3% Interest in Fund's investment in companyCompany: NewLeaf Symbiotics (St. Louis, MO) Description: Biotechnology",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rattlesnake Ranch, Inc.Description: Land 75 acres, equipment and building rental, 20% interest (Stafford County, KS)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ionics Life Sciences, subscription agreementCompany: Ionic Life Sciences (Sterling, KS) Description: Life Sciences",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MV Purchasing, 5% InterestDescription: Oil working interest (Stafford County, KS)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Great Bend Coop Assn.Company: Great Bend Coop Assn. (Great Bend, KS) Description: Coop",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Universal Life PolicyProvider: Pacific Life",
+          "asset-type": "Life InsuranceUniversal",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "25% Interest, LVMC, Inc.Company: LVMC, Inc. (Great Bend, KS) Description: Investment holding entity",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Land, Stafford County, KS, 25% InterestDescription: Land 320 acres, building and equipment (Stafford County, KS)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Note receivable held by Farmers Bank & Trust, 25% InterestCompany: Farmers Bank & Trust (Great Bend, KS)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oil Royalty Interest, 25%Description: Oil Royalty Interest, 25% (Stafford County, KS)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Waddell & Reed (Ivy Investments), 25% Interest",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WLGAX - Ivy Large Cap Growth Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "WSTAX - Ivy Science & Technology Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Washington DC Condo, 25% InterestDescription: Washington DC Condo (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "iSelect Fund B St. Louis, Inc., 25% InterestDescription: Investment Fund (St. Louis, MO)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "iSelect Qualified Purchaser Fund, LLCCompany: iSelect Qualified Purchaser Fund, LLC (St. Louis, MO) Description: Funds available for investment in iSelect",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Benson Hill Series C Preferred EquityCompany: Benson Hill (St. Louis, MO) Description: Agriculture",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Healthcare Ventures Fund IV, LP, Subscription agreement, 0.44% Interest in Fund (25% interest in LVMC)Description: Healthcare Venture Fund (Leawood, KS)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "0.44% Interest in Fund's 3.6% ownership investment in companyCompany: HealthJoy, Inc. (Chicago, IL) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "0.44% Interest in Fund's 3.5% ownership investment in companyCompany: IVXpress, Inc. (Brentwood, TN) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "0.44% Interest in Fund's 1.9% ownership investment in companyCompany: Muve Halth, LLC (Leawood, KS) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "0.44% Interest in Fund's 0.96% ownership investment in companyCompany: SonarMD, Inc. (Chicago, IL) Description: Healthcare",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Waddell & Reed (Ivy Investments)",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WMBAX - Ivy Municipal Bond Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYIAX - Ivy Municipal High Income Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Pershing Advisor Solutions LLC",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FTCS - First Trust Capital Strength ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FPXI - First Trust International Equity Opportunities ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTC - First Trust Large Cap Growth AlphaDEX Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FEM - First Trust Emerging Markets AlphaDEX Fund",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIXD - First Trust TCW Opportunistic Fixed Income ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAAR - First Trust Alternative Absolute Return Strategy E",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FXL - Technology Alphadex ETF FT",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FBT - First Trust NYSE Arca Biotechnology ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TD AmeritradeFiler comment:  f/k/a Scottrade",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BABA - Alibaba Group Holding Limited American Depositary",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MSFT - Microsoft Corporation - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ROKU - Roku, Inc. - Class A Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Quivira Ranch, Inc. 20% interestCompany: Quivira Ranch, Inc. (Stafford, KS) Description: Ranch, including oil royalties, land management and equipment Filer comment:  Ranch assets had been previously listed separately on past reports",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "GBRH Properties 2009, LLC, 14% InterestCompany: GBRH Properties 2009, LLC, 14% Interest (Great Bend, KS) Description: Building, helicopter pad, intangible assets, cash",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Personal LoanCompany: LVMC, Inc. (Great Bend, KS)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "FBT",
+          "asset-name": "First Trust NYSE Arca Biotechnology ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisor Solutions, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FVD",
+          "asset-name": "First Trust VL Dividend",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisor Solutions, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FXL",
+          "asset-name": "First Trust Technology AlphaDEX",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisor Solutions, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FXL",
+          "asset-name": "First Trust Technology AlphaDEX",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/30/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisor Solutions, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QTEC",
+          "asset-name": "First Trust NASDAQ-100-Technology Sector Index Fun",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC (Remaining shares sold 10/08/2020, full sale, under threshold)"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FTA",
+          "asset-name": "First Trust Large Cap Value AlphaDEX Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FTC",
+          "asset-name": "First Trust Large Cap Growth AlphaDEX Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FEM",
+          "asset-name": "First Trust Emerging Markets AlphaDEX Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FNY",
+          "asset-name": "First Trust Mid Cap Growth AlphaDEX Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HYLS",
+          "asset-name": "First Trust Tactical High Yield ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FTGC",
+          "asset-name": "First Trust Global Tactical Commodity Strategy Fun",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HDMV",
+          "asset-name": "Horizon Vol Dev Intl ETF FT",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FTLS",
+          "asset-name": "First Trust Long/Short Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FIXD",
+          "asset-name": "First Trust TCW Opportunistic Fixed Income ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FTCS",
+          "asset-name": "First Trust Capital Strength ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FTC",
+          "asset-name": "First Trust Large Cap Growth AlphaDEX Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Pershing Advisors Solution, LLC"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ITBAX",
+          "asset-name": "Hartford Total Return Bond Fund Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFMCX",
+          "asset-name": "Hartford Midcap Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NEWFX",
+          "asset-name": "American Funds New World Fund A",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/28/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCUVX",
+          "asset-name": "Hartford Schroders US Small Cap Opportunities Fu",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvestment of dividends and gains"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ABNDX",
+          "asset-name": "The Bond Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvestment of dividends and gains"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ITBAX",
+          "asset-name": "Hartford Total Return Bond Fund Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFMCX",
+          "asset-name": "Hartford Midcap Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCUVX",
+          "asset-name": "Hartford Schroders US Small Cap Opportunities Fu",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ITBAX",
+          "asset-name": "Hartford Total Return Bond Fund Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFMCX",
+          "asset-name": "Hartford Midcap Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NEWFX",
+          "asset-name": "American Funds New World Fund A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCUVX",
+          "asset-name": "Hartford Schroders US Small Cap Opportunities Fu",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ITBAX",
+          "asset-name": "Hartford Total Return Bond Fund Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFMCX",
+          "asset-name": "Hartford Midcap Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ABNDX",
+          "asset-name": "The Bond Fund of America Class A Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/06/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NEWFX",
+          "asset-name": "American Funds New World Fund A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCUVX",
+          "asset-name": "Hartford Schroders US Small Cap Opportunities Fu",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ITBAX",
+          "asset-name": "Hartford Total Return Bond Fund Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFMCX",
+          "asset-name": "Hartford Midcap Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NEWFX",
+          "asset-name": "American Funds New World Fund A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/09/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCUVX",
+          "asset-name": "Hartford Schroders US Small Cap Opportunities Fu",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AMUSX",
+          "asset-name": "American Funds U.S. Govt Securities A [Income Se",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/13/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ITBAX",
+          "asset-name": "Hartford Total Return Bond Fund Cl A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HFMCX",
+          "asset-name": "Hartford Midcap Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "NEWFX",
+          "asset-name": "American Funds New World Fund A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/16/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/18/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvest dividend."
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvest dividend."
+        },
+        {
+          "owner": "Self",
+          "ticker": "IHSAX",
+          "asset-name": "Hartford Small Company Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/07/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCUVX",
+          "asset-name": "Hartford Schroders US Small Cap Opportunities Fu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/07/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ITBAX",
+          "asset-name": "Hartford Total Return Bond Fund Cl A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ABNDX",
+          "asset-name": "The Bond Fund of America Class A Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/10/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PSLV.U",
+          "asset-name": "Sprott Physical Silver Trust USD",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/10/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHYS",
+          "asset-name": "Sprott Physical Gold Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/10/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AIBAX",
+          "asset-name": "American Funds Int Bond Fd of America A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCUVX",
+          "asset-name": "Hartford Schroders US Small Cap Opportunities Fu",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial)"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvestment of dividend"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IHSAX",
+          "asset-name": "Hartford Small Company Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/11/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvestment of dividends and gains"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "New Perspective Fund Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvestment of dividends and gains"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AWSHX",
+          "asset-name": "Washington Mutual Invs Fd Cl A Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvestment of dividend and gains"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGTHX",
+          "asset-name": "The Growth Fund of America Class A Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "IRA (Francis Financial); Reinvestment of dividends and gains"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Francis Financial Services Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DIS",
+          "asset-name": "Walt Disney Company (The) Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "Francis Financial Services Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AMD",
+          "asset-name": "Advanced Micro Devices, Inc. - Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AMD",
+          "asset-name": "Advanced Micro Devices, Inc. - Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BABA",
+          "asset-name": "Alibaba Group Holding Limited American Depositary",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BABA",
+          "asset-name": "Alibaba Group Holding Limited American Depositary",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/12/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BABA",
+          "asset-name": "Alibaba Group Holding Limited American Depositary",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DIS",
+          "asset-name": "Walt Disney Company (The) Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DIS",
+          "asset-name": "Walt Disney Company (The) Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc. - Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc. - Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc. - Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc. - Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation - Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation - Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation - Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/24/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation - Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation - Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ROKU",
+          "asset-name": "Roku, Inc. - Class A Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/19/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ROKU",
+          "asset-name": "Roku, Inc. - Class A Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ROKU",
+          "asset-name": "Roku, Inc. - Class A Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "ROKU",
+          "asset-name": "Roku, Inc. - Class A Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "SNE",
+          "asset-name": "Sony Corporation Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "SNE",
+          "asset-name": "Sony Corporation Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/15/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "YETI",
+          "asset-name": "YETI Holdings, Inc. Common Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "YETI",
+          "asset-name": "YETI Holdings, Inc. Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "TD Ameritrade Brokerage Account"
+        },
+        {
+          "owner": "Child",
+          "ticker": "WSTAX",
+          "asset-name": "Ivy Science & Technology Fund Class A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "LVMC, Inc., 25% Interest"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IATAX",
+          "asset-name": "Ivy Accumulative Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "LVMC, Inc., 25% Interest"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IEYAX",
+          "asset-name": "Ivy Funds Energy Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "LVMC, Inc., 25% Interest"
+        },
+        {
+          "owner": "Child",
+          "ticker": "WMGAX",
+          "asset-name": "Ivy Mid Cap Growth Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "LVMC, Inc., 25% Interest"
+        },
+        {
+          "owner": "Child",
+          "ticker": "WSGAX",
+          "asset-name": "Ivy Small Cap Growth Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/05/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "LVMC, Inc., 25% Interest"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IBIAX",
+          "asset-name": "Ivy Global Equity Income Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/05/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "LVMC, Inc., 25% Interest"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Sale of DC Condo",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/28/2020",
+          "amount": "$250,001 - $500,000",
+          "comments": "LVMC, Inc., 25% Interest"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2019",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 yrs)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Farmers Bank & Trust, N.A.\n\t\t\t\t\t\t\t\tGreat Bend, KS",
+          "comments": "Mortgage on vacation home"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "LVMC, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGreat Bend, KS",
+          "entity-type": "Corporation",
+          "comments": "Uncompensated position"
+        },
+        {
+          "position-dates": "Jan 1991 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Rattlesnake Ranch, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGreat Bend, KS",
+          "entity-type": "Corporation",
+          "comments": "Uncompensated position"
+        },
+        {
+          "position-dates": "Jan 2000 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Quivira Ranch, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGreat Bend, KS",
+          "entity-type": "Corporation",
+          "comments": "Uncompensated position"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

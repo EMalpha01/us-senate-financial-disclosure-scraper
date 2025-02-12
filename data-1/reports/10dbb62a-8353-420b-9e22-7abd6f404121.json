@@ -1,0 +1,4132 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable Christopher A Coons (Coons, Chris)",
+  "filed-date": "08/14/2023",
+  "filed-time": "4:25 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "W.L. Gore & Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "NFS/FMTC IRA FBO Christopher A Coons",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CLNRX - Columbia Global Opportunities Fund Class I2",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYMIX - Delaware Ivy Mid Cap Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JENIX - Jensen Quality Growth Fund Cl I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MCEIX - Martin Currie Emerging Markets Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CPEIX - Catalyst Dynamic Alpha Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PEXMX - T. Rowe Price Extended Equity Market Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RIPIX - Royce International Premier Fund Institutional C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSCSX - Thrivent Small Cap Stock Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TFSLX - Touchstone Flexible Income Fd Inst Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGISX - Virtus Duff & Phelps Global Real Estate Securities",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIESX - Virtus Kar Emerging Markets Small-Cap Fund I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EIFAX - Eaton Vance Floating-Rate Advantaged Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GIBIX - Guggenheim Total Return Bond Fund- Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PLFDX - Pacific Funds Floating Rate Income - Advisor Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSYYX - Touchstone Ultra Short Duration Fixed Income Fd",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIMSX - Virtus Newfleet Multi-Sector Short Term Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IXUS - Total Intl Stock Ishares Core MSCI ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DGRO - iShares Core Dividend Growth ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGK - Europe ETF FTSE Vanguard",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "W.L. Gore & Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFS/FMTC IRA FBO Ann M Coons",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FSGGX - Fidelity Global Ex U.S. Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNSFX - Invesco Convertible Securities Fund Cl R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BIOIX - Baron Opportunity Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTHSX - Fuller & Thaler Behavioral Small-Cap Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSSPX - Cohen & Steers Global Realty Shares Inc Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GERIX - Goldman Sachs Emerging Mkts Equity Insight Fd IN",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GLIFX - Lazard Global Listed Infrastructure Ptf Insti Sh",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LBFIX - Clearbridge Select Fd I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWILX - Vanguard International Growth Fund Admiral Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JSOSX - Jpmorgan Strategic Income Opportunities Fund I C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOBIX - Brandywineglobal - Global Opportunities Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LAHYX - Lord Abbett Investment Trust High Yield Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPIFX - T. Rowe Price Institutional Floating Rate Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIMSX - Virtus Newfleet Multi-Sector Short Term Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge 529Institution: Scholar's Edge",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Scholar's Edge Fixed Income Portfolio A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge Today Portfolio A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge Today Portfolio C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge Aggressive Portfolio A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Christopher Coons Charitable Remainder Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Talcott Resolution AnnuityProvider: FCG Advisors",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Htfd Ttl Return Bond HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Albern VPS Intl Value Port",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Htfd Intl Opp HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Put VT Intl Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AB VPS Grwth and Inc Port",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Equity-Incm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Grwth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Htfd Disciplined Eqty HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco Capital App Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "InvescoV.I. Comstock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco Main St Small Cap",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Putnam VT Small Cap",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ann M Coons Charitable Remainder Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Jackson Variable AnnuityProvider: FCG Advisors LLC",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "JNL/PPM America HighYldBd",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/PPM America FlRateInc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/Neuberger Strat Inc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/DoubleLineTR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/Fr Temp GlblMultiBond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/JPMorgan US Gov&Qual",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/DFA US Core Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/JPMorgan MidCapGrowth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/MC Sm Cap Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/WCM Focused IntlEq",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/MC Emg Mkts Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/T. RowePriceCapAp",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/T. Rowe Price ShTmBd",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust John C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FDRXX - Fidelity Government Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSGGX - Fidelity Global Ex U.S. Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNSFX - Invesco Convertible Securities Fund Cl R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BIOIX - Baron Opportunity Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTHSX - Fuller & Thaler Behavioral Small-Cap Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSSPX - Cohen & Steers Global Realty Shares Inc Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GERIX - Goldman Sachs Emerging Mkts Equity Insight Fd IN",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GLIFX - Lazard Global Listed Infrastructure Ptf Insti Sh",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LBFIX - Clearbridge Select Fd I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWILX - Vanguard International Growth Fund Admiral Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSBIX - Baird Short Term Bond Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JSOSX - Jpmorgan Strategic Income Opportunities Fund I C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOBIX - Brandywineglobal - Global Opportunities Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPIFX - T. Rowe Price Institutional Floating Rate Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DVY - Select Dividend Ishares ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust Margaret C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FDRXX - Fidelity Government Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSGGX - Fidelity Global Ex U.S. Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNSFX - Invesco Convertible Securities Fund Cl R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BIOIX - Baron Opportunity Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTHSX - Fuller & Thaler Behavioral Small-Cap Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSSPX - Cohen & Steers Global Realty Shares Inc Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GERIX - Goldman Sachs Emerging Mkts Equity Insight Fd IN",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GLIFX - Lazard Global Listed Infrastructure Ptf Insti Sh",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LBFIX - Clearbridge Select Fd I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWILX - Vanguard International Growth Fund Admiral Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSBIX - Baird Short Term Bond Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JSOSX - Jpmorgan Strategic Income Opportunities Fund I C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOBIX - Brandywineglobal - Global Opportunities Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPIFX - T. Rowe Price Institutional Floating Rate Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DVY - Select Dividend Ishares ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust Michael A Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FDRXX - Fidelity Government Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSGGX - Fidelity Global Ex U.S. Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNSFX - Invesco Convertible Securities Fund Cl R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BIOIX - Baron Opportunity Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTHSX - Fuller & Thaler Behavioral Small-Cap Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSSPX - Cohen & Steers Global Realty Shares Inc Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GERIX - Goldman Sachs Emerging Mkts Equity Insight Fd IN",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GLIFX - Lazard Global Listed Infrastructure Ptf Insti Sh",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LBFIX - Clearbridge Select Fd I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWILX - Vanguard International Growth Fund Admiral Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSBIX - Baird Short Term Bond Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JSOSX - Jpmorgan Strategic Income Opportunities Fund I C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOBIX - Brandywineglobal - Global Opportunities Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPIFX - T. Rowe Price Institutional Floating Rate Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DVY - Select Dividend Ishares ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO John C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO Margaret C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO Michael A Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "John Coons",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDRXX - Fidelity Government Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GQGIX - Gqg Partners Emerging Markets Equity Fund Instit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RGERX - Columbia Select Global Equity Fund Class I2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYMIX - Delaware Ivy Mid Cap Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JENIX - Jensen Quality Growth Fund Cl I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RAIIX - Rainier International Discovery Series - Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSCSX - Thrivent Small Cap Stock Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VWUAX - Vanguard  U.S. Growth Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGISX - Virtus Duff & Phelps Global Real Estate Securiti",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIWDX - Fidelity Advisor Strategic Income Fund Class Z",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AUNYX - Ab Bond Fund Inc. - Ab Municipal Bond Inflation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MAWIX - Blackrock Strategic Global Bond Fund Inc. - Ins",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MAMTX - Blackrock Strategic Municipal Opportunities Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GIBIX - Guggenheim Total Return Bond Fund- Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IXUS - Total Intl Stock Ishares Core MSCI ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DGRO - DGRO",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ann M Coons CUST Margaret Coons UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DELAWARE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PSTCX - Virtus Newfleet Multi-Sector Short Term Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Michael Coons",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DELAWARE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GQGIX - Gqg Partners Emerging Markets Equity Fund Instit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RGERX - Columbia Select Global Equity Fund Class I2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYMIX - Delaware Ivy Mid Cap Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JENIX - Jensen Quality Growth Fund Cl I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RAIIX - Rainier International Discovery Series - Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TSCSX - Thrivent Small Cap Stock Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWUAX - Vanguard  U.S. Growth Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGISX - Virtus Duff & Phelps Global Real Estate Securiti",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIWDX - Fidelity Advisor Strategic Income Fund Class Z",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AUNYX - Ab Bond Fund Inc. - Ab Municipal Bond Inflation",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MAWIX - Blackrock Strategic Global Bond Fund Inc. - Ins",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MAMTX - Blackrock Strategic Municipal Opportunities Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GIBIX - Guggenheim Total Return Bond Fund- Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LAHYX - Lord Abbett Investment Trust High Yield Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IXUS - Total Intl Stock Ishares Core MSCI ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DGRO - DGRO",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDRXX - Fidelity Government Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "New Castle County Pension Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TCS Lease Management LLCCompany: TCS Lease Management LLC (Sanibel Island, Florida) Description: Rental Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Sanibel Island CondoDescription: Real Estate (Sanibel Island, Florida) Filer comment:  Gifted by Sally Gore to her three sons, which includes Chris Coons.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PNC(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TCS Lease Management LLC Investment Acct",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Mariner Wealth Advisors(Overland Park, KS)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSGGX - Fidelity Global Ex U.S. Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNSFX - Invesco Convertible Securities Fund Cl R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BIOIX - Baron Opportunity Fund Inst Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FTHSX - Fuller & Thaler Behavioral Small-Cap Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSSPX - Cohen & Steers Global Realty Shares Inc Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GERIX - Goldman Sachs Emerging Mkts Equity Insight Fd IN",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GLIFX - Lazard Global Listed Infrastructure Ptf Insti Sh",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LBFIX - Clearbridge Select Fd I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWILX - Vanguard International Growth Fund Admiral Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JSOSX - Jpmorgan Strategic Income Opportunities Fund I C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOBIX - Brandywineglobal - Global Opportunities Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RPIFX - T. Rowe Price Institutional Floating Rate Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIMSX - Virtus Newfleet Multi-Sector Short Term Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DVY - Select Dividend Ishares ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Putnam 529 Investment Institution: Putnam Investments",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Putnam 529 Age-Based GRAD-A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Putnam 529 Age-Based GRAD-C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "05/03/2022",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "W.L. Gore & Associates, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: W.L. Gore & Associates, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Advanced materials manufacturing",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GIBIX - Guggenheim Total Return Bond Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PDVYX - Putnam Diversified Income Trust Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/11/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TSCSX - Thrivent Small Cap Stock Fund Class S",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VGISX - Virtus Duff & Phelps Global Real Estate Securities Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JENIX - Jensen Quality Growth Fund Class i",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PLIDX - Pacific Funds Core Income Fund Advisor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IXUS - iShares Core MSCI Total Internal Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BFWFX - American Funds Capital World Bond Fund Class F-2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "WFBFX - American Funds Capital World Bond Fund Class F-3",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MXIIX - Touchstone Flexible Income Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TFSLX - Touchstone Flexible Income Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/11/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IYMIX - Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "EIFAX - Eaton Vance Floating-Rate Advantage Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VIESX - Virtus KAR Emerging Markets Small-Cap Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CGRYX - Invesco Comstock Select Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/01/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RIPNX",
+          "asset-name": "Royce International Premier Fund Investment Cl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RIPIX",
+          "asset-name": "Royce International Premier Fund Institutional C",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CLNCX - Columbia Large Cap Enhanced Core Fund Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/17/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IYMIX - Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TSCSX - Thrivent Small Cap Stock Fund Class S",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "WFBFX - American Funds Capital World Bond Fund Class F-3",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IYMIX - Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JENIX - Jensen Quality Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IYMIX - Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/14/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CNSFX - Invesco Convertible Securities Fund Class R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JSOSX - JPMorgan Strategic Income Opportunities Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "OANMX - Oakmark Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "PCGYX - Putnam Convertible Securities Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "PDVYX - Putnam Diversified Income Trust Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/01/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CFRIX - Catalyst/CIFC Floating Rate Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LAOIX - Western Asset Macro Opportunities Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LAHYX - Lord Abbett High Yield Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LGLFX - Lord Abbett Growth Leaders Fund Class F",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "BIOIX - Baron Opportunity Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CFRIX - Catalyst/CIFC Floating Rate Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CSSPX - Cohen & Steers Global Realty Shares, Inc. Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "FTHSX - Fuller & Thaler Behavioral Small-Cap Equity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JERIX - Janus Henderson Global Real Estate Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VWILX - Vanguard International Growth Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VADIX - Virtus Duff & Phelps Real Asset Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "FSGGX - Fidelity Global ex U.S. Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GERIX - Goldman Sachs Emerging Markets Equity Insights Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GLIFX - Lazard Global Listed Infrastructure Portfolio Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "DBEF - Xtrackers MSCI EAFE Hedged Equity ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/22/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "DVY - iShares Select Dividend ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/22/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LAHYX - Lord Abbett High Yield Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "PIMSX - Virtus Newfleet Multi-Sector Short Term Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SAMBX - Virtus Seix Floating Rate High Income Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CFRIX - Catalyst/CIFC Floating Rate Income Fun dClass",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GSMYX - Goldman Sachs Small/Mid Cap Growth Fund Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LBFIX - ClearBridge Select Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "RPIFX - T. Rowe Price Institutional Floating Rate Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "GOBIX - Brandywine Global - Global Opportunities Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LAHYX - Lord Abbett High Yield Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "OANMX - Oakmark Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "DVY - iShares Select Dividend ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/26/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Fixed Income Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/14/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Today Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/14/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Disciplined Eqty HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Put VT Intl Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Ttl Return Bond HLS",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fidelity VIP Equity-Incm",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AB VPS Intl Value Port",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Disciplined Eqty HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Ttl Return Bond HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AB VPS Intl Value Port",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Put VT Intl Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fidelity VIP Equity Incm",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AB VPS Grwth and Inc Port",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Putnam VT Small Cap Value",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Intl Opp HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "InvescoV.I. Comstock Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Ttl Return Bond HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AB VPS Intl Value Port",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T. Rowe Price ShTmBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRate Inc",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTR",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "GSBIX - Goldman Sachs Income Builder Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "GSBIX - Goldman Sachs Income Builder Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "GSBIX - Goldman Sachs Income Builder Fund Institutional Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "BLAFX - Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/13/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "LIGFX - Lord Abbett Multi-Asset Income Fund Class F",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/29/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "CKKRX - Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "CKKRX - Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "LISFX - Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/29/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "FSGGX - Fidelity Global Ex US Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "CNSFX - Invesco Convertible Securities CL R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "BIOIX - Baron Opportunity Fund Instl Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "FTHSX - Fuller & Thaler Behv Small Cap Equity Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "CSSPX - Cohen & Steers Global Realty Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "GERIX - Goldman Sachs Emerg Mkts Eqty Insights",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "GERIX - Goldman Sachs Emerg Mkts Eqty Insights",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "OANMX - Oakmark Funds Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "GLIFX - Lazard Global Listed Infrastructure Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "LBFIX - Clearbridge Select Fund I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "VWILX - Vanguard Intl Growth Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "BSBIX - Baird Short Term Bd FD Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "JSOSX - JPMorgan Strategic Income Opps",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "GOBIX - Brandywine Global Glbl Oppor BD CL I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "RPIFX - T Rowe Price Instl Floating Rate Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "VWIUX - Vanguard Intermdiate Tax Exempt",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "VWIUX - Vanguard Intermdiate Tax Exempt",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "DVY - Ishares Select Dividend",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "DVY - Ishares Select Dividend",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BIOIX - Baron Opportunity Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CFRIX - Catalyst Floating Rate Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "DVY - iShares Select Dividend",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CFRIX - CatalystFloating Rate Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CNSFX - Invesco Convertible Securities Fund Class R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GLIFX - Lazard Global Listed Infrastructure Portfolio Institutional Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OANMX - Oakmark Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "DVY - iShares Select Dividend",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BIOIX - Baron Opportunity Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CNSFX - Invesco Convertible Securities Fund Class R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OANMX - Oakmark Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PGPCX - George Putnam Balance Fund Class C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/01/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PGEYX - George Putnam Balanced Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CSSPX - Cohen & Steers Global Realty Shares, Inc. Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "FSGGX - Fidelity Global ex U.S. Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "FTHSX - Fuller & Thaler Behavioral Small-Cap Equity Fund Institutional Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GERIX - Goldman Sachs Emerging Markets Equity Insights Fund International",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VWILX - Vanguard International Growth Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PGEYX - George Putnam Balance Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/21/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "LBFIX - ClearBridge Select Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "DVY - iShares Select Dividend",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/22/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PGEYX - George Putnam Balance Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GOBIX - Legg Mason BW Global Opportunities Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OANMX - Oakmark Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PIMSX - Virtus Newfleet Multi-Sector Short Term Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CFRIX - Catalyst Floating Rate Income Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PGEYX - George Putnam Balance Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BIOIX - Baron Opportunity Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GOBIX - Legg Mason BW Global Opportunities Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JSOSX - JPMorgan Strategic Income Opportunities Fund Class I Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "RPIFX - T. Rowe Price Institutional Floating Rate Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Putnam 529 Age-Based Grad-C",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/30/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Putnam 529 Age-Based 2001-C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/30/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Putnam 529 Age-Based Grad-C",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/30/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Putnam 529 Age-Based Grad-C",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/30/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Putnam 529 Age-Based Grad-C",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/30/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Putnam 529 Age-Based Grad-C",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "PSTCX",
+          "asset-name": "Virtus Newfleet Multi-Sector Short Term Bond Fun",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/14/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "PSTCX",
+          "asset-name": "Virtus Newfleet Multi-Sector Short Term Bond Fun",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/07/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AUNYX",
+          "asset-name": "Ab Bond Fund Inc. - Ab Municipal Bond Inflation",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opportunities Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GIBIX",
+          "asset-name": "Guggenheim Total Return Bond Fund- Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSCSX",
+          "asset-name": "Thrivent Small Cap Stock Fund Class S",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TFSLX",
+          "asset-name": "Touchstone Flexible Income Fd Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/03/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AUNYX",
+          "asset-name": "Ab Bond Fund Inc. - Ab Municipal Bond Inflation",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opportunities Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IYMIX",
+          "asset-name": "Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GIBIX",
+          "asset-name": "Guggenheim Total Return Bond Fund- Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TFSLX",
+          "asset-name": "Touchstone Flexible Income Fd Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HGGAX",
+          "asset-name": "Harbor Global Leaders Fund - Insti Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VIESX",
+          "asset-name": "Virtus Kar Emerging Markets Small-Cap Fund I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AUNYX",
+          "asset-name": "Ab Bond Fund Inc. - Ab Municipal Bond Inflation",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/21/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MAWIX",
+          "asset-name": "Blackrock Strategic Global Bond Fund Inc. - Ins",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSCSX",
+          "asset-name": "Thrivent Small Cap Stock Fund Class S",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TFSLX",
+          "asset-name": "Touchstone Flexible Income Fd Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VIESX",
+          "asset-name": "Virtus Kar Emerging Markets Small-Cap Fund I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/21/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/22/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CFRIX",
+          "asset-name": "Catalyst/Cifc Floating Rate Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/05/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VWUAX",
+          "asset-name": "Vanguard  U.S. Growth Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/05/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IXUS",
+          "asset-name": "iShares Core MSCI Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/26/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VGISX",
+          "asset-name": "Virtus Duff & Phelps Global Real Estate Securiti",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IYMIX",
+          "asset-name": "Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/03/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSCSX",
+          "asset-name": "Thrivent Small Cap Stock Fund Class S",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VGISX",
+          "asset-name": "Virtus Duff & Phelps Global Real Estate Securiti",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VWUAX",
+          "asset-name": "Vanguard  U.S. Growth Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IYMIX",
+          "asset-name": "Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VWUAX",
+          "asset-name": "Vanguard  U.S. Growth Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VGISX",
+          "asset-name": "Virtus Duff & Phelps Global Real Estate Securiti",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AUNYX",
+          "asset-name": "Ab Bond Fund Inc. - Ab Municipal Bond Inflation",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/26/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IYMIX",
+          "asset-name": "Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/26/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IXUS",
+          "asset-name": "iShares Core MSCI Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "RGERX",
+          "asset-name": "Columbia Select Global Equity Fund Class I2",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "HGGAX",
+          "asset-name": "Harbor Global Growth Fund - Insti Cl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "RAIIX",
+          "asset-name": "Rainier International Discovery Series - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TFSLX",
+          "asset-name": "Touchstone Flexible Income Fd Inst Cl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GQGIX",
+          "asset-name": "Gqg Partners Emerging Markets Equity Fund Instit",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TFSLX",
+          "asset-name": "Touchstone Flexible Income Fd Inst Cl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VIESX",
+          "asset-name": "Virtus Kar Emerging Markets Small-Cap Fund I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IXUS",
+          "asset-name": "iShares Core MSCI Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/14/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CFRIX",
+          "asset-name": "Catalyst/Cifc Floating Rate Income Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FIWDX",
+          "asset-name": "Fidelity Advisor Strategic Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSCSX",
+          "asset-name": "Thrivent Small Cap Stock Fund Class S",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VWUAX",
+          "asset-name": "Vanguard  U.S. Growth Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MAWIX",
+          "asset-name": "Blackrock Strategic Global Bond Fund Inc. - Ins",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CFRIX",
+          "asset-name": "Catalyst/Cifc Floating Rate Income Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VGISX",
+          "asset-name": "Virtus Duff & Phelps Global Real Estate Securiti",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IXUS",
+          "asset-name": "iShares Core MSCI Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "FDRXX - FIDELITY GOVERNMENT CASH RESERVES",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/30/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IYMIX",
+          "asset-name": "Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EIFAX",
+          "asset-name": "Eaton Vance Floating-Rate Advantaged Fund Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JSDSX",
+          "asset-name": "Jpmorgan Short Duration Core Plus Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Inv Tr. Short Duration Income Fd Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "TSCSX",
+          "asset-name": "Thrivent Small Cap Stock Fund Class S",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "AUNYX",
+          "asset-name": "Ab Bond Fund Inc. - Ab Municipal Bond Inflation",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IYMIX",
+          "asset-name": "Delaware Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/13/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "RGERX",
+          "asset-name": "Columbia Select Global Equity Fund Class I2",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/17/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EIFAX",
+          "asset-name": "Eaton Vance Floating-Rate Advantaged Fund Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/17/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GQGIX",
+          "asset-name": "Gqg Partners Emerging Markets Equity Fund Instit",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/17/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VGISX",
+          "asset-name": "Virtus Duff & Phelps Global Real Estate Securiti",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/17/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IXUS",
+          "asset-name": "iShares Core MSCI Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "EIFAX",
+          "asset-name": "Eaton Vance Floating-Rate Advantaged Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GIBIX",
+          "asset-name": "Guggenheim Total Return Bond Fund- Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JSDSX",
+          "asset-name": "Jpmorgan Short Duration Core Plus Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "RAIIX",
+          "asset-name": "Rainier International Discovery Series - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IXUS",
+          "asset-name": "iShares Core MSCI Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/19/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MAMTX",
+          "asset-name": "Blackrock Strategic Municipal Opportunities Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IYMIX",
+          "asset-name": "Ivy Mid Cap Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "IXUS",
+          "asset-name": "iShares Core MSCI Total International Stock ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "JENIX",
+          "asset-name": "Jensen Quality Growth Fund Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LLDYX",
+          "asset-name": "Lord Abbett Inv Tr. Short Duration Income Fd Cl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "VWUAX",
+          "asset-name": "Vanguard  U.S. Growth Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "MAWIX",
+          "asset-name": "Blackrock Strategic Global Bond Fund Inc. - Ins",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "FIWDX",
+          "asset-name": "Fidelity Advisor Strategic Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GIBIX",
+          "asset-name": "Guggenheim Total Return Bond Fund- Institutional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LAHYX",
+          "asset-name": "Lord Abbett Investment Trust High Yield Fund Cla",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "DGRO",
+          "asset-name": "iShares Core Dividend Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Chase\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "4.00%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Dorothy A. Lingenfelter\n\t\t\t\t\t\t\t\tSun City West, AZ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Joint",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "18.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(N/A)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "American Express\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO John C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Margaret C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Michael A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Middle Run Charitable Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for John C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for Margaret C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for Michael A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Joshua R Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Tanner K Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Katelyn G Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Genevieve G Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Ulyana Z Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Savannah J Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Derek W Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Thaddeus V Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Julie A Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Nathan S Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Ksenia M Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Alexandra G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Serena G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sydney G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Elizabeth F Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sarah J Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sebastian A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Nov 2000",
+          "parties-involved": "New Castle County Pension Board\n\t\t\t\t\t\t\t\tNew Castle, DE",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Vested in New Castle County Pension Plan.  I will receive monthly payments beginning at retirement age.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

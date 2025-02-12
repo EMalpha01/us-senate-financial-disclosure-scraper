@@ -1,0 +1,700 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2017",
+  "filer": "The Honorable Michael D Crapo (Crapo, Michael D.)",
+  "filed-date": "05/15/2018",
+  "filed-time": "3:29 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Wages",
+          "who-paid": "Crapo for US Senate\n\t\t\t\t\t\t\t\tBoise, ID",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Residential homeDescription: Rowhouse (Washington, DC) Filer comment:  Total rental income: $32,559.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings, Filer comment:  Asset balance/checking:  $13,671.00\nAsset balance/savings:  $84,238.00\nTotal income/checking:  $314.96.\nTotal income/savings:  $32.61.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Undivided minority interest in 359-acre ranch landDescription: Ranch land (Fremont County, ID)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Parking spaceDescription: Parking space (Washington, DC) Filer comment:  Monthly rent collected on parking space.  Annual total:  $3,560.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Checking, Savings, Filer comment:  Asset value/checking:  $53,960.00.\nAsset value/savings:  $5,068.00.\nTotal interest income/checking:  $22.52.\nTotal interest income/savings:  $3.04.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PERSI Base PlanFiler comment:  Asset value:  $27,002.64.\nTotal interest income:  $370.31.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Wells Fargo(Idaho Falls, Idaho)Type: Brokerage Sweep Account, Filer comment:  Asset value: $2,744.56.\nTotal income: $20.37.",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "3% of mineral rights leaseDescription: Subsurface mineral rights on 640 acres (McKenzie County, ND) Filer comment:  Total royalties received: $14,765.00.",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Joint",
+          "value": "Unascertainable",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "APGYX - AB Large Cap Growth AdvisorFiler comment:  Asset value: $16,886.82.\nTotal income: N/A.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRNIX - AllianzGI NFJ Mid-Cap Value InstlFiler comment:  Asset value: $10,613.58.\nTotal income: $123.78.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSIIX - BlackRock Strategic Income Opps InstlFiler comment:  Asset value: $4,837.52.\nTotal income: $165.62.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DOMOX-Domini Impact International Equity InstlFiler comment:  Asset value: $11,914.60.\nTotal income: $357.43.\nShare class change from DOMIX to DOMOX in November 2017.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EGFIX - Edgewood Growth InstlFiler comment:  Asset value: $11,259.28.\nTotal income: N/A.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOGIX - JHancock International Growth IFiler comment:  Asset value: $12,154.19.\nTotal income: N/A.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFFFX - American Funds New World F2Filer comment:  Asset value: $9,277.46.\nTotal income: $112.45.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JSOSX - JPMorgan Strategic Income Opports IFiler comment:  Asset value: $4,794.40.\nTotal income: $154.16.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HLQVX - JPMorgan Large Cap Value IFiler comment:  Asset value: $7,104.59.\nTotal income: $69.58.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PSMIX - Principal Global Multi-Strategy InstlFiler comment:  Asset value: $14,649.51.\nTotal income: $114.47.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QOPYX-Oppenheimer Fundamental Alternatives YFiler comment:  Asset value: $6,296.27.\nTotal income: $114.66.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OOSYX - Oppenheimer Senior Floating Rate YFiler comment:  Asset value: $4,814.80.\nTotal income: $211.94.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PCBIX - Principal MidCap InstitutionalFiler comment:  Asset value: $16,322.11.\nTotal income: $7.95.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIMIX-PIMCO Income InstlFiler comment:  Asset value: $9,746.24.\nTotal income: $523.04.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PXTIX - PIMCO RAE Fundamental PLUS InstFiler comment:  Asset value: $8,875.46.\nTotal income: $251.93.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PFORX - PIMCO Foreign Bond (USD-Hedged) InstlFiler comment:  Asset value: $4,751.48.\nTotal income: $54.77.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BPAIX - Boston Partners All Cap Value InstlFiler comment:  Asset value: $15,777.59.\nTotal income: $110.06.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "APGYX - AB Large Cap Growth AdvisorFiler comment:  Asset value: $3,035.92.\nTotal income: N/A.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRNIX - AllianzGI NFJ Mid-Cap Value InstlFiler comment:  Asset value: $1,907.08.\nTotal income: $22.24.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DOMOX-Domini Impact International Equity InstlFiler comment:  Asset value: $2,141.06.\nTotal income: $64.23.\nShare class change from DOMIX to DOMOX in November 2017.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EGFIX - Edgewood Growth InstlFiler comment:  Asset value: $2,024.20.\nTotal income: N/A.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOGIX - JHancock International Growth IFiler comment:  Asset value: $2,184.10.\nTotal income: N/A.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NFFFX - American Funds New World F2Filer comment:  Asset value: $1,697.66.\nTotal income: $20.57.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HLQVX - JPMorgan Large Cap Value IFiler comment:  Asset value: $1,276.93.\nTotal income: $12.50.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PSMIX - Principal Global Multi-Strategy InstlFiler comment:  Asset value: $2,633.27.\nTotal income: $20.57.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QOPYX-Oppenheimer Fundamental Alternatives YFiler comment:  Asset value: $1,131.70.\nTotal income: $20.61.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PCBIX - Principal MidCap InstitutionalFiler comment:  Asset value: $2,934.45.\nTotal income: $1.43.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIMIX-PIMCO Income InstlFiler comment:  Asset value: $1,789.33.\nTotal income: $96.02.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PXTIX - PIMCO RAE Fundamental PLUS InstFiler comment:  Asset value: $1,595.65.\nTotal income: $45.29.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BPAIX - Boston Partners All Cap Value InstlFiler comment:  Asset value: $2,836.57.\nTotal income: $19.78.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pharma Partners LLCCompany: Pharma Partners LLC (Englewood, Colorado) Description: Funds research and clinical trials on a new class of drugs, metalloporphyrins.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Biomimetix JV LLCCompany: Biomimetix JV LLC (Englewood, Colorado) Description: Funds research and clinical trials on a new class of drugs, metalloporphyrins. Filer comment:  Purchase amount: $100,000.00.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "11/27/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Pharma Partners, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Pharma Partners, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: The LLC funds research and clinical trials on a new class of drugs, metalloporphyrins. The lead drugs are BMX-010 and BMX-001.",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Investment in LLC."
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opps Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $3,629.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PSMIX",
+          "asset-name": "Principal Global Multi-Strategy Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,108.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JVMIX",
+          "asset-name": "JHancock Disciplined Value Mid Cap I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,156.41."
+        },
+        {
+          "owner": "Self",
+          "ticker": "OOSYX",
+          "asset-name": "Oppenheimer Senior Floating Rate Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,571.85."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PCBIX",
+          "asset-name": "Principal MidCap Institutional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,495.07."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PXTIX",
+          "asset-name": "PIMCO RAE Fundamental PLUS Inst",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,204.90."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFORX",
+          "asset-name": "PIMCO Foreign Bond (USD-Hedged) Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,137.38."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JVAIX",
+          "asset-name": "JPMorgan Value Advantage L",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/20/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,661.75."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JSOSX",
+          "asset-name": "JPMorgan Strategic Income Opports I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/20/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $3,629.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $6,187.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "BPAIX",
+          "asset-name": "Boston Partners All Cap Value Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $13,922.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "LCEYX",
+          "asset-name": "Invesco Diversified Dividend Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $6,222.39."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JVAIX",
+          "asset-name": "JPMorgan Value Advantage L",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $13,740.68."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,112.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BPAIX",
+          "asset-name": "Boston Partners All Cap Value Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $2,503.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LCEYX",
+          "asset-name": "Invesco Diversified Dividend Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,117.87."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JVAIX",
+          "asset-name": "JPMorgan Value Advantage L",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,470.33."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HLQVX",
+          "asset-name": "JPMorgan Large Cap Value I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,112.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRNIX",
+          "asset-name": "AllianzGI NFJ Mid-Cap Value Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $9,973.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "GOGIX",
+          "asset-name": "JHancock International Growth I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $11,636.00."
+        },
+        {
+          "owner": "Self",
+          "ticker": "JVMIX",
+          "asset-name": "JHancock Disciplined Value Mid Cap I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $9,885.71."
+        },
+        {
+          "owner": "Self",
+          "ticker": "MINIX",
+          "asset-name": "MFS International Value I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $12,004.39."
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIGYX",
+          "asset-name": "Oppenheimer International Growth Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $12,264.16."
+        },
+        {
+          "owner": "Self",
+          "ticker": "DOMIX",
+          "asset-name": "Domini Impact International Equity Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $11,636.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRNIX",
+          "asset-name": "AllianzGI NFJ Mid-Cap Value Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $1,792.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DOMIX",
+          "asset-name": "Domini Impact International Equity Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $2,091.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GOGIX",
+          "asset-name": "JHancock International Growth I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Purchase price: $2,091.00."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JVMIX",
+          "asset-name": "JHancock Disciplined Value Mid Cap I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $1,746.37."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MINIX",
+          "asset-name": "MFS International Value I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,158.22."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OIGYX",
+          "asset-name": "Oppenheimer International Growth Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "Sale price: $2,157.69."
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0.75",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tIdaho Falls, Idaho",
+          "comments": "Total loan amount: $337,956.06."
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Nov 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Pharma Partners, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEnglewood, Colorado",
+          "entity-type": "Company",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

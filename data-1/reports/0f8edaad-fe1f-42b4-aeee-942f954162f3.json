@@ -1,0 +1,304 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "Mr. Thomas J Ossoff (Ossoff, Jon)",
+  "filed-date": "05/15/2023",
+  "filed-time": "3:29 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Emory Healthcare\n\t\t\t\t\t\t\t\tAtlanta, GA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "The Thomas Jonathan Ossoff Qualified Blind Trust of 2021",
+          "asset-type": "TrustBlind",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Fidelity IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Fidelity Government Money Market (SPAXX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Insight TWICompany: Insight TWI (London, UK) Description: Inactive. Filer comment:  Senator resigned all positions early Feb. 2021; ceased all involvement Jan. 2021. Company inactive.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Israel",
+          "asset-type": "Foreign BondsForeign Bond",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Edward Jones Roth IRA Select - Growth Focus",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "American Balanced A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Bond Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Global Growth Port A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Growth Fd of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American Mutual A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "American SmallCap World A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Edward Jones(Mount Kisco, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Emory University Retirement Plan - 091326",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Vanguard Inst Target Ret 2055 Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Atlanta, GA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Intl Eq T-4",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transferred to already-existing Edward Jones Roth IRA. Amt < $1001; listing here for clarity on disposition of asset."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acq Md-Cap Gr T4",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transferred to already-existing Edward Jones Roth IRA."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Access Qt SmCp Eq T4",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transferred to already-existing Edward Jones Roth IRA."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Gr & Inc T4",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transferred to already-existing Edward Jones Roth IRA."
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lg-Cap Gr T4",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "Transferred to already-existing Edward Jones Roth IRA."
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "2.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Truist Bank\n\t\t\t\t\t\t\t\tCharlotte, NC",
+          "comments": "Truist acquired loan from Ameris."
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Self",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "0.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(NA)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "American Express\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(CEO)",
+          "entity": "The World Investigates Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAtlanta, GA",
+          "entity-type": "Nonprofit Organization",
+          "comments": "Entity inactive."
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Organizer)",
+          "entity": "Tailwind Media, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAtlanta, GA",
+          "entity-type": "Corporation",
+          "comments": "Entity inactive."
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Organizer)",
+          "entity": "TWI Digital, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAtlanta, GA",
+          "entity-type": "Corporation",
+          "comments": "Entity inactive."
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tFeb 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Officer (CEO))",
+          "entity": "Insight TWI\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLondon, UK",
+          "entity-type": "Corporation",
+          "comments": "Resigned February 2021. Entity inactive."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report",
+  "filer": "Ms. Cynthia M Lummis",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Member Draw",
+          "who-paid": "Lummis Livestock Company\n\t\t\t\t\t\t\t\tCheyennne, Wyoming",
+          "amount-paid": "$110,000.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "Federal Employees Retirement System\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "$20,400.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "Wyoming State Employees Retirement System\n\t\t\t\t\t\t\t\tCheyenne, WY",
+          "amount-paid": "$20,400.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Non-public stockCompany: Arp & Hammond Hardware Company (Cheyenne, WY) Description: Real Estate",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Land and cattleDescription: Lummis Livestock Company LLC (Cheyenne, WY) Filer comment:  Income number is net of all expenses.",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Other, (Cattle sales)",
+          "income": "Other $110,000.00"
+        },
+        {
+          "asset": "Sweetgrass Land Co., LLCDescription: Residential and commercial real estate development (Cheyenne, WY)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Laramie River Ranch LLCDescription: Ag land (Wheatland, WY) Filer comment:  Livestock grazing",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "KO - The Coca-Cola Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LULU - Lululemon Athletica Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MSFT - Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "URI - United Rentals, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "DA DavidsonFiler comment:  Retirement plan.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2009",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "4.20%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(22 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Farm Credit Services\n\t\t\t\t\t\t\t\tOmaha, NE",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2019",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "3.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(7 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Ag Direct\n\t\t\t\t\t\t\t\tOmaha, NE",
+          "comments": "Financing irrigation center pivot."
+        },
+        {
+          "incurred": "2019",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "5.2%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Revolving)",
+          "amount": "$5,000,001 - $25,000,000",
+          "creditor": "Pinnacle Bank\n\t\t\t\t\t\t\t\tTorrington, WY",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2004 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Arp & Hammond Hardware Co.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCheyenne, WY",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Doran A. Lummis Revokable Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCheyenne, WY",
+          "entity-type": "Trust",
+          "comments": "Unpaid position."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

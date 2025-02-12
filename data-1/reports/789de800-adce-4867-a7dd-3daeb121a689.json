@@ -1,0 +1,620 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable Debra S Fischer (Fischer, Deb)",
+  "filed-date": "05/15/2023",
+  "filed-time": "1:01 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Sunny Slope Ranch, Inc\n\t\t\t\t\t\t\t\tValentine, NE",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo(Valentine, NE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rocky Ford LandDescription: Agricultural Land (Valentine, NE)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Union Bank & Trust(Lincoln, NE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Sunny Slope Ranch, IncCompany: Sunny Slope Ranch, Inc. (Valentine, NE) Description: Ranching",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Sunny Slope Ranch, IncCompany: Sunny Slope Ranch, Inc (Valentine, NE) Description: Ranching",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Valentine, NE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Debra Fischer Beneficiary IRAFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "DCCIX - Delaware Small Cap Core Fund InstitutionalFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ICEIX - Ivy International Core Equity Fund Class IFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LASYX - Loomis Sayles Strategic Alpha Fund Class YFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LSWWX - Loomis Sayles Global Allocation Fund Class YFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NERYX - Loomis Sayles Core Plus Bond Fd Cl YFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PARWX - Parnassus Endeavor Fund - Investor SharesFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PONPX - Pimco Income Fund Class I-2Filer comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PRWCX - T. Rowe Price Capital Appreciation FundFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "THIIX - Thornburg Limited Term Income Fd Cl I ShsFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northbrook Bank & Trust(Northbrook, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPMorgan US Government Money Market FundFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LPL Financial",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CAT - Caterpillar, Inc. Common StockFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "LMT - Lockheed Martin Corporation Common StockFiler comment:  Inherited from mother 12-26-21",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XLE - SPDR Select Sector Fund - Energy Select Sector",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BIL - SPDR Bloomberg 1-3 Month T-Bill ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SPEM - SPDR Emerging Markets Portfolio ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SPDW - SPDR Portfolio Developed World ex-US ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SPYG - SPDR S&P 500 Growth Portfolio ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPYV - SPDR S&P 500 Value Portfolio ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SLYG - SPDR S&P 600 Small Cap Growth ETF (based on S&P Sm",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SLYV - SPDR S&P 600 Small Cap Value ETF (based on S&P Sma",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "XME - SPDR S&P Metals & Mining ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XOP - SPDR S&P Oil & Gas Explor & Product",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RAAX - Vaneck Inflation Allocation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Truist Bank(Fort Mill, SC)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "06/23/2022",
+          "owner": "Joint",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar, Inc. Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/23/2022",
+          "owner": "Joint",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc. - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/23/2022",
+          "owner": "Joint",
+          "ticker": "KO",
+          "asset-name": "Coca-Cola Company (The) Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/23/2022",
+          "owner": "Joint",
+          "ticker": "LMT",
+          "asset-name": "Lockheed Martin Corporation Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "IGNAX",
+          "asset-name": "Delaware Ivy Natural Resources Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IPOAX",
+          "asset-name": "Delaware Ivy Emerging Markets Equity Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IVTAX",
+          "asset-name": "Delaware Ivy Managed International Opportunities",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IYVAX",
+          "asset-name": "Delaware Ivy Value Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IVSAX",
+          "asset-name": "Delaware Ivy Global Bond Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WCEAX",
+          "asset-name": "Delaware Ivy Core Equity Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WSGAX",
+          "asset-name": "Delaware Ivy Small Cap Growth Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WLGAX",
+          "asset-name": "Delaware Ivy Large Cap Growth Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WSTAX",
+          "asset-name": "Delaware Ivy Science and Technology Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WASAX",
+          "asset-name": "Delaware Ivy Asset Strategy Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IYIAX",
+          "asset-name": "Delaware Ivy Municipal High Income Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "XLE",
+          "asset-name": "SPDR Select Sector Fund - Energy Select Sector",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "SPEM",
+          "asset-name": "SPDR Emerging Markets Portfolio ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "SPDW",
+          "asset-name": "SPDR Portfolio Developed World ex-US ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "SPYG",
+          "asset-name": "SPDR S&P 500 Growth Portfolio ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "SPYV",
+          "asset-name": "SPDR S&P 500 Value Portfolio ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "SLYG",
+          "asset-name": "SPDR S&P 600 Small Cap Growth ETF (based on S&P Sm",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "SLYV",
+          "asset-name": "SPDR S&P 600 Small Cap Value ETF (based on S&P Sma",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "XME",
+          "asset-name": "SPDR S&P Metals & Mining ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BIL",
+          "asset-name": "SPDR Bloomberg 1-3 Month T-Bill ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "XOP",
+          "asset-name": "SPDR S&P Oil & Gas Explor & Product",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "RAAX",
+          "asset-name": "Vaneck Inflation Allocation ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "FVC",
+          "asset-name": "First Trust Dorsey Wright Dynamic Focus 5 ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/23/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2003",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.59%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Farm Credit Services\n\t\t\t\t\t\t\t\tValentine, NE",
+          "comments": "Owed by Sunny Slope Ranch to FCS - personally guaranteed"
+        },
+        {
+          "incurred": "2014",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.7%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "TD Bank\n\t\t\t\t\t\t\t\tMount Laurel, NJ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Regions Bank\n\t\t\t\t\t\t\t\tHattiesburg, MS",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

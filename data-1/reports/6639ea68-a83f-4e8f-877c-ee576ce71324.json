@@ -1,0 +1,192 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable Michael S Lee (Lee, Mike)",
+  "filed-date": "05/12/2023",
+  "filed-time": "5:24 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Hachette Book Group\n\t\t\t\t\t\t\t\tFranklin, TN",
+          "amount-paid": "$68,750.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Non-employee compensation for teaching)",
+          "who-paid": "Duke University\n\t\t\t\t\t\t\t\tDurham, North Carolina",
+          "amount-paid": "$2,000.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Self Employed\n\t\t\t\t\t\t\t\tProvo, UT",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Utah Community Credit Union(Orem, UT)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Rollover IRA Fidelity Management",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FFTHX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Utah Retirement System",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Long Horizon Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Utah Community Credit Union(Provo, UT)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Feb 2011",
+          "parties-involved": "Regnery Books / Eagle Publishing\n\t\t\t\t\t\t\t\tWashington, DC",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Book publishing agreement with Regnery Books / Eagle Publishing.  Terms of agreement include royalties from sale of book published in July 2011.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2013",
+          "parties-involved": "Simon & Schuster, Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Book publishing agreement with Simon & Schuster, Inc, as entered into in January 2013 and modified in October 2013.  Terms of agreement include royalties from sale of book published in June 2013.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2010",
+          "parties-involved": "Howrey LLP\n\t\t\t\t\t\t\t\tSalt Lake City, UT",
+          "type": "Continuation of payments by former employer",
+          "status-and-terms": "Pursuant to partnership and severance agreements, Howrey LLP to pay remaining partner salary due from 2010.  (Note:  no payments received to date).",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jul 2014",
+          "parties-involved": "Sentinel Books / Penguin Group USA, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Book publishing agreement with Sentinel Books / Penguin Group USA, LLC.  Terms of agreement include royalties from sale of book published in April 2015.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Dec 2015",
+          "parties-involved": "Sentinel Books / Penguin Group USA, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Book publishing agreement with Sentinel Books / Penguin Group USA, LLC.  Terms of agreement include royalties from sale of book published in April 2017.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Mar 2018",
+          "parties-involved": "Sentinel Books / Penguin Group USA, LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Book publishing agreement with Sentinel Books / Penguin Group USA, LLC. Terms of agreement include royalties from sale of book published in April 2019.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Oct 2021",
+          "parties-involved": "Hachette Book Group\n\t\t\t\t\t\t\t\tFranklin, TN",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Book publishing agreement with Hachette Book Group. Terms of agreement include royalties from sale of book published in June 2022.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

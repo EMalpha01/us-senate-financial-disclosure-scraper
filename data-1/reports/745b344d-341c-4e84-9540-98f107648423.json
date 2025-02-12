@@ -1,0 +1,847 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2014 (Amendment 1)",
+  "filer": "The Honorable Elizabeth Warren (Warren, Elizabeth)",
+  "filed-date": "05/23/2018",
+  "filed-time": "10:51 AM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "CCH Inc dba Wolters Kluwer Law & Business (Formerly Aspen Publishers) \n\t\t\t\t\t\t\t\tRiverwoods, IL",
+          "amount-paid": "$35,379.52",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance)",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$1,150,000.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Harvard University\n\t\t\t\t\t\t\t\tCambridge, MA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Perseus Book Groups\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$503.63",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Capital One(McLean, VA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Harvard Employees Credit Union(Cambridge, MA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First National Bank of Omaha(Omaha, NE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TIAA-CREF Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCSTRX - CREF Stock Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCGLRX - CREF Global Equities Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QREARX - TIAA Real Estate Account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCBMRX - CREF Bond Market Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCILRX - CREF Inflation-Linked Bond Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCEQRX - CREF Equity Index Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRGMX - TIAA-CREF Mid-Cap Growth Retire",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBIX - TIAA-CREF Small-Cap Blend Idx Retire",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRERX - TIAA-CREF International Eq Retire",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCILRX - CREF Inflation-Linked Bond Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TBIIX - TIAA-CREF Bond Index Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TBIRX - TIAA-CREF Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCEQRX - CREF Equity Index Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIEIX - TIAA-CREF Equity Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QREARX - TIAA Real Estate Account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCBMRX - CREF Bond Market Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCILRX - CREF Inflation-Linked Bond Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GE Capital Bank(Draper, UT)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GE Capital Bank(Draper, UT)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/17/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/17/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2014",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/17/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QREARX",
+          "asset-name": "TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/17/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/07/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/07/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/20/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/20/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/04/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/09/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/06/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/08/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/05/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/20/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/07/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/26/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/23/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/20/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIEIX",
+          "asset-name": "TIAA-CREF Equity Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/20/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": [
+        {
+          "date-s": "04/21/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t04/24/2014",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "Boston to New York and return",
+          "reimbursed-for": "Train travel, lodging, ground transportation, meals",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        },
+        {
+          "date-s": "04/26/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t04/27/2014",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "Boston to New York to DC",
+          "reimbursed-for": "Train travel, lodging, ground transportation",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        },
+        {
+          "date-s": "05/03/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t05/03/2014",
+          "traveler-s": "Self",
+          "travel-type": "Outside activity",
+          "itinerary": "DC to Chicago to Boston",
+          "reimbursed-for": "Air travel, ground transportation",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        },
+        {
+          "date-s": "05/08/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t05/12/2014",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "DC to Los Angeles to San Francisco to Los Angeles and return",
+          "reimbursed-for": "Air travel, ground transportation, meals",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        },
+        {
+          "date-s": "05/19/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t05/20/2014",
+          "traveler-s": "Self",
+          "travel-type": "Outside activity",
+          "itinerary": "Boston to New York and return",
+          "reimbursed-for": "Train travel, lodging, ground transportation",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        },
+        {
+          "date-s": "05/28/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t05/30/2014",
+          "traveler-s": "Self",
+          "travel-type": "Outside activity",
+          "itinerary": "LA to Portland to Seattle to Boston",
+          "reimbursed-for": "Air travel, lodging, ground transportation",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        },
+        {
+          "date-s": "09/03/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t09/05/2014",
+          "traveler-s": "Self",
+          "travel-type": "Outside activity",
+          "itinerary": "Boston to New York",
+          "reimbursed-for": "Train travel, lodging, ground transportation",
+          "who-paid": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        },
+        {
+          "date-s": "10/03/2014",
+          "traveler-s": "Self",
+          "travel-type": "Outside activity",
+          "itinerary": "Ground transportation in Los Angeles",
+          "reimbursed-for": "Ground transportation",
+          "who-paid": "HBO\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "This travel was part of Senator Warren's book tour for \"A Fighting Chance.\""
+        }
+      ]
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2013",
+          "parties-involved": "Harvard University\n\t\t\t\t\t\t\t\tCambridge, MA",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Agreement with Harvard Law School to hold honorary title of Emeritus Professor.)",
+          "status-and-terms": "Terms of agreement include continued use of storage space for teaching and research materials.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Dec 1985",
+          "parties-involved": "Aspen Publishers (now CCH)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for books, \"Chapter 11:  Reorganizing American Businesses\", \"Commercial Law Studies\", \"Bankruptcy and Article 9\", \"The Law of Debtors and Creditors\", \"Secured Credit:  A Systems Approach\", \"Commercial Transactions:  A Systems Approach.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Mar 2000",
+          "parties-involved": "Yale University Press\n\t\t\t\t\t\t\t\tNew Haven, CT",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"The Fragile Middle Class.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Dec 2013",
+          "parties-involved": "Henry Holt & Co.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance and royalties based on customary and usual terms for book, \"A Fighting Chance.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Apr 2002",
+          "parties-involved": "Perseus Books Group\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"The Two-Income Trap.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "May 1999",
+          "parties-involved": "Beard Books\n\t\t\t\t\t\t\t\tWashington, DC",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"As We Forgive Our Debtors.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Apr 2004",
+          "parties-involved": "Free Press (now Simon & Schuster)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"All Your Worth.\"",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

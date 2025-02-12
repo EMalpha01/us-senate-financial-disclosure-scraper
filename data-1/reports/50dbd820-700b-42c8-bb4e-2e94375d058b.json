@@ -1,0 +1,1869 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2017",
+  "filer": "The Honorable Patty Murray (Murray, Patty)",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": "2017",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Fidelity Investments\n\t\t\t\t\t\t\t\tBoston, MA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "USSFCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USSFCU(Washington, DC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Whidbey Island Bank(Freeland, WA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PQIAX - Principal Equity Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Self IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PQIAX - Principal Equity Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VMRGX - Vanguard Morgan Growth Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VPMCX - Vanguard PRIMECAP Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGENX - Vanguard Energy Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Variable AnnuityProvider: Fidelity",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FAVAM",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FFTHX - Fidelity Freedom 2035",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FFTWX - Fidelity Freedom 2025",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FFXSX - Fidelity Limited Term Government",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FUSEX - Fidelity 500 Index Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDRXX-Fidelity Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FFFEX - Fidelity Freedom 2030",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FMAGX - Fidelity Magellan",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBALX - Fidelity Balanced",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FGRIX - Fidelity Growth & Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "New York Life Secure Term MVA Fixed Annuity IIProvider: New York Life",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of Washington Retirement Plan PERS1",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "STI",
+          "asset-name": "SunTrust Banks, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "WMB",
+          "asset-name": "The Williams Companies, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "WRK",
+          "asset-name": "WestRock Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "WBA",
+          "asset-name": "Walgreens Boots Alliance, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "WMT",
+          "asset-name": "Wal-Mart Stores, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "UTX",
+          "asset-name": "United Technologies Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "UPS",
+          "asset-name": "United Parcel Service, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "UN",
+          "asset-name": "Unilever N.V.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "USB",
+          "asset-name": "U.S. Bancorp",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "TUP",
+          "asset-name": "Tupperware Brands Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "TWX",
+          "asset-name": "Time Warner Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "TGT",
+          "asset-name": "Target Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "SU",
+          "asset-name": "Suncor Energy Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "STT",
+          "asset-name": "State Street Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "SO",
+          "asset-name": "The Southern Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "SLB",
+          "asset-name": "Schlumberger Limited",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "SNY",
+          "asset-name": "Sanofi",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "SABR",
+          "asset-name": "Sabre Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "RTN",
+          "asset-name": "Raytheon Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "QCOM",
+          "asset-name": "QUALCOMM Incorporated",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "PSA",
+          "asset-name": "Public Storage",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "PRU",
+          "asset-name": "Prudential Financial, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "PFE",
+          "asset-name": "Pfizer Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "PAYX",
+          "asset-name": "Paychex, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "PPL",
+          "asset-name": "PPL Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MS",
+          "asset-name": "Morgan Stanley",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "TAP",
+          "asset-name": "Molson Coors Brewing Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MET",
+          "asset-name": "MetLife, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MRK",
+          "asset-name": "Merck & Co., Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MXIM",
+          "asset-name": "Maxim Integrated Products, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MMC",
+          "asset-name": "Marsh & McLennan Companies, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MTB",
+          "asset-name": "M&T Bank Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "KMI",
+          "asset-name": "Kinder Morgan, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "KMB",
+          "asset-name": "Kimberly-Clark Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "KEY",
+          "asset-name": "KeyCorp",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "KAR",
+          "asset-name": "KAR Auction Services, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "JNJ",
+          "asset-name": "Johnson & Johnson",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "HSY",
+          "asset-name": "The Hershey Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "GSK",
+          "asset-name": "GlaxoSmithKline plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "GM",
+          "asset-name": "General Motors Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "GD",
+          "asset-name": "General Dynamics Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "FL",
+          "asset-name": "Foot Locker, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "EXC",
+          "asset-name": "Exelon Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "ETR",
+          "asset-name": "Entergy Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "DNKN",
+          "asset-name": "Dunkin' Brands Group, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "DUK",
+          "asset-name": "Duke Energy Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "DOW",
+          "asset-name": "The Dow Chemical Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "CCI",
+          "asset-name": "Crown Castle International Corp.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "COP",
+          "asset-name": "ConocoPhillips",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "CMA",
+          "asset-name": "Comerica Incorporated",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "KO",
+          "asset-name": "The Coca-Cola Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "BMY",
+          "asset-name": "Bristol-Myers Squibb Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "BGS",
+          "asset-name": "B&G Foods, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "APA",
+          "asset-name": "Apache Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "AMGN",
+          "asset-name": "Amgen Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "LYB",
+          "asset-name": "LyondellBasell Industries N.V.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "TEL",
+          "asset-name": "TE Connectivity Ltd.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "CB",
+          "asset-name": "Chubb Limited",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "MDT",
+          "asset-name": "Medtronic plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "ETN",
+          "asset-name": "Eaton Corporation plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/16/2017",
+          "owner": "Spouse",
+          "ticker": "DLPH",
+          "asset-name": "Delphi Automotive PLC",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "TEL",
+          "asset-name": "TE Connectivity Ltd.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "WMB",
+          "asset-name": "The Williams Companies, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MDT",
+          "asset-name": "Medtronic plc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "ETN",
+          "asset-name": "Eaton Corporation plc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "DLPH",
+          "asset-name": "Delphi Automotive PLC",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "CB",
+          "asset-name": "Chubb Limited",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "WRK",
+          "asset-name": "WestRock Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "WBA",
+          "asset-name": "Walgreens Boots Alliance, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "WMT",
+          "asset-name": "Wal-Mart Stores, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "VTR",
+          "asset-name": "Ventas, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "UTX",
+          "asset-name": "United Technologies Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "UPS",
+          "asset-name": "United Parcel Service, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "UN",
+          "asset-name": "Unilever N.V.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "USB",
+          "asset-name": "U.S. Bancorp",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "TUP",
+          "asset-name": "Tupperware Brands Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "TWX",
+          "asset-name": "Time Warner Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "TEVA",
+          "asset-name": "Teva Pharmaceutical Industries Limited",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "TGT",
+          "asset-name": "Target Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "TSM",
+          "asset-name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "STI",
+          "asset-name": "SunTrust Banks, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "SU",
+          "asset-name": "Suncor Energy Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "STT",
+          "asset-name": "State Street Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "SO",
+          "asset-name": "The Southern Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "SLB",
+          "asset-name": "Schlumberger Limited",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "SNY",
+          "asset-name": "Sanofi",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "SABR",
+          "asset-name": "Sabre Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "RAI",
+          "asset-name": "Reynolds American Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "RTN",
+          "asset-name": "Raytheon Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "QCOM",
+          "asset-name": "QUALCOMM Incorporated",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "PSA",
+          "asset-name": "Public Storage",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "PRU",
+          "asset-name": "Prudential Financial, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "PDM",
+          "asset-name": "Piedmont Office Realty Trust, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "PFE",
+          "asset-name": "Pfizer Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "PAYX",
+          "asset-name": "Paychex, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "PPL",
+          "asset-name": "PPL Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MS",
+          "asset-name": "Morgan Stanley",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "TAP",
+          "asset-name": "Molson Coors Brewing Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MET",
+          "asset-name": "MetLife, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MRK",
+          "asset-name": "Merck & Co., Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MXIM",
+          "asset-name": "Maxim Integrated Products, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MDC",
+          "asset-name": "M.D.C. Holdings, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "MTB",
+          "asset-name": "M&T Bank Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "KMI",
+          "asset-name": "Kinder Morgan, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "KMB",
+          "asset-name": "Kimberly-Clark Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "KEY",
+          "asset-name": "KeyCorp",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "KAR",
+          "asset-name": "KAR Auction Services, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "JNJ",
+          "asset-name": "Johnson & Johnson",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "HSY",
+          "asset-name": "The Hershey Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "GSK",
+          "asset-name": "GlaxoSmithKline plc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "GM",
+          "asset-name": "General Motors Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "GD",
+          "asset-name": "General Dynamics Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "EXC",
+          "asset-name": "Exelon Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "ETR",
+          "asset-name": "Entergy Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "DNKN",
+          "asset-name": "Dunkin' Brands Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "DUK",
+          "asset-name": "Duke Energy Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "DOW",
+          "asset-name": "The Dow Chemical Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "CCI",
+          "asset-name": "Crown Castle International Corp.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "COP",
+          "asset-name": "ConocoPhillips",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "CMA",
+          "asset-name": "Comerica Incorporated",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "KO",
+          "asset-name": "The Coca-Cola Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "BMY",
+          "asset-name": "Bristol-Myers Squibb Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "BGS",
+          "asset-name": "B&G Foods, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "APA",
+          "asset-name": "Apache Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "AMGN",
+          "asset-name": "Amgen Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "AMT",
+          "asset-name": "American Tower Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "06/15/2017",
+          "owner": "Spouse",
+          "ticker": "LYB",
+          "asset-name": "LyondellBasell Industries N.V.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/10/2017",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FFTHX",
+          "asset-name": "Fidelity Freedom 2035",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/09/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FBGRX",
+          "asset-name": "Fidelity Blue Chip Growth",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/09/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/14/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/14/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "New York Life Secure Term MVA Fixed Annuity II",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/15/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/20/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/20/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/20/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FDRXX",
+          "asset-name": "Fidelity Cash Reserves",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/26/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FFTHX",
+          "asset-name": "Fidelity Freedom 2035",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/26/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2005",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "WSJ Prime%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 Year Draw, 20 Year Payback)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

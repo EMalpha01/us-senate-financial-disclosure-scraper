@@ -1,0 +1,1216 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2017",
+  "filer": "The Honorable Christopher A Coons (Coons, Chris)",
+  "filed-date": "08/13/2018",
+  "filed-time": "6:11 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": [
+        {
+          "date": "03/30/2017",
+          "activity": "Speech",
+          "amount": "$500.00",
+          "who-paid": "American Association for the Advancement of Science\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        },
+        {
+          "date": "03/30/2017",
+          "activity": "Speech",
+          "amount": "$500.00",
+          "who-paid": "American Association for the Advancement of Science\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        },
+        {
+          "date": "03/30/2017",
+          "activity": "Speech",
+          "amount": "$500.00",
+          "who-paid": "American Association for the Advancement of Science\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        },
+        {
+          "date": "03/30/2017",
+          "activity": "Speech",
+          "amount": "$500.00",
+          "who-paid": "American Association for the Advancement of Science\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "A Charity",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "W.L. Gore & Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "NFS/FMTC IRA FBO Christopher A Coons",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FDRXX - Fidelity Cash Reserves (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OGMNX - Oppenheimer Gold & Special Minerals N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OSMNX - Oppenheimer International Small Co N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OIGNX-Oppenheimer International Growth N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QIVNX - Oppenheimer International Value N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ORENX - Oppenheimer Real Estate N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QSCNX - Oppenheimer Small & Mid Cap Value N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CGRNX - Oppenheimer Value N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OIBNX - Oppenheimer International Bond N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SSSGX - Sentinel Low Duration Bond S (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "W.L. Gore & Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "NFS/FMTC IRA FBO Ann M Coons",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FDRXX - Fidelity Cash Reserves (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PWBCX-Virtus AlphaSector Rotation C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JVICX - Virtus Foreign Opportunities C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge 529Institution: Scholar's Edge",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "School Years Portfolio C (1585)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Moderately Aggressive Portfolio A (1182)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ages 15-17 Years Portfolio C (1104)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ages 17-18 Years Portfolio (1107)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Christopher Coons Charitable Remainder Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The Hartford Variable AnnuityProvider: FCG Advisors LLC",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Hartford Total Return Bond HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Albern VPS Intl Val",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hartford Intl Opp HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Put VT Intl Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Albern VPS Val",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Equity-Incm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Grwth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oppen Cap App VA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco V.I. Comstock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hartford Disciplined Equity HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oppenheimer Main St Sm Cap Fd",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Putnam VT SmCap Val",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ann M Coons Charitable Remainder Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The Hartford Variable AnnuityProvider: FCG Advisors LLC",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Hartford Total Return Bond HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Albern VPS  Intl Val",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hartford Intl Opp HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Put VT Intl Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Albern VPS Val",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Equity-Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hartford Disciplined Equity HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hartford SmCap Growth HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco V.I. Comstock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oppenheimer Cap App VA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Oppenheimer Main St Small Cap Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Put VT SmCap Val",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust John C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FZAXX - Fidelity Government Money Marke",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LWSCX-Lord Abbett Multi-Asset Growth C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust Margaret C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FZAXX - Fidelity Government Money Marke",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LWSCX-Lord Abbett Multi-Asset Growth C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust Michael A Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FZAXX - Fidelity Government Money Marke",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LWSCX-Lord Abbett Multi-Asset Growth C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO John C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO Margaret C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO Michael A Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "09/12/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "W.L. Gore & Associates Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: W.L. Gore & Associates Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Advanced materials manufacturing",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Putnam VT SmCap Val",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Oppenheimer Main St Sm Cap Fd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Albern VPS Val",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Albern VPS Intl Val",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Put VT Intl Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Hartford Total Return Bond HLS",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Hartford Disciplined Equity HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Hartford Total Return Bond HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Albern VPS Intl Val",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Put VT Intl Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Oppenheimer Main St Sm Cap Fd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Hartford Intl Opp HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fidelity VIP Equity-Incm",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Albern VPS Val",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Putnam VT SmCap Val",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Invesco V.I. Comstock Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Put VT Intl Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Hartford Total Return Bond HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Hartford Disciplined Equity HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Hartford Total Return Bond HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Albern VPS Intl Val",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Put VT Intl Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Albern VPS Val",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fidelity VIP Equity-Income",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Hartford Intl Opp HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ages 15-17 Years Portfolio C (1104)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/27/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ages 17-18 Years Portfolio (1107)",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2017",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": [
+        {
+          "date": "12/27/2017",
+          "recipient": "Self",
+          "gift": "Joint family trip, including travel by private plane & condo rental (lodging paid for with points)",
+          "value": "$61,000.00",
+          "from": "Steve and Theresa Esmond\n\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "WSFS Bank\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Anthony W. and Dorothy A. Lingenfelter\n\t\t\t\t\t\t\t\tSun City West, AZ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0.125",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "PNC Bank\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO John C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Margaret C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Michael A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Middle Run Charitable Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for John C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for Margaret C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for Michael A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Joshua R Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Tanner K Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Katelyn G Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Genevieve G Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Ulyana Z Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Savannah J Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Derek W Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Thaddeus V Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Julie A Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Nathan S Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Ksenia M Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Alexandra G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Serena G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sydney G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Elizabeth F Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sarah J Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sebastian A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

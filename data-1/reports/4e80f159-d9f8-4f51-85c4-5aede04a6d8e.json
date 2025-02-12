@@ -1,0 +1,1103 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2015 (Amendment 2)",
+  "filer": "The Honorable William Cassidy (Cassidy, Bill)",
+  "filed-date": "12/18/2017",
+  "filed-time": "3:45 PM",
+  "calendar-year": "2015",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo IRA #2",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AMT - American Tower Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T - AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CAT - Caterpillar Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CTL-CenturyLink, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CVX - Chevron Corporation (NYSE)Filer comment:  Due to adverse economic conditions, an unrealized loss resulted in the reduction in market value of this stock.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COP - ConocoPhillips (NYSE)Filer comment:  Due to adverse economic conditions, an unrealized loss resulted in the reduction in market value of this stock.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XOM - Exxon Mobil Corporation (NYSE)Filer comment:  Due to adverse economic conditions, an unrealized loss resulted in the reduction in market value of this stock.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "F - Ford Motor Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCOM - QUALCOMM Incorporated (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RDS-B - Royal Dutch Shell plc (NYSE)Filer comment:  Due to adverse economic conditions, an unrealized loss resulted in the reduction in market value of this stock.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TM - Toyota Motor Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "YACKX - AMG Yacktman Service (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKBX - Oakmark Equity & Income I (NASDAQ)Filer comment:  Due to an unrealized gain, this resulted in an increase in market value.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IVWIX - IVA Worldwide I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNBSX - JPMorgan Income Builder Select (NASDAQ)Filer comment:  Due to an unrealized gain, this resulted in an increase in market value.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRWCX - T. Rowe Price Capital Appreciation (NASDAQ)Filer comment:  Due to an unrealized gain, this resulted in an increase in market value.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CMI - Cummins Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IHE - iShares US Pharmaceuticals",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OXY - Occidental Petroleum Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIBIX - Thornburg Investment Income Builder I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TBGVX - Tweedy, Browne Global Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo IRA #1",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "YACKX - AMG Yacktman Service (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IVWIX - IVA Worldwide I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRWCX - T. Rowe Price Capital Appreciation (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKBX - Oakmark Equity & Income I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNBSX - JPMorgan Income Builder Select",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIBIX - Thornburg Investment Income Builder I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TBGVX - Tweedy, Browne Global Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo Investment Account",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WELLS FARGO ADVISORS, LLC(ST. LOUIS, MO)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NBL - Noble Energy, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Retirement",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA-CREF TraditionalProvider: TIAA-CREF Financial Services",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIKRX - TIAA-CREF Inflation Link Bd R",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRRSX - TIAA-CREF Real Estate Sec Retire",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Retirement",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "T-C S&P 500 Idx- Inst",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRRSX - TIAA-CREF Real Estate Sec Retire (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIKRX - TIAA-CREF Inflation Link Bd R (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo Stable Return Fund - M",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Retirement",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA- CREF Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIKRX - TIAA-CREF Inflation Link Bd R",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo IRA #3Filer comment:  This account was opened on 12-30-15. The underlying assets held in this account were transferred in from another account. No New purchases were made.",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Green Tree 95-8 B2 Financial CorporationRate/Coupon: 7.65  Matures: 12/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 95-10 B2 Financial CorporationRate/Coupon: 7.4  Matures: 01/15/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cwalt 05-27 1X1 Alternative Loan TrustRate/Coupon: 1.264  Matures: 08/25/2035",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Countrywide 05-27 1X2 Alternate Loan TrustRate/Coupon: 1.264  Matures: 08/25/2035",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Countrywide 05-27 1X2 Alternate Loan TrustRate/Coupon: 2.176  Matures: 08/25/2035",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "07/08/2015",
+          "owner": "Spouse",
+          "ticker": "OXY",
+          "asset-name": "Occidental Petroleum Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "07/16/2015",
+          "owner": "Joint",
+          "ticker": "NBL",
+          "asset-name": "Noble Energy, Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/27/2015",
+          "owner": "Spouse",
+          "ticker": "IHE",
+          "asset-name": "iShares US Pharmaceuticals (NYSEArca)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "08/27/2015",
+          "owner": "Spouse",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "09/18/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Green Tree 95-10 B2 Financial Corporation\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 7.400\n\t\t\t\t\t\t\t\t\t\tMatures: 01/15/2027",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/30/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "INTC-Intel Corporation (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/30/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CMI-Cummins Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/30/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "AAPL-Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/30/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CMI",
+          "asset-name": "Cummins Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/30/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IHE",
+          "asset-name": "iShares US Pharmaceuticals",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/24/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OXY",
+          "asset-name": "Occidental Petroleum Corporation",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ARBNX",
+          "asset-name": "Arbitrage I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CSRSX",
+          "asset-name": "Cohen & Steers Realty Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CSRSX",
+          "asset-name": "Cohen & Steers Realty Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/19/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DODIX",
+          "asset-name": "Dodge & Cox Income",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/19/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DODIX",
+          "asset-name": "Dodge & Cox Income",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EIGMX",
+          "asset-name": "Eaton Vance Glbl Macr Absolute Return I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FSRIX",
+          "asset-name": "Fidelity Advisor Strategic Income I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/19/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OAKBX",
+          "asset-name": "Oakmark Equity & Income I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/19/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/19/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OOSYX",
+          "asset-name": "Oppenheimer Senior Floating Rate Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PHYTX",
+          "asset-name": "Principal High Yield Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PIFZX",
+          "asset-name": "Prudential Short-Term Corporate Bd Z",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VAPIX",
+          "asset-name": "Virtus Equity Trend I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/19/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "YACKX",
+          "asset-name": "AMG Yacktman Service",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "IVWIX - IVA Worldwide I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TBGVX",
+          "asset-name": "Tweedy, Browne Global Value",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "YACKX",
+          "asset-name": "AMG Yacktman Service",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/09/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TBGVX",
+          "asset-name": "Tweedy, Browne Global Value",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/09/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "OAKBX",
+          "asset-name": "Oakmark Equity & Income I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/10/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IVWIX",
+          "asset-name": "IVA Worldwide I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/10/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JNBSX",
+          "asset-name": "JPMorgan Income Builder Select",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/10/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIBIX",
+          "asset-name": "Thornburg Investment Income Builder I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/10/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIBIX",
+          "asset-name": "Thornburg Investment Income Builder I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IHE",
+          "asset-name": "iShares US Pharmaceuticals",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/17/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/27/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/30/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/25/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MALOX",
+          "asset-name": "BlackRock Global Allocation Instl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PGAIX",
+          "asset-name": "PIMCO Global Multi-Asset Instl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PFIUX",
+          "asset-name": "PIMCO Unconstrained Bond Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIBIX",
+          "asset-name": "Thornburg Investment Income Builder I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/14/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VAPIX",
+          "asset-name": "Virtus Equity Trend I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/19/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "YACKX",
+          "asset-name": "AMG Yacktman Service",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CSRSX",
+          "asset-name": "Cohen & Steers Realty Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/16/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PHYTX",
+          "asset-name": "Principal High Yield Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TGEIX",
+          "asset-name": "TCW Emerging Markets Income I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Green Tree 95-10 B2 Financial Corporation",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/18/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Parcel of Land in Waveland, Mississippi",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/02/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIFZX",
+          "asset-name": "Prudential Short-Term Corporate Bd Z",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Mellon Capital JNL 5",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/28/2015",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OAKBX",
+          "asset-name": "Oakmark Equity & Income I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OAKBX",
+          "asset-name": "Oakmark Equity & Income I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TIBIX",
+          "asset-name": "Thornburg Investment Income Builder I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TBGVX",
+          "asset-name": "Tweedy, Browne Global Value",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/08/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNBSX",
+          "asset-name": "JPMorgan Income Builder Select",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": ".0",
+          "rate-term": "2.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "JP Morgan Chase & Co.\n\t\t\t\t\t\t\t\tManhattan, New York",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "1995",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "4.88%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "JP Morgan Chase & Co.\n\t\t\t\t\t\t\t\tManhattan, New York",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "3.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "JP Morgan Chase & Co.\n\t\t\t\t\t\t\t\tManhattan, New York",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Sep 1990 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Associate Professor)",
+          "entity": "LSU Health Sciences Center\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNew Orleans, Louisiana",
+          "entity-type": "Educational Organization",
+          "comments": "Dr. Cassidy was an associate professor teaching students at LSU and still retains this position as an unpaid position."
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

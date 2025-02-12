@@ -1,0 +1,1803 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report",
+  "filer": "Mr. Bernie Moreno",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Champ Titles, Inc.\n\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "amount-paid": "$92,000.00",
+          "comments": "Salary as Chairman of Champ Titles, Inc."
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Bernardo Moreno Revocable Trust Dated July 2008",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "KeyBank National Association(Westlake, Ohio)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Sanford C Bernstein & Co, LLC",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AB Securitized Asset Fund (Delaware) LP CL BDescription: Securitized Asset Fund (New York City, New York)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M Realty Group, LLCCompany: M Realty Group, LLC (Westlake, OH) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "M1 Realty, LLCCompany: M1 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #1Description: Building & Land (North Olmsted, Ohio) Filer comment:  Sold in 2022",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties, Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M6 Realty, LLCCompany: M6 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #2Description: Building & Land (Middleburg Heights, Ohio) Filer comment:  Valuation reflects the total value of the asset. Filer owns 50%.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M7 Realty, LLCCompany: M7 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #3Description: Empty land (Hudson, Ohio) Filer comment:  Valuation reflects total asset valuation. Filer's share is 50%.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "M10 Motors, LLCCompany: M10 Motors, LLC (Coral Gables, Florida) Description: Car Dealership",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Moreno Family Land Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Home in Ocean Reef, FL (Ocean Reef, Florida) Filer comment:  Valuation reflects the full value of the asset. Filer owns 43% of the asset value.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Treatment Technologies & Insights, LLCCompany: Treatment Technologies & Insights, LLC (Los Angeles, California) Description: Technologies",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Hyperbole Investments II, LLCCompany: Hyperbole Investments II, LLC (Cleveland, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "iAngels Ingenuity Fund, LPCompany: iAngles Ingenuity Fund, LP (Tel Aviv, Israel) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "iAngels Technologies, LPCompany: iAngels Technologies, LP (Tel Aviv, Israel) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "AutoTech Fund II, LPCompany: AutoTech Fund II, LP (Cleveland, Ohio) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "Narya Capital Fund, LPCompany: Narya Capital Fund, LP (Cleveland, Ohio) Description: Technology",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": ""
+        },
+        {
+          "asset": "eToro InvestmentCompany: eToro (Tel Aviv, Israel) Description: Social media trading platform",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Immunai InvestmentCompany: Immunai (Tel Aviv, Israel) Description: Healthcare artificial intelligence",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The Moreno Family, L.P.Company: The Moreno Family, L.P. (Westlake, Ohio) Description: Family Holding Company",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aquila Calva Properties, LLCCompany: Aquila Calva Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Washington D.C. Condo (Washington D.C, D.C.) Filer comment:  Asset valuation reflects full value. Filer owns 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Butterfly Properties NYC, LLCCompany: Butterfly Properties NYC, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: New York City Condo (New York City, New York) Filer comment:  Asset valuation reflects full value. Filer owns 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pangolin Properties, LLCCompany: Pangolin Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Condo in Columbus, Ohio (Columbus, Ohio) Filer comment:  Asset valuation reflects full value. Filer owns 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Hyperbole Investments, LLCCompany: Hyperbole Investments, LLC (Westlake, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Dryver LLCCompany: Dryver LLC (Westlake, Ohio) Description: Driving Services Filer comment:  Valuation reflects full asset value. Filer owns 65%.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Coyne Voss, LLCCompany: Coyne Voss, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "R&L Ohio City Holding, LLCCompany: R&L Ohio City Holding, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #4Description: Building & Land (Ohio City, Ohio)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownum, LLCCompany: Ownum, LLC (Gates Mills, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Champ Titles, Inc.Company: Champ Titles, Inc. (Cleveland, Ohio) Description: Technology Filer comment:  Shares were sold in April of 2023.",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "Over $5,000,000"
+        },
+        {
+          "asset": "Kylo Properties LLCCompany: Kylo Properties LLC (Avon, Ohio) Description: Residential real estate investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential real estateDescription: Single family home (Avon, Ohio) Filer comment:  Valuation reflects total asset value. Filer owns 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "M Motors Group, Inc.Company: M Motors Group, Inc. (Westlake, Ohio) Description: Retail Automotive Transportation Filer comment:  This entity owns Drive Options, LLC",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Historic Investment Fund 2019 (QP), LLCCompany: Historic Investment Fund 2019 (QP), LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Husto, Inc.Company: Husto, Inc. (Westlake, Ohio) Description: Travel Subscription Service Filer comment:  Valuation reflects full valuation of asset. Filer owns less than 50%.",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ohio Opportunity Zone Tax CreditDebtor: Bernardo Moreno Filer comment:  Tax credit is transferrable under OH law and was purchased from an investor in the OH Qualified Opportunity Fund; filer is not an investor in the Fund.",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "CF Bank(Beachwood, Ohio)Type: Checking, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Ancora Impact Fund LP Series VDescription: Private Equity Fund (Cleveland, Ohio)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Traditional IRA #1",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "A&Q Multi-Strategy FundDescription: Hedge Fund (Stamford, CT)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of Nova Scotia 11/16/23",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPMorgan Chase Financial 3/14/24",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Finance 5/2/24",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Canadian Imperial Bank 11/26/24",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Credit Suisse AG 12/5/24",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS AG 12/19/24",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Canadian Imperial Bank 1/3/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Canadian Imperial Bank 1/17/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JP Morgan Chase Financial 1/24/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JP Morgan Chase Financial 3/26/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GS Finance Corp 2/12/26",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Finance 6/21/27",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Barclays Bank PLC 2/16/28",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Traditional IRA #2",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS Bank USA(Salt Lake City, UT)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FEZ - Euro Stoxx 50 ETF SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPYG - SPDR S&P 500 Growth Portfolio ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPYD - SPDR S&P 500 High Dividend Portfolio ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SLYG - S&P Smallcap Growth ETF SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SLYV - S&P Smallcap Value ETF SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDY - S&P Midcap 400 SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XLU - S&P 500 Utilities Sector SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UBS Taxable Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "UBS Bank USA(Salt Lake City, UT)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UPRMM - UBS Prime Reserves Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "MBXIX - Catalyst/Millburn Hedge Strategy Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Blackstone Private Credit Fund Class SDescription: Private Credit Fund (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Campbell Fund Trust Series A Description: Hedge Fund (Baltimorre, MD)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Credit Suisse AG 12/5/24",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "UBS AG 12/19/24",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Canadian Imperial Bank 1/3/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Canadian Imperial Bank 1/17/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "JPMorgan Chase Financial 1/24/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Barclays Bank PLC 2/21/25",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GS Finance Corp 2/12/26",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Barclays Bank PLC 2/16/28",
+          "asset-type": "Equity Index-Linked Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Insperity 401(k)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SSBYX - State Street Target Retirement 2030 Fund Class K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Yellowstone Housing Opportunities Fund III, LPDescription: Private Equity Fund (San Francisco, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund, Other, (Partnership Income)",
+          "income": "$50,001 - $100,000Other $71,741.00"
+        },
+        {
+          "asset": "AB Bernstein Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AB Bernstein(Nashville, TN)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ABIMX - Ab Corporate Shares - Ab Impact Municipal Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Baltimore MD RevenueRate/Coupon: 5%  Matures: 7/1/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Bexar County TX Hosp DistRate/Coupon: 5%  Matures: 02/15/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Cleveland OH Income Tax Revenue Rate/Coupon: 5%  Matures: 10/01/2028",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cleveland OH Public Library FA Rate/Coupon: 4%  Matures: 12/01/2037",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dist of Columbia Wtr & Swr Aut Rate/Coupon: 5%  Matures: 10/1/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Las Vegas VLY NV WTR DIST Rate/Coupon: 4%  Matures: 6/1/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Long Beach CA Harbor Revenue Rate/Coupon: 5%  Matures: 5/15/2031",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Long Beach CA Unif Sch Dist Rate/Coupon: 5%  Matures: 8/1/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Los Angeles CA DEPT WTR & PWRRate/Coupon: 5%  Matures: 07/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Los Angeles CA UNIF SCH DISTRate/Coupon: 5%  Matures: 7/1/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Los Angeles CA Unif Sch Dist Rate/Coupon: 5%  Matures: 7/1/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Massachusetts ST WTR Resources Rate/Coupon: 5.25%  Matures: 8/1/2036",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Michigan ST FIN AUTH REVENUE Rate/Coupon: 5%  Matures: 7/1/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "New York City NY MUNI WTR FINRate/Coupon: 5%  Matures: 6/15/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "S Estrn PA Transprtn AUTRate/Coupon: 5%  Matures: 3/1/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "San Antonio TX WTR Revenue Rate/Coupon: 5%  Matures: 5/15/2035",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "San Antonio TX WTR RevenueRate/Coupon: 5%  Matures: 5/15/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Univ of N Texas Univ Revenue Rate/Coupon: 5%  Matures: 4/15/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Univ of Texas TX UNIV Revenues Rate/Coupon: 5%  Matures: 5/15/2043",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Washington DC MET AREA TRANSIT Rate/Coupon: 5%  Matures: 7/1/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Washington DC MET AREA TRANSIT Rate/Coupon: 5%  Matures: 7/15/2032",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Washington DC MET AREA Transit Rate/Coupon: 5%  Matures: 7/15/2033",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Washington DC MET AREA TRANSIT Rate/Coupon: 5%  Matures: 7/15/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ATEYX - Ab Sustainable Global Thematic Fund - Adv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Fund 0 A Series of Comeback Capital, LP/AngelListFund, LPCompany: Comeback Capital (Cleveland, OH) Description: Venture Capital Fund",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Cardone Equity Fund XV, LLC Company: Cardone Equity Fund IV, LLC (Miami, Florida) Description: Real Estate Investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Yellowstone SPZ Holdings III LLCCompany: Yellowstone SPZ Holdings III LLC (Wilmington, DE) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Yellowstone SPZ CR Sociedad de Responsibilidad LimitadaCompany: Yellowstone SPZ CR Sociedad de Responsibilidad Limitada (Guanacaste-Carillos Sardinal, Costa Rica) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Parcel of LandDescription: Parcel of Land (Zapotal, Costa Rica)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Yellowstone NAD Holdings, LLC Company: Yellowstone NAD Holdings, LLC (Wilmington, DE) Description: Holding Company for Technology Investment (Filer/Spouse no authority to direct/control investment) Filer comment:  Alternative disclosure ltr on file, info re: underlying assets subject to confidentiality agreement.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "NAD, HV LLC Company: NAD, HV LLC (Middletown, DE) Description: Holding company for technology investment",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PJAN - Innovator U.S. Equity Power Buffer ETF - January",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Arya Partners Delaware Fund LP Company: Arya Partners Delaware Fund LP (New York, NY) Description: Pooled Investment Fund",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bridget Moreno Revocable Trust dated July 10, 2008",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "KeyBank National Association(Westlake, Ohio)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "M Realty Group, LLCCompany: M Realty Group, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "M1 Realty, LLCCompany: M1 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #1Description: Building & Land (North Olmsted, Ohio) Filer comment:  Asset sold in 2022.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "M6 Realty, LLCCompany: M6 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #2Description: Building & Land (Middleburg Heights, Ohio) Filer comment:  Valuation reflects total asset value.  Filer's spouse's share is 10%.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "M7 Realty, LLCCompany: M7 Realty, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #3Description: Empty land (Hudson, Ohio) Filer comment:  Valuation reflects total asset value. Filer's spouse's share is 10%.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "The Moreno Family, L.P.Company: The Moreno Family, L.P. (Westlake, Ohio) Description: Family Holding Company",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Aquila Calva Properties, LLCCompany: Aquila Calva Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Washington D.C. Condo (Washington D.C, D.C.) Filer comment:  Valuation reflects the total asset value. Filer's spouse's share is 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Butterfly Properties NYC, LLCCompany: Butterfly Properties NYC, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: New York City Condo (New York City, Ohio) Filer comment:  Valuation reflects the total asset value. Filer's spouse's share is 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Pangolin Properties, LLCCompany: Pangolin Properties, LLC (Westlake, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential Real Estate Description: Condo in Columbus, Ohio (Columbus, Ohio) Filer comment:  Valuation reflects the total asset value. Filer's spouse's share is 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Hyperbole Investments, LLCCompany: Hyperbole Investments, LLC (Westlake, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Coyne Voss, LLCCompany: Coyne Voss, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "R&L Ohio City Holding, LLCCompany: R&L Ohio City Holding, LLC (Cleveland, Ohio) Description: Real Estate Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Commercial Real Estate #4Description: Building & Land (Ohio City, Ohio)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ownum, LLCCompany: Ownum, LLC (Gates Mills, Ohio) Description: Technology Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Champ Titles, Inc.Company: Champ Titles, Inc. (Cleveland, Ohio) Description: Technology Filer comment:  Sold shares in 2023.",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "Over $5,000,000"
+        },
+        {
+          "asset": "Dryver LLCCompany: Dryver LLC (Westlake, Ohio) Description: Driving services Filer comment:  Valuation reflects total asset value. Filer's spouse owns 1%.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Kylo Properties LLCCompany: Kylo Properties LLC (Avon, Ohio) Description: Residential real estate investments",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Residential real estateDescription: Single family home (Avon, Ohio) Filer comment:  Valuation reflects total asset value. Filer's spouse's share is 1%.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "4.00%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(1 year)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "CF Bank\n\t\t\t\t\t\t\t\tStreetsboro, Ohio",
+          "comments": "Mortgage held by M7 Realty, LLC (Asset: commercial real estate #4). Paid off in April of 2023."
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Main Street Business Loan)",
+          "points": "-",
+          "rate-term": "3.00%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 Years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Small Business Administration\n\t\t\t\t\t\t\t\tCoral Gables, Florida",
+          "comments": "Held by M10 Motors, LLC and paid off August of 2022."
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "3.875%%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(7 Years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "CF Bank\n\t\t\t\t\t\t\t\tMiddleburg Heights, Ohio",
+          "comments": "Held by M6 Realty, LLC. (Asset: commercial real estate #3)"
+        },
+        {
+          "incurred": "2018",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Farmer's National Bank\n\t\t\t\t\t\t\t\tCanfield, Ohio",
+          "comments": "Mortgage held by M1 Realty LLC (Asset: real estate #1). Paid off in September of 2022."
+        },
+        {
+          "incurred": "2018",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "None",
+          "rate-term": "2.85%%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Key Bank\n\t\t\t\t\t\t\t\tBrooklyn, Ohio",
+          "comments": "Mortgage on primary residence in Westlake, Ohio"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Self",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On demand)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "CF Bank\n\t\t\t\t\t\t\t\tBeachwood, Ohio",
+          "comments": "Home equity line of credit. Current balance is $0."
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On demand)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "CF Bank\n\t\t\t\t\t\t\t\tBeachwood, Ohio",
+          "comments": "Current balance is $0"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Dec 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Chairman of the Board)",
+          "entity": "Dryver LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Entity formerly known as BeMyDD, LLC."
+        },
+        {
+          "position-dates": "Feb 2008 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Bernie Moreno Companies\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Butterfly Properties NYC, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2019 to\n\t\t\t\t\t\t\t\tApr 2022",
+          "position-held": "Director",
+          "entity": "Champ Titles, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "DigiCredits, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Drive Options, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Flight Plan, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Hyperbole Investments II, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Hyperbole Investments, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Live More, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M Motors Group, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Apr 2005 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M1 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2008 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M2 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Apr 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M2 Motors, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Oct 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M3 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Aug 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M3 Disposition Corp\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Oct 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M4 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M6 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M7 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M8 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M9 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Nov 2016 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M10 Motors, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M11 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Mar 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M11 Motors, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M12 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M13 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M14 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M15 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M16 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "M17 Motors, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Corporation",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M Realty Group, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2007 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M1 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M2 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Aug 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M3 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M4 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M5 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Mar 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M6 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M7 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M8 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M9 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Feb 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M10 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Aug 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M11 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M12 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M13 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M14 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "M15 Realty, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2008 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Bernardo Moreno Rev Trust Dated July 2008\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Moreno Family L.P.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Partnership",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Moreno Family Land Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Trust",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Moreno Family Opportunity Zone Fund, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "Not Operating"
+        },
+        {
+          "position-dates": "Apr 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Ownum, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Pangolin Properties, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tColumbus, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Tech Tags, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2020 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "VC, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tGates Mills, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Yacht Plan, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Aquila Calva Properties, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, Ohio",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2011 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Fifty Club of Cleveland\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Young Presidents Organization\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2022 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "Kylo Properties\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAvon, Ohio",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2018 to\n\t\t\t\t\t\t\t\tDec 2022",
+          "position-held": "Director",
+          "entity": "Bernie Moreno Companies Reinsurance Co., Ltd.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTurks and Caicos, BVI",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Sep 2011 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "Collection Auto Care, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, OH",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2011 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "CAG Promotions, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, OH",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "DonaldDaters, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, OH",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Feb 2008 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M1 Aviation, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, OH",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "May 2015 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "M Yachts, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, OH",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jun 2014 to\n\t\t\t\t\t\t\t\tMay 2021",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager/Member)",
+          "entity": "28450 Lorain Road, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWestlake, OH",
+          "entity-type": "Company",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2019 to\n\t\t\t\t\t\t\t\tFeb 2021",
+          "position-held": "Officer",
+          "entity": "Metro Health Board\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCleveland, OH",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2019",
+          "parties-involved": "Champ Titles Inc.\n\t\t\t\t\t\t\t\tCleveland, OH",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continuing participation in former employer's retirement plan.  Neither filer nor former employer contributing to the plan.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": [
+        {
+          "source": "Ownum, LLC/Champ Titles, Inc.\n\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "duties": "Perform company manger/director duties",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

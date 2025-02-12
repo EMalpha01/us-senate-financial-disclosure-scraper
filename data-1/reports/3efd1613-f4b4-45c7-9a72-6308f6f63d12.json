@@ -1,0 +1,942 @@
+{
+  "type": "periodic transaction",
+  "title": "Candidate Report",
+  "filer": "Mr. THEODORE P BUDD",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Truist Financial(Winston Salem, North Carolina)Type: Checking, Money Market Account, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Truist Financial(Winston Salem, North Carolina)Type: Checking, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PS1 Rural Hall LLCFiler comment:  Retail sporting goods, indoor range and training facility.  Doing business as ProShots.",
+          "asset-type": "Business EntitySole Proprietorship",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Other, (Business income)",
+          "income": "Other $878,303.00"
+        },
+        {
+          "asset": "Amy Kathryn Budd 2017 Irrv Trust FBO (DC1) - Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RTSSX - Russell Investment Tax-Managed U.S. Mid & Small Ca",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RTNSX - Russell Investment Tax-Managed International Equit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RETSX - Russell Investment Tax-Managed U.S. Large Cap Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REMSX - Russell Investments Emerging Markets Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTXSX - Russell Investment Tax-Managed Real Assets Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RTHSX - Russell Investments Tax-Exempt High Yield Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RLVSX - Russell Investments Tax-Exempt Bond Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FIPDX - Fidelity Inflation-Protected Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DFUS - Dimensional U.S. Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFAX - Dimensional World Ex U.S. Core Equity 2 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFNM - Dimensional National Municipal Bond ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Amy Kathryn Budd 2017 Irrv Trust FBO (DC2) - Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RTSSX - Russell Investment Tax-Managed U.S. Mid & Small Ca",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RTNSX - Russell Investment Tax-Managed International Equit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RETSX - Russell Investment Tax-Managed U.S. Large Cap Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REMSX - Russell Investments Emerging Markets Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTXSX - Russell Investment Tax-Managed Real Assets Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTHSX - Russell Investments Tax-Exempt High Yield Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RLVSX - Russell Investments Tax-Exempt Bond Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FIPDX - Fidelity Inflation-Protected Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DFUS - Dimensional U.S. Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFAX - Dimensional World Ex U.S. Core Equity 2 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFNM - Dimensional National Municipal Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Amy Kathryn Budd 2017 Irrv Trust FBO (DC3) - Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RTSSX - Russell Investment Tax-Managed U.S. Mid & Small Ca",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RTNSX - Russell Investment Tax-Managed International Equit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RETSX - Russell Investment Tax-Managed U.S. Large Cap Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REMSX - Russell Investments Emerging Markets Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTXSX - Russell Investment Tax-Managed Real Assets Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTHSX - Russell Investments Tax-Exempt High Yield Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RLVSX - Russell Investments Tax-Exempt Bond Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FIPDX - Fidelity Inflation-Protected Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DFUS - Dimensional U.S. Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFAX - Dimensional World Ex U.S. Core Equity 2 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFNM - Dimensional National Municipal Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Brokerage Services #18",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RTSSX - Russell Investment Tax-Managed U.S. Mid & Small Ca",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RTNSX - Russell Investment Tax-Managed International Equit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RETSX - Russell Investment Tax-Managed U.S. Large Cap Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RTXSX - Russell Investment Tax-Managed Real Assets Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RTHSX - Russell Investments Tax-Exempt High Yield Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DFUS - Dimensional U.S. Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFAS - Dimensional U.S. Small Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFAX - Dimensional World Ex U.S. Core Equity 2 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Brokerage Services #96",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RTSSX - Russell Investment Tax-Managed U.S. Mid & Small Ca",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "RTNSX - Russell Investment Tax-Managed International Equit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "RETSX - Russell Investment Tax-Managed U.S. Large Cap Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "RTXSX - Russell Investment Tax-Managed Real Assets Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "RTHSX - Russell Investments Tax-Exempt High Yield Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DTMEX - DFA Tax Managed U.S. Equity PortfolioFiler comment:  Purchased 4/8/2021, sold 6/3/2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DFUS - Dimensional U.S. Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "College Foundation NC 529 PlanInstitution: NC",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Cons Growth Portfolio (Age-Based)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AKB - ROTH IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VADDX - Invesco Equally-Weighted S&P 500 Fund Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REMSX - Russell Investments Emerging Markets Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RGISX - Russell Investments Global Infrastructure Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RINTX - Russell Investments International Developed Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RLESX - Russell Investments U.S. Small Cap Equity Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CMCYX - VanEck CM Commodity Index Fund Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RGCSX - Russell Investments Opportunistic Credit Fund Clas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REZ - iShares Residential and Multisector Real Estate ET",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TPB - ROTH IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VADDX - Invesco Equally-Weighted S&P 500 Fund Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REMSX - Russell Investments Emerging Markets Fund Class S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RGISX - Russell Investments Global Infrastructure Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RINTX - Russell Investments International Developed Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RLESX - Russell Investments U.S. Small Cap Equity Fund Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CMCYX - VanEck CM Commodity Index Fund Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RGCSX - Russell Investments Opportunistic Credit Fund Clas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "REZ - iShares Residential and Multisector Real Estate ET",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Budd Family LLCCompany: Budd Family LLC (Winston Salem, North Carolina) Description: Real Estate Rental and Farm",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Budd FarmDescription: Farm (Advance, North Carolina)",
+          "asset-type": "Farm",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Beach PropertyDescription: Beach Rental Property (Wilmington, North Carolina)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Budd Hope LLCCompany: Budd Hope LLC (Advance, NC) Description: Owner of commercial building",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Real EstateDescription: Warehouse on Hope Church Road (Winston-Salem, NC)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Budd Family LLCCompany: Budd Family LLC (Winston Salem, North Carolina) Description: Real Estate Rental and Farm",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Budd FarmDescription: Farm (Advance, North Carolina)",
+          "asset-type": "Farm",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Beach PropertyDescription: Rental Real Estate (Wilmington, North Carolina)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Budd Hope LLCCompany: Budd Hope LLC (Advance, NC) Description: Owner of commercial building",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Real EstateDescription: Warehouse on Hope Church Road (Winston-Salem, NC)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Budd Family LLCCompany: Budd Family LLC (Winston Salem, North Carolina) Description: Real Estate Rental and Farm",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Budd FarmDescription: Farm (Advance, North Carolina)",
+          "asset-type": "Farm",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Beach PropertyDescription: Beach Rental Property (Wilmington, North Carolina)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Child",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Budd Hope LLCCompany: Budd Hope LLC (Advance, NC) Description: Owner of commercial building",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Real EstateDescription: Warehouse on Hope Church Road (Winston-Salem, NC)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Campaign LoanCompany: Ted Budd for US Senate (Raleigh, North Carolina)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Lincoln Flexible Premium Variable Life Insurance",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "LVIP Vanguard Bnd Alloc Fnd SC (791)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LVIP SSGA S&P 500 Index SC (946)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Lincoln Flexible Premium Variable Life Insurance",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "LVIP Vanguard Bnd Alloc Fnd SC (791)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LVIP SSGA S&P 500 Index SC",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NEST 529Institution: NE",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Age-Based Agressive 17-18 D",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T Paul Properties, LLCCompany: T Paul Properties, LLC (Advance, NC) Description: Partner in commercial real estate business",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Budd Hope LLCCompany: Budd Hope LLC (Advance, NC) Description: Owner of commercial building",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Real EstateDescription: Warehouse on Hope Church Road (Winston-Salem, NC)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2017",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Personal Guarantee of Business LOC)",
+          "points": "-",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(renewal on an annual basis)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Truist Financial\n\t\t\t\t\t\t\t\tCharlotte, North Carolina",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "6.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(matures 11/2/2033)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Truist Financial\n\t\t\t\t\t\t\t\tWinston Salem, North Carolina",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2022",
+          "debtor": "Joint",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "10.4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Truist Financial\n\t\t\t\t\t\t\t\tWinston-Salem, NC",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jun 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Manager)",
+          "entity": "T Paul Properties LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAdvance, NC",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Single member LLC)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Dec 2007 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "Budd Family Management, Inc\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWinston-Salem, NC",
+          "entity-type": "Corporation",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

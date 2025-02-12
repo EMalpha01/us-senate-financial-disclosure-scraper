@@ -1,0 +1,690 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2021 (Amendment 1)",
+  "filer": "The Honorable Elizabeth Warren (Warren, Elizabeth)",
+  "filed-date": "07/26/2022",
+  "filed-time": "1:39 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "CCH Inc dba Wolters Kluwer Law & Business (Formerly Aspen Publishers)\n\t\t\t\t\t\t\t\tRiverwoods, IL",
+          "amount-paid": "$33,123.88",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Harvard University\n\t\t\t\t\t\t\t\tCambridge, MA",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance)",
+          "who-paid": "Macmillan Publishing Group LLC (d/b/a Henry Holt and Company)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$730,350.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "TIAA Administration Services LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$175,163.72",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties",
+          "who-paid": "Yale University Press\n\t\t\t\t\t\t\t\tNew Haven, CT",
+          "amount-paid": "$737.91",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Capital One(McLean, VA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First National Bank of Omaha(Omaha, NE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TIAA-CREF Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCSTIX - CREF Stock Account - R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCGLIX - CREF Global Equities Account - R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QREARX - TIAA Real Estate Account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSMPX - Vanguard Total Stock Market Index Fund Institution",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA-CREF Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCEQIX - CREF Equity Index Account - R3",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VSMPX - Vanguard Total Stock Market Index Fund Institution",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QREARX - TIAA Real Estate Account",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/19/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCGLIX - CREF Global Equities Account - R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCGLIX - CREF Global Equities Account - R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QREARX - TIAA Real Estate Account",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/23/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCSTIX - CREF Stock Account - R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/23/2021",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCGLIX - CREF Global Equities Account - R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/23/2021",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCGLIX - CREF Global Equities Account - R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/01/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TIAA-CREF Traditional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/24/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/22/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/22/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/21/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/07/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/04/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/06/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/10/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/20/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/05/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/03/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCILRX - CREF Inflation-Linked Bond Account - R1",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "QCEQIX - CREF Equity Index Account- R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/15/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "QCBMRX - CREF Bond Market Account - R1",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/09/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "QCILRX - CREF Inflation-Linked Bond Account - R1",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/09/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "QREARX - TIAA Real Estate Account",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/09/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/09/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/15/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCGLIX - CREF Global Equities Account - R3",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/17/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TRBIX - TIAA-CREF Small-Cap Blend Idx Retirement",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/17/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TRGMX - TIAA-CREF Mid-Cap Growth Retirement",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/17/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TRERX - TIAA-CREF International Eq Retirement",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "TBIRX - TIAA-CREF Bond Index Retirement",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/17/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCEQRX - CREF Equity Index Account- R1",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/17/2021",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VSMPX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Instituti",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/23/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCILIX - CREF Inflation-Linked Bond Account R3",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QCBMIX - CREF Bond Market Account- R3",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2013",
+          "parties-involved": "Harvard University\n\t\t\t\t\t\t\t\tCambridge, MA",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Agreement with Harvard Law School to hold honorary title of Emeritus Professor.)",
+          "status-and-terms": "Terms of agreement include continued use of storage space for teaching and research materials.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Dec 1985",
+          "parties-involved": "Aspen Publishers (now CCH)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for books, \"Chapter 11:  Reorganizing American Businesses\", \"Commercial Law Studies\", \"Bankruptcy and Article 9\", \"The Law of Debtors and Creditors\", \"Secured Credit:  A Systems Approach\", \"Commercial Transactions:  A Systems Approach.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Mar 2000",
+          "parties-involved": "Yale University Press\n\t\t\t\t\t\t\t\tNew Haven, CT",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"The Fragile Middle Class.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Dec 2013",
+          "parties-involved": "Henry Holt and Company (division of Macmillan Publishing Group LLC)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance and royalties based on customary and usual terms for book, \"A Fighting Chance.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Apr 2002",
+          "parties-involved": "Perseus Books Group\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"The Two-Income Trap.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "May 1999",
+          "parties-involved": "Beard Books\n\t\t\t\t\t\t\t\tWashington, DC",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"As We Forgive Our Debtors.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Apr 2004",
+          "parties-involved": "Free Press (now Simon & Schuster)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalties for book, \"All Your Worth.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2016",
+          "parties-involved": "Henry Holt and Company (division of Macmillan Publishing Group LLC)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance and royalties based on customary and usual terms for book, \"This Fight is Our Fight.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Nov 2020",
+          "parties-involved": "Henry Holt and Company (division of Macmillan Publishing Group LLC)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on customary and usual terms for publication of the book titled, \"Persist.\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Mar 2021",
+          "parties-involved": "Macmillan Publishing Group, LLC (d/b/a Henry Holt and Company)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on customary and usual terms for publication of a picture book titled, \"Pinkie Promises.\"",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

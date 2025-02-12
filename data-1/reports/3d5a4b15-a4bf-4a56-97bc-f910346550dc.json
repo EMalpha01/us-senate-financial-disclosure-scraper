@@ -1,0 +1,830 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable John Hoeven (Hoeven, John)",
+  "filed-date": "05/15/2023",
+  "filed-time": "3:14 PM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "First Western Bank & Trust(Minot, North Dakota)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "First Western Bank & Trust(Minot, North Dakota)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Stifel(Bismarck, North Dakota)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BFIGX - American Funds Inflation Linked Bond Fund - Clas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "BREIX - Baron Real Estate Fd Insti Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FCNTX-Fidelity Contrafund (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "SGIIX-First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FLMVX - JPMorgan Mid Cap Value L",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "HFQIX - Janus Henderson Global Equity Income Fund - I Sh",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NINLX - Neuberger Berman Intrinsic Value Insti",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PRGTX - T. Rowe Price Global Technology Fd Inc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PRNHX-T. Rowe Price New Horizons (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VLIIX - Value Line Capital Appreciation Fund Inc. Insti",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "WTW - Weight Watchers International, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Westbrand, Inc. Company: Westbrand, Inc. (Minot, ND) Description: Bank Holding Company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Tompson-Hoeven PartnershipCompany: Tompson-Hoeven Partnership (Bismarck, North Dakota) Description: Montana Farmland Rental",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FarmlandDescription: 720 acres of farmland (Stanford, MT)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "First Western Bank & Trust IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "First Western Bank & Trust Collective Asset Fund(Minot, ND)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DFREX - DFA Real Estate Securities Portfolio Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JHQRX - JPMorgan Hedged Equity Fund Class R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FSMAX - Fidelity Extended Market Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VFIAX - Vanguard 500 Index Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTMGX - Vanguard Developed Markets Index Fund Admiral Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VEMAX - Vanguard Emerging Markets Stock Index Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JMGIX - Jpmorgan Managed Income Fund L Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First Western Bank & Trust IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VSMAX - Vanguard Small Cap Index Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "First Western Bank & Trust Collective Asset Fund(Minot, ND)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSRSX - Cohen & Steers Realty Shares Fund Class L",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JHQRX - JPMorgan Hedged Equity Fund Class R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OIEJX - JPMorgan Equity Income Fund Class R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TMPRX - Touchstone Mid Cap Fund Class R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VTMGX - Vanguard Developed Markets Index Fund Admiral Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIHBX - Federated Hermes Institutional High Yield Bond Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FBKWX - Fidelity Advisor Total Bond Fund Class Z",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FIPDX - Fidelity Inflation-Protected Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VBTLX - Vanguard Total Bond Market Index Fund Admiral Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JMGIX - Jpmorgan Managed Income Fund L Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VEMAX - Vanguard Emerging Markets Stock Index Fund Admir",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIGAX - Vanguard Growth Index Fd Admiral Shs",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FUMBX - Fidelity Short-Term Treasury Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "John Hoeven Qualified Blind Trust",
+          "asset-type": "TrustBlind",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Hoeven Family, LLLPCompany: Hoeven Family, LLLP (Bismarck, ND) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Limited Partnership (LLLP)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Westbrand, Inc. Company: Westbrand, Inc. (Minot, ND) Description: Bank Holding Company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "John H. Hoeven, III 2021 Irrevocable Spousal Lifetime Access Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Hoeven Family, LLLPCompany: Hoeven Family, LLLP (Bismarck, ND) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Limited Partnership (LLLP)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Westbrand, Inc.Company: Westbrand, Inc. (Minot, ND) Description: Bank Holding Company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "FUMBX",
+          "asset-name": "Fidelity Short-Term Treasury Bond Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTMGX",
+          "asset-name": "Vanguard Developed Markets Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CSRSX",
+          "asset-name": "Cohen & Steers Realty Shares Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TMPRX",
+          "asset-name": "Touchstone Mid Cap Fund Class R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEMAX",
+          "asset-name": "Vanguard Emerging Markets Stock Index Fund Admir",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RPIFX",
+          "asset-name": "T. Rowe Price Institutional Floating Rate Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JHQRX",
+          "asset-name": "Jpmorgan Hedged Equity Fund - R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIEJX",
+          "asset-name": "Jpmorgan Equity Income Fund R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VSMAX",
+          "asset-name": "Vanguard Small Cap Index Fd Admiral Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JMGIX",
+          "asset-name": "Jpmorgan Managed Income Fund L Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/26/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FBKWX",
+          "asset-name": "Fidelity Advisor Total Bond Fund Class Z",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CSRSX",
+          "asset-name": "Cohen & Steers Realty Shares Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FIPDX",
+          "asset-name": "Fidelity Inflation-Protected Bond Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FUMBX",
+          "asset-name": "Fidelity Short-Term Treasury Bond Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TMPRX",
+          "asset-name": "Touchstone Mid Cap Fund Class R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEMAX",
+          "asset-name": "Vanguard Emerging Markets Stock Index Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JHQRX",
+          "asset-name": "Jpmorgan Hedged Equity Fund - R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIEJX",
+          "asset-name": "Jpmorgan Equity Income Fund R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VBTLX",
+          "asset-name": "Vanguard Total Bond Market Index Fund Admiral Sh",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VSMAX",
+          "asset-name": "Vanguard Small Cap Index Fd Admiral Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JMGIX",
+          "asset-name": "Jpmorgan Managed Income Fund L Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIGAX",
+          "asset-name": "Vanguard Growth Index Fd Admiral Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/25/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIGAX",
+          "asset-name": "Vanguard Growth Index Fd Admiral Shs",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/29/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FBKWX",
+          "asset-name": "Fidelity Advisor Total Bond Fund Class Z",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FIHBX",
+          "asset-name": "Federated Institutional High Yield Bond Fund Ins",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/02/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "HGIYX",
+          "asset-name": "Hartford Core Equity Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/02/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VBTLX",
+          "asset-name": "Vanguard Total Bond Market Index Fund Admiral Sh",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTMGX",
+          "asset-name": "Vanguard Developed Markets Index Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/26/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FIHBX",
+          "asset-name": "Federated Institutional High Yield Bond Fund Ins",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RPIFX",
+          "asset-name": "T. Rowe Price Institutional Floating Rate Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/25/2022",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FSMAX",
+          "asset-name": "Fidelity Extended Market Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JHQRX",
+          "asset-name": "Jpmorgan Hedged Equity Fund - R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMNVX",
+          "asset-name": "Vanguard Global Minimum Volatility Fund Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VFIAX",
+          "asset-name": "Vanguard 500 Index Fd Admiral Shs",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/02/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VMNVX",
+          "asset-name": "Vanguard Global Minimum Volatility Fund Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/01/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Mar 1979 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Tompson-Hoeven Partnership\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBismarck, North Dakota",
+          "entity-type": "Partnership",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 1984 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(member of board of directors)",
+          "entity": "First Western Bank & Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMinot, North Dakota",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Bank)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2021 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Hoeven Family, LLLP\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBismarck, ND",
+          "entity-type": "Partnership",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,3302 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2020",
+  "filer": "The Honorable Christopher A Coons (Coons, Chris)",
+  "filed-date": "07/15/2021",
+  "filed-time": "12:24 PM",
+  "calendar-year": "2020",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "W.L. Gore & Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "NFS/FMTC IRA FBO Christopher A Coons",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PLIDX - Pacific Funds Core Income Fund Advisor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PLFDX - Pacific Funds Floating Rate Income Fund Advisor Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PDVYX - Putnam Diversified Income Trust Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SSSGX - Touchstone Ultra Short Duration Fixed Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PIMSX - Virtus Newfleet Multi-Sector Short Term Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGK - Vanguard FTSE Europe Index Fund ETF Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CGRYX - Invesco Comstock Select Fund Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OSMYX - Invesco International Small-Mid Company Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MCEIX - Martin Currie Emerging Markets Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PEXMX - T. Rowe Price Extended Equity Market Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BFWFX - American Funds Capital World Bond Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "W.L. Gore & Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "NFS/FMTC IRA FBO Ann M Coons",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GSMYX - Goldman Sachs Small/Mid Cap Growth Fund Institutio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JERIX - Janus Henderson Global Real Estate Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LGLFX - Lord Abbett Growth Leaders Fund Class F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PCGYX - Putnam Convertible Securities Fund Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VADIX - Virtus Duff & Phelps Real Asset Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JVXIX - Virtus Vontobel Foreign Opportunities Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOBIX - BrandywineGLOBAL - Global Opportunities Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PDVYX - Putnam Diversified Income Trust Class Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SAMBX - Virtus Seix Floating Rate High Income Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DVY - iShares Select Dividend ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge 529Institution: Scholar's Edge",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Scholar's Edge Fixed Income Portfolio A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge Today Portfolio A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge Today Portfolio C",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Scholar's Edge Aggressive Portfolio A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Christopher Coons Charitable Remainder Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Talcott Resolution AnnuityProvider: FCG Advisors",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Htfd Ttl Return Bond HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Albern VPS Intl Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Htfd Intl Opp HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Put VT Intl Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AB VPS Grwth and Inc Port",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Equity-Incm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity VIP Grwth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Htfd Disciplined Eqty HLS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco Oppen Capital App",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Inv Oppen Main Str Sml CP",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco V.I. Comstock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Put VT SmCap Val",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ann M Coons Charitable Remainder Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Jackson Variable AnnuityProvider: FCG Advisors LLC",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "JNL/PPM America HighYldBd",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/PPM America FlRateInc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/Neuberger Strat Inc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/DoubleLineTR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/Fr Temp GlblMultiBond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/JPMorgan US Gov&Qual",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/DFA US Core Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/JPMorgan MidCapGrowth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/MC Sm Cap Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/WCM Focused IntlEq",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/MC Emg Mkts Index",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JNL/T. RowePriceCapAp",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust John C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FZAXX - Fidelity Government Money Marke",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSBIX - Goldman Sachs Income Builder Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BLAFX - Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LIGFX - Lord Abbett Multi-Asset Income Fund Class F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNMRX - Columbia Income Builder Fund Advisor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CKKRX - Columbia Income Builder Fund Institutional 2 Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LISFX - Lord Abbett Intermediate Tax-Free Fund Class F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust Margaret C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FZAXX - Fidelity Government Money Marke",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSBIX - Goldman Sachs Income Builder Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BLAFX - Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LIGFX - Lord Abbett Multi-Asset Income Fund Class F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNMRX - Columbia Income Builder Fund Advisor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CKKRX - Columbia Income Builder Fund Institutional 2 Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LISFX - Lord Abbett Intermediate Tax-Free Fund Class F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandma Sally's Expand Your Horizon Trust Michael A Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FZAXX - Fidelity Government Money Marke",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSBIX - Goldman Sachs Income Builder Fund Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BLAFX - Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LIGFX - Lord Abbett Multi-Asset Income Fund Class F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CNMRX - Columbia Income Builder Fund Advisor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CKKRX - Columbia Income Builder Fund Institutional 2 Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LISFX - Lord Abbett Intermediate Tax-Free Fund Class F",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO John C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO Margaret C Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Robert W Gore Trust FBO Michael A Coons",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Robert Gorfam, Inc.Description: Holding Company (Newark, DE)",
+          "asset-type": "Other Securities",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "W.L. Gore Associates Inc.Company: W.L. Gore & Associates Inc. (Newark, DE) Description: Manufacturing",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Child",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "PNC Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ann M Coons CUST John Coons UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PSTCX - Virtus Newfleet Multi-Sector Short Term Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ann M Coons CUST Margaret Coons UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DELAWARE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PSTCX - Virtus Newfleet Multi-Sector Short Term Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Ann Coons CUST Michael Coons UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "WSFS Bank(Wilmington, DELAWARE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PSTCX - Virtus Newfleet Multi-Sector Short Term Bond Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "New Castle County Pension Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TCS Lease Management LLCCompany: TCS Lease Management LLC (Sanibel Island, Florida) Description: Rental Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Sanibel Island CondoDescription: Real Estate (Sanibel Island, Florida) Filer comment:  Gifted by Sally Gore to her three sons, which includes Chris Coons.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "PNC(Wilmington, DE)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "07/31/2020",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "W.L. Gore & Associates, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: W.L. Gore & Associates, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Advanced materials manufacturing",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Gorfam Inc. sold stock to benefit another shareholder. Child received only funds to cover taxes."
+        },
+        {
+          "transaction-date": "07/31/2020",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "W.L. Gore & Associates, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: W.L. Gore & Associates, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Advanced materials manufacturing",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Gorfam Inc. sold stock to benefit another shareholder. Child received only funds to cover taxes."
+        },
+        {
+          "transaction-date": "07/31/2020",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "W.L. Gore & Associates, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: W.L. Gore & Associates, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Advanced materials manufacturing",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Gorfam Inc. sold stock to benefit another shareholder. Child received only funds to cover taxes."
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "PWBAX - Virtus Rampart Sector Trend Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JVIAX",
+          "asset-name": "Virtus Vontobel Foreign Opportunities Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VARIX - Rampart Sector Trend Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JVXIX",
+          "asset-name": "Virtus Vontobel Foreign Opportunities Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "JERIX",
+          "asset-name": "Janus Henderson Global Real Estate Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PDVYX",
+          "asset-name": "Putnam Diversified Income Trust Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VARIX - Rampart Sector Trend Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SAMBX",
+          "asset-name": "Virtus Seix Floating Rate High Income Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VARIX - Virtus Rampart Sector Trend Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/18/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VARIX - Virtus Rampart Sector Trend Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/13/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DVY",
+          "asset-name": "iShares Select Dividend ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/29/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PCGYX",
+          "asset-name": "Putnam Convertible Securities Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/07/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VARIX - Virtus Rampart Sector Trend Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LGLFX",
+          "asset-name": "Lord Abbett Growth Leaders Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GOBIX",
+          "asset-name": "BrandywineGLOBAL - Global Opportunities Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GSMYX",
+          "asset-name": "Goldman Sachs Small/Mid Cap Growth Fund Institutio",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/22/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VADIX",
+          "asset-name": "Virtus Duff & Phelps Real Asset Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DVY",
+          "asset-name": "iShares Select Dividend ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/24/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Fixed Income Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Fixed Income Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/14/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Fixed Income Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/25/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Fixed Income Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/23/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Fixed Income Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Today Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Fixed Income Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/18/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Scholar's Edge Today Portfolio A",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T. Rowe Price ShtMBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/01/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan US Gov&Qual",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr Temp GlblMultiBond",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTR",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T. Rowe Price ShTmBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/01/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTR",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr Temp GlblMultiBond",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan US Gov & Qual",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T. Rowe Price ShTmBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/01/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr Temp GlblMultiBond",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/02/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan US Gov & Qual",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTR",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T. Rowe Price ShTmBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/01/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr. Temp GlblMultiBond",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan US Gov & Qual",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTr",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T. Rowe Price ShTmBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/01/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr Temp GlblMultiBond",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan US Gov & Qual",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTr",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.Rowe Price ShTmBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan US Gov&Qual",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTr",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr Temp GlblMultiBond",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.Rowe Price ShTmBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/01/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan USGov&Qual",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2002",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLineTr",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr Temp GlblMultiBond",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2002",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.Rowe Price ShTmBd",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/01/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DFA US Core Equity",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Fr Temp GlblMultiBond",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/T.RowePriceCapAp",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America HighYldBd",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/PPM America FlRateInc",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/DoubleLine Tr",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/Neuberger Strat Inc",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan MidCapGrowth",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/JPMorgan US Gov&Qual",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/WCM Focused IntlEq",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Emg Mkts Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JNL/MC Sm Cap Index",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ORENX - Invesco Opp Real Estate",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OREYX - Inesco Oppenheimer Real Estate Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIBNX",
+          "asset-name": "Invesco International Bond Fund Class R",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CGRNX",
+          "asset-name": "Invesco Comstock Select Fund Class R",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CGRYX",
+          "asset-name": "Invesco Comstock Select Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OGMNX",
+          "asset-name": "Invesco Gold & Special Minerals Fund Class R",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OGMYX",
+          "asset-name": "Invesco Gold & Special Minerals Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QSCNX - Invesco Opp Mid Cap Value R",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QSCYX - Invesco Oppenheimer Mid Cap Value Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OSMNX",
+          "asset-name": "Invesco International Small-Mid Company Fund Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OSMYX",
+          "asset-name": "Invesco International Small-Mid Company Fund Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIGNX",
+          "asset-name": "Invesco Oppenheimer International Growth Fund Clas",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIGYX",
+          "asset-name": "Invesco Oppenheimer International Growth Fund Clas",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QIVNX",
+          "asset-name": "Invesco International Equity Fund Class R",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QIVYX",
+          "asset-name": "Invesco International Equity Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MCEIX",
+          "asset-name": "Martin Currie Emerging Markets Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIBYX",
+          "asset-name": "Invesco International Bond Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/17/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIBYX",
+          "asset-name": "Invesco International Bond Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PDVYX",
+          "asset-name": "Putnam Diversified Income Trust Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/24/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OGMYX",
+          "asset-name": "Invesco Gold & Special Minerals Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/24/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "OIGYX",
+          "asset-name": "Invesco Oppenheimer International Growth Fund Clas",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/27/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OREYX - Invesco Oppenheimer Real Estate Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/17/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IARYX",
+          "asset-name": "Invesco Real Estate Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "QSCYX - Invesco Oppenheimer Mid Cap Value Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/17/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MSAIX",
+          "asset-name": "Invesco American Value Fund Class Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/17/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMSX",
+          "asset-name": "Virtus Newfleet Multi-Sector Short Term Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QIVYX",
+          "asset-name": "Invesco International Equity Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/08/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGK",
+          "asset-name": "Vanguard FTSE Europe Index Fund ETF Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/09/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMSX",
+          "asset-name": "Virtus Newfleet Multi-Sector Short Term Bond Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/10/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IARYX",
+          "asset-name": "Invesco Real Estate Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/13/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PEXMX",
+          "asset-name": "T. Rowe Price Extended Equity Market Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/09/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MSAIX",
+          "asset-name": "Invesco American Value Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/10/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CGRYX",
+          "asset-name": "Invesco Comstock Select Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PLIDX",
+          "asset-name": "Pacific Funds Core Income Fund Advisor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BFWFX",
+          "asset-name": "American Funds Capital World Bond Fund Class F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PLFDX",
+          "asset-name": "Pacific Funds Floating Rate Income Fund Advisor Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Disciplined Eqty HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Ttl Return Bond HLS",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Ttl Return Bond HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Disciplined Eqty HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "InvescoV.I. Comstock Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Inv Oppen Main Str Sml CP",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AB VPS Intl Value Port",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Putnam VT Small Cap Value",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Inv Oppen Main Str Sml Cp",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Putnam VT Small Cap Value",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fidelity VIP Growth",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AB VPS Grwth and Inc Port",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fidelity VIP Equity-Incm",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Ttl Return Bond HLS",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Disciplined Eqty HLS",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Inv Oppen Main Str Sml Cp",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Htfd Ttl Return Bond HLS",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/06/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISCX",
+          "asset-name": "Lord Abbett Intermediate Tax Free Fund Class C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISCX",
+          "asset-name": "Lord Abbett Intermediate Tax Free Fund Class C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISCX",
+          "asset-name": "Lord Abbett Intermediate Tax Free Fund Class C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/06/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BFLAX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/15/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BFLAX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/15/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BFLAX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/15/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/15/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/15/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/15/2020",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GSBIX",
+          "asset-name": "Goldman Sachs Income Builder Fund Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GSBIX",
+          "asset-name": "Goldman Sachs Income Builder Fund Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GSBIX",
+          "asset-name": "Goldman Sachs Income Builder Fund Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LIGFX",
+          "asset-name": "Lord Abbett Multi-Asset Income Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/03/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LIGFX",
+          "asset-name": "Lord Abbett Multi-Asset Income Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/03/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LIGFX",
+          "asset-name": "Lord Abbett Multi-Asset Income Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/03/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/03/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CNMRX",
+          "asset-name": "Columbia Income Builder Fund Advisor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/24/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CNMRX",
+          "asset-name": "Columbia Income Builder Fund Advisor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/24/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CNMRX",
+          "asset-name": "Columbia Income Builder Fund Advisor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/24/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CKKRX",
+          "asset-name": "Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CKKRX",
+          "asset-name": "Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CKKRX",
+          "asset-name": "Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/28/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LIGFX",
+          "asset-name": "Lord Abbett Multi-Asset Income Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LIGFX",
+          "asset-name": "Lord Abbett Multi-Asset Income Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LIGFX",
+          "asset-name": "Lord Abbett Multi-Asset Income Fund Class F",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/31/2020",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "BLAFX",
+          "asset-name": "Lord Abbett Multi-Asset Balanced Opportunity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/16/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GSBIX",
+          "asset-name": "Goldman Sachs Income Builder Fund Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GSBIX",
+          "asset-name": "Goldman Sachs Income Builder Fund Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "GSBIX",
+          "asset-name": "Goldman Sachs Income Builder Fund Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "LISFX",
+          "asset-name": "Lord Abbett Intermediate Tax-Free Fund Class F",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CKKRX",
+          "asset-name": "Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CKKRX",
+          "asset-name": "Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Child",
+          "ticker": "CKKRX",
+          "asset-name": "Columbia Income Builder Fund Institutional 2 Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/17/2020",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Anthony W. and Dorothy A. Lingenfelter\n\t\t\t\t\t\t\t\tSun City West, AZ",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Chase\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": ".125",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "PNC Bank\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "This mortgage was paid off due to a refinance in October 2020 with Chase."
+        },
+        {
+          "incurred": "2020",
+          "debtor": "Joint",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "15.24%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(N/A)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "American Express\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO John C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Margaret C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Michael A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Nov 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Middle Run Charitable Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for John C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for Margaret C Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Oct 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Grandma Sally's Expand Your Horizon Trust for Michael A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Irrevocable Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Joshua R Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Tanner K Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Katelyn G Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Genevieve G Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Ulyana Z Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Savannah J Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Derek W Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Thaddeus V Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Julie A Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Nathan S Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Ksenia M Gore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Alexandra G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Serena G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sydney G Rubin\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Elizabeth F Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sarah J Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Trustee)",
+          "entity": "Robert W. Gore Trust FBO Sebastian A Coons\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWilmington, DE",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Nov 2000",
+          "parties-involved": "New Castle County Pension Board\n\t\t\t\t\t\t\t\tNew Castle, DE",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Vested in New Castle County Pension Plan.  I will receive monthly payments beginning at retirement age.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

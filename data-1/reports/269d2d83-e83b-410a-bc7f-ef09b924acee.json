@@ -1,0 +1,444 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2018",
+  "filer": "Mrs. Cindy Hyde-Smith (Hyde-Smith, Cindy)",
+  "filed-date": "06/14/2019",
+  "filed-time": "4:25 PM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "STATE OF MS\n\t\t\t\t\t\t\t\tJACKSON, MS",
+          "amount-paid": "$25,699.00",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "MATHIS FARMS, INC\n\t\t\t\t\t\t\t\tBROOKHAVEN, MS",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "LINCOLN COUNTY LIVESTOCK\n\t\t\t\t\t\t\t\tBROOKHAVEN, MS",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TRUSTMARK NATIONAL BANK(BROOKHAVEN, MS)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRUSTMARK FINANCIAL SERVICES",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CTL - CenturyLink, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRUSTMARK FINANCIAL SERVICES",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "HCTAX - Hartford Global Capital Appreciation A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOLDMAN SACHS BANK USA (INSURED CASH ACCOUNT)(BROOKHAVEN, MS)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPMORGAN US GOVERNMENT MONEY MARKET FUND(BROOKHAVEN, MS)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMERICAN GENERAL LIFE INSURANCE COMPANY",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TRUSTMARK BANK PROPRIETARY FLEXProvider: LPL FINANCIAL CORP",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMERICAN GENERAL LIFE INSURANCE COMPANY",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TRUSTMARK BANK PROPRIETARY FLEXProvider: LPL FINANCIAL CORP",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SOUTHERN FARM BUREAU INSURANCE COMPANY",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "NON-PARTICIPATING FLEXIBLE PREMIUM DEFFERED ANNUITYProvider: SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "NON-PARTICIPATING FLEXIBLE PREMIUM DEFFERED ANNUITYProvider: SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRUSTMARK IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GOLDMAN SACHS BANK USA (INSURED CASH ACCOUNT)(BROOKHAVEN, MS)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MISSISSIPPI PUBLIC EMPLOYEES RETIREMENT SYSTEM",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MISSISSIPPI GOVERNMENT EMPLOYEES\" DEFERRED COMPENSATION PLAN AND TRUST",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AMERICAN FUNDS NEW PERSPECTIVE R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "T ROWE PRICE INTERNATIONAL GROWTH EQUITY TRUST",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RBC SMALL CAP CORE I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "THE BOSTON CO MIDCAP OP VALUE POOLED",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LOOMIS SAYLES LARGE CAP GROWTH TRUST",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VANGUARD WINDSOR ADM",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NT TIPS INDEX FUND",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VOYA INTERNEDIATE BOND",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MDC STABLE VALUE",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CASH VALUE LIFE INSURANCEProvider: PAUL REVERE LIFE INS CO",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MPACTInstitution: MISSISSIPPI COLLEGE SAVINGS",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FARM LINCOLN COUNTYDescription: BEEF FARM (BROOKHAVEN, MS)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Other, (CATTLE SALES)",
+          "income": "None (or less than $201)Other $23,460.00"
+        },
+        {
+          "asset": "BEEF CATTLEDescription: BEEF CATTLE 100 PAIRS (BROOKHAVEN, MS)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (SALE OF RAISED CALVES)",
+          "income": "Other $23,000.00"
+        },
+        {
+          "asset": "LANDDescription: ACRE LOT IN STARKVILLE MS (STARKVILLE, MISSISSIPPI)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "prime+1/2%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(ON DEMAND)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "TRUSTMARK NATIONAL BANK\n\t\t\t\t\t\t\t\tBROOKHAVEN, MS",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "NONE",
+          "rate-term": "4.85%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(7 YEAR MATURES 01-01-2024)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "SOUTHER AG CREDIT\n\t\t\t\t\t\t\t\tBROOKHAVEN, MS",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2018",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "NONE",
+          "rate-term": "5.85%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 YEAR MATURES 02-01-2028)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "SOUTHERN AG CREDIT ACA\n\t\t\t\t\t\t\t\tBROOKHAVEN, MS",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 2012 to\n\t\t\t\t\t\t\t\tApr 2018",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(MISSISSIPPI COMMISSIONER OF AGRICULTURE AND COMMERCE)",
+          "entity": "STATE OF MISSISSIPPI\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tJACKSON, MS",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(STATE GOVERNMENT)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Nov 1999",
+          "parties-involved": "Public Employees' Retirement System of Mississippi\n\t\t\t\t\t\t\t\tJackson, MS",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continued enrollment in the Mississippi Public Retirement System",
+          "comments": "n/a"
+        },
+        {
+          "date": "May 2006",
+          "parties-involved": "Mississippi Government Employees' Deferred Compensation Plan\n\t\t\t\t\t\t\t\tJackson, MS",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Continued enrollment in the Mississippi Deferred Compensation Plan",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,2890 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Mark R Warner (Warner, Mark)",
+  "filed-date": "08/13/2024",
+  "filed-time": "12:30 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wells Fargo(Washington, DC)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The MRW Blind Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "COHOX - Coho Relative Value Equity Advisor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "JPMorgan Chase(New York, NY)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AKRIX - Akre Focus Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "SCGVX - Sands Capital Global Growth Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Wells Fargo - Cash Reserve Prime Series Money Market Fund(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Murray Bonitt ReceivableDebtor: Murray Bonitt",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Capital Cellular CorporationDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MSA Investments, LPDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Topeka KS, LPDescription: Private Equity (Topeka, KS)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Minority Interest in Topeka, KS RSA Cellular LicenseDescription: Cellular License (Topeka, KS)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Petersburg Cellular PartnershipDescription: Private Equity (Tulsa, OK)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Minority Interest in FCC 601 Petersburg-Colonial Heights-Hopewell VA MSADescription: Cellular License (Petersburg, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Columbia Capital Equity Partners IV, L.P.Description: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Updata Partners III L.P.Description: Private Equity (Reston, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AP Europe VII, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WDE Partners, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "West Deptford Energy Holdings, LLCCompany: West Deptford Energy Holdings, LLC (New York, NY) Description: Energy Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Ordinary Income)",
+          "income": "Other $2,786.00"
+        },
+        {
+          "asset": "JBG/Fund VI Qualified Investors, LLCDescription: Real Estate Fund (Chevy Chase, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JBG/Fund VIII Qualified Investors, LLCDescription: Real Estate Fund (Chevy Chase, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Echo Bridge Realty Fund I, L.P.Description: Private Equity (Wellesley Hills, MA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wilton GSE LLCCompany: Wilton GSE LLC (Wilton, CT) Description: Real Estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Edge Principal Investments II, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Edge Principal Investments III, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Riverstone Global Energy and Power Private Investors V, LLCDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Lascaux Resource Capital Fund I, L.P.Description: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "New Amsterdam BC Investors, LLCDescription: Private Equity (Telluride, CO)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BetterCloudDescription: Cloud Storage Company (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Apollo Total Return Fund (Onshore) LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Sachs Capital Fund II, LLCDescription: Private Equity (Potomac, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,000,001 - $5,000,000"
+        },
+        {
+          "asset": "Apollo VII Private Investors LLCDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Apollo EPF Private Investors, LLCDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Legacy Airwest IX, LLCDescription: Investment Company (Arlington, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Airwest IX WarehouseDescription: Real Estate (Plainfield, IN)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Elysium Health, Inc.Company: Elysium Health, Inc. (Delray Beach, FL) Description: Health Industry",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Snap+Style, Inc. (RemoteRetail)Company: Snap+Style, Inc. (Washington, DC) Description: Online Fashion Advisory & Shopping Website",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GWMIX - AMG GW&K Municipal Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MACSX - Matthews Asian Growth & Inc Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWO - Vanguard FTSE Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "VEPF VI FAF, L.P.Description: Private Equity (Oakland, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Fidelity Brokerage Services LLC(Albuquerque, NM)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "HPRE Fund I US FI LPDescription: Real Estate (London, England)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "euNetworks Group Limited Description: euNetworks Group Limited (London, England)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Health Velocity Capital I, LPDescription: Private Equity (San Mateo, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "Columbia Capital Equity Partners VII, LLCDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSIIX - BlackRock Strategic Income Opportunities Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VEA - Vanguard FTSE Developed Markets Index Fund ETF Sha",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Edge Principal Investments IV, LPDescription: Private Equity (New York, NY)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vista Equity Partners Fund VII, LPDescription: Private Equity (Oakland, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Riverside Acceleration Capital Fund II LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "SunTx Fulcrum Fund, L.P.Description: Private Equity (Dallas, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Innovation Tech Investors, Inc.Description: Security Systems Company (Earth City, MO)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RSP - Invesco S&P 500 Equal Weight ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Trilogy Multifamily Fund IV, L.P.Description: Private Equity (Chicago, IL)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Mirada Fund IV, LLCCompany: Mirada Fund IV, LLC (Lewis Center, OH) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Lewis Center, OH)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MainStreet Fund IV, LLCCompany: MainStreet Fund IV, LLC (Ann Arbor, MI) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential PropertiesDescription: Residential Properties (Ann Arbor, MI)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NorthStar Fund IV, LLCCompany: NorthStar Fund IV, LLC (Ann Arbor, MI) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Investment in Residential Properties Description: Residential Properties (Ann Arbor, MI)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSCP SBIC I, LPDescription: Private Credit (Alexandria, VA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Vista Credit Partners Fund III, LPDescription: Private Credit (Oakland, CA)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Apollo Credit Fund, LPDescription: Private Credit (Purchase, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "PIREX - Principal Fds Inc. Real Estate Securities Fd IN",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "CSMDX - Copeland Smid Cap Dividend Growth Fund Class I S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Shenkman Tactical Credit Fund, LPDescription: Hedge Fund (New York, NY)",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Camber Creek Fund IV, LPDescription: Private Equity (Rockville, MD)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Dyson Capital Series Fund, LLCCompany: Dyson Capital Series Fund, LLC (Alexandria, VA) Description: Holding Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Dyson Capital Series Fund QED 2021Description: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "Dyson Capital Series RadcliffDescription: Private Equity (Alexandria, VA) Filer comment:  Gift transfer in 2023",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Health Velocity II, LPDescription: Private Equity (San Mateo, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Pathway Co-Investment FundDescription: Private Equity (Irvine, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "VUSB - Vanguard Ultra-Short Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "VWITX - Vanguard Intermediate Term Tax-Exempt Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "QQQ - Invesco QQQ Trust, Series 1",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "PIMIX - Pimco Income Fund Insti Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "FIMM Treasury Portfolio CL I (FISXX)Filer comment:  Money Market Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "VIOV - Vanguard S&P Small-Cap 600 Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "VB - Vanguard Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "iCapital-HPRE Fund Onshore Access Description: Real Estate (London, England)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPOTSYLVANIA CNTY VA WTR & SWR SYS RevRate/Coupon: 5.0%  Matures: 12/01/2047",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Univ Of VA VA Univ Revenues Multi YR Cap Proj-Ser BRate/Coupon: 4.0%  Matures: 08/01/2048",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Hampton Roads VA Transprtn Accountability Commn SR Lien-Ser A Rate/Coupon: 5.0%  Matures: 07/01/2050",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Dripping Springs TX Indep Schdist Ref Unltd TaxRate/Coupon: 5.0%  Matures: 02/15/2053",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Petersburg VA Unltd TaxRate/Coupon: 4.25%  Matures: 09/01/2053",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Williamsburg VA Econ Dev Auth Student HSG Rev William & MaryRate/Coupon: 4.375%  Matures: 07/01/2063",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MINNEAPOLIS & ST PAUL MN MET ARPTS COMMN ARPT REV SR SER CRate/Coupon: 5.0%  Matures: 01/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIRGINIA ST RES AUTH INFRA REV BDS 2018CRate/Coupon: 5.0%  Matures: 11/01/2034",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CONNECTICUT ST GO BDS 2018 A G/O UNLTDRate/Coupon: 5.0%  Matures: 04/15/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PALM BCH CNTY FL PUB IMPT REV RFDGRate/Coupon: 5.0%  Matures: 05/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARLINGTON CNTY VA GO PUB IMPT BDS 2021 G/O UNLTDRate/Coupon: 5.0%  Matures: 06/15/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "MASSACHUSETTS ST GO BDS 2018 E G/O UNLTDRate/Coupon: 5.0%  Matures: 09/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIRGINIA ST HSG DEV AUTH COMWLTH MTG SER A REVRate/Coupon: 5.0%  Matures: 11/01/2038",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WASHINGTON ST VAR PURP GO BDS 2023B G/O UNLTDRate/Coupon: 5.0%  Matures: 02/01/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WASHINGTON ST MTR VEH FUEL TAX GO BDS 2019 DRate/Coupon: 5.0%  Matures: 06/01/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VIRGINIA ST PUB BLDG AUTH PUB FACS REV BDS 2019A B/E NONPREFRate/Coupon: 4.0%  Matures: 08/01/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAIRFAX CNTY VA PUB IMPT BDS 2020A G/O UNLTDRate/Coupon: 5.0%  Matures: 10/01/2039",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RICHMOND VA PUB UTIL REV RFDG SER A B/ERate/Coupon: 4.0%  Matures: 01/15/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARLINGTON CNTY VA G/O UNLTD PUB IMPT BDS 2023Rate/Coupon: 4.0%  Matures: 06/15/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FAIRFAX CNTY VA SWR REV RFDG BDS 2021 B B/ERate/Coupon: 4.0%  Matures: 07/15/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIRGINIA ST PUB SCH AUTH SPL OBLIG STAFFORD CNTY FING BDS 2023 G/O UNLTDRate/Coupon: 5.0%  Matures: 08/01/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AUSTIN TX PUB IMPT RFDG BDS 2023 G/O LTD B/ERate/Coupon: 5.0%  Matures: 09/01/2040",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAIRFAX CNTY VA WTR AUTH WTR REV RFDG B/ERate/Coupon: 5.0%  Matures: 04/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WEST VA ST ST RD BDS BID GROUP 2 SER 2019 A G/O UNLTD B/ERate/Coupon: 5.0%  Matures: 06/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANNE ARUNDEL CNTY MD CONS GEN IMPT BDS 2019 G/O LTD B/ERate/Coupon: 5.0%  Matures: 10/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIRGINIA SMALL BUSINESS FING AUTH HC FAC S REV BDS BON SECOURS MERCYRate/Coupon: 5.0%  Matures: 10/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UNIVERSITY VA UNIV REVS RFDG GEN PLEDGE SER ARate/Coupon: 5.0%  Matures: 04/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIRGINIA COMWLTH TRANSN BRD TRANSN REV BDS 2022Rate/Coupon: 4.0%  Matures: 05/15/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PRINCE GEORGES CNTY MD GO CONS PUB IMPT RFDG BDS 2023A G/O LTD B/ERate/Coupon: 5.0%  Matures: 08/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NORFOLK VA GO CAP IMPT BDS 2023A G/O UNLTD B/ERate/Coupon: 5.0%  Matures: 09/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ANNE ARUNDEL CNTY MD CONS GEN IMPT BDS 2019 G/O LTD B/ERate/Coupon: 5.0%  Matures: 10/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SARASOTA CNTY FL CAP IMPT REV PARTN BDS 2023BRate/Coupon: 5.0%  Matures: 10/01/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALEXANDRIA VA GO CAP IMPT BDS 2022B G/O UNLTD B/E GUAR VIRGINIA ST AIDRate/Coupon: 4.0%  Matures: 12/15/2042",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DISTRICT COLUMBIA GO BDS 2023A G/O UNLTD B/ERate/Coupon: 5.0%  Matures: 01/01/2043",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIRGINIA PORT AUTH COMWLTH PORT FD REV BDS 2023 A B/ERate/Coupon: 5.0%  Matures: 07/01/2043",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "UNIVERSITY OF TEXS REVS FING SYS BDS 2023 A B/ERate/Coupon: 5.0%  Matures: 08/15/2043",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ROANOKE VA GO PUB IMPT BDS 2023 G/O UNLTD B/ERate/Coupon: 4.0%  Matures: 10/01/2043",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIRGINIA ST RES AUTH INFRA REV BDS 2023A B/ERate/Coupon: 4.0%  Matures: 11/01/2043",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAIRFAX CNTY VA SWR REVRate/Coupon: 5.0%  Matures: 07/15/2044",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MEMPHIS TN GEN IMPT BDS 2022A G/O UNLTD B/ERate/Coupon: 5.0%  Matures: 10/01/2044",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WASHINGTON ST GO VAR PURP BDS 2020C G/O UNLTDRate/Coupon: 5.0%  Matures: 02/01/2045",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPOTSYLVANIA CNTY VA WTR & SWR SYS REV BDS 2023Rate/Coupon: 5.0%  Matures: 12/01/2045",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MASSACHUSETTS ST TRANSN FD REV RAIL ENHANCEMENT & ACCELERATED BRDG PGSRate/Coupon: 4.0%  Matures: 06/01/2046",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FAIRFAX CNTY VA SWR REV BDS 2021A B/ERate/Coupon: 5.0%  Matures: 07/15/2046",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIUX - Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TLH - iShares 10-20 Year Treasury Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "United States Treasury NotesRate/Coupon: None  Matures: NoneFiler comment:  Purchase & sold in 2023",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "FTIXX - GS Financial Square Treasury Instruments Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Columbia Capital Opportunities Fund I-A, LPDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Columbia Capital Equity Partners VIII (QP), LPDescription: Private Equity (Alexandria, VA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "AGG - iShares Core U.S. Aggregate Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "SPPXX - UBS Select Prime Preferred Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Radcliff Feeder I LLCDescription: Private Equity (New York, NY) Filer comment:  Gift transfer in 2023",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ROAD - Construction Partners, Inc. - Common StockFiler comment:  Shares received from a distribution by SunTx Fulcrum Fund, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Venterra 2023 BG Portfolio LPDescription: Investment Company (Richmond Hill, CA)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Avasa Spring BranchDescription: Residential Properties (Houston, TX)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Avasa Grove WestDescription: Residential Properties (Tampa, FL)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The Grove at ClermontDescription: Residential Properties (Clermont, FL)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Haveli VC Gaming Fund I, L.P.Description: Private Equity (Austin, TX)",
+          "asset-type": "Investment FundPrivate Equity Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wells Fargo(Washington, DC)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF Trust",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "The LDC Blind Trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Wells Fargo - Inv Cash Trust Treasury Instl(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AKRIX - Akre Focus Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$50,001 - $100,000"
+        },
+        {
+          "asset": "SPY - SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "RSP - Invesco S&P 500 Equal Weight ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "FTIXX - GS Financial Square Treasury Instruments Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "911 King Street Associates LLCCompany: 911 King Street Associates LLC (Alexandria, VA) Description: Management Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "MRW Home, LLCCompany: MRW Home, LLC (Alexandria, VA) Description: Disregarded Entity",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MRW Office, LLCCompany: MRW Office, LLC (Alexandria, VA) Description: Disregarded Entity",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "JPMorgan Chase Bank, NA(New York, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "08/08/2023",
+          "owner": "Self",
+          "ticker": "ROAD",
+          "asset-name": "Construction Partners, Inc. - Common Stock",
+          "type": "Sale (Full)",
+          "amount": "$250,001 - $500,000",
+          "comment": "Shares received from a distribution by SunTx Fulcrum Fund, L.P."
+        },
+        {
+          "transaction-date": "11/07/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Arlington CNTY VA G/O\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/15/2040",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/07/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fairfax CNTY VA SWR Rev\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2040",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/07/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "District Columbia Go BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 01/01/2043",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/07/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Washington ST Var Purp\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/01/2039",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/07/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Hampton Roads VA Transprtn Accountability Commn SR Lien-Ser A\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/01/2050",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/08/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fairfax CNTY VA WTR Auth\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 04/01/2041",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/08/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia Comwlth Transn\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/2042",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/09/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Austin TX Pub Impt RFDG\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/2040",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/10/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sarasota CNTY FL Cap\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2042",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/13/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia ST Res Auth\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2043",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/14/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia ST Re Be 5.00 % \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2034",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/14/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Dripping Springs TX Indep Schdist Ref Unltd Tax \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/2053",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/14/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Palm BCH CNTY FL Pub\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/01/2038",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/14/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Richmond VA Pub Util Rev\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 01/15/2040",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/15/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia Comwlth Transn\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/2042",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/16/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Spotsylvania CNTY VA WTR & SWR SYS Rev \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 12/01/2047",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/16/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia Port Auth \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/01/2043",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/17/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Washington ST MTR Veh \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/01/2039",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/21/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Arlington CNTY VA Go Pub \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/15/2038",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/21/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fairfax CNTY VA Pub Impt\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2039",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/22/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia ST Pub SCH Auth \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2040",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/22/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "University VA Univ Revs \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 04/01/2042",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/27/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Roanoke VA Go Pub Impt\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2043",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/27/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fairfax CNTY VA SWR Rev \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2044",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/28/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Petersburg VA Unltd Tax\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.25%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/2053",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/28/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Spotsylvania CNTY VA WTR \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 12/01/2045",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/29/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Williamsburg VA Econ Dev Auth Student HSG Rev William & Mary\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.375%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/01/2063",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/29/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Washington ST Go Var\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/01/2045",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/30/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Anne Arundel CNTY MD \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2042",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/30/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Anne Arundel CNTY MD\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2041",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/04/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fairfax CNTY VA SWR Rev\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2046",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/04/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Norfolk VA Go Cap Impt \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/2042",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/05/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Connecticut ST Go BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 04/15/2038",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/05/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Prince Georges CNTY MD\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2042",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/06/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Massachusetts ST Go BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 09/01/2038",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/07/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "West VA ST ST RD BDS Bid\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/01/2041",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/08/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "University Texas Univ Revs Fing SYS BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/15/2043",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/11/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia ST HSG Dev Auth\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 11/01/2038",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/11/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Alexandria VA Go Cap\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 12/15/2042",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/12/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Memphis TN Gen Impt BDS\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2044",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Univ Of VA VA Univ Revenues Multi YR Cap Proj-Ser B\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2048",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fairfax CNTY VA SWR Rev\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2046",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "University VA Univ Revs\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 04/01/2042",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Massachusetts ST Transn\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 06/01/2046",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/15/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia ST Pub BLDG\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 4.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2039",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/18/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Fairfax CNTY VA SWR Rev\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2046",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/19/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Virginia Small Business \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 10/01/2041",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/27/2023",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Minneapolis & ST Paul MN\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.00%\n\t\t\t\t\t\t\t\t\t\tMatures: 01/01/2034",
+          "type": "Purchase",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/24/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/24/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Lascaux Resource Capital Fund I, L.P.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/30/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/28/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TLH",
+          "asset-name": "iShares 10-20 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/11/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/14/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "Blackrock Strategic Income Opportunities Portfol",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust, Series 1",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MACSX",
+          "asset-name": "Matthews Asian Growth and Income Fund Investor C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/28/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VUSB",
+          "asset-name": "Vanguard Ultra-Short Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/11/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/07/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SCGVX",
+          "asset-name": "Sands Capital Global Growth Fund Investor Cl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/28/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/06/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TLH",
+          "asset-name": "10-20 Year Treas Bond Ishares ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/12/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/15/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TLH",
+          "asset-name": "10-20 Year Treas Bond Ishares ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/21/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Venterra 2023 BG Portfolio LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "COHOX",
+          "asset-name": "Coho Relative Value Equity Fund Inst Cl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/07/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Columbia Capital Equity Partners VIII (QP), LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/03/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Columbia Capital Opportunities Fund I-A, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/03/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CSMDX",
+          "asset-name": "Copeland Smid Cap Dividend Growth Fund Class I S",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/24/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/07/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/08/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/10/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "AGG",
+          "asset-name": "iShares Core U.S. Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2023",
+          "amount": "$5,000,001 - $25,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/29/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIREX",
+          "asset-name": "Principal Fds Inc. Real Estate Securities Fd IN",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/27/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIOV",
+          "asset-name": "Vanguard S&P Small-Cap 600 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/26/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "COHOX",
+          "asset-name": "Coho Relative Value Equity Fund Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "COHOX",
+          "asset-name": "Coho Relative Value Equity Fund Inst Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/30/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/29/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TLH",
+          "asset-name": "iShares 10-20 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/07/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/01/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/31/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/31/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TLH",
+          "asset-name": "iShares 10-20 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIOV",
+          "asset-name": "Vanguard S&P Small-Cap 600 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/29/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/26/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIREX",
+          "asset-name": "Principal Fds Inc. Real Estate Securities Fd IN",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/20/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TLH",
+          "asset-name": "iShares 10-20 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/08/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/01/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/31/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/30/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/14/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/01/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/31/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIOV",
+          "asset-name": "Vanguard S&P Small-Cap 600 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/05/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/03/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/30/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/23/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/23/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/23/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIREX",
+          "asset-name": "Principal Fds Inc. Real Estate Securities Fd IN",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/20/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWITX",
+          "asset-name": "Vanguard Intermediate Term Tax-Exempt Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/01/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/30/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/01/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/28/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/28/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/31/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/30/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIOV",
+          "asset-name": "Vanguard S&P Small-Cap 600 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/29/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/24/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/23/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIREX",
+          "asset-name": "Principal Fds Inc. Real Estate Securities Fd IN",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/17/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "Blackrock Strategic Income Opportunities Portfol",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/27/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "Blackrock Strategic Income Opportunities Portfol",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/01/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PIMIX",
+          "asset-name": "Pimco Income Fund Insti Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GWMIX",
+          "asset-name": "Amg GW&K Municipal Bond Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/30/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "Blackrock Strategic Income Opportunities Portfol",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fd Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Radcliff Feeder I LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/24/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RSP",
+          "asset-name": "Invesco S&P 500 Equal Weight ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/10/2023",
+          "amount": "$500,001 - $1,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AKRIX",
+          "asset-name": "Akre Focus - Institutional",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/12/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Haveli VC Gaming Fund I, LP",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/19/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Apollo Credit Fund, LP",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/30/2023",
+          "amount": "$1,000,001 - $5,000,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Avasa Grove West",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "Underlying asset of Venterra 2023 BG PORTFOLIO LP"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "The Grove at Clermont",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/06/2023",
+          "amount": "$250,001 - $500,000",
+          "comments": "Underlying asset of Venterra 2023 BG PORTFOLIO LP"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jan 1997 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Collis Warner Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAlexandria, VA",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        },
+        {
+          "position-dates": "Mar 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "The Kennedy Center\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

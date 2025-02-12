@@ -1,0 +1,531 @@
+{
+  "type": "annual report amendment",
+  "title": "Annual Report for Calendar 2021 (Amendment 1)",
+  "filer": "The Honorable Tom Cotton (Cotton, Tom)",
+  "filed-date": "08/26/2022",
+  "filed-time": "4:16 PM",
+  "calendar-year": "2021",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Member Draw",
+          "who-paid": "SLG Solutions\n\t\t\t\t\t\t\t\tMcLean, Virginia",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Charlotte, NC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IWV - iShares Russell 3000 ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust Roth IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IWV - iShares Russell 3000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust Rollover IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IWV - iShares Russell 3000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Northern Trust Discretionary Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "IWV - iShares Russell 3000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BHYIX - Blackrock High Yield Bond Portfolio - Institutio",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SLG Solutions LLCCompany: SLG Solutions LLC (McLean, Viginia) Description: For business consulting and governance Filer comment:  Consistent with Instructions from Ethics in CY2020, amendment treats equity in the LLC, calculated as assets minus liabilities",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Child 1 UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Child 2 UTMA",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Northern Trust(Chicago, IL)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "ticker": "NOMIX",
+          "asset-name": "Northern Funds Mid Cap Index Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOINX",
+          "asset-name": "Northern Funds International Equity Index Portfo",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NHFIX",
+          "asset-name": "Northern High Yield Fixed Income Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DFCEX",
+          "asset-name": "Dfa  Emerging Markets Core Equity Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DFEOX",
+          "asset-name": "Dfa U.S. Core Equity 1 Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DBLFX",
+          "asset-name": "Doubleline Core Fixed Income Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GUNR",
+          "asset-name": "FlexShares Global Upstream Natural Resources Index",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QDF",
+          "asset-name": "FlexShares Quality Dividend Index Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IWV",
+          "asset-name": "iShares Russell 3000 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOMIX",
+          "asset-name": "Northern Funds Mid Cap Index Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOINX",
+          "asset-name": "Northern Funds International Equity Index Portfo",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NHFIX",
+          "asset-name": "Northern High Yield Fixed Income Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DFCEX",
+          "asset-name": "Dfa  Emerging Markets Core Equity Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DFEOX",
+          "asset-name": "Dfa U.S. Core Equity 1 Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DBLFX",
+          "asset-name": "Doubleline Core Fixed Income Fund Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GUNR",
+          "asset-name": "FlexShares Global Upstream Natural Resources Index",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "QDF",
+          "asset-name": "FlexShares Quality Dividend Index Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IWV",
+          "asset-name": "iShares Russell 3000 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2021",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NMIEX",
+          "asset-name": "Northern Active M International Equity Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOMIX",
+          "asset-name": "Northern Funds Mid Cap Index Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOITX",
+          "asset-name": "Northern Funds Intermediate Tax Exempt Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NSITX",
+          "asset-name": "Northern Short-Intermediate Tax-Exempt Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOEMX",
+          "asset-name": "Northern Emerging Markets Equity Index Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NOSIX",
+          "asset-name": "Northern Stock Index Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BHYIX",
+          "asset-name": "Blackrock High Yield Bond Portfolio - Institutio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DFSTX",
+          "asset-name": "Dfa U.S.  Small Cap Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VAIPX",
+          "asset-name": "Vanguard Inflation Protected Securities Fund Adm",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/08/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GUNR",
+          "asset-name": "FlexShares Global Upstream Natural Resources Index",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/09/2021",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IWV",
+          "asset-name": "iShares Russell 3000 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/09/2021",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "IWV",
+          "asset-name": "iShares Russell 3000 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/19/2019",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2019",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years 2 months)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "First Security Bank\n\t\t\t\t\t\t\t\tLittle Rock, AR",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2021",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.49%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Year)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Chain Bridge Bank\n\t\t\t\t\t\t\t\tMcLean, VA",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Dec 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "International Repubican Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Feb 2018",
+          "parties-involved": "Harper Collins\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement to receive royalty payments consistent with usual and customary publishing terms.  The book is entitled, \"Sacred Duty: A Soldier's Tour at Arlington National Cemetery\"",
+          "comments": "n/a"
+        },
+        {
+          "date": "Feb 2022",
+          "parties-involved": "Grand Central Publishing\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement to receive royalty payments consistent with usual and customary publishing terms.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

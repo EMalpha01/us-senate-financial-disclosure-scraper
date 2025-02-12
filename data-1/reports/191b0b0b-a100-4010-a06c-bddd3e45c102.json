@@ -1,0 +1,1085 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2022",
+  "filer": "The Honorable William Cassidy (Cassidy, Bill)",
+  "filed-date": "08/03/2023",
+  "filed-time": "9:37 AM",
+  "calendar-year": "2022",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Wells Fargo IRA #1",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "YACKX - AMG Yacktman Service (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRWCX - T. Rowe Price Capital Appreciation (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GBLFX - American Funds Global Balanced Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ODVYX - Invesco Oppenheimer Developing Markets Fund Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWIAX - Vanguard Wellesley Income Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VB - Vanguard Small-Cap Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JBALX - Janus Henderson Balanced Fund - I Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo Advisors(Baton Rouge, Louisiana)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo IRA #3",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Green Tree 95-8 B2 Financial CorporationRate/Coupon: 7.65  Matures: 12/15/2026",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 95-10 B2 Financial CorporationRate/Coupon: 7.4  Matures: 01/15/2027",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Countrywide 05-17 1X2 Adjustable Rate CallableRate/Coupon: 1.297  Matures: 07/25/2035",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 1996-6 B2Rate/Coupon: 8.35  Matures: 8/15/26",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 97-7 B2Rate/Coupon: 7.59  Matures: 1/15/28",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 97-3 B2Rate/Coupon: 8.03  Matures: 3/15/28",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 98-2 B2Rate/Coupon: 8.44  Matures: 6/1/28",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Green Tree 98-3 B2Rate/Coupon: 8.07  Matures: 3/1/30",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Countrywide 05-27 1X2Rate/Coupon: 1.29  Matures: 8/23/35",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CWALT 05-27 1X1Rate/Coupon: 1.26  Matures: 8/25/35",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA Traditional",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TIAA- CREF Retirement",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TIAA - CREF Traditional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BCI - Aberdeen Standard Bloomberg All Commodity Strategy",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "$201 - $1,000"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/06/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/29/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/05/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/28/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/14/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/15/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/18/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/29/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/29/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTWO",
+          "asset-name": "Vanguard Russell 2000 ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/11/2022",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTWO",
+          "asset-name": "Vanguard Russell 2000 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/29/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTWO",
+          "asset-name": "Vanguard Russell 2000 ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/04/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/24/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GBLFX",
+          "asset-name": "American Funds Global Balanced Fd Cl F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ODVYX",
+          "asset-name": "Invesco Developing Markets Fund Class Y",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PRWCX",
+          "asset-name": "T. Rowe Price Capital Appreciation Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/20/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/07/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/10/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/10/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "YACKX",
+          "asset-name": "Amg Yacktman Fund - Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BCI",
+          "asset-name": "abrdn Bloomberg All Commodity Strategy K-1 Free ET",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/11/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/08/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JBALX",
+          "asset-name": "Janus Henderson Balanced Fund - I Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth Fund Inc.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/23/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/27/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/30/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWIAX",
+          "asset-name": "Vanguard Wellesley Income Fund Admiral Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/30/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/30/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BCI",
+          "asset-name": "Aberdeen Standard Bloomberg All Commodity Strategy",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/22/2022",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "J.P. Morgan Chase & Co.\n\t\t\t\t\t\t\t\tManhattan, New York",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "J.P. Morgan Chase & Co.\n\t\t\t\t\t\t\t\tManhattan, New York",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

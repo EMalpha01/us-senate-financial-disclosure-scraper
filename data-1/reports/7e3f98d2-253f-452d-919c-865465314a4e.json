@@ -1,0 +1,1378 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2014",
+  "filer": "The Honorable Charles E Grassley (Grassley, Charles E.)",
+  "filed-date": "05/15/2015",
+  "filed-time": "7:13 AM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Chambers, Conlon & Hartwell\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Raymond James Trust IRA\n\t\t\t\t\t\t\t\tSt Petersburg , FL",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "Raymond James Trust IRA\n\t\t\t\t\t\t\t\tSt Petersburg , FL",
+          "amount-paid": "$32,000.00",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Farmer's Cooperative Co.Description: Cooperative (New Hartford, Iowa)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Farm Land-all located in Butler County, Iowa, Beaver TownshipDescription: Sec. 16, Rng. 15-118 A (New Hartford, Iowa) Filer comment:  Combined Farm Income $246306.18 less Combined Farm Expense $164905.66=Net Income $81490.52",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Farm Land-all located in Butler County, Iowa, Beaver TownshipDescription: Sec. 24, Rng. 15-72 A (New Hartford, Iowa) Filer comment:  Combined Farm Income $246396.18 less Combined Farm Expense$164905.66=Net Income $81490.52",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Farm Land-All located in Butler County, Iowa, Beaver TownshipDescription: Sec. 16, Rng. 15 - 40 A (New Hartford, Iowa) Filer comment:  Combined Farm Income $246396.18 less Combined Farm Expense $164905.66=Net Income $81490.52",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Farm Land-All Located in Butler County, Iowa, Beaver TownshipDescription: Sec. 15, Rng. 15-43 A (New Hartford, Iowa) Filer comment:  Combined Farm Income $246390.18 less Combined Farm Expenses $164905.66=Net Income $81490,52",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Farm Land-All located in Butler County, Iowa, Beaver TownshipDescription: Sec. 15, Rng. 15-87 A (New Hartford, Iowa) Filer comment:  Combined Farm Income $246396.18less Combined Farm Expense $164905.66=Net Income $81490.52",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Farm Land-All located in Butler County, Iowa, Beaver TownshipDescription: Sec. 34, Rng.15 -114 A (New Hartford, Iowa) Filer comment:  Combined Farm Income $246396.18less Combined Farm Expense$164905.66=Net Income $81490.52\nInadvertently reported as tract 15-104 in previous reports.",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Farm Land-All located in Butler County, Iowa, Beaver TownshipDescription: Sec. 34 & 35, Rng. 18-120 A (New Hartford, Iowa) Filer comment:  Combined Farm Income $246396.18 less Combined Farm Expense $164905.66=Net Income $81490.66",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Farm Land-All Located in Butler County, Iowa, Beaver TownshipDescription: Sec. 34, Rng. 15 - 118 A (New Hartford, Iowa) Filer comment:  Combined Farm Income-$246396.18 less Combined Farm Expense -$164905.66 = Net Income $81490.52",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Grain Sales)",
+          "income": "Other $81,490.52"
+        },
+        {
+          "asset": "Grandchildren 529 AccountInstitution: Iowa-managed by Vangard",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Moderate Growth Aged Based 19 and Older Money Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Conservative Income Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Grandchildren 529 College SavingsInstitution: Iowa-managed by Vangard",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Moderate Growth Aged Based 19 and Older Money Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Conservative Income Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Property Sale-2 acre FarmsteadDebtor: Robin & Diane Grassley",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "New York Life Insurance Provider: New York Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "New York Life InsuranceProvider: New York Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ohio National Life InsuranceProvider: Ohio National Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Ohio National Life InsurnceProvider: Ohio National Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AMRMX - American Funds American Mutual A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "CCH Holdco, Inc. 401k Plan - Managed by Fidelity Investments",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Black Rock Equity Div I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Sptn 500 Index ADV",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Opphmr MS Mid Cap Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JPM US Small Cp A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RS Small Cap Grth A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FA Intl Discovery A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "LZD EMG Mkt Eq BL IS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Templeton Foreign A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FA Emerg Mkt Inc A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FA Strat Income A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OIBIX - Oppenheimer International Bond I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Community Bank & Trust (formerly Communiy National Bank)(Waterloo, IA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Community Bank & Trust (formerly Communiy National Bank)(Waterloo, Iowa)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BARBARA IRA  RJ",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CHTRX - Invesco Charter A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IDITX - Transamerica Flexible Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BDJ - Blackrock Enhanced Equity Divid (NYSE)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RAYMOND JAMES BANK DEPOSIT PROGRAM(ST PETERSBURG, FL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GRASSLEY FREEDOM",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ALTVX - AllianceBern Muni Income Natl Adv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "BIAGX - Brown Advisory Growth Equity Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ACINX - Columbia Acorn International Z (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RRGAX - Deutsche Global Real Estate Secs A (NASDAQ)Filer comment:  CUSIP/NAME CHANGE 8/9/2014",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AEGFX - American Funds EuroPacific Gr F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FLMVX - JPMorgan Mid Cap Value Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JVLIX - JHancock Disciplined Value I (NASDAQ)Filer comment:  SHARE CONVERSION 6/10/14",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JLPSX - JPMorgan US Large Cap Core Plus Select (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MQGIX - MFS International Growth I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MFRFX - MFS Research A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MMHYX - MFS Municipal High-Income A (NASDAQ)Filer comment:  Position was liquidated in '14 - received income between $201 - $1,000",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "TSCPX - AMG TimesSquare Small Cap Growth Prem (NASDAQ)Filer comment:  CUSIP/NAME CHANGE 6/7/14",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EXEYX - Manning & Napier Equity (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NBGNX - Neuberger Berman Genesis Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PEGZX - Prudential Jennison Mid Cap Growth Z (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRINX - T. Rowe Price Summit Municipal Inc (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "HIEMX - Virtus Emerging Markets Opportunities I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WFVDX - Wells Fargo Advantage Intl Value Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AQMNX - AQR Managed Futures Strategy N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RAYMOND JAMES BANK DEPOSIT PROGRAM(ST PETERSBURG, FL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ARSIX - ASTON/River Road Small Cap Value I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHUCK SEP IRA",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ARIDX - ASTON/River Road Dividend All Cap Val I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "CAIFX - American Funds Capital Inc Bldr F2 (NASDAQ)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "RRGAX - Deutsche Global Real Estate Secs A (NASDAQ)Filer comment:  CUSIP/NAME CHANGE 8/9/14",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SVAIX - Federated Strategic Value Dividend Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FRIAX - Franklin Income Adv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SOPAX - ClearBridge Equity Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MMUFX - MFS Utilities A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "EPSPX - MainStay Epoch Global Equity Yield A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PMDPX - Principal Small-MidCap Dividend Inc P (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PPSPX - Principal Preferred Securities P (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "JDEZX - Prudential Jennison Equity Income Z (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GNEIX - Geneva Advisors Equity Income I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "RAYMOND JAMES BANK DEPOSIT PROGRAM(ST PETERSBURG, FL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GRASSLEY CAPITAL ACCESS JOINT",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "NPM - Nuveen Premium Income Municipal (NYSE)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RAYMOND JAMES BANK DEPOSIT PROGRAM(ST PETERSBURG, FL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AXA EQUITABLE LIFE INS ACCUMULATORProvider: AXA",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "AXA INTL VALUE VOLATILITYFiler comment:  Internal name change - investment did not change",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EQ/CORE BOND INDEX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AXA MID CAP VALUE VOLATFiler comment:  Internal name change - investment not changed",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EQ/EQUITY 500 INDEX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "ACINX",
+          "asset-name": "Columbia Acorn International Z (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "AEGFX",
+          "asset-name": "American Funds Europacific Growth F1 (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "AEGFX",
+          "asset-name": "American Funds Europacific Growth F1 (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/08/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "ALTVX",
+          "asset-name": "AB Municipal Income National Advisor (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/18/2014",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "ALTVX",
+          "asset-name": "AB Municipal Income National Advisor (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "ALTVX",
+          "asset-name": "AB Municipal Income National Advisor (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/24/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "AQMNX",
+          "asset-name": "AQR Managed Futures Strategy N (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "AQMNX",
+          "asset-name": "AQR Managed Futures Strategy N (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ARSIX",
+          "asset-name": "ASTON/River Road Small Cap Value I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/01/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BIAGX",
+          "asset-name": "Brown Advisory Growth Equity Inv (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EGEIX",
+          "asset-name": "Eagle Smaller Company I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EXEYX",
+          "asset-name": "Manning & Napier Equity (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FLMVX",
+          "asset-name": "JPMorgan Mid Cap Value Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "HIEMX",
+          "asset-name": "Virtus Emerging Markets Opportunities I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "HIEMX",
+          "asset-name": "Virtus Emerging Markets Opportunities I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "JVLIX",
+          "asset-name": "JHancock Disciplined Value I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "JLPSX",
+          "asset-name": "JPMorgan US Large Cap Core Plus Select (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MFRFX",
+          "asset-name": "MFS Research A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MMHYX",
+          "asset-name": "MFS Municipal High-Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MMHYX",
+          "asset-name": "MFS Municipal High-Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MQGIX",
+          "asset-name": "MFS International Growth I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MQGIX",
+          "asset-name": "MFS International Growth I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "NBGNX",
+          "asset-name": "Neuberger Berman Genesis Inv (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PEGZX",
+          "asset-name": "Prudential Jennison Mid Cap Growth Z (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PRINX",
+          "asset-name": "T. Rowe Price Summit Municipal Inc (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PRINX",
+          "asset-name": "T. Rowe Price Summit Municipal Inc (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PRINX",
+          "asset-name": "T. Rowe Price Summit Municipal Inc (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TSCPX",
+          "asset-name": "AMG TimesSquare Small Cap Growth Prem (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WFVDX",
+          "asset-name": "Wells Fargo Advantage Intl Value Adm (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "ACINX",
+          "asset-name": "Columbia Acorn International Z (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "AQMNX",
+          "asset-name": "AQR Managed Futures Strategy N (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/18/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BIAGX",
+          "asset-name": "Brown Advisory Growth Equity Inv (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EGEIX",
+          "asset-name": "Eagle Smaller Company I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/29/2014",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EGEIX",
+          "asset-name": "Eagle Smaller Company I (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/05/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EGEIX",
+          "asset-name": "Eagle Smaller Company I (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EXEYX",
+          "asset-name": "Manning & Napier Equity (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "FLMVX",
+          "asset-name": "JPMorgan Mid Cap Value Instl (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "JLPSX",
+          "asset-name": "JPMorgan US Large Cap Core Plus Select (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "JVLAX",
+          "asset-name": "JHancock Disciplined Value A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MFRFX",
+          "asset-name": "MFS Research A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MMHYX",
+          "asset-name": "MFS Municipal High-Income A (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "NBGNX",
+          "asset-name": "Neuberger Berman Genesis Inv (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BDJ",
+          "asset-name": "Blackrock Enhanced Equity Divid (NYSE)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/30/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SVAIX",
+          "asset-name": "Federated Strategic Value Dividend Instl (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SOPAX",
+          "asset-name": "ClearBridge Equity Income A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RRGAX",
+          "asset-name": "Deutsche Global Real Estate Secs A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PPSPX",
+          "asset-name": "Principal Preferred Securities P (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PMDPX",
+          "asset-name": "Principal Small-MidCap Dividend Inc P (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MMUFX",
+          "asset-name": "MFS Utilities A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JDEZX",
+          "asset-name": "Prudential Jennison Equity Income Z (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "FRIAX",
+          "asset-name": "Franklin Income Adv (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EPSPX",
+          "asset-name": "MainStay Epoch Global Equity Yield A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "CAIFX",
+          "asset-name": "American Funds Capital Income Bldr F2 (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "GNEIX",
+          "asset-name": "Geneva Advisors Equity Income I (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Self",
+          "ticker": "ARIDX",
+          "asset-name": "ASTON/River Road Dividend All Cap Val I (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "RRGAX",
+          "asset-name": "Deutsche Global Real Estate Secs A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "RRGAX",
+          "asset-name": "Deutsche Global Real Estate Secs A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TSCPX",
+          "asset-name": "AMG TimesSquare Small Cap Growth Prem (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/05/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TSCPX",
+          "asset-name": "AMG TimesSquare Small Cap Growth Prem (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/21/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "NBGNX",
+          "asset-name": "Neuberger Berman Genesis Inv (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PEGZX",
+          "asset-name": "Prudential Jennison Mid Cap Growth Z (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        },
+        {
+          "owner": "Self",
+          "ticker": "EPSPX",
+          "asset-name": "MainStay Epoch Global Equity Yield A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/11/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JDEZX",
+          "asset-name": "Prudential Jennison Equity Income Z (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        },
+        {
+          "owner": "Self",
+          "ticker": "MMUFX",
+          "asset-name": "MFS Utilities A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        },
+        {
+          "owner": "Self",
+          "ticker": "PMDPX",
+          "asset-name": "Principal Small-MidCap Dividend Inc P (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        },
+        {
+          "owner": "Self",
+          "ticker": "RRGAX",
+          "asset-name": "Deutsche Global Real Estate Secs A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        },
+        {
+          "owner": "Self",
+          "ticker": "SVAIX",
+          "asset-name": "Federated Strategic Value Dividend Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/02/2014",
+          "amount": "$1,001 - $15,000",
+          "comments": "CAPITAL GAIN REINVESTMENT"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Jul 1964 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Proprietor",
+          "entity": "Farm-Butler County Iowa\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNew Hartford & Cedar Falls, IA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Family Farm Operation)",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

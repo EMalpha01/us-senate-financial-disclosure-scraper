@@ -1,0 +1,633 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2015",
+  "filer": "The Honorable Rafael E Cruz (Cruz, Ted)",
+  "filed-date": "08/14/2016",
+  "filed-time": "10:34 PM",
+  "calendar-year": "2015",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Self",
+          "type": "Royalties\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Book advance)",
+          "who-paid": "HarperCollins\n\t\t\t\t\t\t\t\tNew York, New York",
+          "amount-paid": "$476,412.97",
+          "comments": "n/a"
+        },
+        {
+          "who-was-paid": "Spouse",
+          "type": "Wages",
+          "who-paid": "Goldman Sachs and Co\n\t\t\t\t\t\t\t\tJersey City, NJ",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "GSHIX - Goldman Sachs High Yield Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GHYIX - Goldman Sachs High Yield Muni Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest, Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GIMDX - Goldman Sachs Local Emrg Mkts Debt Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSMTX - Goldman Sachs Dynamic Municipal Inc Inst (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSFRX - Goldman Sachs High Yield Fl Rate Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSSIX - Goldman Sachs Small Cap Value Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSTIX - Goldman Sachs Strategic Growth Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "BFK - BlackRock Municipal Income Trus (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Interest, Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "OKE - ONEOK Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "XOM - Exxon Mobil Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "GS - The Goldman Sachs Group, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GSLIX - Goldman Sachs Large Cap Value Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "OGS - ONE Gas, Inc. Common Stock (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GSAIX - Goldman Sachs Asia Equity Instl (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EPD - Enterprise Products Partners L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "USAA 529 Institution: USAA",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Plan FBO Child 2 Age Based Aggressive Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Plan FBO Child 2 Aggressive Growth Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Plan FBO Child 2 Moderate Aggressive PortfolioFiler comment:  In Q1 2015 the name of this fund was changed from Moderate Portfolio to Moderately Aggressive Portfolio.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Plan FBO Child 2 Moderate PortfolioFiler comment:  In Q1 2015 the name of this fund was changed from Balanced Portfolio to Moderate Portfolio.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity 529 - Child 1Institution: Fidelity",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "MA 2027 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "GIDGX - Goldman Sachs Enhanced Div Gbl Eq Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Morgan Lewis Cash Balance Retirement Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Bank of America(Houston, Texas)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of America(Houston , Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "American Express (Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Texas ERS Retirement Account",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Health Equity HSA(Houston, Texas)Type: Savings, Filer comment:  In 2015 name changed from Bancorp to Health Equity HSA.",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Capitol One 360(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Lewis Bockius LLP Defined Contribution Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VTTHX - Vanguard Target Retirement 2035 Inv (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Lewis Bockius LLP Tax-Saver Retirement Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BIGIX - William Blair International Growth I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GGOIX - Goldman Sachs Growth Opportunities Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "SYIMX - AMG Systematic Mid Cap Value Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "VFORX - Vanguard Target Retirement 2040 Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VGSIX - Vanguard REIT Index Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "JP Morgan Chase(Houston, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Blackrock Lifepath Portfolio, Target 2035 401K",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PAGP - Plains GP Holdings, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "02/03/2015",
+          "owner": "Joint",
+          "ticker": "PAGP",
+          "asset-name": "Plains GP Holdings, L.P. (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/15/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "CVX (Chevron Corporation CMN)",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/29/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "CVX - Chevron Corporation CMN",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "GSFRX",
+          "asset-name": "Goldman Sachs High Yield Fl Rate Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/03/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BFK",
+          "asset-name": "BlackRock Municipal Income Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/03/2015",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BFK",
+          "asset-name": "BlackRock Municipal Income Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/05/2015",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "BFK",
+          "asset-name": "BlackRock Municipal Income Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2015",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSLIX",
+          "asset-name": "Goldman Sachs Large Cap Value Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/18/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSSIX",
+          "asset-name": "Goldman Sachs Small Cap Value Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/18/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSLIX",
+          "asset-name": "Goldman Sachs Large Cap Value Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/14/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSSIX",
+          "asset-name": "Goldman Sachs Small Cap Value Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/14/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSTIX",
+          "asset-name": "Goldman Sachs Strategic Growth Instl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/14/2015",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": [
+        {
+          "date-s": "07/24/2015\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t07/27/2015",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDependent Child",
+          "travel-type": "Personal friendship",
+          "itinerary": "Houston, Texas to Fischer's Island, New York",
+          "reimbursed-for": "Private plane\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $15,000.00",
+          "who-paid": "Lee and Allie Hanley\n\t\t\t\t\t\t\t\tHouston, Texas",
+          "comments": "n/a"
+        },
+        {
+          "date-s": "09/04/2015\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t09/07/2015",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDependent Child",
+          "travel-type": "Personal friendship",
+          "itinerary": "Houston, TX to Cayman Islands and return.",
+          "reimbursed-for": "Chart flight to Cayman Islands.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $30,000.00",
+          "who-paid": "Michael and Natasha Bleyzer\n\t\t\t\t\t\t\t\tHouston, Texas",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "JP Morgan Chase\n\t\t\t\t\t\t\t\tColumbus, Ohio",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Margin loan)",
+          "points": "-",
+          "rate-term": "floating%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Goldman Sachs\n\t\t\t\t\t\t\t\tNew York, New York",
+          "comments": "The floating interest rate is broker call plus 100 basis points."
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "15.24%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(--)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "American Express\n\t\t\t\t\t\t\t\tDallas, Texas",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "17.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(--)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Citi Cards\n\t\t\t\t\t\t\t\tDes Moines, Iowa",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "13.24%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(--)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Chase\n\t\t\t\t\t\t\t\tWilmington, DE",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": [
+        {
+          "position-dates": "Dec 2011 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Free Enterprise Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHouston, Texas",
+          "entity-type": "Nonprofit Organization",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Nov 2002",
+          "parties-involved": "CEP Investments Holdings Limited\n\t\t\t\t\t\t\t\tKingston, Jamaica",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Promissory note)",
+          "status-and-terms": "Principle sum of $75,000 plus reasonable rate of interest.  Incorporated in B.V.I and operates in Kingston, Jamaica.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jun 2014",
+          "parties-involved": "HarperCollins\n\t\t\t\t\t\t\t\tNew York, New York",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalty payments as follows: ($318,750 guaranteed, payable 6/2016); Hardcover: 15%; Paperback: 7.5%; Mass market paperback: 8% to 150,000 copies; 10% thereafter; Large print hardcover: 10%; Large print paperback: 7.5%; Digital versions: 25% of amounts received.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jun 2014",
+          "parties-involved": "Javelin Group LLC\n\t\t\t\t\t\t\t\tAlexandria, Virginia",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Literary agent agreement)",
+          "status-and-terms": "15% of all sums received for serving as agent and $1 per word for collaboration services.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}

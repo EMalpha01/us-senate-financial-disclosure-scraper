@@ -1,0 +1,943 @@
+{
+  "type": "annual report",
+  "title": "Annual Report for Calendar 2023",
+  "filer": "The Honorable Thomas R Tillis (Tillis, Thom)",
+  "filed-date": "08/09/2024",
+  "filed-time": "1:12 PM",
+  "calendar-year": "2023",
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
+      "rows": [
+        {
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Allent Tate Realtors\n\t\t\t\t\t\t\t\tDavidson, NC",
+          "amount-paid": "> $1,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 3. Assets",
+      "amended": false,
+      "rows": [
+        {
+          "asset": "Washington ResidenceDescription: Condo (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Nashville ResidenceDescription: Condo (Nashville, TN)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Huntersville ResidenceDescription: Primary Residence - House (Huntersville, NC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IBM - International Business Machines Corporation Common",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo - Banking/Checking(Cornelius, NC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "NC General Assembly - 401k Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "North Carolina Stable Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Carolina Treasury Inflation Protected Securities",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Carolina Fixed Income Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Carolina Fixed Income Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Carolina Large Cap Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Carolina Small/Mid Cap Core Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Carolina International Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "North Carolina Inflation Responsive Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IBM 401(k) Retirement Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "BlackRock U.S. Real Estate Inv Code: ODFJ",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard Small Cap Value IDX Inv Code OJFO",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State Street Global Advisers International Stocks Market Index - Inv Code OJFF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Vanguard Total Stock Market Index (Domestic) Inv Code: OJFE",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IBM Target Risk Income Plus (Blended) - Inv Code: OJGE",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Brokerage Account X066",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley cash account(Cornelius, NC)Type: Checking, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IXN - iShares Global Tech ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IWD - iShares Russell 1000 Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "IWM - iShares Russell 2000 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DODFX - Dodge & Cox International Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "HNACX - Harbor Capital Appreciation Fund - Retirement Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PMAQX - Principal Funds Inc. - Midcap Fund Class R6",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PONPX - Pimco Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Morgan Stanley IRA Account x065",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Morgan Stanley(Cornelius, NC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TLT - iShares 20+ Year Treasury Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IWF - iShares Russell 1000 Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ABNFX - The Bond Fd of America Class F-2 Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "MAHQX - Blackrock Total Return Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "CIVIX - Causeway International Value Fund - Institutiona",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "SBPYX - Clearbridge Small Cap Growth Fd Cl I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "EGFIX - Edgewood Growth Fund Insti",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GSIMX - Goldman Sachs Gqg Partners International Opportu",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "GQGIX - Gqg Partners Emerging Markets Equity Fund Instit",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "HDGIX - The Hartford Dividend & Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MWTIX - Metropolitan West Total Return Bond Fd Cl I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "NMVLX - Nuance Mid Cap Value Fund  Institutional Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "OANMX - Oakmark Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "PFTPX - Pimco Low Duration Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "WMCVX - Wasatch Small Cap Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WACPX - Western Asset Core Plus Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "IWD - Russell 1000 Value Ishares ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IEFA - iShares Core MSCI EAFE ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "IVV - iShares Core S&P 500",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "IWP - iShares Russell Midcap Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IBM Defined Benefit Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NC State Employees Pension Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        }
+      ]
+    },
+    {
+      "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 4b. Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Joint",
+          "ticker": "WMCVX",
+          "asset-name": "Wasatch Small Cap Value Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/22/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TLT",
+          "asset-name": "20+ Year Treas Bond Ishares ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/22/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IWD",
+          "asset-name": "iShares Russell 1000 Value ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/22/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IWF",
+          "asset-name": "iShares Russell 1000 Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IVV",
+          "asset-name": "iShares Core S&P 500 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/22/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MAHQX",
+          "asset-name": "Blackrock Total Return Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MWTIX",
+          "asset-name": "Metropolitan West Total Return Bond Fd Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/25/1013",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Insti",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "WACPX",
+          "asset-name": "Western Asset Core Plus Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "HDGIX",
+          "asset-name": "The Hartford Dividend & Growth Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "ABNFX",
+          "asset-name": "The Bond Fd of America Class F-2 Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSIMX",
+          "asset-name": "Goldman Sachs Gqg Partners International Opportu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "NMVLX",
+          "asset-name": "Nuance Mid Cap Value Fund  Institutional Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "OANMX",
+          "asset-name": "Oakmark Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GQGIX",
+          "asset-name": "Gqg Partners Emerging Markets Equity Fund Instit",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PFTPX",
+          "asset-name": "Pimco Low Duration Income Fund Class I-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/13/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TLT",
+          "asset-name": "20+ Year Treas Bond Ishares ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/09/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IWD",
+          "asset-name": "iShares Russell 1000 Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/13/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IWF",
+          "asset-name": "iShares Russell 1000 Growth ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/13/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MAHQX",
+          "asset-name": "Blackrock Total Return Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/13/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "MWTIX",
+          "asset-name": "Metropolitan West Total Return Bond Fd Cl I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/12/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "EGFIX",
+          "asset-name": "Edgewood Growth Fund Insti",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Western Asset Core Plus Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "ABNFX",
+          "asset-name": "The Bond Fd of America Class F-2 Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/12/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "OANMX",
+          "asset-name": "Oakmark Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GQGIX",
+          "asset-name": "Gqg Partners Emerging Markets Equity Fund Instit",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PFTPX",
+          "asset-name": "Pimco Low Duration Income Fund Class I-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/12/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "HDGIX",
+          "asset-name": "The Hartford Dividend & Growth Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/04/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PFTPX",
+          "asset-name": "Pimco Low Duration Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/04/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IEFA",
+          "asset-name": "iShares Core MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/04/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IWP",
+          "asset-name": "iShares Russell Midcap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/04/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "CIVIX",
+          "asset-name": "Causeway International Value Fund - Institutiona",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/03/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GSIMX",
+          "asset-name": "Goldman Sachs Gqg Partners International Opportu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/03/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GOGIX",
+          "asset-name": "John Hancock Funds III International Growth Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/31/2023",
+          "amount": "$50,001 - $100,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "OTCIX",
+          "asset-name": "MFS Mid Cap Growth Fund - Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "GQGIX",
+          "asset-name": "Gqg Partners Emerging Markets Equity Fund Instit",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PMAQX",
+          "asset-name": "Principal Funds Inc. - Midcap Fund Class R6",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/08/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "HNACX",
+          "asset-name": "Harbor Capital Appreciation Fund - Retirement Cl",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/08/2023",
+          "amount": "$1,001 - $15,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "IEMFX",
+          "asset-name": "T. Rowe Price Institutional Emerging Markets Equ",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/07/2023",
+          "amount": "$15,001 - $50,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "PONPX",
+          "asset-name": "Pimco Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/08/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        },
+        {
+          "owner": "Joint",
+          "ticker": "TFXIX",
+          "asset-name": "Transamerica Bond Class I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/07/2023",
+          "amount": "$100,001 - $250,000",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 5. Gifts",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 6. Travel",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 7. Liabilities",
+      "amended": false,
+      "rows": [
+        {
+          "incurred": "2005",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "2.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tCornelius, NC",
+          "comments": "n/a"
+        },
+        {
+          "incurred": "2005",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tCornelius, NC",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 8. Positions",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Part 9. Agreements",
+      "amended": false,
+      "rows": [
+        {
+          "date": "Jan 2007",
+          "parties-involved": "North Carolina General Assembly\n\t\t\t\t\t\t\t\tRaleigh, NC",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Employee retirement benefit plan.  Eligible upon retirement.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Oct 2002",
+          "parties-involved": "IBM\n\t\t\t\t\t\t\t\tArmonk, NY",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "IBM defined benefit plan.",
+          "comments": "n/a"
+        },
+        {
+          "date": "Jan 2012",
+          "parties-involved": "North Carolina General Assembly\n\t\t\t\t\t\t\t\tRaleigh, NC",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Healthcare Benefits)",
+          "status-and-terms": "Eligible for state employee health plan after age 60.",
+          "comments": "n/a"
+        }
+      ]
+    },
+    {
+      "heading": "Part 10. Compensation",
+      "amended": false,
+      "rows": []
+    },
+    {
+      "heading": "Attachments & Comments",
+      "amended": false,
+      "rows": []
+    }
+  ]
+}
